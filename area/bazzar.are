@@ -1,0 +1,6608 @@
+#AREA { 1 70} WrldEnd Bazaar at Deva~
+
+#MOBILES
+#12601
+Aahz~
+Aahz~
+A very ugly, green scaly creature smiles horribly at you
+~
+This is Aahz, from the Demension Perv. The inhabitants there call 
+themselves Pervects, other people call them, errr, well, never mind. Aahz 
+is green and scaly and his smile has been known to scare the bravest of 
+men (and women). And he's GREEDY. Give him a chance, he'll figure out how 
+to get every last cent from you. He can't hold a candle to a Deveel 
+though (but he comes close, and he's one of the NICE people from Perv).
+~
+~
+ACG  0 -250 S
+70 25 25d35+750 1d10+2 5d15+50 5
+-15 -15 -15 -15
+CDEFIJKNO EHIJKL 0 CR
+8 8 1 765
+M AHXU L A 
+#12602
+Skeeve~
+Skeeve~
+A young man looks you up and down, then shakes his head
+~
+This is Skeeve, once court magician to the country of Possiltum and now 
+buisnessman extrodinare. He's also Aahz's ex-apprentice. He comes from 
+the dimension of Khla, making him a Khlad but he's actually a pretty good 
+kid as things go. It's obvious he doesn't think you belong in the Deva 
+market place.
+~
+human~
+AGHRV E  250 S
+50 10 25d35+350 50d60+350 10d5+25 19
+-10 -10 -10 -10
+ABFHLR 0 C 0
+8 8 1 0
+0 0 M 0
+#12603
+Chumly~
+Chumly~
+A large, stupid looking, troll blocks your way
+~
+Chumly tips his hat and smiles at you. 'Welcome and well met' he says in 
+a thick british accent. 'Most people want trolls to be stupid and dumb, 
+but I can see you're one of the intelligent sort who believe that things 
+are more than they appear.'
+Chumly is from the dimension troll and as so is called a troll. His 
+sister, Tananda isn't called a troll though because females are called 
+trollops there. 'Watch out for my sister', he tells you. 'She plays a bit 
+rough.'
+
+~
+troll~
+AGT cc 0 S
+45 5 25d15+250 10d25+75 5d4+15 7
+-20 -20 -20 -20
+CINO BCO EFG HY
+8 8 1 876
+H ADU H 0
+#12604
+Tananda~
+Tananda~
+A pretty girl with green hair and green skin melts your heart with a smile
+~
+Tananda smiles at you. 'Were you the one that needed an assassin', she 
+asks. 'My rates are kinda high, but if you make it worth my while, I 
+might consider it'. Tanada is from the same dimension as Chumly, troll, 
+but only the males are trolls, the females, like Tanada (who is actually 
+rather plain there) are trollops.
+~
+human~
+AVSG BDFQccee -300 S
+65 30 35d15+1550 25d34+254 5d6+25 2
+-25 -25 -25 -25
+BGHFEKLN 0 0  0
+8 8 2 7876
+0 0 M 0
+#12605
+Quigly~
+Quigly~
+A knight in shinging armor wanders past you hunting for Demons
+~
+This is Quigly, the famous demon hunter. Well, he thinks he's a demon 
+hunter, but actually since he can now jump deminsions with the aid of his 
+trusty D-hopper, he's become a Demon himself (since that's what a Demon 
+is after all).
+He seems sorta distracted.
+~
+human~
+AGTV Hdd 1000 S
+25 0 3d15+350 5d15+150 5d3+10 1
+-5 -5 -5 -5
+0 0 0 0
+8 8 1 987
+0 0 M 0
+#12606
+a tiny deveel~
+a tiny Deveel~
+A 3 foot high Deveel, red skin, horns, goat legs and all, scurries past you.
+~
+This little guy looks like he is in a hurry. The pack he's carrying 
+bounces up and down as he runs and he narrowly misses a number of 
+customers (but of course, since a Deveel would never hurt a customer, he 
+does avoid them).
+~
+human~
+ACGH DEF 0 S
+5 0 2d2+3 3d5+10 1d3+2 17
+25 25 25 25
+N 0 0 Y
+8 8 1 250
+0 0 T 0
+#12607
+a small deveel~
+a small Deveel~
+A small Deveel grabs your sleeve and goes into a sales pitch
+~
+This guy is just not gonna take no for an answer. He's got a tray full of 
+stuff, and is more persistant than a 20 year itch.
+~
+human~
+ACGH DEF 0 S
+8 0 3d5+30 3d5+10 2d2+3 17
+5 5 5 5
+N 0 0 Y
+8 8 1 250
+0 0 S 0
+#12608
+a Deveel~
+a Deveel~
+A Deveel steps right in your way. 'Can I interest you in a bargain?' he says.
+~
+This guy is about your height and has perfected the art of steping right 
+where his customers want to walk, thus securing the sale (because they 
+usualy buy something to make him get out of the way).
+~
+human~
+ACGH DEF 0 S
+12 0 5d7+50 3d5+10 3d3+7 17
+-1 -1 -1 -1
+N 0 0 Y
+8 8 1 250
+0 0 M 0
+#12609
+a huge Deveel~
+a huge Deveel~
+A huge Deveel drags you to the side. 'You've just GOT to have one of these'.
+~
+This Deveel is much bigger than you, and he's got a fairly strong grip on 
+your arm. The table he's standing in front of is covered with strange 
+looking items that you can't see much use for.
+~
+human~
+ACGH DEF 0 S
+19 0 15d10+50 3d5+10 5d2+15 17
+-5 -5 -5 -5
+N 0 0 Y
+8 8 1 250
+0 0 H 0
+#12610
+a giant deveel~
+a giant Deveel~
+A Deveel the size of a giant moves carefully through the crowd
+~
+This Deveel is as tall as a house, and he has somehow managed to figure 
+out how to move through the crowd without displacing any possible customers
+~
+human~
+ACGH DEF 0 S
+25 10 25d10+350 3d5+10 5d7+15 17
+-5 -5 -5 -5
+N 0 0 Y
+8 8 1 250
+0 0 G 0
+#12611
+Queen Hemlock~
+Queen Hemlock~
+A women, dressed sorta like a queen, imperiously shoves past you
+~
+This is Queen Hemlock of Possiltum, in the Dimension of Klah. She's every 
+bit as nice as her name indicates and she's NOT in a good mood.
+~
+human~
+AG Ndd 0 S
+30 10 10d10+550 10d20+500 2d10+15 19
+-15 -15 -15 -15
+BD 0 0 0
+8 8 2 500
+0 0 M 0
+#12613
+a tiny pink dragon~
+a tiny pink dragon~
+A tiny pink dragon puffs a wisp of steam at you
+~
+This little dragon is barly as long as your arm
+~
+dragon~
+BU 0 400 S
+1 2 2d6+11 1d1+99 1d4+0 29
+8 8 8 8
+0 0 0 0
+8 8 15 0
+0 0 T 0
+#12614
+a small blue dragon~
+a small blue dragon~
+A small blue dragon spits snowflakes in the air
+~
+This small little dragon is about the color of blueberries.
+~
+dragon~
+BU 0 400 S
+5 2 2d8+11 1d2+99 1d5+2 30
+2 2 2 2
+0 0 0 0
+8 8 1 0
+0 0 S 0
+#12615
+a small green dragon~
+a small green dragon~
+A small green dragon hisses at you
+~
+This small dragon looks cute, but watch the teeth.
+~
+dragon~
+BU 0 400 S
+5 2 2d8+11 1d2+99 1d5+2 31
+1 1 1 1
+0 0 0 0
+8 8 1 0
+0 0 S 0
+#12616
+a small red dragon~
+a small red dragon~
+A small red dragon shoots out a tiny jet of flame.
+~
+This little dragon has the beginings of a firey temper.
+~
+dragon~
+BU 0 400 S
+5 2 2d8+11 1d2+99 1d5+2 29
+2 2 2 2
+0 0 0 0
+8 8 1 0
+0 0 S 0
+#12617
+a  blue dragon~
+a  blue dragon~
+A blue dragon envelops you in a frozen cloud.
+~
+This dragon is about 10 feet long. One thing is for sure, you'll never 
+want for ice with him around. 
+~
+dragon~
+BU 0 400 S
+15 2 4d8+11 1d2+99 3d5+2 30
+-10 -10 -10 -10
+0 0 0 0
+8 8 1 0
+0 0 M 0
+#12618
+a red dragon~
+a red dragon~
+A red dragon glares at you and aims a jet of flame in your direction.
+~
+This guy is almost 15 feet long and a welcome addtion to any cookout. 
+~
+dragon~
+BU 0 400 S
+15 2 4d8+11 1d2+99 3d5+2 29
+-10 -10 -10 -10
+0 0 0 0
+8 8 1 0
+0 0 M 0
+#12619
+a green dragon~
+a green dragon~
+A green dragon stands here, spitting acid at random targets.
+~
+This dragon is nearly 15 feet long and fully charged with a highly 
+corrosive acid.
+~
+dragon~
+BU 0 400 S
+15 2 4d8+11 1d2+99 3d5+2 31
+-10 -10 -10 -10
+0 0 0 0
+8 8 1 0
+0 0 M 0
+#12620
+a gold dragon~
+a gold dragon~
+A gold dragon stands here quietly, contemplating your existance.
+~
+This dragon shines in the light, like fine gold. He looks at you with 
+alien thoughts in his eyes and you wonder if you pass his scruitiny.
+~
+dragon~
+BU 0 400 S
+15 2 4d8+11 1d2+99 3d5+2 31
+-10 -10 -10 -10
+0 0 0 0
+8 8 1 0
+0 0 M 0
+#12621
+a black dragon~
+a black dragon~
+A black dragon shows you his long, sharp teeth. 
+~
+This dragon looks at you in a way that makes you shiver and back up.
+~
+dragon~
+BU 0 -1000 S
+15 2 4d8+11 1d2+99 3d5+2 31
+-10 -10 -10 -10
+0 0 0 0
+8 8 1 0
+0 0 M 0
+#12622
+a rainbow dragon~
+a rainbow dragon~
+A rainbow dragon lies here, smelling the flowers and enjoying life.
+~
+This large dragon is multicolored in shades of pleasing pastels and 
+bright happy colors. He smiles at you and says 'Hi. Care for a jelly bean?'.
+~
+dragon~
+BU 0 400 S
+35 2 55d8+110 1d2+99 5d5+2 32
+-20 -20 -20 -20
+0 0 0 0
+8 8 1 0
+0 0 L 0
+#12623
+a white dragon~
+a white dragon~
+A white dragon lies here watching you with cautious eyes.
+~
+This dragon is neary 30 feet long and the color of the frozen wasteland.
+~
+dragon~
+BU 0 400 S
+25 2 35d8+70 1d2+99 5d4+2 15
+-15 -15 -15 -15
+0 0 0 0
+8 8 1 0
+0 0 L 0
+#12624
+a white dragon~
+a white dragon~
+A white dragon lies here watching you with cautious eyes.
+~
+This dragon is neary 30 feet long and the color of the frozen wasteland.
+~
+dragon~
+BU 0 400 S
+30 2 25d8+75 1d2+99 5d4+15 5
+-17 -17 -17 -17
+0 0 0 0
+8 8 1 0
+0 0 L 0
+#12625
+a crystal dragon~
+a crystal dragon~
+A dragon of living crystal lies here, intent on your actions.
+~
+This huge dragon is made of living crystal and possess's magical 
+knowledge that you can only guess at. He might agree, if you ask nicely, 
+to teach you a spell or two.
+~ 
+dragon~
+BU 0 1000 S
+50 2 50d10+750 1d2+99 5d10+15 5
+-25 -25 -25 -25
+0 0 0 0
+8 8 1 0
+0 0 H 0
+#12691
+A Deveel~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12692
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12693
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12694
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12695
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12696
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12698
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0 
+8 8 2 99999
+0 Q M 0
+#12699
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12700
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12701
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+30 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12702
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+30 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12703
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12704
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12706
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12707
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12708
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12709
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12710
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12711
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12712
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 65
+0 Q M 0
+#12713
+deveel doctor~
+A Deveel~
+A Deveel wearing a white coat nods as you enter.
+~
+This is the Bazaar's resident doctor. She is quite knowledgable in the 
+healing arts however your anatomy is a bit strange and she might do more 
+harm than good. 
+~ 
+human~
+ABV DEF 0 S
+10 0 69d90+500 69d75+500 15d25+10 0
+-250 -250 -250 -250 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 754
+0 Q M 0
+#12714
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12716
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12717
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12718
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12719
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12720
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12721
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12722
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12723
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12724
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12725
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12726
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12727
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12728
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12729
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12730
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12731
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12732
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12733
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 30d50+3000 30d50+3000 30d50+3000 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12735
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12736
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12737
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12738
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12739
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12740
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12741
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12742
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#12743
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. He is 
+red, has horns on his head, a long tail with a point on it and goats legs 
+from the waist down. He's also got a GREAT deal on whatever it is he 
+wants to sell you. Trust him, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 1 99999
+0 Q M 0
+#12744
+deveel shopkeeper~
+A Deveel~
+A smiling Deveel grabs your hand and shakes it vigorously
+~
+This is a Deveel, one of the inhabitants of the deminsion Deva. She is 
+red, has horns on her head, a long tail with a point on it and goats legs 
+from the waist down. She's also got a GREAT deal on whatever it is she 
+wants to sell you. Trust her, you can't go wrong.
+~
+human~
+ABV DEF 0 S
+199 0 1d1+1 1d1+1 1d1+1 0
+0 0 0 0 
+ABCDEFGHIJKLMNOPQRS 0 0 0
+8 8 2 99999
+0 Q M 0
+#0
+
+
+
+
+#OBJECTS
+#12601
+rug small~
+a small, ornately decorated, rug~
+A small rug with ornate designs lies here~
+cloth~
+8 0 AO
+0 0 0 0 0
+1 1 200 P
+#12609
+rug throw~
+a brown and yellow throw rug~
+A brown and yellow rug floats an inch above the ground~
+cloth~
+8 0 AO
+0 0 0 0 0
+1 1 200 P 
+#12610
+rose red flower~
+a single red rose~
+A single red rose, covered with dew drops, lies here forgotten~
+flower~
+1 AN AO
+0 0 25 0 0
+1 1 0 P
+#12611
+daisy yellow flower~
+a bright, yellow, daisy~
+A bright, yellow, daisy blooms happily here~
+flower~
+1 AN AO
+0 0 15 0 0
+1 1 945 P
+#12612
+carnation pink flower~
+a pink carnation~
+A pretty, pink, carnation brightens up the room~
+flower~
+1 AN AO
+0 0 10 0 0
+1 1 925 P
+#12613
+blue bonnet bluebonnets flower~
+a bluebonnet~
+A bright bluebonnet with white tipped petals grows here~
+flower~
+1 AN AO
+0 0 3 0 0
+1 1 910 P
+#12614
+bead glass~
+a shiny glass bead~
+A bead of glass glistens in the light~
+glass~
+13 PAH AO
+0 0 0 0 0
+1 5 500 P
+#12615
+bouquet flower flowers bunch~
+A bunch of flowers~
+A beautiful bunch of flowers stands here in a tub of water~
+flower~
+1 AP AO
+0 0 50 0 0 
+1 10 9999 P
+#12616
+charm bracelet gold~
+A golden charm bracelet~
+A fine, golden chain bracelet with places for charms, glitters in the light~
+gold~
+9 P AM
+15 0 0 0 0
+75 5 87345 P
+#12617
+charm horse gold~
+A tiny gold charm in the shape of a horse~
+A tiny gold horse lies here collecting dust~
+gold~
+9 P AO
+0 10 10 10 10
+50 5 2345 P
+#12618
+charm mouse gold~
+A tiny gold charm in the shape of a mouse~
+A tiny gold mouse lies here collecting dust~
+gold~
+9 P AO
+0 10 10 10 10
+35 5 19450 P
+#12619
+charm clover gold~
+A tiny gold charm in the shape of a clover~
+A tiny gold clover lies here collecting dust~
+gold~
+9 P AO
+0 10 10 10 10
+40 5 6295 P
+#12620
+charm heart gold~
+A tiny gold charm in the shape of a heart~
+A tiny gold heart lies here collecting dust~
+gold~
+9 P AO
+0 10 10 10 10
+32 5 333484 P
+#12621
+charm shoe gold~
+A tiny gold charm in the shape of a shoe~
+A tiny gold shoe lies here collecting dust~
+gold~
+9 P AO
+0 10 10 10 10
+37 5 7538 P
+#12622
+lite beer~
+A bottle of lite beer~
+A brown glass bottle of lite beer waits to be emptied~
+glass~
+17 P AO
+50 50 1 0 0
+10 5 25 P
+#12623
+cooler wine~
+A pink wine cooler~
+A pink wine cooler looks delicious~
+glass~
+17 0 AO
+10 10 2 0 0
+10 5 5 P
+#12624
+ale strong~
+A bottle of strong ale~
+A clear bottle of strong ale tempts you to indulge~
+glass~
+17 0 AO
+25 25 4 0 0
+10 5 15 p 
+#12625
+everclear ever clear~
+A small glass of ever clear~
+A glass of ever clear nearly knocks you off the floor with the fumes~
+glass~
+17 0 AO
+17 17 8 0 0
+10 5 35 P
+#12626
+whisky~
+A shot of whisky~
+A shot of fine whisky sits here~
+glass~
+17 0 AO
+5 5 5 0 0
+10 5 5 P
+#12627
+firebreather fire~
+A bottle of firebreather~
+A bottle of firebreather with a skull and crossbones on the lable~
+glass~
+17 0 AO
+30 30 6 0 0
+10 5 45 P
+#12628
+necklace coral~
+A coral necklace~
+A necklace of fine coral beads lies coiled here on the floor~
+coral~
+9 P AC
+15 15 15 15 15
+60 5 3875 P
+#12629
+necklace pearl~
+A pearl necklace~
+A necklace of fine pearls lies coiled here on the floor~
+pearl~
+9 P AC
+15 25 15 15 10
+70 5 3782 P
+#12630
+necklace liquid silver~
+A liquid silver necklace~
+A liquid silver necklace slips through your fingers~
+silver~
+9 P AC
+5 5 5 5 50
+45 5 5378 P
+#12631
+necklace gem gems~
+A gem encrusted necklace~
+A necklace set with multicolored gems sparkles in the light~
+gem~
+9 P AC
+0 15 0 0 0
+10 5 7026 P
+#12632
+necklace shell~
+A sea shell necklace~
+A necklace of tiny sea shells reminds you of the ocean~
+shell~
+9 P AC
+5 15 5 15 5
+65 5 5893 P
+#12633
+necklace copper chain~
+A copper necklace~
+A fine copper chain catches your eye~
+copper~
+9 P AC
+5 5 5 15 5
+20 5 4854 P
+#12634
+rock green~
+a shiny green rock~
+A glossy rock, the color of new grass, has been left here~
+rock~
+26 A AO
+45 1 3 43 0
+10 10 1092 P 
+#12635
+rock blue stone mottled~
+a mottled, blue, stone~
+A stone, mottled with several shades of blue, lies here~
+rock~
+26 A AO
+45 63 0 0 0
+10 10 354 P
+#12636
+rock red speckled~
+a speckled red stone~
+A stone speckled with red has fallen by the way~
+stone~
+26 A AO
+45 17 18 19 0
+10 10 364 P
+#12637
+rock yellow clear pebble~
+a clear yellow pebble~
+A pebble the shade of lemons and sunshine gleams in the light~
+stone~
+26 A AO
+45 25 0 0 0
+12 12 1046 P
+#12638
+rock obsidian flake~
+a flake of obsidion~
+A small flake of obsidion catches the light~
+stone~
+26 A AO
+45 33 68 38 27
+15 5 3643 P
+#12639
+long flowing black satin cape~
+A long, flowing, black satin cape~
+A long cape made of black satin and lined with gold silk hangs here on a hook~ 
+cloth~
+9 P AK
+12 10 14 2 13
+10 10 146 P
+#12640
+thick heavy woolen wool grey cape~
+A heavy cape made of grey wool~
+A warm cape made of thick, grey, wool hangs here~ 
+cloth~
+9 P Ak
+15 12 16 0 16
+25 10 400 P
+#12641
+bright green cotton cape~
+A bright green cape~
+A bright green cape, trimmed with fur, hangs here~ 
+cloth~
+9 P Ak
+5 5 5 0 0
+10 10 184 P
+#12642
+dark brown cape~
+A dark brown cape~
+A dark brown cape lined with dark green cloth hangs here~ 
+cloth~
+9 P AK
+0 0 0 15 0
+3 10 175 P
+#12643
+purple cape~
+A purple velvet cape~
+A flowing cape made of royal purple velvet hangs here~ 
+cloth~
+9 APBM AK
+3 4 1 0 0
+2 10 3984 P
+#12644
+sky blue cape~
+A sky blue cape covered with strange symbols~
+A sky blue cape covered with strange, silvery symbols hangs here~ 
+cloth~
+9 P AK
+5 5 5 5 5
+10 15 500 P
+#12645
+gem encrusted long sword~
+A gem encrusted long sword~
+A long sword, studded with gems, leans against a wall~
+iron~
+5 B AN
+1 4 3 1 D
+15 15 64 G 
+#12646
+sword leaf bladed~
+A leaf bladed sword~
+A sword with a leaf shaped blade leans against a wall~
+iron~
+5 0 AN
+1 3 7 1 D
+25 15 649 G 
+#12647
+saber light red jedi weapon sword~
+A red light saber~
+A light saber, the weapon of the Jedi Knight, lies here forgotton~
+plastic~
+5 PAB AN
+1 3 10 1 D
+20 5 5764 G 
+#12651
+sword well used~
+A well used sword~
+A well used, and somewhat worn, sword lies here in the dust of dreams~
+silver~
+5 0 AN
+1 5 5 1 D
+15 10 864 G 
+#12652
+sword golden~
+A golden sword~
+A golden sword has been set carefully in a corner~
+gold~
+5 APM AN
+1 5 5 1 D
+5 1 432 G 
+#12653
+sword blade darkness~
+A sword with a blade of darkness~
+The hilts of a sword lie here in a pool of darkness~
+silver~
+5 0 AN
+1 1 1 1 D
+1 5 1528 G 
+#12654
+lute~
+A highly polished lute~
+A lute, polished to a high shine and loving crafted, has been left here~
+wood~
+8 AP AO
+0 0 10 0 0
+25 10 43 P
+#12655
+harp~
+A golden harp with silver strings~
+A beautiful melody floats from the string of a golden harp~
+gold~
+9 AP AO
+0 0 0 10 0
+25 10 82 P
+#12656
+violin~
+A well made violin~
+Strains of soft music issue forth from inside a beautiful violin~
+wood~
+3 AP AO
+5 6 3 6 0
+25 10 1086 P
+#12657
+flute~
+a silvery flute~
+A series of high notes draw your attention to a flute made of silver~
+silver~
+5 AP AN
+0 4 4 8 0
+25 5 738 P
+#12658
+drum snare~
+A wooden snare drum~
+A wooden snar drum stands here waiting to be played~
+wood~
+5 AP AN
+0 3 10 7 0
+25 10 58 P
+#12659
+obo~
+A black, wooden Obo~
+A wooden Obo, stained black with silver keys, has been forgotten by some bard~ 
+wood~ 
+9 AP AO
+10 0 0 0 10
+25 10 1200 P
+#12660
+woven red white yellow ring gold~
+A ring woven of red, white and yellow gold strands~
+A glint of gold draws your eye to a woven ring~
+gold~
+9 P AB
+3 5 9 6 3
+12 1 10 P
+#12661
+ring silver engraved leaves~
+A silver ring engraved with leaves~
+A leaf engraved silver ring lies here~
+silver~
+9 PKL AB
+3 5 9 6 3
+12 1 230 P
+#12662
+ring copper burnished~
+A burnished copper ring~
+The warm tones of a copper ring fill your heart with gladness~
+copper~
+9 JPK AB
+3 5 9 6 3
+15 1 834 P
+#12663
+ring plastic hard neon orange~
+A hard plastic, neon orange ring~
+A neon orange ring made of plastic hums quietly~
+plastic~
+9 B AB
+0 0 0 0 0
+2 1 327 P
+#12665
+ring shell pink~
+A ring made of delicate pink shells~
+A ring made of delicate pink shells has been dropped here carelessly~
+shell~
+9 JPL AB
+10 10 10 10 10
+60 1 234 P
+#12666
+ring ebony cold~
+A cold, ebony ring~
+You shiver as you notice a ring made of ebony~
+ebony~
+9 P AB
+0 0 0 0 0
+2 1 18743 P
+#12667
+ring crystal carved~
+A ring of pure crystal~
+A ring carved from pure crystal lies here in the dust~
+crystal~
+9 APM AB
+0 25 0 0 0
+30 1 191557 P
+#12668
+cake doughnut~
+a fat cake doughnut~
+A fat cake doughnut makes your mouth water~
+doughnut~
+19 0 A
+5 0 0 0 0
+1 1 5 P
+#12669
+iced doughnut~
+an iced doughnut~
+An iced doughnut looks delicious~
+doughnut~
+19 0 A
+7 0 0 0 0
+1 1 10 P
+#12670
+jelly strawberry doughnut~
+a strawberry jelly doughnut~
+A doughnut lies here leaking strawberry jelly~
+doughnut~
+19 0 A
+10 0 0 0 0
+1 1 15 P
+#12671
+bear claw doughnut~
+a golden brown bear claw~
+A golden brwon bear claw smells of cinnamon and sugar~
+doughnut~
+19 0 A
+15 0 0 0 0
+1 1 17 P
+#12672
+cream filled doughnut~
+a bavarian cream filled doughnut~
+A bavarian cream filled doughnut tempts you to eat it~
+doughnut~
+19 0 A
+5 0 0 0 0
+1 1 5 P
+#12673
+gold bracelet chain~
+A fine gold chain bracelet~
+A small loop of gold chain lies here forgotten~
+gold~
+9 P AM
+15 0 0 0 0
+20 2 25 P
+#12674
+silver bracelet chain~
+A fine silver chain bracelet~
+A small loop of silver chain lies here forgotten~
+silver~
+9 P AM
+0 15 0 0 0
+20 2 20 P
+#12675
+coral bracelet bead~
+A bracelet made of tiny, coral beads~
+A length of coral beads strung together lies here in the dust~
+coral~
+9 P AS
+0 0 15 0 0
+20 2 17 P
+#12676
+beaten copper anklet~
+A thick anklet made of beaten copper~
+A simple anklet of beaten copper shines in the light~
+copper~
+9 P AS
+0 0 0 15 0
+20 2 30 P
+#12677
+flower woven bracelet~
+A bracelet of flower petals woven together~
+A handfull of flower petals has fallen here on the ground~
+flower~
+9 P AM
+1 1 1 1 0
+1 2 15869 P
+#12678
+blackened bracelet chain~
+A bracelet of blackend links~
+A small pile of blackend chain has been left behind~
+iron~
+9 BP AM
+0 0 0 0 0
+10 2 239 P
+A
+12 -50
+#12679
+ornate bracelet~
+A ornately fashioned bracelet~
+A ornately fashioned bracelet gleams in the light~
+gold~
+9 AP AM
+5 5 5 5 0
+10 2 164 P
+#12680
+backpack back pack leather hard~
+A hard, leather backpack~
+A backpack made of hard, hand tooled leather, sits here on a shelf~
+leather~
+15 P AD
+50 1 0 0 0
+1 10 25 P
+#12681
+backpack back pack soft canvass~
+A soft canvass backpack~
+A backpack made of hard, hand tooled leather, sits here on a shelf~
+cloth~
+15 P AD
+25 1 0 0 0
+1 10 15 P
+#12682
+belt pouch nylon~
+A nylon belt pouch~
+A belt pouch made of nylon hangs here on a hook~
+nylon~
+15 P AL
+10 1 0 0 0
+1 10 5 P
+#12683
+backpack back pack hiker hikers~
+A hikers backpack~
+A hikers backpack, complete with aluminum frame, stands here~
+canvass~
+15 P AD
+150 1 0 0 0
+1 10 225 P
+#12684
+cloak ratty holes concealment~
+A ratty cloak full of holes~
+A ratty cloak, full of holes and rips, has been tossed aside~
+cloth~
+15 P AD
+100 0 0 0 0
+1 10 9498 P
+A
+56 -1
+#12685
+suitcase~
+A grey suitcase~
+A grey suitcase lies on the ground, forgotten by it's owner~
+plastic~
+15 P AO
+75 1 0 0 0
+1 10 45 P
+#12686
+grey leather belt~
+A hand tooled, grey leather belt~
+A coil of grey leather lies here on the ground~
+leather~
+9 P AL
+5 5 5 5 0
+10 5 43 P
+#12687
+black military leather belt~
+A thin, black, leather military belt~
+A black leather military belt hangs here over a pole~
+leather~
+9 P AL
+7 7 7 7 0
+11 5 52 P
+#12688
+wide brown leather belt~
+A wide, brown, leather belt~
+A wide leather belt lies here on the ground~
+leather~
+9 P AL
+5 5 5 5 0
+10 5 75 P
+#12689
+elastic rainbow belt~
+A belt made of rainbow elastic~
+A stretchy, multi-colored belt lies here on the ground~
+leather~
+9 P AL
+0 0 0 0 50
+70 5 1534 P
+#12690
+green costume kids cardboard belt~
+A green kids costume belt~
+A piece of green cardboard has been tossed away here~
+cardboard~
+9 P AL
+0 0 0 0 0
+10 5 43 P
+A
+17 -20
+#12691
+wine glass~
+A fragile wine glass~
+A fragile wine glass sparkles in the light~
+glass~
+8 P AO
+0 0 0 0 0
+1 2 485 P
+#12692
+spun glass castle~
+A small, spun glass castle~
+A castle made of spun glass glitters in the light~
+glass~
+8 P AO
+0 0 0 0 0
+1 2 875 P
+#12693
+wind chime chimes glass~
+Glass wind chimes~
+Bell shaped chimes made of glass tinkle in the wind~
+glass~
+8 P AO
+0 0 0 0 0
+1 2 746 P
+#12694
+globe bubble blue glass colored~
+A blue glass bubble~
+A bubble made of colored glass turns the world blue as you look through it~
+glass~
+8 P AO
+0 0 0 0 0
+1 2 10000 P
+#12695
+stained glass ornament~
+A stained glass ornament~
+A small ornament made of stained glass scatters rainbows around the room~
+glass~
+8 P AO
+0 0 0 0 0
+1 2 18605 P
+#12696
+heart glass~
+A pink glass heart~
+A heart made of pink glass looks easy to crush under foot~
+glass~
+1 P AO
+0 0 999 0 0
+1 2 15876 P
+#12697
+robe bath terrycloth cotton bathrobe~
+A cotton, terrycloth bathrobe~
+A dark blue bathrobe, made of terrycloth~
+cloth~
+9 P AD
+5 1 2 5 0
+10 2 287 P
+#12698
+robe wizards black silk~
+A black silk robe covered with strange symbols~
+A black silk robe covered with magical symbols hangs here on a hook~
+cloth~
+9 P AD
+0 0 0 10 0
+10 2 456 P
+#12699
+robe thin flimsy baby-doll~
+A flimsy, see-through, baby-doll robe~
+A flimsy robe from a set of baby-doll P.J's hangs here on a hook~
+cloth~
+9 P AD
+12 14 12 0 0
+30 2 756 P
+#12700
+robe maroon~
+A maroon robe, made of the finest velvet~
+A thick, warm robe made of maroon velvet, hangs here on a hook~
+cloth~
+9 P AD
+3 6 1 2 4
+10 2 35 P
+#12701
+strange air veil transparent~
+A transparent veil~
+The air looks a bit strange in this spot~
+air~
+9 P AD
+5 4 7 6 0
+10 2 32767 P
+#12702
+ceramic elf~
+A small ceramic elf~
+A small elf, made of glazed, fired ceramics, lies here forgotten~
+ceramic~
+8 P AO
+0 0 0 0 0
+10 1 47650 P
+#12703
+tiny brass trumpet~
+A tiny brass trumpet~
+A tiny trumpet made of brass looks just like the real thing~
+brass~
+3 P AO
+35 6 6 69 0
+10 1 7650 P
+#12704
+calico cat stuffed~
+A stuffed calico cat~
+A stuffed calico cat has been dropped here by a careless child~
+cloth~
+8 P AO
+0 0 0 0 0
+10 1 764 P
+A
+23 -2
+#12705
+glass rooster~
+A heavy glass rooster~
+A large rooster made of glass looks so real you start~
+glass~
+9 P AO
+5 7 3 4 2
+10 1 485 P
+#12706
+silver bells string~
+A string of silver bells~
+A number of small, silver bells hang here on a string, blowing in the breeze~
+silver~
+8 P AO
+0 0 0 0 0
+10 1 85 P
+#12707
+strawberry ice cream scoop~
+a scoop of strawberry ice cream~
+A scoop of strawberry ice cream lies here melting~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 45 P
+#12708
+chocolate scoop ice cream fudge~
+a scoop of chocolate fudge ice cream~
+A scoop of chocolate fudge ice cream lies here melting~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 45 P
+#12709
+vanilla ice cream scoop~
+a scoop of vanilla ice cream~
+A scoop of strawberry ice cream lies here melting~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 45 P
+#12710
+rocky road rocky-road ice cream scoop~
+a scoop of rocky-road ice cream~
+A scoop of rocky-road ice cream lies here melting~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 45 P
+#12711
+sundae ice cream butterscotch~
+a butterscotch sundae~
+A butterscotch sundae looks mouth-watering~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 45 P
+#12712
+hot fudge ice cream sundae~
+a hot fudge sundae~
+A hot fudge sundae smells delicious~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 65 P
+#12713
+banana split ice cream~
+a banana split~
+A banana split looks good enough to eat~
+icecream~
+19 0 AO
+10 0 0 0 0
+10 1 115 P
+#12714
+bread knife~
+a serated bread knife ~
+A sharp looking bread knife with lies here in the dust~
+iron~
+5 0 AN
+2 4 9 2 0
+10 5 98 P
+#12715
+knife kitchen butcher~
+A well-made butcher knife~
+A butcher knife, just what you need for your kitchen, lies here discarded~
+iron~
+5 0 AN
+2 3 9 2 0 
+10 5 78 P
+#12716
+knife pocket~
+A small pocket knife~
+You notice a small pocket knife that someone has left behind~
+iron~
+5 0 AN
+2 2 8 2 0
+5 5 45 P
+#12717
+switchblade switch blade knife~
+A wicked switch blade~
+A thin knife handle lies here in the dust~
+iron~
+5 P AN
+2 3 5 2 0
+12 5 754 P
+#12718
+swiss knife army~
+A swiss army knife~
+A Swiss army knife, bristling with tools, lies here forgotten~
+iron~
+5 P AN
+2 5 5 2 0
+10 5 738 P
+#12719
+knife rusty~
+A rusty, pitted knife~
+A small piece of a knife handle pokes up out of the ground~
+iron~
+5 MP AN
+2 1 1 20 E
+2 5 2 P
+#12720
+pants cotton black~
+A pair of black, cotton pants~
+A pair of black, cotton pants are here, folded over a hanger~
+cloth~
+9 P AF
+5 7 6 3 0
+10 5 350 P
+#12721
+armor leg green scale~
+A set of green, scale leg armor~
+Two jointed green tubes covered with some type of scales lies here~
+plastic~
+9 P AF
+8 4 5 4 6
+15 5 900 P
+#12722
+pants white lace~
+A pair of pure white, lace, pants~
+A pair of pure white, lace, pants are folded neatly on a bench~
+cloth~
+9 KPL AF
+4 6 5 3 0
+15 5 350 P
+#12723
+pants cordoroy brown baggy~
+A pair of brown, baggy cordoroy pants~
+A pair of brown, baggy cordoroy pants lie in a pile on the floor~
+cloth~
+9 P AF
+2 3 1 4 0
+3 5 50 P
+#12724
+pants striped cotton dungarees cloth pile~
+A pair of striped, cotton dungarees~
+In the corner you notice a pile of striped cloth~
+cloth~
+9 P AF
+2 4 3 1 8
+5 5 150 P
+#12725
+wisp smoke~
+A wisp of smoke~
+A wisp of smoke floats past you~
+smoke~
+9 P AF
+0 0 0 0 0
+10 5 350 P
+A
+17 -20
+#12726
+box~
+A small, wooden box~
+A small, wooden box has been left here~
+wood~
+15 P A
+15 1 0 0 0
+10 1 45 P
+#12727
+chest gold golden jewelry~
+A golden jewlery box~
+A golden jewelry box stand here, glittering in the light~
+gold~
+15 P A
+50 8 728 0 0
+10 2 150 P
+#12728
+key~
+A small, gold key~
+A small, gold key glitters in the light. Wonder what it goes to?~
+gold~
+13 P A
+13 1 0 0 0
+10 1 45 P
+#12729
+crystal heart~
+A crystal heart~
+A fragil, crystal heart, hangs from a string.~
+crystal~
+15 P A
+75 1 0 0 0
+10 3 200 P
+#12730
+chain gold thick~
+A thick, gold chain~
+A length of gold chain lies here on the ground~
+gold~
+9 P AC
+5 9 2 5 7
+10 10 350 P
+#12731
+chain silver thin~
+A thin, silver chain~
+Something silver catches your eye.~
+silver~
+9 P AC
+2 5 7 3 9
+11 2 250 P
+#12732
+chain steel Lloth~
+A length of heavy, steel chain~
+Blackend links of chain lie in a pile on the ground.~
+steel~
+9 MGH AD
+0 0 0 0 8
+1 0 450 P
+A
+17 -1200
+A
+1 -25
+A
+2 -25
+A
+3 -25
+A
+4 -25
+A
+5 -25
+A
+14 -1200
+A
+12 -500
+A
+18 -200
+A
+19 -200
+A
+24 -300
+E
+chain lloth spider~
+As you look closer at the links you notice that each one is engraved with 
+a tiny spider, the symbol of Lloth. You shiver at the touch of the metal.
+~
+
+#12733
+chain plastic white~
+A white plastic chain~
+A pretty plant hangs here, suspended by white, plastic chains.~
+plastic~
+9 P AC
+1 1 1 1 10
+10 10 550 P
+#12734
+gimme cap~
+A dark blue, gimme cap~
+A dark blue gimme cap lies here in the dust~
+cloth~
+9 AP AE
+2 4 3 6 7
+10 1 54 P
+#12735
+scarf orange silk~
+An orange silk scarf~
+A small pile of orange cloth lies here forgotten~
+cloth~
+9 AP AE
+0 0 0 0 0
+10 1 75 P
+#12736
+fedora felt hat~
+A natty, felt fedora~
+A felt hat has been carefull set down here out of the way~
+cloth~
+9 AP AE
+0 0 0 0 3
+10 5 150 P
+#12737
+helmet spacesuit~
+An astronauts helmet~
+You bump your toe on the helmet of a spacesuit that is rolling around on 
+the floor~ 
+cloth~
+9 AP AE
+8 3 2 4 0
+10 25 175 P
+#12738
+bonnet yellow~
+A yellow lace bonnet~
+A yellow lace bonnet hangs here on a hook~
+cloth~
+9 AP AE
+2 5 4 7 0 
+10 2 135 P
+#12739
+book~
+A small, thin book~
+A small, thin book lies open on the ground~
+paper~
+2 P AO
+25 3 0 0 0
+10 2 500 P
+E
+small thin book~
+This book is only about 1/4 inch thick and is bound with read leather. On 
+the cover is a strange symbol and the pages are edged with gold
+~
+E
+cover leather~
+The cover is made of a fine leather dyed red
+~
+E
+symbol strange~
+.                        *
+                         *
+                         *
+                     *   *   *
+                      *  *  *
+                       * * *
+                        ***
+                       * * *
+                      *  *  *
+                     *   *   *
+                         *
+                         *
+~ 
+E
+page pages~
+In the days of yore when there were dragons in the land, a good king set 
+out to find a way to hault the spread of disease and distruction caused 
+by the worms. As he walked through the land, he heard many stories of 
+ill, and complaint, but no one was able to offer a solution. Finaly, 
+though, he came to a small hut beneath a tree, where in lived an aged 
+cleric. The cleric heard his plea for help, nodded and went inside his 
+hut, returning with a small, thin, book. "Hold this book before you", 
+said the cleric, "for it's powers are many. And when trouble comes apon 
+you, then recite from it's pages, the magical formual contained there in. 
+But use it only in dire need, as it will be destroied as you speak the 
+magic words."
+The king thanked the cleric mightily and with the book in hand, set off 
+to rid the country of the menece of the dragons. But ever mindful that 
+the book would be destroied, he kept it with him, but used it never. In 
+due time, his valor and courage rid the land of the scrouage, and 
+realizing that he still had the book in his possession, he passed it 
+safely on to his heir. This is the book. Take good care of it, you who 
+have found it again after all these years
+~
+#12740
+book janes anchient armor~
+Janes book of Anchient Armor~
+A heavy book full of pictures of armor catches your eye~
+paper~
+2 0 AO
+25 1 0 0 0
+10 2 350 P
+E
+book armor pictures~
+This book is filled with pictures of different sorts of armor found on 
+countless different planets. On the bottom of one page you find the 
+instructions to recite a certian passage if you want to see holograms of 
+the armor appear
+~
+#12741
+book cook cookbook~
+A holographic cookbook~
+A cookbook full of delicious recipies has been left here~
+paper~
+2 0 AO
+25 12 0 0 0
+10 2 200 P
+#12742
+book braille~
+A braille book~
+A book written in braille has been left here~
+paper~
+2 0 AO
+25 4 0 0 0
+10 2 500 P
+#12743
+book~
+A small, thin book~
+A small, thin book lies open on the ground~
+paper~
+2 0 AO
+25 3 0 0 0
+10 2 500 P
+#12744
+book knowledge~
+The book of secret knowledge~
+A black book, locked with a brass lock, lies here on the ground~
+paper~
+2 0 AO
+25 58 0 0 0
+10 2 500 P
+#12745
+book manual~
+The manual of the plains~
+A book full of stars floats here in the air~
+paper~
+2 0 AO
+25 2 0 0 0
+10 2 500 P
+#12746
+soup chicken~
+a bowl of chicken soup~
+A steaming bowl of chicken soup sits here~
+glass~
+19 0 AO
+10 0 0 0 0
+10 2 10 P
+#12747
+soup pea~
+a bowl of pea soup~
+A steaming bowl of pea soup sits here~
+glass~
+19 0 AO
+15 0 0 0 0
+10 2 15 P
+#12748
+soup bean bacon~
+a bowl of bean and bacon soup~
+A steaming bowl of chicken soup sits here~
+glass~
+19 0 AO
+25 0 0 0 0
+10 2 25 P
+#12749
+soup clam chowder~
+a bowl of clam chowder~
+A steaming bowl of clam chowder sits here~
+glass~
+19 0 AO
+35 0 0 0 0
+10 2 50 P
+#12750
+soup boullion beef~
+a bowl of beef boullion~
+A steaming bowl of beef boullion sits here~
+glass~
+19 0 AO
+5 0 0 0 0
+10 2 5 P
+#12751
+shirt cotton~
+A white cotton tee shirt~
+A white cotton tee shirt has been dumped here on the ground~
+cloth~
+9 P AD
+4 6 5 8 3
+10 1 35 P
+#12752
+shirt turquoise sweat~
+A turquoise sweat shirt~
+A turquoise sweat shirt hangs here on a hook~
+cloth~
+9 P AD
+7 4 9 3 6
+10 1 43 P
+#12753
+shirt fancy dress~
+A fancy dress shirt~
+A fancy dress shirt hangs here on a wire hanger~
+cloth~
+9 P AD
+7 4 9 5 4
+10 1 50 P
+#12754
+shirt khaki~
+A Khaki shirt~
+A shirt made of Khaki hangs here on a hook~
+cloth~
+9 P AD
+4 3 6 5 0
+10 1 65 P
+#12755
+shirt plaid~
+A green and yellow plaid shirt~
+A green and yellow plaid shirt hangs here on a hook~
+cloth~
+9 P AD
+9 6 5 8 3
+10 1 75 P
+#12756
+mist flim flimy~
+A faint, white mist~
+A faint, white mist floats above the ground~
+water~
+9 P AD
+0 0 0 0 65
+10 1 81976 P
+#0
+
+
+
+
+#ROOMS
+#12601
+A busy intersection~
+You are standing in the middle of a very busy intersection. All around 
+you there are masses of moving bodies, either milling around the tents, 
+hawking the goods or buying the items that this place sells. 
+A huge, flashing, neon sign above your head directs your attention to the 
+dragons off that way and a screaming, err well, person tries for your 
+attention at his tent not far away. 
+~
+0 0 1
+D0
+To the north you can see a blue and green striped tent
+~
+~
+0 -1 12714
+D1
+To the east you can see people of all shapes and sizes
+~
+~
+0 -1 12602
+D2
+To the south you can see a horde of bodys
+~
+~
+0 -1 12633
+D3
+To the west you can see a crowd flowing toward you
+~
+~
+0 -1 12634
+S
+#12602
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north you can see a darkened tent, but to the south a strange 
+creature known as a Deveel, beckons to you from the front of a well lit tent
+~
+0 0 1
+D0
+To the north you can see a green and pink tent
+~
+~
+0 -1 12715
+D1
+To the east you can see a huge crowd
+~
+~
+0 -1 12603
+D2
+To the south you can see a purple tent
+~
+~
+0 -1 12724
+D3
+To the west you can see a crush of people
+~
+~
+0 -1 12601
+S
+#12603
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north a garish tent beckons to you and you notice people with long 
+tubes in their hands leaving it.
+To the south you notice a man dressed in a swirling cloak leaving a gaudy 
+tent
+~
+0 0 1
+D0
+To the north you can hear the shouts of a hawker
+~
+~
+0 -1 12716
+D1
+To the east you can see a large number of people
+~
+~
+0 -1 12604
+D2
+To the south you can see a brown tent
+~
+~
+0 -1 12725
+D3
+To the west is a sea of bodys, all moving toward you
+~
+~
+0 -1 12602
+S
+#12604
+A crowded intersection~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north, a sea of bodys flows toward you
+~
+~
+0 -1 12623
+D1
+To the east a huge crowd is milling around
+~
+~
+0 -1 12605
+D2
+To the south a large number of people push past each other
+~
+~
+0 -1 12624
+D3
+To the west you can see a thick crowd
+~
+~
+0 -1 12603
+S
+#12605
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north you see a man juggling knives (and fortunately, not missing) 
+and to the south you smell something strange wafting from the open tent
+~
+0 0 1
+D0
+To the north, a pink and purple tent screams for your attention
+~
+~
+0 -1 12717
+D1
+To the east you see a flood of bodys
+~
+~
+0 -1 12606
+D2
+To the south you can see an orange tent
+~
+~
+0 01 12726
+D3
+To the west a horde of people press down on you
+~
+~
+0 -1 12604
+S
+#12606
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north a sign over the tent flaps insists that the proprietor sells
+"everything for the well dressed gentleman" while the tent to the south 
+looks as if someone randomly opened paint cans and splashed it's sides 
+with them.
+~
+0 0 1
+D0
+To the north you can see a gold and brown tent
+~
+~
+0 -1 12618
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12607
+D2
+To the south you can see a maroon tent
+~
+~
+0 -1 12727
+D3
+To the west you can see a crowded street
+~
+~
+0 -1 12605
+S
+#12607
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north you can see another section of what is probably road while 
+to the east and west crowds of people attempt to move past each other.
+~
+0 0 1
+D0
+To the north you can see a slightly less croweded sea of people
+~
+~
+0 -1 12650
+D1
+To the east you can see a crowd of people
+~
+~
+0 -1 12608
+D2
+To the south you can see a gold and black striped tent
+~
+~
+0 -1 12728
+D3
+To the west you can see a milling crowd
+~
+~
+0 -1 12606
+S
+#12608
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The tents appear small on the outside but judging by the crowds that are 
+streaming out of some of them, they must be much bigger on the inside.
+~
+0 0 1
+D0
+To the north you can see a blue and orange tent
+~
+~
+0 -1 12719
+D1
+To the east you can see a crowd of people 
+~
+~
+0 -1 12609
+D2
+To the south you can a horde of people headed your way
+~
+~
+0 -1 12651
+D3
+To the west you can see a huge milling crowd
+~
+~
+0 -1 12607
+S
+#12609
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Brilliantly colored tents surround you, and over head flags wave in the 
+air. A riot of color from the clothes of the many different beings 
+shoping here overwhelms you from all sides.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12610
+D1
+To the east you can see a huge crowd of people
+~
+~
+0 -1 12676
+D2
+To the south you can see a flood of people flowing toward you
+~
+~
+0 -1 12675
+D3
+To the west you can see hordes headed your way
+~
+~
+0 -1 12608
+S
+#12610
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the east the street is fairly wide, but in the distance you can see 
+the flags of various tents and hear the cries of hawkers
+To the west you can see a tent bearing a sign with a strange symbol on it
+~
+0 0 1
+D0
+To the north you can see a large group of people shoving their way 
+through the crowd.
+~
+~
+0 -1 12610
+D1
+To the east you can see a horde
+~
+~
+0 -1 12681
+D2
+To the south you can see a crowded street
+~
+~
+0 -1 12609
+D3
+To the west you can see a black and silver tent
+~
+~
+0 -1 12719
+E
+sign strange symbol~
+.
+                   ========================================
+                   |                                      |
+                   |                 ____________         |
+                   |               / |          /|        |
+                   |             /   |        /  |        |
+                   |            |------------|   |        |
+                   |            |            |   |        |
+                   |            |                |        |
+                   |            |            |   /        |
+                   |            |____________| /          |
+                   |                                      |
+                   ======================================== 
+~
+S
+#12611
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the east you can see a fairly wide street, packed with jostling 
+crowds. The beings pushing their way through the bazzar are all shapes, 
+sizes and only a few of them human looking in any way.
+To the west you can see a HUGE warrior (he realy is huge, he's taller 
+than the tent he's in front of).
+~
+0 0 1
+D0
+To the north you can see a large crowd
+~
+~
+0 -1 12611
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12682
+D2
+To the south you can see a crowded street
+~
+~
+0 -1 12610
+D3
+To the west you can see a jet black tent
+~
+~
+0 -1 12611
+S
+#12612
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the east you can see a fairly wide street and from somewhere around 
+you can smell a horrid stentch and hear the bellows of you aren't sure what
+~
+0 0 1
+D0
+~
+~
+0 -1 12613
+D1
+~
+~
+0 -1 12683
+D2
+~
+~
+0 -1 12611
+D3
+~
+~
+0 -1 12704
+S 
+#12613
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+From somewhere not too far away you can smell a horrible stench and to 
+the north you can see a fairly wide street full of beings.
+~
+0 0 1
+D0
+~
+~
+0 -1 12609
+D1
+To the east you can see many people
+~
+~
+0 -1 12687
+D2
+To the south you can see crowds
+~
+~
+0 -1 12612
+D3
+To the west you can see crowds
+~
+~
+0 -1 12614
+S
+#12614
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north you can see a fairly wide street, thick crowds of people and 
+in the distance the tops of the tents. From somewhere nearby you smell a 
+horrible stench
+~
+0 0 1
+D0
+To the north you can see a thick crowd
+~
+~
+0 -1 12652
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12613
+D3
+To the west you can see a crowded street
+~
+~
+0 -1 12615
+S
+#12615
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north the crowd prevents you from seeing much but to the south you 
+can see the entrance to a tent. A sign over the tent flap proclaims 
+"Dragons for sale"
+~
+0 0 1
+D0
+To the north you can see a thick crowd
+~
+~
+0 -1 12653
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12614
+D2
+To the south you can see the Dragon Sellers tent
+~
+~
+0 -1 12704
+D3
+To the west you can a crowded street
+~
+~
+0 -1 12616
+S
+#12616
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north the street stretches off into the distance, however to the 
+south you can see a blue tent with purple and orange stripes
+~
+0 0 1
+D0
+To the north the crowded street stretches off into the distance
+~
+~
+0 -1 12617
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12615
+D2
+To the south you can see a forbidding tent
+~
+~
+0 -1 12704
+D3
+To the west you can see a green tent with orange stripes
+~
+~
+0 -1 12699
+S
+#12617
+A packed plaza~
+This is a fairly large plaza, packed with beings of all shapes and sizes, 
+jostling for posistiong and trying to make their way past others intent 
+on the same thing.
+To the north, east, south and west the streets stretch off between the tents.
+~
+0 0 1
+D0
+To the north you can see a packed street full of bodies
+~
+~
+0 -1 12658
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12653
+D2
+To the south you can see a crowded street
+~
+~
+0 -1 12616
+D3
+To the west you can see a crowded street
+~
+~
+0 -1 12618 
+S
+#12618
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the south a green tent beckons to you and you notice a Deveel with a 
+large sword in hand standing just inside it
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12659
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12617
+D2
+To the south you can see a crowded street
+~
+~
+0 -1 12699
+D3
+To the west you can see a croweded street
+~
+~
+0 -1 12619
+S
+#12619
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the west you can see a tent covered in bright patches, while to the 
+north, east and south crowds of people push at you on the streets
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12644
+D1
+to the east you can see a crowded street
+~
+~
+0 -1 12618
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12620
+D3
+to the west you see a pathwork tent
+~
+~
+0 -1 12693
+S
+#12620
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12619
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12699
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12621
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12698
+S
+#12621
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north and south the crowds press at you from both sides while 
+colorfull tents beckon to you from the east and west
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12620
+D1
+To the east you can see a pink tent and smell something sweet
+~
+~
+0 -1 12702
+D2
+to the south you can see a crowded street
+~
+~
+0 -1  12622
+D3
+to the west you can see a golden tent with flapping flags
+~
+~
+0 -1 12707
+S
+#12622
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The street tees off to the north, west and south, packed with people and 
+screaming Deveels hawking their wares. To the east you can see a Royal 
+blue tent with silver trim
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12621
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12710
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12623
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12647
+S
+#12623
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north and south huge crowds of people push down on you however you 
+can see colorful tents to the east and west. 
+In front of the tent to the west you see a juggler, knives flashing 
+through the air.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12622
+D1
+To the east you can see to the east you can see a knife juggler
+~
+~
+0 -1 12717
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12604
+D3
+to the west you can see a light brown tent
+~
+~
+0 -1 12716
+S
+#12624
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Strange smells and flashes of light eminate from the tent to the east of 
+you, and once in a while you hear a muffled BOOM
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12604
+D1
+To the east you can see a tent that's making noises
+~
+~
+0 -1 12726
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12625 
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12725
+S
+#12625
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Colorful tents surround you and you stare at the one to the west. It is 
+made from fur. Various types of fur, in all shades of the rainbow, have 
+been stitched together in a crazy quilt to make the tent.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12624
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12730
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12626
+D3
+to the west you can see a tent made of fur patches
+~
+~
+0 -1 12729
+S
+#12626
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Wonderful smells drift to you from the tent to the east, but the crowd 
+just inside it make it almost impossible to go in.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12625
+D1
+To the east you can see a brown tent full of people
+~
+~
+0 -1 12635
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12627
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12634
+S
+#12627
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Colorful tents surround you and even though they seem small on the 
+outside, from the numbers of people streaming in and out of them, they 
+must be much larger on the inside.
+Deveels stand in the doorways or right out in the street, hawking their 
+wares and watching for anyone even the slightest bit interested in what 
+they have to offer
+To the east is a building with a giant yellow M over it
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12626
+D1
+To the east you can see a building with a giant yellow M over it
+~
+~
+0 -1 12739
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12734
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12628
+S
+#12628
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The people push at you from all sides and you continualy feel as if 
+someone had their hand in your pocket. A sea of colorful tents stretches 
+out on all sides of you, flags waving in the breezes
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12734
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12627
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12742
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12629
+S
+#12629
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Tents to the west and south beckon to you, a possible haven from the 
+crowded street
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12630
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12628
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12741
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12738
+S
+#12630
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Colorful tents surround you on all side and you find yourself watching in 
+amazement as things that look like snails emerge from one and slide off 
+down the street
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12631
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12734
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12629
+D3
+to the west you can see a a colorful tent
+~
+~
+0 -1 12733
+S
+#12631
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The crowd jostles you as you walk along, and you find yourself wishing 
+for just a bit of free space in which to breath or think
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12724
+D1
+To the east you can see a tent made of fur
+~
+~
+0 -1 12729
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12630
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12632
+S
+#12632
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Crowds hem you in on all sides, save for the tent to the south. Standing 
+in the door way of that tent is a Deveel whos hands are covered with huge 
+rings.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12633
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12631
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12733
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12672
+S
+#12633
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the west you can smell something delicious wafting from a tent the 
+color of pea soup.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12601
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1  12724
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12632
+D3
+to the west you can see a pea soup colored tent
+~
+~
+0 -1 12723
+S
+#12634
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the north the street stretches off into infinity, full of pushing, 
+shoving and swearing people. All around you are tents and busy Deveels, 
+all trying to be the one to get your entire budget spent on HIS tent alone.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12635
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12601
+D2
+to the south you can see a tent the color of pea soup
+~
+~
+0 -1 12723
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12679
+S
+#12635
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+A crowd of furry things, squawking in some alient tounge pushes past you 
+and you have to duck to avoid a low flying beast that zips over head
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12636
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12714
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12634
+D3
+to the west you can see a white tent with a red cross on it
+~
+~
+0 -1 12713
+S
+#12636
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The tent to the east catches your eye, because it seems to be made of 
+glass. Touching it, you are reassured it is fabric, but it LOOKS like 
+fine china
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12637
+D1
+To the east you can see a crystaline tent
+~
+~
+0 -1 12709
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12635
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12708
+S
+#12637
+A crowded intersection~
+Packed streets shoot off in all four directions and you stand amazed for 
+a bit at the bustle of life going on around you. Total confusion seems to 
+reign here, but the shoppers don't seem to notice it at all.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12638
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12645
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12636
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12686
+S
+#12638
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Trays of mounted rocks are posistioned outside the tent to the east, and 
+a Deveel hovers protectively over them
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12638
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12696
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12635
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12695
+S
+#12639
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the east you can see a number of rugs on the ground outside the tent
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1  12640
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12691
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12638
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12690
+S
+#12640
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Crowded streets are all you can see no matter what direction you look.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12664
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12641
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12639
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12666
+S
+#12641
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the south you can see a number of colorful rugs on the ground in front 
+of the tent. The owner doesn't seem to mind that his customers are 
+walking all over them.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12663
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12642
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12691
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12640
+S
+#12642
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+The tent to the south is decorated with bright flowers and pots of 
+flowers stand around its entrance
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12662
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12643
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12692
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12641
+S
+#12643
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+To the south of you, you can see a brillant yellow tent and to the north 
+the crowds bear down on from.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12661
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12644
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12693
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12642
+S
+#12644
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12660
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12659
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12619
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12643
+S
+#12645
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Colorful tents surround you to the north, east and south. 
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12686
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12700
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12609
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12637
+S
+#12646
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+From the tent to the north you can hear the strains of music, and to the 
+west you can see a tent that looks as if it was made of glass!
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12700
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12647
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12715
+D3
+to the west you can see a crystaline tent
+~
+~
+0 -1 12709
+S
+#12647
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+Colorful tents to the north and south catch your eye
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12707
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12622
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12716
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12646
+S
+#12648
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12703
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12649 
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12718
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12710
+S
+#12649
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12704
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12711
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12650
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12648
+S
+#12650
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12649
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12719
+D2
+to the south you can see  a crowded street
+~
+~
+0 -1 12607
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12618
+S
+#12651
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12608
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12675
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12652
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12728
+S
+
+#12652
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12651
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12674
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12613
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12653
+S
+#12653
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12728
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12652
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12614
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12654
+S
+#12654
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12727
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12653
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12654
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12730
+S
+#12655
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12654
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12614
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12656
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12735
+S
+#12656
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see  a crowded street
+~
+~
+0 -1 12655
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12668
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12657
+D3
+to the west you can see a large building with a giant, yellow M over it.
+~
+~
+0 -1 12739
+S
+#12657
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12656
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12667
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12658
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12744
+S
+#12658
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12657
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12664
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12617
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12659
+S
+#12659
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12744
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12658
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12618
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12660
+S
+#12660
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12743
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12659
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12644
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12661
+S
+#12661
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12742
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12660
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12643
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12662
+S
+#12662
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12741
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12661
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12642
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12663
+S
+#12663
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12740
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12662
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12641
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12664
+S
+#12664
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12665
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12663
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12640
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12690
+S
+#12665
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12737
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12740
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12664
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12666
+S
+#12666
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12736
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12665
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12690
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12667
+S
+#12667
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12668
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12666
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12689
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12657
+S
+#12668
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12669
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12736
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12667
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12656
+S
+#12669
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12670
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12731
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12688
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12688
+S
+#12670
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12721
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12671
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12669
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12673
+S
+#12671
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12722
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12672
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12731
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12670
+S
+#12672
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12723
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12632
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12732
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12671
+S
+#12673
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12720
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12670
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12688
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12674
+S
+#12674
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12675
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12673
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12683
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12652
+S
+#12675
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12676
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12720
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12674
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12651
+S
+#12676
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12681
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12677
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12675
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12651
+S
+#12677
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12712
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12678
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12720
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12676
+S
+#12678
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12680
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12679
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12721
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12677
+S
+#12679
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12713
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12634
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12722
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12678
+S
+#12680
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12707
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12713
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12678
+D3
+to the west you can see a colorful tent
+~
+~
+0 -1 12712
+S
+#12681
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12682
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12706
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12676
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12610
+S
+#12682
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12683
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12706
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12681
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12611
+S
+#12683
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12674
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12684
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12682
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12612
+S
+#12684
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12687
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12685
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12706
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12683
+S
+#12685
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12694
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12686
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12707
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12684
+S
+#12686
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a colorful tent
+~
+~
+0 -1 12695
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12637
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12708
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12685
+S
+#12687
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12688
+D1
+To the east you can see a colorful tent
+~
+~
+0 -1 12694
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12684
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12674
+S
+#12688
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12673
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12689
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12687
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12617
+S
+#12689
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12667
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12690
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12694
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12688
+S
+#12690
+Pushing through a crowded street~
+The street is very crowded. Between the crowds you can see the colorful 
+striped tents of the proprieters of this place. Loud noises and constant 
+racket make it impossible to think, let alone understand what anyone is 
+saying to you
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12666
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12635
+D2
+to the south you can see a colorful tent
+~
+~
+0 -1 12695
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12689
+S
+#12691
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Huge piles of rugs are stacked around the tent and you notice several 
+rugs seem to be hovering in the air
+
+At the south end of the tent you can see a tear in the fabric, as if one 
+of the deveels customers tried to leave the wrong way on a less that well 
+controled carpet.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12641
+D2
+To the south there is a tear in the fabric of the tent.
+~
+~
+0 -1 3001
+S
+#12692
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Urns full of different colored flowers stand around the tent and the 
+smell of their perfume fills the air
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12642
+S
+#12693
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Glass cases stand around the tent, filled with shiny, golden and silver 
+objects of all kinds
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12643
+S
+#12694
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Casks of wine and racks of bottles lead you to believe that this Deveel 
+dabbles in spirts of the liquid kind
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12689
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12685
+S
+#12695
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A long table holds many neckalce trees, all of which are draped with 
+shiny, colorful, beaded loops.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12690
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12686
+S
+#12696
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Glass cases stand around the room, full of different sorts of rocks. Some 
+are rough, uncut but some have been polished and shine in the light
+~
+0 0 1
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12638
+S
+#12698
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Huge piles of folded cloth are placed carefully around the tent, and 
+several mankins stand near the entrance, proudly displaying the capes 
+that this Deveel sells
+~
+0 0 1
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12620
+S
+#12699
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Tall wooden racks hold swords for sale. There are all types mounted on 
+the racks, from whisper thin rapiers to monsters that would take all your 
+strength just to pick up.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12618
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12616
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12620
+S
+#12700
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Sweet music fills the air and as you look around, you can see many 
+different lutes on stands.
+~
+0 0 1
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12645
+S
+#12701
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Glass cases with moving shelves display hundreds of rings. The light 
+catches on them as the shelves move and sparkles invitingly.
+~
+0 0 1
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12621
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12647
+S
+#12702
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A wonderfull smell assails your nose. This Deveel sells doughnuts and 
+they not only smell wonderfull but also look deliscious.
+~
+0 0 1
+D1
+To the east you can see
+~
+~
+0 -1 12621
+S
+#12703
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A shady looking Deveels looks you up and down.
+~
+0 0 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12616
+
+S
+#12704
+A cage full of dragons~
+The cage in front of you is full of dragons. Huge dragons, small dragons, 
+and all kinds of colors of dragons. They have pretty hefty price tags on 
+them too, but if you want one, you can probably buy one.
+~
+0 DM 1
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12615
+D1
+~
+~
+1 0 12704
+S
+#12705
+this is where the dragons are kept~
+It is necessary that the dragons are kept in this room or the shopkeeper 
+won't be able to sell them
+~
+0 D 1
+S
+#12706
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Tall poles stand around the room, each hung with bright, shiny braceletes 
+in various sorts of materials and colors
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12684
+D3
+To the west you can see a crowded street
+~
+~
+0 -1 12682
+S
+#12707
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All around the tent you can see piles of leather and cloth bags, pouches, 
+and other types of personal luggage
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12685
+S
+#12708
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Hundreds of belts, all lengths and colors, hang from poles and racks 
+around the tent
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12686
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12636
+S
+#12709
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Shelves around the tent contain many different types of glass items. Some 
+look like bottles, some pieces are obviously decrative, and some you're 
+not sure what their use is.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12645
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12646
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12636
+S
+#12710
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Hanging from racks are many different robes. Some are thick and heavy 
+while some appear to be made from a substance akin to smoke.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12648
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12622
+S
+#12711
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A rough looking Deveel glares at you and puts his hand on his sword
+~
+0 0 0
+D1
+To the east you can see a crwoded street
+~
+~
+0 -1 12611
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12649
+S
+#12712
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All around the tent are glass cases full of bright, shiny objects of many 
+colors.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12681
+S
+#12713
+Inside a white tent~
+A man wearing a long white jacket and glasses is busily examining someone 
+seated on a stool. All around the tent you can see shelf units with 
+locked doors and tables covered with white paper. An antisceptic smell 
+permiates the air.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12635
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12679
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12680
+S
+#12714
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Several huge freezer chests stand around the room, their contents 
+obviously in need of the colder temperatures
+~
+0 0 0
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12601
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12635
+S
+#12715
+Inside an empty tent~
+This tent is empty, which is disturbing because in this neighborhood, 
+empty probably only means trouble (not that trouble isn't lurking around 
+the corner anyway).
+~
+0 0 0
+D0
+To the north you can see crowded street
+~
+~
+0 -1 12646
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12602
+S
+#12716
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Piles of tubes are stacked neatly around the tent and maps of various 
+types hang from standing racks.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12647
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12623
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12603
+S
+#12717
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Tall cases with locked glass doors stand around the room, proudly 
+displaying the items this Deveel has for sale.
+~
+0 0 0
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12605
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12623
+S
+#12718
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All over the tent you can see shelves full folded pants. Some of them 
+appear to be made from cloth but others....???
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12648
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12650
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12606
+S
+#12719
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Stacked around the tent are piles of boxes. Small boxes, large boxes, 
+tall skinny boxes, hundreds of boxes.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12610
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12608
+S
+#12720
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A clinking sound fills the air and you notice that a number of racks 
+around the tent are filled with rolls of chain. Thick steel chains, thin 
+gold chains, a chain for any occasion.
+~
+0 0 0
+D0
+To the north you can see crowded street
+~
+~
+0 -1 12720
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12673
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12675
+S
+#12721
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Shelves around the tent hold heads (fake heads) each displaying a 
+different kind of helm. Some look very heavy (but sturdy) and some you're 
+not real sure about
+~ 
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12628
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12670
+S
+#12722
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A number of dim bookshelves clamor for your attention, their contents 
+appearing old and musty, but full of strange adventures and knowledge
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12679
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12671
+S
+#12723
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A wonderfull smell hits your nostrils as you walk through the tent flap 
+and you realize that you have entered a soup kitchen. Pots of soups cook 
+happily all around the tent and in the back you can hear the din of 
+people talking.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12634
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12633
+D2
+to the south you can see crowded street
+~
+~
+0 -1 12672
+S
+#12724
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Racks and racks of many colored shirts block your way.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12602
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12631
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12633
+S
+#12725
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Racks of long cloaks of many different types of fabrics are arranged 
+neatly around the tent.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12603
+D1
+to the east you can see a crowded street
+~
+~
+0 -1 12631
+S
+#12726
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A strange smell fills the air and you can see a table in the back of the 
+tent covered with strange apparatis. Standing around the tent are shelves 
+of colored bottles and vials, full of who knows what kind of liquids.
+~
+0 0 0
+D0
+To the north you can see you see a croweded street
+~
+~
+0 -1 12605
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12624
+S
+#12727
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A rack of paper to the right of the tent draws you eye. Near it stands a 
+rack of colored inks and a shelf full of paints. Other types of artist 
+equipment are displayed in cases around the room.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12606
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12654
+S
+#12728
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Racks of hats, all shapes and sizes, fill this tent. Some are plain, some 
+so decrated that you almost can't see the hat and some are just plain 
+strange.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12607
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12651
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12653
+S
+#12729
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All around the tent you can see piles of fur. Small pelts hang over rods 
+and large ones are hung from hooks.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12625
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12631
+S
+#12730
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Jackets of all shapes and sizes (and colors) hang on display racks and 
+are arranged on manikins for you to look at.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12654
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12625
+S
+#12731
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A tightly locked glass case catches your eye in the back of the tent. It 
+is filled with strange baubles that hang from glittering chains, and the 
+Deveel that runs this place looks very nervous when you get a bit too close.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12671
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12669
+S
+#12732
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Slanted shelves full of shoes and boots catch your eye. There must be 
+hundreds of pairs of shoes in this tent, even tough from the outside it 
+barely looks big enough to hold you and the Deveel.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12672
+S
+#12733
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Cases of rings gleem in the light and you notice that most of them are 
+kept safe under lock and key, although a few are displayed in a tray on 
+top of the one table in the tent.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12632
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12630
+S
+#12734
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Tables are scattered all around this tent, their tops covered with trays 
+and small racks hung with watches.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12626
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12630
+S
+#12735
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+A long table blocks your way to the back of the tent, but you don't mind, 
+because behind the table you can see several small, Deveel like people 
+buisily making sandwiches.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12656
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12626
+S
+#12736
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Tall cylinders of heavy leather serve to hold staves upright, displaying 
+the carvings and other art work upon them.
+~
+0 0 0
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12666
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12668
+S
+#12737
+Inside a Deveels Tent~
+This tent is blazing with light (which you couldn't see from the street). 
+All around it there are lamps, lanterns, glowing containers and other 
+sorts of things.
+~
+0 0 0
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12665
+S
+#12738
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Glass cases hold long, thin boxes of many different colors. Several are 
+open to reveal they contain wands.
+~
+0 0 0
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12629
+S
+#12739
+The Yellow Crescent Inn~
+Welcome to Deva's most famous resturant (even if Skeeve hasn't figured it 
+out yet). Here you can purchase all sorts of food and drink (well, they 
+CLAIM it's food and drink) from Gus the friendly Gargoyal behind the counter.
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12656
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12627
+S
+#12740
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All around the tent you can see tall poles, with whips of various lenght 
+hanging from them. Some are HUGE and probably for controling the unruly 
+dragon (yeah right, who'd wanna be near an unruly dragon?) but the rest 
+are much more normal length.
+~
+0 0 0
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12663
+D3
+to the west you can see a crowded street
+~
+~
+0 -1 12665
+S
+#12741
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Shelves placed tastefully around the tent hold many sets of gloves, some 
+made from fine material, and some obviously for work purposes.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12629
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12662
+S
+#12742
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Hanging from several racks you notice a large number of belts. Most of 
+them are made from leather, but a few you're not too sure of.
+~
+0 0 0
+D0
+To the north you can see a crowded street
+~
+~
+0 -1 12628
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12661
+S
+#12743
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+Bright colors catch your eye from the many different capes that hang on 
+racks around the room.
+~
+0 0 0
+D0
+to the north you can see a crowded street
+~
+~
+0 -1 12627
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12660
+S
+#12744
+Inside a Deveels Tent~
+You are standing inside a fairly dimly lit tent. All around you, you get 
+the impression of stuff, but it's not very easy to make out just what you 
+are looking at.
+All around the tent you can see many different shields. Some of them look 
+like they wouldn't turn a fly, but a number of them look to be in realy 
+good shape
+~
+0 0 0
+D1
+To the east you can see a crowded street
+~
+~
+0 -1 12657
+D2
+to the south you can see a crowded street
+~
+~
+0 -1 12659
+S
+#0
+
+
+#RESETS
+D 0 12704 1 1
+M 0 12613 1 12705                   put dragon in cage
+M 0 12614 1 12705
+M 0 12615 1 12705
+M 0 12616 1 12705
+M 0 12617 1 12705
+M 0 12618 1 12705
+M 0 12619 1 12705
+M 0 12620 1 12705
+M 0 12621 1 12705
+M 0 12622 1 12705
+M 0 12623 1 12705
+M 0 12624 1 12705
+M 0 12625 1 12705
+*
+M 0 12601 1 12604                  put Aahz on the streets
+*
+M 0 12602 1 12604                  put Skeeve with Aahz
+*
+M 0 12603 1 12637                  put Chumly on the street
+*
+M 0 12604 1 12637                  put Tananda with Chumly
+*
+M 0 12605 1 12622                  put Quigley on a street
+*
+M 0 12611 1 12686                  put Queen Hemlock on the streets
+*
+M 0 12606 30 12605                    put tiny Deveels on streets
+M 0 12606 30 12608
+M 0 12606 30 12612
+M 0 12606 30 12616
+M 0 12606 30 12645
+M 0 12606 30 12640
+M 0 12606 30 12637
+M 0 12606 30 12637
+M 0 12606 30 12677
+M 0 12606 30 12675
+M 0 12606 30 12671
+M 0 12606 30 12667
+M 0 12606 30 12663
+M 0 12606 30 12658
+M 0 12606 30 12628
+M 0 12606 30 12633
+M 0 12606 30 12674
+M 0 12606 30 12622
+M 0 12606 30 12646
+M 0 12606 30 12648
+M 0 12606 30 12685
+M 0 12606 30 12681
+M 0 12606 30 12630
+M 0 12606 30 12679
+M 0 12606 30 12619
+M 0 12606 30 12664
+M 0 12606 30 12675
+M 0 12606 30 12626
+M 0 12606 30 12623
+M 0 12606 30 12641
+*
+M 0 12607 10 12637                  put small Deveels on the streets
+M 0 12607 10 12671
+M 0 12607 10 12608
+M 0 12607 10 12620
+M 0 12607 10 12666
+M 0 12607 10 12688
+M 0 12607 10 12638
+M 0 12607 10 12654
+M 0 12607 10 12603
+M 0 12607 10 12680
+*
+M 0 12608 10 12602                put medium deveels on the streets
+M 0 12608 10 12637
+M 0 12608 10 12685
+M 0 12608 10 12626
+M 0 12608 10 12669
+M 0 12608 10 12651
+M 0 12608 10 12623
+M 0 12608 10 12636
+M 0 12608 10 12688
+M 0 12608 10 12647
+*
+M 0 12609 10 12602                     huge Deveels on streets
+M 0 12609 10 12605
+M 0 12609 10 12612
+M 0 12609 10 12616
+M 0 12609 10 12623
+M 0 12609 10 12677
+M 0 12609 10 12672
+M 0 12609 10 12684
+M 0 12609 10 12658
+M 0 12609 10 12664
+
+*
+M 0 12610 10 12669                       Giant Deveels on streets
+M 0 12610 10 12655
+M 0 12610 10 12690
+M 0 12610 10 12619
+M 0 12610 10 12685
+M 0 12610 10 12611
+M 0 12610 10 12650
+M 0 12610 10 12678
+M 0 12610 10 12610
+M 0 12610 10 12630
+*
+
+
+
+*
+M 0 12691 1 12691                  put shopkeepers in their stores
+G 0 12601 -1                      give rugs
+G 0 12609 -1                    
+*
+M 0 12692 1 12692       
+G 1 12611 -1
+G 1 12612 -1
+G 1 12613 -1
+G 1 12615 -1
+*
+M 0 12693 1 12693
+G 1 12614 -1                     give trinkets
+G 1 12616 -1
+G 1 12617 -1
+G 1 12618 -1 
+G 1 12619 -1
+G 1 12620 -1
+G 1 12621 -1
+*
+M 0 12694 1 12694
+G 1 12622 -1                      give beer and wine
+G 1 12623 -1
+G 1 12624 -1
+G 1 12625 -1
+G 1 12626 -1
+G 1 12627 -1
+*
+M 0 12695 1 12695
+G 1 12628 -1                     Give necklaces
+G 1 12629 -1
+G 1 12630 -1
+G 1 12631 -1
+G 1 12632 -1
+G 1 12633 -1
+*
+M 0 12696 1 12696
+G 1 12634 -1                      give rocks
+G 1 12635 -1
+G 1 12636 -1
+G 1 12637 -1
+G 1 12638 -1
+*
+M 0 12698 1 12698
+G 1 12639 -1                      give capes
+G 1 12640 -1
+G 1 12641 -1
+G 1 12642 -1
+G 1 12643 -1
+G 1 12644 -1
+*
+M 0 12699 1 12699
+G 1 12645 -1                       give swords
+G 1 12646 -1
+G 1 12647 -1
+G 1 12651 -1
+G 1 12652 -1
+G 1 12653 -1
+*
+M 0 12700 1 12700
+G 1 12654 -1                        give instruments
+G 1 12655 -1
+G 1 12656 -1
+G 1 12657 -1
+G 1 12658 -1
+G 1 12659 -1
+*
+M 0 12701 1 12701
+G 1 12660 -1                       give rings
+G 1 12661 -1
+G 1 12662 -1 
+G 1 12663 -1
+G 1 12665 -1
+G 1 12666 -1
+G 1 12667 -1
+*
+M 0 12702 1 12702
+G 1 12668 -1                          give doughnuts
+G 1 12669 -1
+G 1 12670 -1
+G 1 12671 -1
+G 1 12672 -1
+M 0 12704 1 12704                     dragon shop (make some dragons)
+*
+M 0 12706 1 12706
+G 1 12673 -1                         give bracelets
+G 1 12674 -1
+G 1 12675 -1
+G 1 12676 -1
+G 1 12677 -1
+G 1 12678 -1
+G 1 12679 -1
+*
+M 0 12707 1 12707
+G 1 12680 -1                     give packs
+G 1 12681 -1
+G 1 12682 -1
+G 1 12683 -1
+G 1 12684 -1
+G 1 12685 -1
+*
+M 0 12708 1 12708
+G 1 12686 -1                          give belts
+G 1 12687 -1
+G 1 12688 -1
+G 1 12689 -1
+G 1 12690 -1
+*
+M 0 12709 1 12709
+G 1 12691 -1                          give glass
+G 1 12692 -1
+G 1 12693 -1
+G 1 12694 -1
+G 1 12695 -1
+G 1 12696 -1
+*
+M 0 12710 1 12710
+G 1 12697 -1                            give robes
+G 1 12698 -1
+G 1 12699 -1
+G 1 12700 -1
+G 1 12701 -1
+*
+M 0 12712 1 12712 
+G 1 12702 -1                           give trinkets
+G 1 12703 -1
+G 1 12704 -1
+G 1 12705 -1
+G 1 12706 -1
+M 0 12714 1 12714
+G 1 12707 -1                           give ice cream
+G 1 12708 -1
+G 1 12709 -1
+G 1 12710 -1
+G 1 12711 -1
+G 1 12712 -1
+G 1 12713 -1
+M 0 12717 1 12717
+G 1 12714 -1                        give knives
+G 1 12715 -1
+G 1 12716 -1
+G 1 12717 -1
+G 1 12718 -1
+G 1 12719 -1
+*
+M 0 12718 1 12718
+G 1 12720 -1                       give pants
+G 1 12721 -1
+G 1 12722 -1
+G 1 12723 -1
+G 1 12724 -1
+G 1 12725 -1
+*
+M 0 12719 1 12719
+G 1 12726 -1                       give boxes
+G 1 12727 -1
+G 1 12728 -1
+G 1 12729 -1
+*
+M 0 12720 1 12720
+G 1 12730 -1                     give chains
+G 1 12731 -1
+G 1 12733 -1
+*
+M 0 12721 1 12721
+G 1 12734 -1                      give helms
+G 1 12735 -1
+G 1 12736 -1
+G 1 12737 -1
+G 1 12738 -1
+*
+M 0 12722 1 12722
+G 1 12739 -1                       give books
+G 1 12740 -1
+G 1 12741 -1
+G 1 12742 -1
+G 1 12743 -1
+G 1 12744 -1
+G 1 12745 -1
+*
+M 0 12723 1 12723
+G 1 12746 -1                          give soup
+G 1 12747 -1
+G 1 12748 -1
+G 1 12749 -1
+G 1 12750 -1
+*
+M 0 12724 1 12724
+G 1 12751 -1                              give shirts
+G 1 12752 -1
+G 1 12753 -1
+G 1 12754 -1
+G 1 12755 -1
+G 1 12756 -1
+*
+S
+
+
+
+#SHOPS
+12691 9 8 12 13 15   150  10      0 23         ;rug seller
+12692 1 2 3 4 10     225  25      0 23         ;flower seller
+12693 0 0 0 0 0      125  50      0 23         ;trinkets
+12694 0 0 0 0 0      250 10       0 23         ;beer/wine
+12695 0 0 0 0 0      130  25      0 23         ;necklaces
+12696 0 0 0 0 0      110  75      0 23         ;rocks
+12698 0 0 0 0 0      350  25      0 23         ;capes
+12699 0 0 0 0 0      210  45      0 23         ;swords
+12700 0 0 0 0 0      1000 80      0 23         ;lutes
+12701 0 0 0 0 0      220  15      0 23         ;rings
+12702 0 0 0 0 0      105  100     0 23         ;doughnuts
+12704 0 0 0 0 0      750  100     0 23         ;pet dragons
+12706 0 0 0 0 0      125  15      0 23         ;bracelets
+12707 0 0 0 0 0      150  25      0 23         ;packs
+12708 0 0 0 0 0      135  45      0 23         ;belts
+12709 0 0 0 0 0      550  75      0 23         ;glassware
+12710 0 0 0 0 0      260  45      0 23         ;robes
+12712 0 0 0 0 0      110  35      0 23         ;trinkets
+12714 0 0 0 0 0      115  100     0 23         ;ice cream
+12716 0 0 0 0 0      350  25      0 23         ;maps
+12717 0 0 0 0 0      135  65      0 23         ;knives
+12718 0 0 0 0 0      140  70      0 23         ;pants
+12719 0 0 0 0 0      105  65      0 23         ;boxes
+12720 0 0 0 0 0      550  35      0 23         ;chains
+12721 0 0 0 0 0      235  65      0 23         ;helms
+12722 0 0 0 0 0      145  65      0 23         ;books
+12723 0 0 0 0 0      110  10      0 23         ;soup
+12724 0 0 0 0 0      135  25      0 23         ;shirts
+0
+
+
+
+#SPECIALS
+M 12611 spec_cast_mage
+M 12602 spec_cast_mage               
+M 12604 spec_thief
+M 12713 spec_cast_adept
+S
+
+
+
+#$

@@ -1,0 +1,2651 @@
+#AREA {25 99} Duan    City of Chang'an~
+
+#MOBILES
+
+#26000
+carpenter~
+A carpenter~
+A carpenter is busy fixing the wall and the southeastern tower.
+~
+This man is a middle aged carpenter who seems to know what he is doing.
+He is working as fast as he can to fix the crack in the city wall before 
+the deadline given by the supervisor.
+~
+human~
+BA 0 0 S
+30 4 150d3+10 1d1+29 5d6+5 7
+-2 -2 -2 -2
+EFKN ALQ 0 0
+8 8 1 150
+0 0 M 0
+
+#26001
+supervisor~
+An imperial supervisor~
+An imperial supervisor is yelling at the workers.
+~
+This supervisor looks angry.  He is extremely mad at the order of fixing the
+city wall by the next day  and can't do anything besides scream at the
+workers and swear out loud.
+~
+human~
+QBA Taa -100 S
+35 5 200d2+10 1d2+38 5d6+5 1
+-4 -4 -4 -4
+EN ALQ 0 0
+8 8 1 180
+0 0 M 0
+
+#26002
+xiao zhu~
+A Xiao Zhu~
+A xiao zhu is patrolling around every corner of the city.
+~
+The well trained city guard is walking around and scanning for intruders.  It
+looks like he is looking for a fight or to capture an intruder so he can 
+rise in rank.  You should think twice before attacking him, he is not the 
+type who will let you go easily.
+~ 
+human~
+TGA aa 0 S
+38 6 350d2+50 1d1+29 5d6+10 3
+-7 -7 -7 -7
+UEDFKN ALQ 0 0
+8 8 1 200
+0 0 L 0
+
+#26003
+defender zhang fei~
+Zhang Fei~
+Zhang Fei stands before you and stares at you.
+~
+A dark skinned man standing well over seven feet tall is staring at you. 
+His red glowing eyes are making you uncomfortable; a chill passes through you
+as you look straight into his eyes.  With his Mao in hand, he can kill anyone
+who comes into his sight.  He seems hot tempered.
+~
+human~
+BTA HTVaa 900 S
+95 8 7500d1+0 1d1+39 6d7+10 11
+-80 -80 -80 -80
+DEFKN ABLQE D K
+8 8 1 400
+0 0 G 0
+
+#26004
+emperor liu bei~
+Liu Bei~
+Liu Bei's unusual features attract your attention.
+~
+This legendary hero has the most interesting characteristics.  His incredible
+long arms extends beyond his knees; his huge ears rest on his broad shoulders.
+He looks to be kind, but you sense trickery in his words.  Beware!
+~
+human~
+BTQA HTVaa 0 S
+80 10 5000d1+0 5d10+15 7d5+25 1
+-65 -65 -65 -65
+AEFKN ABELQ C D
+8 8 1 600
+0 0 H 0
+
+#26005
+gambler~
+A drunk gambler~
+A drunk gambler wants to borrow more money.
+~
+This gambler lost all of his things, but he still wants to gamble.  He thinks
+there is a chance to win everything back.  He already wrote out several IOU's
+for about 1 million yuan.
+~
+human~
+BAC 0 -200 S
+30 4 400d1+15 5d8+15 6d4+5 17
+0 0 0 0
+0 0 0 0
+8 8 1 50
+0 0 M 0
+
+#26006
+winner gambler~
+A gambler who's winning~
+The gambler can't stop smiling.
+~
+This gambler is winning every turn.  This is his day; he doesn't want to stop.
+He has already been here for the past 24 hours and almost cleaned out
+everyone's pocket in the gambling hall.
+~
+human~
+CAB 0 -300 S
+32 5 400d1+15 5d9+10 5d5+5 7
+-1 -1 -1 -1
+0 0 0 0
+8 8 1 2000
+0 0 M 0
+
+#26007
+personal guard lu bu~
+Lu Bu~
+Lu Bu holds his Fang-tian-hua-ji in hand and willing to fight to death.
+~
+Lu Bu is the adopted son of Dong Zhuo and also his personal guard.  Lu Bu
+stands well over seven feet tall; his Fang-tian-hua-ji (spear) is about
+70 lbs.  He awaits instructions from Dong Zhuo and guards the entrance
+to Dong Zhuo's private study.  You feel like Lu Bu can't be trusted.
+~
+human~
+BTA HV -700 S
+110 8 8000d1+500 6d13+20 8d7+15 11
+-85 -85 -85 -85
+DEFK ABLQ 0 0
+8 8 1 500
+0 0 H 0
+
+#26008
+personal guard guan yu~
+Guan Yu~
+Guan Yu is holding his big knife in hand and waiting for a fight.
+~
+Guan Yu's big knife weights about 90 lbs.  The knife's true name is
+Qing-long-yan-yue-dao (blue dragon, moon-shaped knife).  Guan Yu's long,
+purple beard is covered with a special bag, a gift from the emperor.  As
+you look into his eyes, you feel that he can't be touched.  He has the
+absolute confidence of winning every single combat.
+~
+human~
+BQTA HVaa 700 S
+105 12 7800d1+20 7d13+10 8d6+25 25
+-83 -83 -83 -83
+DEFKN ABELQ 0 0
+8 8 1 600
+0 0 H 0
+
+#26009
+general zhao yun~
+Zhao Yun~
+Zhao Yun, wearing pure white armor, stands six feet tall with dignity.
+~
+Zhao Yun, one of most trusted generals of Emperor Liu Bei, is currently
+in command of Chang'an.  He works day and night protecting not only the
+emperor but the common people.  His righteousness is well known throughout
+the lands; many enemies will flee just seeing his banner.
+~
+human~
+BQRTA HTVaa 1000 S
+100 13 7000d1+250 8d12+20 7d7+25 11
+-80 -80 -80 -80
+HDEFKN ABLQ C 0
+8 8 1 700
+0 0 H 0
+
+#26010
+dong zhuo~
+Dong Zhuo~
+Dong Zhuo is plotting something against the emperor.
+~
+Dong Zhuo is a very devious man.  He bribed Lu Bu to become his adopted son.
+Using Lu Bu's talents in war, Dong Zhuo is plotting a coup sometime in the
+near future.  He always had the dream of becoming emperor one day.
+~
+human~
+BFTA H -1000 S
+97 8 6000d1+100 6d11+5 6d8+15 0
+-70 -70 -70 -70
+EN ABLQ 0 C
+8 8 1 1000
+0 0 H 0
+
+#26011
+merchant~
+A merchant~
+A merchant came to Chang'an to sell his goods.
+~
+The merchant is a very wealthy man.  He is dressed in the finest silk robes
+one can find in Chang'an.  His wagon looks new and the horses are the best
+breed.  He is trying to get everyone to buy his goods so he can get rich and
+rob you every single penny you worked hard for.
+~
+human~
+CGHA P 0 S
+30 7 600d1+15 1d1+49 5d4+15 7
+0 0 0 0
+DE 0 0 0
+8 8 1 400
+0 0 M 0
+
+#26012
+chinese man~
+A Chinese man~
+A Chinese man is walking around and humming some weird song.
+~
+This is a middle-aged man who seems like he has worked hard throughout 
+his life.  Experiences show up on his forehead as deep folds.  He seems 
+friendly.
+~
+human~
+GHA 0 0 S
+28 6 200d2+50 1d1+29 6d4+10 8
+1 1 1 2
+ENI 0 0 0
+8 8 1 200
+0 0 M 0
+
+#26013
+chinese woman~
+A Chinese woman~
+A Chinese woman dressed in a red silk robe wanders by.
+~
+The Chinese lady is well dressed.  She goes to the market place every day to
+buy fresh vegetables and meat for her family.  Every morning, she gets up
+before sunrise.  Therefore, she is not really in her best mood.
+~
+human~
+GHA 0 0 S
+28 6 210d2+55 1d1+59 6d3+15 16
+2 1 2 1
+ENI 0 0 0
+8 8 2 250
+0 0 M 0
+
+#26014
+eunuch~
+A sad eunuch~
+A sad eunuch runs past you as he answers the call of his master.
+~
+The eunuch is from a very poor family.  To survive the harsh facts of life,
+he had to become an eunuch.  Now, he has wealth and more than enough food, but
+he can't be happy.  He has no family or friends; the worst thing is to wake
+up to the call of the master at three o'clock in the morning.
+~
+human~
+GHA 0 -50 S
+25 5 300d1+50 1d1+9 5d5+10 10
+3 3 3 4
+NI 0 0 0
+8 8 0 200
+0 0 M 0
+
+#26015
+foreign merchant~
+A foreign merchant~
+The foreign merchant has traveled far and came to trade for silk.
+~
+This foreign merchant is wearing Arabic attire.  He must have come from 
+Persia and traveled through the high plateau of Tibet and the dry desert 
+of Qin Hai.  He seems to be skilled in sword fighting.
+~
+human~
+GA 0 0 S
+30 7 550d1+55 1d1+69 6d5+10 7
+0 0 1 0
+DE 0 0 0
+8 8 1 400
+0 0 M 0
+
+#26016
+chinese boy~
+A Chinese boy~
+The Chinese boy is happily running on the streets.
+~
+The small Chinese boy is dressed like a beggar and looking at everything
+that's valuable.  You should watch your wallets!  He can put his hands on
+anything if you don't watch your things.
+~
+human~
+GHA P 0 S
+25 5 350d1+15 1d1+19 5d5+10 2
+2 3 3 3
+FKN 0 0 0
+8 8 1 100
+0 0 S 0
+
+#26017
+chinese girl~
+A Chinese girl~
+The Chinese girl is shy.  She sits quietly on the side of the street and
+watches everyone passing by.
+~
+She turns away as you try to look at her.  You only can see her beautiful,
+long, black hair flowing in the wind.  She is too innocent to understand the
+evil world.
+~
+human~
+GHA 0 0 S
+25 5 300d1+15 1d2+18 5d5+10 16
+3 2 2 3
+FKN 0 0 0
+8 8 2 100
+0 0 S 0
+
+#26018
+qin long~
+Qin Long~
+The statue of Qin Long, the weirdest God in history, is standing here.
+~
+"It's not polite to look at a GOD!"  The voice of Qin Long completely freezes
+you.  You don't know what to do, your legs seem to be stuck.  "What a wimp,"
+as Qin Long laughs at your face.  As you look at him again, you realize he
+is very young.  You are furious at what he has just done, but his powers are 
+greater than any god who came before him.  He is a great joker.
+~
+human~
+BOQRTA BHQTVaa -100 S
+150 15 9980d1+20 500d10+50 6d6+15 8
+-135 -135 -135 -135
+ACDEFKNIH ABCLQ 0 0
+8 8 1 1500
+0 0 G 0
+
+#26019
+shaolin monk~
+A Shaolin Monk~
+A Shaolin Monk is concentrating on his meditation techniques.
+~
+This Shaolin monk devoted all his life to faith.  He lived in this monastery
+for most of his life.  He is desperately trying to reach enlightenment, so he
+can be freed from all the worldly possessions.  The skinny body of his seems
+falling apart.  But he is determined and mentally prepared for everything.
+~
+human~
+BQA T 0 S
+65 9 1500d2+400 5d10+20 25d1+10 17
+-35 -35 -35 -35
+FKN A C 0
+6 6 1 50
+0 0 M 0
+
+#26020
+peasant farmer~
+A peasant farmer~
+A peasant farmer is dressed in shabby cloth and wearing a cone-shaped hat.
+~
+As you examine him head to toe, you notice he is a hard working man.  The
+sun has darkened his skin and built his endurance.
+~
+human~
+GA 0 0 S
+27 4 400d2+50 1d1+49 4d6+15 0
+3 3 3 3
+IN Q I 0
+8 8 1 100
+0 0 M 0
+
+#26021
+zhuge liang~
+Zhu-ge Liang~
+Zhu-ge Liang is sitting in his wooden cart, peacefully waving his fan 
+made of white bird feather.
+~
+Zhu-ge Liang has never lost any battle to anyone.  Many think that he has
+extra senses to predict the movements of the enemy.  One of his friends said
+if anyone can get him as an advisor, he will hand the whole world to you.  He
+is young but not without experience.
+~
+human~
+BRTA HTV 1000 S
+100 8 8500d1+150 8d10+20 10d3+20 11
+-90 -90 -90 -90
+EFKNI ABLQ 0 0
+8 8 1 500
+0 0 L 0
+
+#26022
+thief~
+A thief~
+A man dressed in black is lurking in the shadows searching through the crowds
+for his next victim.
+~
+He is dressed in black and up to no good.  He is very quick.
+~
+human~
+CGS QPV -200 S
+31 6 550d1+25 1d1+39 6d4+15 2
+0 3 2 1
+EFNH L B 0
+8 8 1 100
+0 0 M 0
+
+#26023
+victim~
+An angry victim~
+A victim who has been robbed all of his money.
+~
+He looks extremely angry.  He says "`PBeware of the thieves.``"
+~
+human~
+GU aa 100 S
+33 5 600d1+15 1d1+39 5d4+10 7
+2 0 2 1
+DNIH B EA 0
+8 8 1 0
+0 0 M 0
+
+#26024
+cat~
+A cute cat~
+A cat is running on the street.
+~
+A harmless creature.
+~
+cat~
+GS JP -50 S
+20 6 450d1+20 1d1+9 6d3+10 10
+5 5 5 5
+FH Q I L
+8 8 0 0
+0 0 S 0
+
+#26025
+elite guard~
+An elite guard~
+An elite guard is walking around making sure everything is fine.
+~
+A well trained soldier stands before you.  He will do anything to keep the
+streets safe for the citizens and the foreigners who are here for business.
+~
+human~
+GT T 0 S
+41 7 1000d1+20 1d1+49 7d2+15 3
+-15 -15 -15 -15
+EFNU ALQ E 0
+8 8 1 300
+0 0 L 0
+
+#26026
+shi wei~
+A Shi Wei~
+A shi wei is wearing shining armor and is 100% alert.
+~
+He looks very well trained and disciplined and ready for a fight.  His main
+duty is to protect the emperor and high ranking officials.  He is well trained
+in wu shu, a Chinese martial art.  His years of experience have made him a 
+permanent member of the team who guards the inner city of Chang'an.
+~
+human~
+GT TJ 10 S
+76 8 4000d1+25 1d1+39 5d5+15 7
+3 2 2 2
+DKNIU ALQ BE 0
+8 8 1 350
+0 0 L 0
+
+#26027
+qi ling stone statue~
+A stone statue of Qi Ling~
+A stone statue of Qi Ling guards the entrance to the palace.
+~
+The statue is a mystical animal that looks like a lion, but has dragon 
+scales.  It will not attack you unless provoked.  It's believed that this 
+creature will bring luck and divine favors from the gods.
+~
+human~
+BQT DFJZTaa 50 S
+50 9 2560d1+50 10d4+60 5d5+15 18
+-75 -75 -75 -75
+ODEFKNIH ABLQ IEH 0
+8 8 0 500
+0 0 H 0
+
+#26028
+empress~
+The Empress~
+The Empress is dining by herself today.
+~
+The Empress is a middle aged woman with indescribable features.  The royal
+council went through several thousands of girls and picked her out.  She is
+the daughter of a nobleman and very well educated.  She is presented with all
+sorts of exotic jewelry from the foreign kingdoms and the vassel states.
+~
+human~
+BR HBT 400 S
+87 8 5500d1+50 4d10+10 7d4+15 21
+-60 -60 -60 -60
+ENI ABLQ 0 0
+8 8 2 1000
+0 0 M 0
+
+#26029
+sufferer~
+A sufferer~
+A extremely poor person is suffering in pain.
+~
+This person has barely any clothing.  He doesn't have a place to sleep or any
+money to get food.  He looks for coins dropped by the careless people and
+feeds on garbage thrown out by the wealthy.
+~
+human~
+GC 0 0 S
+15 5 400d1+10 1d1+9 5d3+15 10
+8 8 8 8
+HIL 0 0 0
+8 8 1 10
+0 0 M 0
+
+#26030
+aasan~
+Aa-san~
+Farmer, Aa-san, came to sell his vegatables and grains.
+~
+There is nothing special about him, except that he looks very strong.
+~
+human~
+B 0 0 S
+250 100 100d100+15000 100d100+50 100d100+100 7
+-200 -200 -200 -200
+ABCDL 0 0 0
+8 8 1 20000
+0 0 G 0
+ 
+#0
+
+#OBJECTS
+#26000
+mao tai liquor~
+A small bottle of Mao Tai~
+This is the best liquor which will definitely knock you out.
+~
+liquor~
+17 0 A
+50 50 4 0 0
+30 20 10 P
+
+#26001
+blue dragon moon knife~
+The Blue Dragon, Moon-Shaped Knife~
+A very heavy knife made of titanium alloy rests here.
+~
+titanium~
+5 ABK AN
+2 10 10 25 F
+60 20 50 G
+A
+19 3
+A
+18 3
+
+#26002
+well~
+An old well~
+The old well is still in use.
+~
+stone~
+25 0 0
+1000 1000 0 0 0
+0 0 0 0
+
+#26003
+chinese lantern~
+A square shaped lantern~
+The lantern is formed by simple bamboo sticks and semi-transparent papers.
+A small candle is lit inside.
+~
+bamboo~
+1 A OA
+0 0 999 0 0
+25 15 10 0 
+
+#26004
+chinese noodles~
+A big bowl of Chinese noodles~
+The aroma from a big bowl of Chinese noodles makes you drool.
+~
+food~
+19 0 A
+50 0 0 0 0
+50 10 10 P
+
+#26005
+kui jia~
+A set of Kui Jia~
+Kui Jia, a full body armor made of bronze and steel, lies here.
+~
+steel~
+9 0 AD
+15 15 15 10 0
+38 40 50 0
+
+#26006
+bronze longsword~
+A bronze longsword~
+A bronze longsword which is coated with chromium to avoid corrosion shines
+under the sunlight.
+~
+bronze~
+5 A AN
+1 6 8 3 0
+38 20 20 0
+
+#26007
+chinese tea~
+A bowl of Dragon-Well Tea~
+A giant bowl of tea made from the best tea leaves in the region rests here.
+~
+tea~
+17 B A
+50 5 11 0 0
+25 5 30 P
+
+#26008
+yin qiang~
+Zhao Yun's yin qiang~
+Zhao Yun's yin qiang is shining under sun light.
+~
+steel~
+5 ABM AN
+3 9 9 11 0
+60 10 10 G
+A
+18 5
+A
+19 5
+A
+3 2
+
+#26009
+feather fan~
+Zhu-ge Liang's feather fan~
+A pure white feather fan made from swan feathers lies here.
+~
+feather~
+9 AGI AO
+15 15 15 25 0
+79 5 5 F
+A
+3 2
+A
+24 -10
+A
+60 -1
+
+#26010
+hua ji~
+Lu Bu's Fang Tian Hua Ji~
+A heavy square shaped polearm stands against the wall.
+~
+iron~
+5 A NA
+8 11 9 11 D
+55 15 35 G
+A
+18 2
+A
+3 -3
+
+#26011
+qing kang~
+Qing Kang Sword~
+A sharp edged blade that will slice through anything with ease.
+~
+titanium~
+5 ABF AN
+1 9 10  1 D
+60 15 40 G
+A
+1 2
+A
+3 2
+A
+18 2
+A
+19 2
+
+#26012
+sapphire bracelet~
+A sapphire bracelet~
+A beautiful sapphire bracelet was carelessly left by someone.
+~
+sapphire~
+9 AG AM
+18 15 19 17 0
+57 15 20 G
+A
+31 -1
+
+#26013
+soft armor~
+A set of soft armor~
+The set of soft armor is made from thread of gold, feathers of eagles, and
+a very special silk.
+~
+silk~
+9 AB AK
+5 5 5 15 0
+60 25 20 S
+A
+24 -5
+A
+59 -1
+
+#26014
+silk robe~
+White silk robe~
+The white silk robe is made with the finest silk in China.  There are dragon
+and flower patterns on the robe.
+~
+silk~
+9 0 AK
+13 12 12 13 0
+30 10 20 S
+
+#26015
+jia sha~
+Bright red jia sha~
+The bright red jia sha is the traditional mark of the shaolin monks.
+~
+linen~
+9 0 AK
+15 15 15 15 0
+35 10 30 L
+A
+4 2
+
+#26016
+staff qian kun~
+Staff of Qian Kun~
+A staff with black and white symbols lies on the floor.
+~
+wood~
+4 A AO
+60 5 5 203 0
+60 20 10 W
+
+#26017
+collar moon~
+A moon-shaped collar~
+A moon-shaped collar has been left in the corner of the room.
+~
+cloth~
+9 AI AC
+17 20 15 18 0
+60 20 10 C
+A
+18 2
+A
+19 3 
+
+
+#0
+
+
+
+#ROOMS
+#26000
+The south gate of Chang'an~
+You are at the southern entrance to the ancient city of Chang'an.  In front of
+you, the grey brick road leads straight into the city.  City guards are 
+walking around making sure that no one suspicious can enter the city.  
+You can hear noises from the market place not far from the city gate.
+~
+0 0 1
+D2
+To the south you can see the road that runs to the river.
+~
+~
+0 -1 9783
+D0
+A huge gate opens to the north allowing entrance to Chang'an.
+~
+gate~
+1 0 26005
+D1
+~
+~
+0 0 26001
+D3
+~
+~
+0 0 26002
+D4
+Stone steps lead upward.
+~
+~
+0 0 26210
+S
+#26210
+Cheng Lou~
+You are standing on the city wall at the southern gate of Chang'an.  From
+here, the guards can observe the surroundings.  They can keep those 
+unwanted people out and effectively defend the city.  Since the cheng lou 
+is high above ground, the guards have the height advantage--they can 
+shoot arrows down easily but nothing will be returned.
+~
+0 0 2
+D5
+Stone steps leading downward.
+~
+~
+0 0 26000
+S
+#26011
+A road leads southward out of Chang'an~
+Large rice fields surround you.  It's the right time for harvest.  
+Farmers are working as hard as they can, racing against time;
+They have to harvest all the crops before the weather changes.
+~
+0 0 2
+D0
+~
+~
+0 0 26000
+S
+#26001
+A small trail next to the city wall~
+You are by the south city wall of Chang'an.  A  hundred foot wall stands 
+to the north and numerous city guards are patrolling on the wall.
+~
+0 0 1
+D1
+~
+~
+0 0 26003
+D2
+~
+~
+0 0 26007
+D3
+~
+~
+0 0 26000
+S
+#26003
+A small trail next to the city wall~
+You arrive at the southeast corner of the city wall.  You can see the vast
+rice field outside of the city, which seems endless.  Farmers are working 
+hard under the sizzling sun.  Several construction workers are working on 
+a huge crack in the wall and repairing the southeastern tower; the
+damage is due to constant errosion.
+~
+0 0 1
+D0
+~
+~
+0 0 26010
+D3
+~
+~
+0 0 26001
+S
+#26007
+Inside the city wall~
+You walk by construction workers who are working on the city wall.  You are
+inside the city wall, but you can see the outside of the city through a crack
+in the wall.  There is a sudden rise in the noise level.
+~
+0 0 2
+D0
+~
+~
+0 0 26001
+S
+#26010
+A small trail next to the city wall~
+You are by the east city wall of Chang'an.  A hundred foot wall stands 
+to the west and numerous city guards are patrolling on the wall.  Occasionally
+you see farmers emerging from the fields and walking towards the city.
+~
+0 0 1
+D0
+~
+~
+0 0 26012
+D2
+~
+~
+0 0 26003
+S
+#26012
+A small trail next to the city wall~
+You are by the east city wall of Chang'an.  A hundred foot wall stands 
+to the west, and city guards are patrolling on the wall.
+~
+0 0 1
+D2
+~
+~
+0 0 26010
+D0
+~
+~
+0 0 26014
+S
+#26014
+A small trail next to the city wall~
+You are by the east city wall of Chang'an.  A hundred foot wall stands to the
+west, and numerous city guards are on patrol.  To the west, the dark red
+imperial palace wall can be seen over the city wall.
+~
+0 0 1
+D2
+~
+~
+0 0 26012
+D0
+~
+~
+0 0 26015
+S
+#26015
+The east gate of Chang'an~
+You are at the eastern entrance to the ancient city of Chang'an.  The grey
+brick road stretches westward into the city.  City guards are walking around 
+making sure that no one suspicious can enter the city.  The southeast corner
+of the imperial palace is barely visible.
+~
+0 0 1
+D3
+A rusty iron gate protects the city.
+~
+gate~
+1 0 26056
+D2
+~
+~
+0 0 26014
+D1
+~
+~
+0 0 26013
+S
+#26013
+A dusty road~
+A well-travelled trading route stretches eastward and disappears to the 
+horizon.  Merchants are riding in their wagons to and from the city.
+~
+0 0 2
+D3
+~
+~
+0 0 26015
+S
+#26016
+A small trail next to the city wall~
+You are by the east city wall of Chang'an.  A hundred foot wall stands to the
+west and numerous city guards are on patrol.  To the west, the dark red 
+imperial palace wall can be seen over the city wall.
+~
+0 0 1
+D0
+~
+~
+0 0 26018
+D2
+~
+~
+0 0 26015
+S
+#26018
+The trail by the northeastern section of the wall~
+The ancient city wall stands firmly before you.  This section of the trail
+seems deserted.  The dust is about two inches thick, which is giving you
+a hard time breathing.
+~
+0 0 1
+D0
+~
+~
+0 0 26021
+D2
+~
+~
+0 0 26016
+S
+#26021
+The northeastern corner of the wall~
+You have reached the northeastern corner of the city wall.  The trail 
+surrounding the city makes a west turn here.  The voices of the soldiers 
+on top of the wall can be heard miles away.
+~
+0 0 1
+D2
+~
+~
+0 0 26018
+D3
+~
+~
+0 0 26037
+S
+#26037
+The trail by the northern section of the wall~
+The ancient city wall stands firmly before you.  Many thousand year old trees
+are lined up on the trail.  You feel refreshed resting under these trees.
+~
+0 0 1
+D1
+~
+~
+0 0 26021
+D3
+~
+~
+0 0 26036
+S
+#26036
+The northern gate of Chang'an~
+As you stand in front of the gate, you can feel the chilling northern wind
+blowing through your bones.  This gate is heavily guarded.  The guards are
+checking everyone passing through, they are definitely looking for something.
+~
+0 0 1
+D2
+A fresh painted gate leads into the imperial palace.
+~
+gate~
+1 0 26110
+D1
+~
+~
+0 0 26037
+D3
+~
+~
+0 0 26034
+D0
+~
+~
+0 0 26038
+S
+#26110
+A wide road leading into Chang'an~
+You are standing south of the northern gate.  People are busy doing their day's
+work.  The crowd from the gate disappears as everyone goes their own way into
+every direction.  To the south stands the imperial palace.  After extensive
+searching, you can't find an entrance.
+~
+0 0 1
+D0
+A freshly painted gate lies to the north.
+~
+gate~
+0 0 26036
+D3
+~
+~
+0 0 26029
+D1
+~
+~
+0 0 26017
+S
+#26038
+A dusty road~
+A well-travelled trading route stretches northward and disappears to the 
+horizon.  Merchants are riding in their wagons to and from the city.  You
+can see tall mountains far to the north.
+~
+0 0 2
+D2
+~
+~
+0 0 26036
+S
+#26034
+The trail by the northern section of the wall~
+The ancient city wall stands firmly before you.  Many thousand year old trees
+are lined up on the trail.  You feel refreshed resting under these trees.
+~
+0 0 1
+D1
+~
+~
+0 0 26036
+D3
+~
+~
+0 0 26033
+S
+#26033
+The northwestern corner of the wall~
+You have reached the northwestern corner of the city wall.  The trail 
+surrounding the city makes a west turn here.  The voices of the soldiers 
+on top of the wall can be heard miles away.  You should leave before they
+recognize you as an outsider.
+~
+0 0 1
+D2
+~
+~
+0 0 26031
+D1
+~
+~
+0 0 26034
+D0
+~
+~
+0 -1 8220
+S
+#26031
+The trail by the northwestern section of the wall~
+The ancient city wall stands firmly before you.  This section of the trail
+seems deserted.  The dust is about two inches thick, which is giving you
+a hard time breathing.
+~
+0 0 2
+D0
+~
+~
+0 0 26033
+D2
+~
+~
+0 0 26028
+S
+#26028
+Near the west gate of Chang'an~
+You can see the west gate of Chang'an not far from here.  Noise levels are
+rising as the noise within the city spreads out.
+~
+0 0 1
+D0
+~
+~
+0 0 26031
+D2
+~
+~
+0 0 26027
+S
+#26027
+The west gate of Chang'an~
+As you come back to the west of this magnificent city, you notice various
+languages are spoken by people with different clothing.  People from 
+Arabia and India come a long way just to trade for Chinese silk and 
+pottery.  The famous Silk Road stretches to the west.
+~
+0 0 1
+D1
+A huge steel gate stands in front of you.
+~
+gate~
+1 0 26088
+D3
+~
+~
+0 0 26025
+D2
+~
+~
+0 0 26026
+D0
+~
+~
+0 0 26028
+S
+#26025
+The Silk Road~
+A wide road extends into the desert.  Groups of merchants from the Middle
+East and India traveled thousands of miles to come to Chang'an.
+~
+0 0 3
+D1
+~
+~
+0 0 26027
+S
+#26026
+A small trail next to the city wall~
+You are by the west city wall of Chang'an.  A hundred foot wall stands to the
+east and numerous city guards are on patrol.  To the northeast, the dark red 
+imperial palace wall can be seen over the city wall.
+~
+0 0 1
+D0
+~
+~
+0 0 26027
+D2
+~
+~
+0 0 26022
+S
+#26022
+A dirty trail~
+The trail surrounding the city continues north and south.  Not many
+people are passing by.  This looks like a quiet place to rest.
+~
+0 0 1
+D0
+~
+~
+0 0 26026
+D2
+~
+~
+0 0 26008
+S
+#26008
+The trail surrounding the city wall~
+As you look around, you barely notice a secret door to the east.  You are
+not sure what's inside of it.  Voices are constantly coming from inside.
+Yelling, screaming, and swearing come pouring into your ears.
+~
+0 0 1
+D0
+~
+~
+0 0 26022
+D1
+You find a trap door to the east.
+~
+trap door~
+1 0 26039
+D2
+~
+~
+0 0 26004
+S
+#26039
+A gambling hall~
+As you enter the secret room, you can see at least a hundred people gathered
+into ten or eleven groups.  They are yelling and screaming.  As you walk 
+closer to the groups, you see money, chips, and IOU's flying around.
+~
+0 0 1
+D3
+A secret door opening to the west.
+~
+trap door~
+0 0 26008
+S
+#26004
+The southwestern corner of the wall~
+You have reached the southwestern corner of the city wall.  The trail 
+surrounding the city makes a east turn here.  The voices of the soldiers 
+can hardly be heard.
+~
+0 0 1
+D0
+~
+~
+0 0 26008
+D1
+~
+~
+0 0 26002
+S
+#26002
+A trail by the southwestern section of the city wall~
+To the east, you can barely make out the south gate of Chang'an.  To the west,
+a trail surrounds city wall.  There is nothing interesting here.
+~
+0 0 1
+D3
+~
+~
+0 0 26004
+D1
+~
+~
+0 0 26000
+S
+#26005
+Main Street~
+This is the main street of Chang'an.  As you look far to the north, you can
+barely make out the distinctive red walls of the imperial palace.  People
+are busy minding their own business.  You notice the market place is not
+far from where you are standing.
+~
+0 0 1
+D2
+A huge gate guards the southern entrance.
+~
+gate~
+1 0 26000
+D3
+~
+~
+0 0 26023
+D0
+~
+~
+0 0 26040
+D1
+~
+~
+0 0 26006
+S
+#26023
+Road leading to the northwestern tower~
+This part of the city is very quiet.  The only people you see are those city
+guards who are patrolling the streets.  The northwestern tower is to the west
+of you.  It's at least a hundred and fifty feet tall.  You can feel the force
+of the gigantic stone tower.
+~
+0 0 1
+D3
+~
+~
+0 0 26024
+D1
+~
+~
+0 0 26005
+S
+#26024
+The Northwestern Tower~
+As you step into the tower, you hear the voices of the soldiers.  You aren't
+sure if you want to stay in this place.  The city guards don't like people
+who are bothering them.  They already have too much work that needs to be 
+done. A wooden stairway leads upward.
+~
+0 0 1
+D1
+~
+~
+0 0 26023
+D4
+A wooden stairway leads up the tower.
+~
+~
+0 0 26200
+S
+#26200
+Top of Northwestern Tower~
+As you climb to the top of the tower, the fresh air makes you feel refreshed.
+The tower is high above the ground.  Your legs shake as you look downward 
+and see the people are like small bugs.  If you are afraid of heights, you 
+should leave this place as soon as possible.
+~
+0 0 3
+D5
+~
+~
+0 0 26024
+S
+#26006
+A small alley~
+You are on a small alley which runs east to west.  The entrance to Blue 
+Dragon Temple is just to the north of you.  It's different from 
+everything you've seen before.  Numerous tiny houses surround you on 
+both sides of the alley.
+~
+0 0 1
+D3
+~
+~
+0 0 26005
+D0
+~
+~
+0 0 26041
+S
+#26041
+The Blue Dragon Temple~
+You have entered the main hall of the Blue Dragon Temple.  The statue of Zheng
+sits in the middle of the hall.  You are amused at the peoples' actions of 
+bowing to the statue and making expensive offerings.  People came here 
+with things in mind to worship Zheng and ask for divine favors.  You 
+wonder if Zheng will ever hear these words.
+~
+0 0 1
+D2
+~
+~
+0 0 26006
+D0
+A trap door lies to the north.
+~
+trap door~
+1 0 26020
+S
+#26020
+The Inner Chamber of the Temple~
+Many monks are meditating in the inner chamber away from the worldly
+distractions.  No one notices you as you come in.  Everyone is studying the
+scriptures as hard as they can.  Thousands of repetitions are recited each
+day, in hopes that one day God will answer.
+~
+0 0 1
+D2
+A trap door lies to the south.
+~
+trap door~
+1 0 26041
+S
+#26040
+Main Street~
+The main street extends to the north and south.  To the north, the red walls
+of the imperial palace are getting clearer.  Many wagons and people pass you
+with haste as they speed for the market place.  There is a side street to the
+west which leads to the poor part of the city.
+~
+0 0 1
+D0
+~
+~
+0 0 26046
+D3
+~
+~
+0 0 26044
+D2
+~
+~
+0 0 26005
+S
+#26046
+Main Street~
+The main street continues.  This part of the street has been converted into
+a free trade market.  Merchants are yelling out their products' names and
+trying to get people to spend money.  The market seems very big and 
+extends to the north and east.
+~
+0 0 1
+D1
+~
+~
+0 0 26045
+D0
+~
+~
+0 0 26049
+D2
+~
+~
+0 0 26040
+S
+#26049
+Main Street~
+Numerous merchants are selling goods on both sides of the street in their
+temporary shops.  Farmers brought their daily fresh produce to the market.  
+Peoples' voices are louder than usual as traders try to sell their 
+products and customers try to lower the prices.
+~
+0 0 1
+D0
+~
+~
+0 0 26054
+D1
+~
+~
+0 0 26050
+D2
+~
+~
+0 0 26046
+S
+#26045
+The Central Market~
+Merchants and farmers set up temporary shops to accommodate every buyer.
+Every so often, they will rip off those gullible men and woman who are 
+foreign to the way of bargaining.  It is too crowded!
+~
+0 0 1
+D0
+~
+~
+0 0 26050
+D1
+~
+~
+0 0 26043
+D3
+~
+~
+0 0 26046
+S
+#26050
+The Central Market~
+People are gathered around not only to buy goods but to get a free sample 
+of the food whenever possible.  The products they are selling are not 
+only from this region but from far places like Persia and India.  You
+don't have to speak the same language to buy something, you use common 
+sign language using your fingers.
+~
+0 0 1
+D2
+~
+~
+0 0 26045
+D1
+~
+~
+0 0 26051
+D3
+~
+~
+0 0 26049
+S
+#26044
+Poor part of Chang'an~
+Every city has its richest parts, but the poor part of the city is a fact
+of life.  Big families are crowded into small houses.  Many of the houses
+have been standing there for the past hundred years and are falling apart,
+but the poor people can't afford to repair them.
+~
+0 0 1
+D1
+~
+~
+0 0 26040
+D0
+~
+~
+0 0 26047
+S
+#26047
+A small alley~
+This alley leads through the poor part of Chang'an.  As you walk by, you can
+hear sounds of crying from the houses on the sides.  People are miserable here,
+but they have no choice and must survive in the cruel environment.  The only
+thing they can do is go to the temple and pray for a better tomorrow.  The
+pawn shop opened by a wealthy merchant is to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 26048
+D2
+~
+~
+0 0 26044
+D1
+~
+~
+0 0 26112
+D3
+~
+~
+0 0 26114
+S
+#26112
+Pawn Shop~
+This shop is located in the poor part of Chang'an.  It was opened by a rich
+merchant who wants to take away everything owned by the extremely poor people.
+He will take in things at 1/50 value, and sell them to others at five times the
+correct value.  The business is great for blood suckers such as this 
+merchant.
+~
+0 0 1
+D3
+~
+~
+0 0 26047
+S
+#26048
+A small alley~
+The alley continues through the poor part of Chang'an.  The noises you hear
+make you very uncomfortable.  It looks like people are planning to jump you
+for money and the cloth you have.  They are desperate to get anything that's
+worth something, so they can feed their stomach.
+~
+0 0 1
+D0
+~
+~
+0 0 26055
+D2
+~
+~
+0 0 26047
+D1
+~
+~
+0 0 26204
+D3
+~
+~
+0 0 26205
+S
+#26204
+A Buddhist Temple~
+At least a hundred people are gathered here praying to the Buddha.  They
+dream of Buddha hearing their prayer and someday granting small divine
+favors.  Some people donated every single penny they have just to please
+the Buddha.  There is always only silence, but these people still come
+whenever they are desparate.
+~
+0 0 1
+D3
+~
+~
+0 0 26048
+S
+#26205
+A courtyard~
+The courtyard is surrounded by the small houses of the poor.  You feel a 
+chill when you stand in the center of the courtyard.  You pity these poor 
+people who not only live in these broken houses but often can't even 
+afford to get food for their families.
+~
+0 0 1
+D1
+~
+~
+0 0 26048
+D0
+~
+~
+0 0 26206
+D2
+~
+~
+0 0 26207
+S
+#26206
+A small home~
+This is a home of the poor.  There is nothing but a wooden table and several
+boards for sleep.  Everything in this room is old and broken, but the ones
+who live here cannot even afford to fill their daily need of food.
+~
+0 0 1
+D2
+~
+~
+0 0 26205
+S
+#26207
+A small home~
+This is a home of the poor.  There is nothing but a wooden table and several
+boards for sleep.  Everything in this room is old and broken, but the ones
+who live here cannot even afford to fill their daily need of food.
+~
+0 0 1
+D0
+~
+~
+0 0 26205
+S
+#26042
+City Street~
+You are standing on a city street running north to south.  Loud noises are
+coming from the north.  The busy market place is just north of you.  For some
+reason, this street is not busy you thought it would be.  Although it's very
+close to the market, the construction work just south of you reduced the
+people who usually travel on this street.
+~
+0 0 1
+D0
+~
+~
+0 0 26043
+S
+#26043
+Market Place~
+This is the southeastern corner of the market place.  It's not as busy as the
+central market, but the ones who came late today had to set up their shops
+here.  Through the crowd, you can the imperial palace far to the north.
+~
+0 0 1
+D0
+~
+~
+0 0 26051
+D2
+~
+~
+0 0 26042
+D3
+~
+~
+0 0 26045
+S
+#26051
+Market Place~
+This market place is incredibly big.  It stretches over several city blocks.
+The market extends in every direction.  As you wander in the market, you
+slow down and look through everything.
+~
+0 0 1
+D0
+~
+~
+0 0 26052
+D2
+~
+~
+0 0 26043
+D3
+~
+~
+0 0 26050
+S
+#26052
+City Street~
+This is the northeastern corner of the market place.  Very few shops are set
+up here.  The imperial palace is not far to the north of you.  The city 
+street continues to the north and south.
+~
+0 0 1
+D2
+~
+~
+0 0 26051
+D3
+~
+~
+0 0 26053
+D0
+~
+~
+0 0 26056
+D1
+~
+~
+0 0 26113
+S
+#26113
+Fai Chang~
+This is the place where all prisoners are executed.  Blood is constantly
+flowing on the ground.  Every month, prisoners on death row will be executed
+at high noon and the executions are watched by everyone in the city.  It sure
+smells bad.
+~
+0 0 1
+D3
+~
+~
+0 0 26052
+S
+#26055
+A small alley~
+The alley which runs through the poor part of Chang'an makes a turn to the 
+east.  The imperial palace is north of where you are standing.  You feel 
+the power of the imperial palace as its wall blocks any attempt to look 
+inside.
+~
+0 0 1
+D1
+~
+~
+0 0 26054
+D2
+~
+~
+0 0 26048
+D0
+~
+~
+0 0 26088
+D3
+~
+~
+0 0 26118
+S
+#26054
+Main Street~
+This is the end of the main street.  The entrance of the imperial palace is
+just to the north.  The market place is just south of you.  Voices of people
+are carried by the wind softly land in your ears.  You can't really make out
+what the voices say, but it's something related to buying and selling food.
+~
+0 0 1
+D2
+~
+~
+0 0 26049
+D3
+~
+~
+0 0 26055
+D0
+~
+~
+0 0 26058
+D1
+~
+~
+0 0 26053
+S
+#26053
+City Street~
+There is nothing special on the street.  The entrance to the imperial palace
+is north of you.  The gates of the palace are shut most of the time.  Only
+when high ranking officials or noblemen enter or leave do the gates are open
+slightly, just enough for them to move along.  You wonder if one day you can
+enter the palace and see the emperor.  The distinctive red columns are only
+used for imperial related structures.
+~
+0 0 1
+D0
+~
+~
+0 0 26057
+D3
+~
+~
+0 0 26054
+D1
+~
+~
+0 0 26052
+S
+#26056
+City Street~
+The street is just outside of the imperial palace. To the east, the east gate
+of Chang'an stands firmly.  Far to the north, the northeastern tower stands.
+People are rushing to the south towards the market place.  They still want to
+make to the market before the crowd disappear after high noon.
+~
+0 0 1
+D2
+~
+~
+0 0 26052
+D0
+~
+~
+0 0 26017
+D1
+~
+~
+0 0 26015
+S
+#26017
+A small road~
+This road is outside of the east wall of the imperial palace.  To the north,
+the northeastern tower rises from the ground.  You are surprised that a heavily
+populated city such as Chang'an has a deserted road like this.
+~
+0 0 1
+D0
+~
+~
+0 0 26019
+D2
+~
+~
+0 0 26056
+D3
+~
+~
+0 0 26110
+S
+#26019
+The Northeastern Tower~
+You have entered the northeastern tower of Chang'an.  Just like any defense
+tower, several guards are duty.  Although the guards are on duty, they don't
+really care what's going on.  Some of them are gambling, others are taking
+a break.  A wooden stairway leads upward.
+~
+0 0 1
+D4
+~
+~
+0 0 26201
+D2
+~
+~
+0 0 26017
+S
+#26201
+Top of the Northeastern Tower~
+You have reached the top of the northeastern tower of Chang'an.  Flags and
+banners are floating in the wind.  You can see very, very far.  Suddenly you
+realize what a strategic structure this is.
+~
+0 0 4
+D5
+~
+~
+0 0 26019
+S
+#26057
+Entrance to the Imperial Palace~
+This the entrance to the imperial palace.  The freshly painted gate is
+tightly shut.  There are statues of Qi Ling sitting in front of the gate
+to protect the palace and scare away the wandering souls.  There is no way
+anyone can gain entrance into the palace without passing this gate.  The wall
+is simply too tall.
+~
+0 0 1
+D2
+~
+~
+0 0 26053
+D0
+A freshly painted gate blocks your way to the north.
+~
+gate~
+1 0 26089
+D3
+~
+~
+0 0 26058
+S
+#26058
+Entrance to Imperial Palace~
+This the entrance into the imperial palace.  The freshly painted gate is
+tightly shut.  There are statues of Qi Ling sitting in front of the gate
+to protect the palace and scare away the wandering souls.  There is no way
+anyone can gain entrance into the palace without passing this gate.  The wall
+is simply too tall.
+~
+0 0 1
+D2
+~
+~
+0 0 26054
+D0
+A freshly painted gate blocks your way to the north.
+~
+gate~
+1 0 26090
+D1
+~
+~
+0 0 26057
+S
+#26088
+City Street~
+This is a street leading to the heart of the city.  To the north, not far from
+here, the northwestern tower of Chang'an stands strong.  To the west, the west
+gate can be seen clearly.  The street narrows as it moves southward and enters
+the poor section of Chang'an.
+~
+0 0 1
+D3
+A steel gate lies to the west.
+~
+gate~
+1 0 26027
+D0
+~
+~
+0 0 26029
+D2
+~
+~
+0 0 26055
+S
+#26029
+A small road~
+This road is outside of the west wall of the imperial palace.  To the north,
+the northwestern tower rises from the ground.  You are surprised that a heavily
+populated city such as Chang'an has a deserted road like this.
+~
+0 0 1
+D0
+~
+~
+0 0 26032
+D2
+~
+~
+0 0 26088
+D1
+~
+~
+0 0 26110
+S
+#26032
+The Northwestern Tower~
+You have entered the northwestern tower of Chang'an.  Just like any defense
+tower, several guards are duty.  Although the guards are on duty, they don't
+really care what's going on.  Some of them are gambling, others are taking
+a break.  A wooden stairs leads upward.
+~
+0 0 1
+D4
+~
+~
+0 0 26202
+D2
+~
+~
+0 0 26029
+S
+#26202
+Top of Northwestern Tower~
+You have finally reached the top of the northwestern tower.  Like all defense
+towers, this one is built especially strong to stand off any invasion.  Several
+banners and flags are waving in the wind.
+~
+0 0 4
+D5
+A wooden stairway leads downward.
+~
+~
+0 0 26032
+S
+#26090
+An ivory bridge~
+As you step onto the bridge, you notice it's not like any other bridge. It's
+made of IVORY!  You really want to carve a piece of the bridge, but no matter
+how hard you try, it's useless.  You are wondering how the craftsmen carved
+this weird bridge.
+~
+0 0 1
+D0
+~
+~
+0 0 26093
+D2
+A freshly painted gate lies to the south.
+~
+gate~
+0 0 26058
+S
+#26089
+An ivory bridge~
+As you step onto the bridge, you notice it's not like any other bridge. It's
+made of IVORY!  You really want to carve a piece of the bridge, but no matter
+how hard you try, it's useless.  You are wondering how the craftsmen carved
+this weird bridge.
+~
+0 0 1
+D0
+~
+~
+0 0 26092
+D2
+A freshly painted gate lies to the south.
+~
+gate~
+0 0 26057
+S
+#26092
+A cross path~
+The path in the imperial palace leads into all directions.  To the east,
+the famous military genius Zhu-ge Liang has his library filled with military
+strategy books.  The path extends to the north into the center of the palace.
+Everything here is at least 20 feet tall, which makes you feel awkward.
+~
+0 0 1
+D2
+~
+~
+0 0 26089
+D0
+~
+~
+0 0 26096
+D1
+~
+~
+0 0 26091
+D3
+~
+~
+0 0 26093
+S
+#26091
+Zhu-ge Liang's Study~
+You have entered the private study of Zhu-ge Liang.  Bookshelves are all around
+you, filled with books on military strategy.  Many of the titles cannot be
+understand by anyone besides him.  Very often he will spend days in this 
+study. A small sofa is left here if he gets tired and doesn't want to leave.
+~
+0 J 1
+D3
+~
+~
+0 0 26092
+S
+#26093
+A cross path~
+The path in the imperial palace leads into all directions.  Not far to the 
+west, the most infamous traitor of all time, Dong Zhuo, lives.  Only with 
+his adopted son as personal guard, can he survive numerous attempts of 
+assassination.  The path extends to the north into the center of the 
+palace.  Everything here is at least 20 feet tall, which makes you feel 
+awkward.
+~
+0 0 1
+D2
+~
+~
+0 0 26090
+D0
+~
+~
+0 0 26097
+D1
+~
+~
+0 0 26092
+D3
+~
+~
+0 0 26094
+S
+#26094
+Entrance to Dong Zhuo's Bedroom~
+Dong Zhuo is afraid of being assassinated by intruders who will do anything
+just to get their hands on his head.  He has killed too many good people.
+The hate from the masses scares Dong Zhuo, making him uneasy all day
+long.  Therefore, his adopted son, Lu Bu, stands on guard to protect him.
+Only with the unmatched bravery of Lu Bu is Dong Zhuo able to rest a little
+easier.  Yet, very often, intruders still come only to be killed by Lu Bu.
+~
+0 0 1
+D1
+~
+~
+0 0 26093
+D3
+~
+~
+0 0 26035
+S
+#26035
+Dong Zhuo's Bedroom~
+Dong Zhuo hides day and night in his bedroom, living without any daylight.
+His life is much more important than seeing the sunlight and risk getting 
+killed by an outsider.  He rests here but anything that comes into his 
+room makes him jumpy.
+~
+0 0 1
+D1
+~
+~
+0 0 26094
+S
+#26096
+East Imperial Garden~
+The garden is filled with various exotic plants and animals.  The emperor loves
+to have interesting things around.  These plants and animals came far from
+other places.  Some are captured by hunters and sold to the gardener, 
+some are presents from foreign kings and emperors.
+~
+0 0 2
+D0
+~
+~
+0 0 26101
+D2
+~
+~
+0 0 26092
+D1
+~
+~
+0 0 26095
+S
+#26097
+West Imperial Garden~
+Thousand year old pine trees give shade to the garden.  The garden is filled 
+with various exotic plants and animals.  The emperor loves to have interesting
+creatures around.  These plants and animals came from places around the 
+globe.  Some were captured by hunters and sold to the gardener, some are 
+the presents from foreign kings and emperors.
+~
+0 0 2
+D0
+~
+~
+0 0 26100
+D2
+~
+~
+0 0 26093
+D1
+~
+~
+0 0 26098
+S
+#26101
+Banks of a small lake~
+You are at the south bank of the lake.  Numerous lilies are growing at this
+time of the year.  Water droplets left by the morning dew on the pink, yellow,
+and pure white lilies shine under the sun.  You feel totally peaceful 
+and one with nature.
+~
+0 0 1
+D1
+~
+~
+0 0 26102
+D2
+~
+~
+0 0 26096
+D3
+~
+~
+0 0 26100
+S
+#26100
+Banks of a small lake~
+A quiet lake lies north.  Numerous lilies are growing at this time of the year.
+Water droplets left by the morning dew on the pink, yellow, and pure white 
+lilies shine under the sun.  Swans are swimming slowly and quietly.  You feel
+calm, totally peaceful and one with nature.
+~
+0 0 1
+D1
+~
+~
+0 0 26101
+D2
+~
+~
+0 0 26097
+D3
+~
+~
+0 0 26099
+S
+#26095
+The Royal Treasury~
+The treasury is almost bankrupt from years of wars against the invading 
+northern barbarians.  The emperor already ordered collection of double 
+amount of taxes this fall.  Although the emperor hates to burden his 
+people, he has to keep the treasury functional to defend the entire 
+kingdom against the invaders.
+~
+0 0 1
+D0
+~
+~
+0 0 26102
+D3
+~
+~
+0 0 26096
+S
+#26098
+The Royal Armoury~
+Stacks of armor and weapons are neatly lined up against the walls.  The 
+armoury is wiped clean without any dust.  The continuous war with the invading
+barbarians makes everyone nervous.  Every morning, soldiers come here to pick
+up their equipment for training and return after sundown.
+~
+0 0 1
+D0
+~
+~
+0 0 26099
+D1
+~
+~
+0 0 26097
+S
+#26102
+A trail surrounding the lake~
+You are on the banks of the small lake.  The trail leads to the north and
+west.  The Royal Treasury is to the south.  The trail is made up of small
+semi-precious stones.  You want to pick some up, but your morals have 
+refused your pathetic action.
+~
+0 0 1
+D0
+~
+~
+0 0 26103
+D3
+~
+~
+0 0 26101
+D2
+~
+~
+0 0 26095
+S
+#26099
+The banks of a small lake~
+You are on the banks of the small lake.  The trail leads to the north and the
+east.  The Royal Armoury is to the south.  The trail is made up of small
+semi-precious stones.  You wanted to pick some up, but your morals have 
+refused your pathetic attempt.
+~
+0 0 1
+D0
+~
+~
+0 0 26106
+D1
+~
+~
+0 0 26100
+D2
+~
+~
+0 0 26098
+S
+#26103
+A trail in the palace~
+You are at the northern side of the lake.  This is the northeastern corner of
+the palace.  Red walls are to the north and east.  Looking to the south, the
+trail continues around the lake.
+~
+0 0 1
+D3
+~
+~
+0 0 26109
+D2
+~
+~
+0 0 26102
+S
+#26106
+A trail on the west side of the palace~
+The trail surrounding the lake comes to an end.  You are at the northwest
+corner of the lake and on the edge of the imperial palace.  You haven't seen
+the emperor anywhere and start to wonder where he can be.
+~
+0 0 1
+D1
+~
+~
+0 0 26108
+D2
+~
+~
+0 0 26099
+S
+#26108
+A small walkway~
+This where you should turn south if you are here to see the emperor.  Maybe
+this is why Guan Yu is standing here scanning in every direction.  Huge
+trees cover the top of the walkway making this place very cool.  A small
+pagoda stands to the south, which extends over the lake.  The scenery is
+incredible, nothing comes close.
+~
+0 0 1
+D1
+~
+~
+0 0 26109
+D2
+~
+~
+0 0 26105
+S
+#26105
+A small pagoda~
+The pagoda extends over the lake and gives the best view of the entire area.
+This is the favorite place of the emperor who is tired from long days of 
+reading reports from every province around the kingdom.  He usually rests
+here for hours trying to relax and get away from all the trouble.
+~
+0 0 1
+D0
+~
+~
+0 0 26108
+S
+#26109
+A trail on the northern edge of the palace~
+This is the most quiet place you've ever stayed in.  The elements of air,
+earth, and water exist in harmony.  As a Chinese fortune teller has said,
+this is the best place to live and everything will go your way.  Maybe
+you should stay here just a little longer.
+~
+0 0 1
+D3
+~
+~
+0 0 26108
+D1
+~
+~
+0 0 26103
+D2
+~
+~
+0 0 26104
+S
+#26104
+The Dining Hall~
+This room is rectangular shaped with several hundreds of small tables.  There
+are two slightly larger tables at the end of the hall where the emperor and
+the empress sit.  On the two sides, tables are lined up where the noblemen
+and the high ranking officials sit when it's time for a feast.  There is not
+much activity going on, several servants are here cleaning.
+~
+0 0 1
+D0
+~
+~
+0 0 26109
+D4
+A small stairs leads up.
+~
+~
+0 0 26111
+S
+#26111
+Special Dining Hall~
+This is where the emperor dines with the empress and other concubines.  The
+settings are much more elegant than those dining sets downstairs.  Since
+this place is private for the emperor, not many people have seen it.
+~
+0 J 2
+D5
+A small stairs in the center of the room.
+~
+~
+0 0 26104
+S
+#26114
+East-West Bound City Street~
+As you walk deeper into the poor section of Chang'an, you can feel the pain
+of the people and the hardships which they have to endure.  You want to cry
+with them and yell out for justice, but it's useless.  You are just like one
+of them, powerless in the face of government.
+~
+0 0 1
+D1
+~
+~
+0 0 26047
+D3
+~
+~
+0 0 26115
+S
+#26115
+Dark Alley~
+The city street continues to the west but suddenly there is no light.  Many
+huge trees block the sunlight from every direction.  It's reminds you of the
+people who will never see the light and the end of the road.  The mood is
+depressing, you decide to leave as soon as possible.
+~
+0 A 1
+D1
+~
+~
+0 0 26114
+D0
+~
+~
+0 0 26116
+S
+#26116
+Dark Alley~
+This is probably the darkest section of the city.  You can hardly see
+anything but it's suprisingly crowded here.  Those who without a place to 
+sleep dwell in the broken houses left by the rich.  Normally, a room for 
+two people is crowded with at least 10 full grown adults.  They live 
+in filth and in pain.
+~
+0 A 1
+D2
+~
+~
+0 0 26115
+D1
+~
+~
+0 0 26119
+D3
+~
+~
+0 0 26120
+S
+#26119
+A small, dark, broken home~
+As you walk through the door, the wind carries the smell of rotten things and
+blows past you.  You almost vomitted.  You leave right away.
+~
+0 A 1
+D3
+~
+~
+0 0 26116
+S
+#26120
+A small, dark, broken home~
+It's certainly very dark here.  These people can't even afford food, no way
+they will waste money on candles or lanterns.  You can't stand these poor
+living conditions.  No one can help them, the officials have to worry
+about the barbarian invasions and have too many excuses anyways.
+~
+0 A 1
+D1
+~
+~
+0 0 26116
+S
+#26117
+Dark Alley~
+You have entered the dark alley of Chang'an.  There is absolutely no light
+whatsoever, not even sunlight.  The overgrown trees block every bit of
+light.  To the far east, you can see the end of the dark alley.
+~
+0 A 1
+D2
+~
+~
+0 0 26116
+D1
+~
+~
+0 0 26118
+S
+#26118
+City Street~
+Various sizes of houses surround the street.  The brick road is worn out by
+the constant steps of the people who travel through here--merchants, farmers,
+and those who go to the market daily.  The dark alley is to the west.
+~
+0 0 1
+D3
+~
+~
+0 0 26117
+D1
+~
+~
+0 0 26055
+S
+#26121
+A well built road~
+This road is very well built and maintained. To the west you can see the 
+walls of a large city, to the east you can see the river. All around you, 
+the hillsides are covered with deep green grass.
+~
+0 K 4 
+D1
+To the east you can see the banks of the river.
+~
+~
+0 -1 9743
+D2
+you see the northern gates of New thalos to the south
+~
+~
+0 -1 9783
+D3
+To the west you can see the city walls.
+~
+~
+0 -1 26122
+S
+#26122
+A well built road~
+This road is very well built and maintained. To the north you can see the 
+walls of a large city and to the east you can see the river shining in 
+the sun.
+~
+0 K 4
+D0
+To the north you can see the gate of a large city.
+~
+~
+0 -1 26000
+D1
+To the east you can see the river shining in the sun.
+~
+~
+0 -1 26121
+S
+#0
+
+#RESETS
+M 0 26000 2 26003
+M 1 26000 3 26007
+M 2 26000 2 26003
+M 0 26001 1 26007
+M 0 26002 2 26032
+E 0 26005 2 5
+E 0 26006 2 16
+M 1 26002 2 26019
+E 0 26005 2 5
+E 0 26006 2 16
+M 2 26002 2 26024
+E 0 26005 2 5
+E 0 26006 2 16
+M 3 26002 5 26110
+E 0 26005 5 5
+E 0 26006 5 16
+M 4 26002 5 26000
+E 0 26005 5 5
+E 0 26006 5 16
+M 0 26003 1 26036
+M 0 26004 1 26105
+E 0 26011 1 16
+M 0 26005 5 26039
+M 0 26006 2 26039
+M 0 26007 1 26094
+E 0 26010 1 16
+M 0 26008 1 26108
+E 0 26001 1 16
+M 0 26009 1 26210
+E 0 26008 1 16
+M 0 26010 1 26035
+E 0 26013 1 5
+M 0 26011 5 26045
+M 0 26012 5 26049
+M 0 26013 5 26046
+E 0 26014 3 5
+M 0 26014 5 26100
+M 1 26014 5 26102
+M 0 26015 5 26050
+M 1 26015 2 26025
+M 0 26016 5 26054
+M 0 26017 5 26047
+M 0 26018 1 26041
+M 0 26019 3 26020
+E 0 26015 3 5
+M 0 26020 5 26051
+M 1 26020 5 26012
+M 0 26021 1 26091
+E 0 26009 1 17
+E 1 26017 1 4
+M 0 26022 2 26043
+M 0 26023 3 26043
+M 0 26024 10 26048
+M 0 26025 5 26054
+M 1 26025 5 26056
+M 0 26026 5 26099
+M 1 26026 5 26109
+M 0 26027 1 26058
+M 1 26027 1 26057
+M 0 26028 1 26111
+E 0 26012 1 14
+M 0 26029 10 26116
+M 0 26030 1 26050
+O 0 26002 0 26049
+S
+
+#SHOPS
+26030 19 1 17 13 12 100 100 0 0
+0
+
+#SPECIALS
+M 26021 spec_cast_mage
+M 26022 spec_thief
+M 26004 spec_cast_mage
+M 26009 spec_cast_mage
+M 26027 spec_cast_mage
+S
+
+#$
+
+

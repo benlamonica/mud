@@ -1,0 +1,983 @@
+#HELPS
+
+0 VT100~
+Syntax: vt100
+Syntax: lines <number>
+
+vt100 is a mode that will give you a nonmovable status bar at the bottom
+of your screen, and you will be able to type under it without your words
+getting messed up by scrolling text.  This will NOT work on all telnet
+clients!! If it messes up your screen, turn it off and relog on.  You
+should have true ansi for it to work.  It also works if you're telnetting
+from a full-screen dos mode or linux/unix.
+~
+
+-1 WEB~
+Syntax: cast web <direction>
+Syntax: cast web <victim>
+
+A mage with the web skill can throw sticky webs onto an exit, and a person
+who is within the pkill level of the caster will be stuck in them and not
+able to move.  With a high strength it is possible to break out of them,
+however.  The mage can also cast the webs directly on the victim and
+prevent them from moving out of the room.  
+~
+
+-1 SETTRAPS~
+Syntax: settrap <direction>
+
+A thief that has the settrap skill can put a booby trap at an exit where if
+someone who is in their pkill level range happens to step through it and it
+goes off, will get a nasty suprise.
+~
+
+-1 SMASH~
+Syntax: smash <obj/door>
+
+A swordpupil with the smash skill can break open an object to see the
+contents.  They can also do this on a door by ramming into it to break it
+down.  With all the force, they end up in the next room, which may be a good
+thing or bad thing, depending on if the swordpupil wanted to be in there or
+just have a peek.
+~
+
+-1 FLAMEWALL 'FLAME WALL'~
+
+Syntax: cast flamewall <direction>
+
+Powerful sorcerers can cast a wall of flame in front of an exit, and when someone 
+(who is not out of playerkill level and who is not a mobile) passes through the 
+exit, they will get fried by the flames.  The flamewall then disappears.  Because 
+this is a magical flamewall trap, it is invisible to the naked eye, and only those 
+who can detect traps will be able to see it.
+~
+
+-1 FLAMESHIELD 'FLAME SHIELD'~
+
+Syntax: cast flameshield
+
+Mages have the power to cast a shield of flame around them.  Anyone who attacks 
+them then gets half the damage they do right back at them from the flames.  It 
+does not last very long as it is difficult to keep up.
+~
+
+-1 ORC ORCS~
+
+A large, powerful being with a pig-like snout, orcs have a keen sense of smell 
+and taste.  They have great stamina, but are not very intelligent.  They have an 
+innate ability to taste food and drink and find out if it is poisonous before 
+actually ingesting it.  They make good swordpupils, but are not very good at 
+anything else.  (See HELP TASTE to find out how to use their special capability.)
+~
+
+-1 TASTE~
+
+Syntax: taste <food/drink>
+
+Only orcs can taste food or drink to find out if it contains poison in it.  
+~
+
+-1 GIANT GIANTS~
+
+Giants are huge, hulking creatures with a very small brain.  Their huge muscle mass 
+gives them great strength and above average stamina.  Their largeness gives them a 
+low dexterity.  They make good swordpupils, but are terrible at anything else.  
+They have the ability to crush their opponent during battle. (See HELP CRUSH find 
+out how to use their special capability.)
+~
+
+-1 CRUSH~
+
+Syntax: crush <name>
+
+Only giants have the innate ability to crush their opponent during battle.  Being 
+the largest being around, they can wrap their muscular arms around someone and crush 
+them, breaking bones and rupturing wounds in the process.
+~
+
+-1 DRACONIAN DRACONIANS~
+
+There are five types of draconians, all all having the innate ability to breathe 
+their draconian spell on their opponent during battle.  
+
+	Red draconian, breathes fire
+	Green draconian, breathes gas
+	Black draconian, breathes acid 
+	White draconian, breathes frost
+      Blue draconian, breathes lightning
+
+Draconians are a motley of human and dragon.  They are somewhat larger than humans, 
+but with dragon features.  They make decent magicians and good swordpupils, but 
+their low dexterity makes them terrible pickpockets.  Note, they are very difficult 
+to level and thus not recommended for the beginner.  (See HELP BREATH to find out 
+how to use their special capability.)
+~
+
+-1 BREATH 'LIGHTNING BREATH' 'GAS BREATH' 'ACID BREATH' 'FROST BREATH' 'FIRE BREATH'~
+
+Syntax: breath <name>
+
+Only draconians have the ability to breathe pain on their opponent during battle.   
+Gas breath causes all forms in the room to get hit with it, and can eat away at 
+armor.  
+~
+
+-1 ELF ELVES~
+
+Elves are thin, wiry humanoids with incredible intelligence and dexterity.  They are 
+not very hardy, however, and not very strong.  They make great magicians, acolytes, 
+or thieves, but make terrible swordpupils.  Their great intelligence gives them the 
+innate ability to find out things about people by studying them over. (See HELP LORE 
+to find out how to use their special capability.)
+~
+
+-1 LORE~
+
+Syntax: lore <person>
+
+By looking someone over, elves can know the stats of a person or creature.  Of 
+course, they need to be wary, because it is hard to do this unnoticed!
+~
+
+-1 'MAKE SIGN' MAKE SIGN~
+
+Syntax: cast 'make sign' <what you want sign to say>
+
+Mages can create a sign for all to read out of thin air and plant it in any sort of 
+ground, even thick marble.  They need to be wary of what they make it say, since 
+their magic leaves a trace of their name on it.  If another sign is in the room, 
+the force of the older sign will render them unable to create another.  This spell 
+may be useful to create a "headstone" of the spot where a foe was killed.  The 
+signs disappear with time.
+~
+
+-1 FIREPROOF~
+
+Syntax: cast fireproof <item>
+
+Fireproof is a spell that works on potions, scrolls, and other important items to 
+save them from being scorched by fire.  It does not work on weapons, armor, or 
+lights, because the spell is not very powerful.
+~
+
+-1 'DETECT TRAPS' DETECT TRAPS~
+
+Syntax: cast 'detect traps'
+
+Detect traps allows a person who is affected by it to see any kind of traps, 
+including webs, flamewalls, and regular traps.  Otherwise, traps are invisible
+to the naked eye.
+~
+
+-1 DISGUISE~
+
+Syntax: disguise
+
+Disguise is a skill for the advanced rogue.  They can make themselves look like
+something else to the casual observer.  However, if they move around, anyone will
+be able to figure out that that is them.  This will only fool those with average
+and below intelligence, and those who are within the seven level range and below.
+~
+
+-1 JUMP~
+
+Syntax: <automatic>
+
+Jump is a special skill for avoiding being tripped.  A good pickpocket is able to
+jump over the opponent's leg, thus avoiding falling down.  The higher one's jump
+skill is the more often it will occur, but even with a perfect jump skill,
+accidents do happen.
+~
+
+-1 EVADE~
+
+Syntax: <automatic>
+
+Evade is a skill for pickpockets and swordpupils, to avoid bashes.  They sense a
+bash coming, and move out of the way, sending the basher to the ground.  The higher
+ones's evade skill, the better one will be able to evade, but even with a perfect
+evade skill, no one can read minds all the time and know when it's coming always.
+~
+
+-1 DUCK~
+
+Syntax: <automatic>
+
+Duck is a skill for thieves to avoid hits and not get hurt.  They duck under their
+opponent's swings, causing them to miss.  The higher one's duck skill, the more 
+often it will occur, but even with a perfect duck skill, it just gives one a better
+chance of ducking.
+~
+
+-1 ROLL~
+
+Syntax: <automatic>
+
+Roll is a skill for thieves to avoid hits and not get hurt.  They roll out of the
+way of their opponent's swings, causing them to miss.  The higher one's roll skill,
+the more often it will occur, but even with a perfect roll skill, it just gives one
+a better chance of success.
+~
+
+-1 'DIVINE HEALING' DIVINE HEALING~
+
+Syntax: cast 'divine healing'
+
+Powerful clerics who have mastered the easier forms of healing have the ability to
+learn how to get more healing power from the gods.  This doubles the power of the
+regular heal spell while using less total mana as would require to cast heal twice.
+~
+
+-1 CIRCLE~
+
+Syntax: circle
+
+Pickpockets can learn the circle skill, which allows them to circle behind their
+opponent during a fight and stab them in the back.  Because it takes time to return
+to the other side of their foe, they cannot circle for another two rounds, and
+the opponent is aware of their presence there.
+~
+
+-1 QUIET~
+
+Syntax: quiet
+Syntax: cast quiet
+
+The quiet command turns off all channels, except for shout, which requires you to
+use the deaf command to turn it off.  You also cannot receive or respond to tells
+when in quiet mode.  Type quiet again to toggle it back on.
+
+The quiet spell is a spell mages can use to muffle their words when casting a
+spell.  No one will realize that they cast a spell, or know when/if they are
+doing so.
+~
+
+-1 PRESERVE~
+
+Syntax: cast preserve <obj>
+
+The preserve spell will let you preserve body parts and other items that rot with
+time.
+~
+
+-1 'ROT OBJECT' 'REMOVE ROT' ROT OBJECT REMOVE ROT~
+
+Syntax: cast 'rot object' <obj>
+Syntax: cast 'remove rot' <obj>
+
+Rot object will cause any object to rot when the holder of it dies.  Remove rot
+will make any object that rots upon death to not rot upon death.
+~
+
+-1 'INVIS OBJECT' 'REMOVE INVIS' INVIS OBJECT REMOVE INVIS~
+
+Syntax: cast 'invis object' <obj>
+Syntax: cast 'remove invis' <obj>
+
+Invis object will cause any object to become invisible.  Remove invis will make
+any invisible object become visible.
+~
+
+-1 'ETERNAL LIGHT' ETERNAL LIGHT~
+
+Syntax: cast 'eternal light' <light>
+
+Eternal light will cause any light that would normally blow out in time to become
+permanent.
+~
+
+-1 'HEAT METAL' HEAT METAL~
+
+Syntax: cast 'heat metal'
+
+During combat, a sorcerer can cause objects the opponent is wearing to become
+incredibly hot.  They may drop them to the ground, or cause damage if not 
+possible.  This is a very powerful spell, which requires intense 
+concentration, and uses much manapower.
+~
+
+-1 CHARISMA~
+
+Syntax: cast charisma
+
+Charisma is a spell that makes whoever it is cast upon incredibly appealing to 
+others no matter how ugly and disgusting they are.  Monsters that would normally
+attack the person will find them charming.  Monsters that are too high level will
+not be affected by it, however.
+~
+
+-1 'FOURTH ATTACK' 'FIFTH ATTACK' FOURTH FIFTH~
+
+Syntax: <automatic>
+
+Like second and third attack, fourth and fifth attack allows warriors and knights
+to get even more attacks per round in.  However, having 100% in any does not
+guarantee one will make contact every round, it just allows a chance.
+~
+
+-1 NUCLEAR BLAST 'NUCLEAR BLAST'~
+
+Syntax: cast nuclear <victim>
+
+An addition for mages only, in the combat spell group, nuclear blast shoots at
+the opponent a powerful blast of nuclear energy that will blast even the most
+powerful off their feet.
+~
+
+-1 HELPER~
+
+Helper is a guild for those that shun playerkill.  They are not allowed to playerkill
+and no one is allowed to attack them.  The rules of HELPER are as follows:
+
+1) A member of HELPER cannot have any multicharacter above level 15 who is not 
+also a member of HELPER
+2) Helper's main focus is helping others (mainly new characters), and even though
+everyone else should be friendly and helpful to newcomers, a HELPER should jump at
+the chance to help someone in need.
+3) Helpers are not allowed to help anyone else in a playerkill attempt.  This
+includes spell-ups, heals, and other things that would give one side an advantage
+over the other.
+4) Spell up and heal only those who are under level 16, and only assist with 
+information and corpse retrievals (from deaths by mobiles) after that.
+5) Only way to get out of HELPER is by deletion.  Make sure you will shun pkill
+forever if you choose this route.
+
+Current leader is Peligor, leave him a note or seek him out if you would like to
+join HELPER.
+~
+
+0 IMP CRE SUP DEI GOD IMM ANG AVA~
+
+IMP stands for implementor.  The implementor is the person who owns the game, and
+	whose word is final in any instance.
+CRE stands for creator.  Creators are about as important as implementors with the
+      exception of general rank.  Creators have as much authority over the general
+	rules as the imps and should be listened to at all times, by immortals and
+	mortals alike.
+SUP stands for supreme.   Supremes are in charge of the lower immortals and have a
+	general authority.  They cannot be overruled except by a CRE or an IMP, and
+	judgements that go through the SUP and are felt to be unjust will be
+	looked at only in extreme cases.
+DEI stands for deity. Deities are almost at the same influence as a SUP except that
+	they should not be making up rules that are not already stated.  They may
+	interpret the rules as to what they think they mean, however.
+GOD stands for god.  Gods are guild leaders and the average quest god.  They create
+	rules for their own guilds under the guidelines of the IMPs, and can run
+	their own quests provided they stick to the immortal quest rules.  They have
+	no authority to punish those who break any multiple character rules, however,
+	they can refer them to someone who can.  If no one higher is on, they can
+	make judgements how they see fit, however appeals to the higher immortals
+	will be listened to.
+IMM stands for immortal.  This is the general term for those above hero level and
+	below implementor level, however the IMM level is also an immortal level too.
+	IMMs have little authority to punish rulebreakers, but they can solve minor
+	disputes.  If something major happens while no higher immortal is on, they
+	can attempt to solve it, however, they should leave things alone if someone
+	higher is on.  They can run some quests, but do not have as many powers as 
+	GODs do.
+ANG stands for angel.  Angels are immortals who have either started at the bottom
+	(hero level) and have decided to try working their way up through the ranks,
+	or they are AVAs who do just a little bit more work.  They have little 
+	authority over the mud.
+AVA stands for avatar.  They are one level above hero level, and have absolutely
+	no authority over mortals or the mud at all.  This is a general level where
+	honorary people may be, but, do not help out with the mud.  It also may be
+	the level where an ex-hero was promoted to.  They also have no authority 
+	until they reach higher grounds.
+HERO level is level 91.  At this time it is impossible to level there as a mortal,
+	and the only way to achieve it is to be advanced by an IMP.  All immortal
+	rules apply, but heroes have no immortal powers.
+~
+
+-1 REMORT~
+
+Syntax: remort
+
+Upon reaching level 90, anyone who has not remorted twice may remort to a potentially
+more powerful class.  The benefits include being able to practice a skill in a
+practice room up to 80% or 85% (respectively in the first and second remort) and
+the ability to gain more powerful skills and spells, and know them already at a 
+lower level.  The current path of remort is...
+	magician ->	mage -> sorcerer
+	pickpocket -> thief -> rogue
+	swordpupil -> warrior -> knight
+	acolyte -> cleric -> paladin
+~
+
+-1 SHARPEN~
+
+Syntax: sharpen <weapon>
+
+Sharpen makes a weapon sharper, and thus inflict more damage than would ordinarily
+be done.  One must be careful, however, because in the process, the blade can be
+broken completely or dulled beyond repair.
+~
+
+91 KILLSPAM~
+
+Syntax: killspam <player>
+
+Killspam has been added for two reasons. First, to kill the imm spamming nochannel
+<name>, notell <name>, noemote <name>, noshout <name>.  This command will completely
+quiet a person or it will restore all of them. Careful, though, because if they
+are already nochanneled, it will restore the nochannel, and notell,noemote, etc them.
+It is just a quick way to do all 4 at once.
+~
+
+-1 CHANGES~
+
+Changes made in the new installation of Rivers of Blood are as follows.
+8 classes added, as remort classes, and present skills/spells shuffled around
+Sharpen; weapon flags working
+Disguise; circle; Rot obj; remove rot; invis obj; remove invis
+You can now convert trains to pracs (gain practices)
+Flame shield; protection good; Flame wall; 
+Detect traps (detect magic completely taken out)
+Killspam; Sate; Quench; Shrink
+New races each w/special skill (draconian, orc, human, dwarf, elf, giant)
+	(draconian spells, taste, -, -, lore, crush)
+Eternal light; Make sign;Fourth attack; Fifth attack
+Jump; Evade; Duck; Roll; Charisma;Heat Metal
+Preserve; empty (command);Quiet (the spell); Fireproof
+Divine healing; wrath of god
+Tattoo code, VT100
+
+Crumble, Whack, Repair, Add weight, frost shield, traps, web, abbreviations,
+exp_to_level toggle flag, manaburn, regeneration, make change sex offensive
+spell, fix align, materials code, startquest allmud (for imps)
+~
+
+0 EMPTY~
+
+Syntax: empty <drink container>
+
+If you want to put another liquid in a drink container you need to empty it
+first.  This command allows you to pour it out, thus emptying it.
+~
+
+0 BUILDING1~
+
+This is a series of help files to help you learn how to build in ROM 2.3.  Also
+included are suggestions for making good areas that will wow everyone.  The list
+of the series is as follows:
+
+BUILD_AREA
+BUILD_HELP
+BUILD_MOBILES
+BUILD_OBJS
+BUILD_ROOMS
+BUILD_SHOPS
+BUILD_SPECIALS
+BUILD_RESETS
+BUILD_TIPS
+BUILD_GLOSSARY
+BUILD_SLOTS
+~
+
+0 BUILD_MOBS~
+	B_M_NAME
+	B_M_SHORT
+	B_M_LONG
+	B_M_DESC
+	B_M_RACE
+	B_M_ACT_FLAGS
+	B_M_AFFECTED_BY
+	B_M_HP
+	B_M_MANA
+	B_M_HIT_DAM
+	B_M_AC
+	B_M_OFFBITS
+	B_M_IMMUN
+	B_M_RESIST
+	B_M_VULN
+	B_M_POSITION
+	B_M_SEX
+	B_M_GOLD
+	B_M_SIZE
+	B_M_PARTS
+	B_M_TYPE
+~
+	
+0 BUILD_OBJS~
+	B_O_NAME
+	B_O_SHORT
+	B_O_LONG
+	B_O_TYPE
+	B_O_FLAGS
+	B_O_WEARS
+	B_O_VALUES
+	B_O_LEVEL
+	B_O_AFFECT
+	B_O_EXTRA
+~
+
+0 BUILD_ROOMS~
+	B_R_NAME
+	B_R_DESC
+	B_R_SECTOR
+	B_R_FLAGS
+	B_R_DOORS
+	B_R_LOCKS
+	B_R_EXTRA
+~
+
+0 BUILD_SHOPS~
+	B_SHOPS_1
+~
+
+0 BUILD_SPECIALS~
+	B_SPEC_1
+	B_SPEC_LIST
+~
+
+0 BUILD_RESETS~
+	B_RE_1
+	B_RE_MOB
+	B_RE_OBJ
+	B_RE_EQ
+	B_RE_INV
+	B_RE_DOORS
+	B_RE_COMMENTS
+~
+	
+0 BUILD_TIPS~
+	B_TIPS1
+~
+
+0 BUILD_HELP~
+	B_HELP1
+~
+
+0 BUILD_GLOSSARY~
+	RESET: Tells the code where to put an obj or mobile and how many
+	SPEC_FUN: a special function a mobile can have. tells them to behave in 
+		a certain way.  Do not use too many of these, as they cause some lag.
+	VNUM: virtual number. All mobs, objs, rooms must have unique vnums.  A mob 
+		can have the same vnum as an obj but not of another mob, for example.
+~
+	
+0 BUILD_SLOTS~
+~
+
+0 B_M_NAME~
+
+The mob name consists of all the keywords you would use for the mobile.  Make
+sure you don't skimp on these, as it is annoying to type "look monster" when it
+says "A monster is here." and not be able to because the keyword is "mudmonster" or
+"Bob".
+
+Syntax (example):
+
+bob mudmonster mud<tilde>
+~
+
+0 B_M_SHORT~
+
+The short description for a mobile is what you see when you are fighting them,
+or any time they do something.  Do NOT capitalize the first word in it.  If you
+can't fit it into the sentence "<mob short> hits you with <his/her> sword!" then
+it doesn't make a good short desc. 
+
+Syntax (examples):
+
+the mudmonster<tilde>
+	OR
+the cat<tilde>
+	OR
+Bob<tilde>
+~
+
+0 B_M_LONG~
+
+The long desc for a mobile is what you see at a glance when you type LOOK in a room.
+Refrain from putting anything in the long desc that would not be able to be done
+for extended periods of time.  Use the present tense, not the present perfect tense.
+("He stands" rather than "He is standing".)  Try to make it interesting, so not
+all the mobs have the same long desc.
+
+Syntax (examples):
+
+A cat licks her paw and washes her fur, delicately.
+<tilde>
+
+Note: the tildes go on the next line, not on the same line as the long desc.
+~
+
+0 B_M_DESC~
+
+The desc for a mobile is what you see when you type "look <mobile name>".  It should
+be a few lines long, and interesting to read, so that people will actually want to
+look at the mobiles to see what they look like.  The desc should consist of what
+the mobile LOOKS LIKE, not what they are feeling, and not how they make you feel.
+If they are wearing some eq, you shouldn't repeat the eq they are wearing in the
+desc.
+
+Syntax (example):
+
+The cat is very sleek and healthy.  Her black fur glistens as if it is wet, and her 
+tail fluffs up when she waves it back and forth.  Her paws are white, which make her 
+look like she is wearing mittens.  Her eyes are a bright yellow-green color, which
+seem to glow whenever she moves her head into the shadows.  She has a little tuft
+of white fur on her forehead, which sticks up strangely.  Her nipples look enlarged,
+as if she is still nursing a litter of kittens.
+~
+
+0 B_M_RACE~
+
+A mobile's race only affects the parts, affects, etc, so if you choose a real race,
+you don't have to type in the parts and mob type.  You can use a race even if it
+isn't that race.  Human is the most common, but you have to add affected_by flags
+to them.
+
+Syntax (example):
+
+human<tilde>
+
+Type HELP RACELIST to see a list of valid races.
+~
+
+0 B_M_ACT_FLAGS~
+
+Act flags on a mobile give them certain personality traits and make them behave
+in a certain way.  They are given as a letter (A,B,C,...) and if they have more
+than one act flag, you run the letters together, like ABCD.
+
+Syntax (example):
+
+ABC <affected_by_flags> <align> S
+
+Type HELP ACTLIST for a list of the act flags.
+~
+
+0 B_M_AFFECTED_BY~
+
+If the mob is affected by a spell, this is where you put it.  They are given as a
+letter (A,B,C...) and if they are affected by more than one spell, you run the 
+letters together, like ABCD.
+
+Syntax (example):
+
+<act_flags> ABCD <align> S
+
+Type HELP AFFLIST for a list of the affect flags.
+~
+
+0 B_M_HP~
+
+All mobiles need hp.  This is one area where many people have trouble with, deciding
+how much hp to give the mobile.  Hp is given as dice, with the number of dice,
+number of dice sides, and then plus a number.  A good guide to deciding how much
+hp to give them is:
+
+Syntax:
+
+<moblevel> <extrahitdam> 10d10+1000 <mana> <hitroll> <attackmessage>
+				  ^^--Hp
+
+Levels 0 to 20	1d1+<moblevel * 10>
+Levels 20 - 30	10d10+<moblevel * 18>
+Levels 30 - 40	10d10+<moblevel * 25>
+Levels 40 - 50	10d10+<moblevel * 30>
+Levels 50 - 60	15d50+<moblevel * 35>
+Levels 60 - 70    15d50+<moblevel * 40>
+Levels 70 - 80	15d50+<moblevel * 50>
+Levels 80 - 90	15d50+<moblevel * 60>
+Levels 91+		15d50+<moblevel * 70>
+
+Mobiles that carry eq should have more hp than those that don't.  However, do not 
+make overly wimpy mobs, as those won't get approved.
+~
+
+0 B_M_MANA~
+
+Mobiles don't use mana, but they should all have mana.  Use the same table for
+mana as you do for hp, but it can be lower.  If you don't intend to use the area
+for anything else EVER (note that mobiles using mana might be implemented in the
+future), then you can use 1d1+99 as a spaceholder.  You MUST put something, though.
+
+Syntax:
+
+<moblevel> <extrahitdam> <hp> 1d1+99 <hitroll> <attackmessage>
+					^^---mana
+~
+
+0 B_M_AC~
+
+A mobile's ac is similar to a player's armor class.  The only thing is, the mud
+code adds an extra 0 to it, so if you make their ac -20, it will, in fact be -200.
+Always make the ac against magic be higher (worse) than the ac for other weapons.
+~
+
+0 B_M_OFFBITS~
+
+Mobiles have offensive bits that say what they can do during battle.  Higher level
+mobiles should have more off_bits than lower level mobiles.  Mobiles that are between
+levels 0 and 10 should not have any off_bits.  They are listed as letters, and for
+more than one off_bit, the letters are just run together with no space between them.
+
+Ex. 
+
+ABCDEFG <immunities> <resistances> <vulnerabilities>
+~
+
+0 B_M_IMMUN~
+
+Immunities are what the mobile is immune to.  DO NOT GO OVERBOARD WITH IMMUNITIES!
+If they are immune to lots of things or popular weapon types, also make them
+immune to charm.  Mobiles that are immune to summon cannot be gated to, and 
+shopkeepers should be set with this flag so people don't get them for quests.  They
+are depicted as letters, and for more than one immunity, you just run the letters
+together.
+
+Ex. 
+
+<off_bits> ABCDE <resistances> <vulnerabilities>
+~
+
+0 B_M_RESIST~
+
+Resistances are weapon types the mobile is resistant to.  This can make them harder
+to kill, and you can use more resistances than immunities.  They are depicted as
+letters, and for more than one resistance, you run the letters together with no
+space in between.
+
+Ex. 
+
+<off_bits> <immunities> ABCDE <vulnerabilities>
+~
+
+0 B_M_VULN~
+
+Vulnerabilities are weapon types a mobile is vulnerable to.  The weapon will do 
+more damage if they are vulnerable to it.  Use this one sparingly.  Vulnerabilities
+are depicted as letters, and for more than one vulnerability, you run the letters
+together with no space in between.
+
+Ex.
+
+<off_bits> <immunities> <resistances> ABCDE
+~
+
+0 B_M_POSITION~
+
+The mobile's position means whether they are standing, sitting, sleeping, resting,
+etc.  Standing should almost always be used.  Remember that if the mobile is 
+sleeping, they can be dealt more damage.  The position numbers are as follows:
+
+Standing = 8	Syntax:
+Resting = 6		        8 8 <sex> <gold>
+Sitting = 4			(this means the mobile is standing)
+Sleeping = 2
+~
+
+0 B_M_SEX~
+
+The mobile's sex determines whether it is male, female, or neither.  It is
+depicted as a number.  0 = neither, 1 = male, 2 = female
+
+Syntax (example):
+	
+<position> <position> 2 <gold>
+(this mobile is thus female)
+~
+
+0 B_M_GOLD~
+
+Be sparing with gold on mobiles.  Don't give gold to mobiles where it doesn't make
+sense.  Why would a beggar have 4000 gold? Etc.  The amount of gold is shown at the
+end of the position/sex line.
+
+Syntax (example):
+
+<position> <position> <sex> 1000
+(this mobile will have 1000 gold)
+~
+
+0 B_M_SIZE~
+
+Mob size is how big the mobile is.  This is shown as a letter (only 1, never more).
+The letters are as follows:
+H = huge, G = giant, M = medium, S = small, T = tiny
+
+Syntax (example):
+
+<form> <parts> M <>
+(This mobile is medium size)
+~
+
+0 B_O_NAME~
+
+Object name is the keywords you would use.  Make sure that you have any and all 
+keywords a person would call the object.  If you use the word "blade" in the long
+desc, and "sword" in the short desc, make sure you have both words in the name
+(as an example).
+
+Syntax (example):
+
+sword blade<tilde>
+~
+
+0 B_O_SHORT~
+
+The object short desc is what you see when someone is wearing the object, and also
+what it is called when they are fighting with a weapon.  Don't capitalize the
+first word unless it's a proper noun.  The short desc is not a sentence.
+
+Syntax (example):
+
+the leather pouch<tilde>
+	OR
+the wooden spatula<tilde>
+	OR
+a sharp dagger<tilde>
+~
+
+0 B_O_LONG~
+
+The long descs for objects is where everyone gets killed on.  This is what people
+see when the object is lying on the ground.  It is a sentence with a subject and
+a predicate.  Make sure that what you call the object is also a keyword for it.
+
+Syntax (example):
+
+A leather pouch lies crumpled on the ground.<tilde>
+	OR
+A pile of leather lies jumbled in a heap.<tilde>
+	OR
+A very large tree covers the path with lots of shade.<tilde>
+~
+
+0 B_O_TYPE~
+
+The object type describes what exactly the object is.  For example, a weapon, armor,
+light, wand, staff, furniture, etc.  This is described as a number.  For the list
+of types type HELP OBJTYPE.
+
+Syntax:
+
+9 <objflags> <objwears>
+(this object is thus a piece of armor)
+~
+
+0 OBJTYPE~
+
+The object types and their corresponding numbers are...
+1 	light			16
+2	scroll		17
+3	wand			18
+4	staff			19
+5	weapon		20
+6				21
+7				22	fountain
+8				23
+9	armor			24
+10				25
+11				26	pill
+12	furniture		27
+13				28	potion
+14				29	portal
+15 				30	trap
+~
+
+0 B_O_VALUES~
+
+For the values, which consist of 5 total, they are different for each object.
+Their syntax is:
+V0 V1 V2 V3 V4
+
+To find out what they are for each object type, see the HELP...
+	OT_LIGHT
+	OT_SCROLL
+	OT_WAND
+	OT_STAFF
+	OT_WEAPON
+	OT_
+	OT_
+	OT_
+	OT_FOUNTAIN
+	OT_ARMOR
+	OT_
+	OT_
+	OT_
+	OT_
+	OT_
+~
+
+0 B_O_FLAGS~
+
+Objects have flags that do different things.  They are depicted as letters, and 
+when more than one flag is needed, you put them down together with no spaces in
+between the different letters.  To see a list of what the flags are and their
+corresponding letters, see HELP OBJ_FLAGS.
+
+Syntax:
+
+<obj type> ABCD <obj wears>
+~
+
+0 OT_LIGHT~
+
+0 0 <number of good light hours> 0 0
+
+ex. 0 0 999 0 0
+(an unlimited light)
+
+ex. 0 0 50 0 0
+(a 50 hour light)
+~
+
+0 OT_FOUNTAIN~
+
+<amount in fountain> <amount it holds> <fluid in it> 0 0
+ ex. 999 999 0 0 0
+(unlimited fountain with water in it)
+
+see HELP FLUIDS for the fluid numbers
+~
+
+0 OT_WEAPON~
+
+<kind of weapon> <# dice> <# sides on die> <damage type> <weapon flags>
+
+ex. 1 9 10 2 0
+(a sword with ave dam 49, that does "slash" damage, with no weapon flags.)
+
+Don't make weapons above ave dam 50.
+Don't add any weapons flags without permission.
+Make weapons ave dam comparable to other weapons of the same level.
+~
+	
+0 OT_TRASH OT_FURNITURE OT_KEY OT_TREASURE~
+
+0 0 0 0 0
+
+They don't have any values... so just make all 5 of the numbers 0.
+~
+
+0 OT_PORTAL~
+
+0 0 0 <to_room_number> 0
+
+ex. 0 0 0 3054 0 
+(this portal would lead to the temple altar)
+~
+
+
+
+0 B_RE_COMMENTS~
+
+You can comment each line for the resets so you know what is where without having
+to scroll up to the mobile vnums.  It is always a good idea to note these because
+you WILL forget, and it helps during debugging.
+
+Anything after the initial reset is treated as a comment, and also lines that begin
+with a * are also comments.  For example:
+
+M 0 1099 1099	* The Mud monster
+M 0 1099 1099	The Mud Monster
+* Now come the doors
+~
+
+0 $~
+
+#$

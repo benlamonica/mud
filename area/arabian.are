@@ -1,0 +1,945 @@
+#AREA {80 90} Mookie  Arabian Nights~
+
+
+#MOBILES
+#16901
+bird maiden~
+The Bird Maiden~
+A Bird like Girl is here, Swooping and Diving.
+~
+This beautiful girl is here, flapping multicolored wings on the breeze and
+she looks like she's enjoying herself. She winks at you and throws you a kiss
+as she goes into a loop de loop.
+~
+human~
+BCQ CDEFVaa 2000 S
+80 95 1d1+6000 200d1+1 1D1+20 3
+-35 -35 -35 -30
+EIAFK HILQ RJ O
+8 8 2 5000	
+0 0 M 0
+
+#16902
+queen sorceress~
+A Sorceress Queen~
+A Dark Lady Stands here, grinning evilly.
+~
+The sorceress queen stands here, wrapped in shadows. slim and good looking,
+she looks very dangerous.
+~
+human~
+BCS ADENVaa 1000 S
+110 119 1d1+7000 500d2+1000 1d1+35 2
+-40 -40 -40 -45
+EBA I K FO
+8 8 2 7000
+0 0 M 0
+
+#16903
+flying men man~
+The Flying Man~
+A Man seems to hover without wings here.
+~
+This fellow seems to be hovering in mid air with very little concentration.
+~
+human~
+BCS ADEFVaa 1000 S
+80 95 1d1+5500 10d10+200 1d1+23 2
+-30 -30 -30 -20
+IJ I H G
+8 8 2 4000
+0 0 M 0
+
+#16904
+wyluli wolf~
+The Wyluli Wolf~
+A Desert wolf snarls angrily at you here.
+~
+This bedraggled specimen stands 4 feet at the shoulder, and has nasty looking
+fangs. He seems to give off an aura of no fear, and one look in his eyes 
+makes your bowels release themselves of their own accord.
+~
+wolf~
+BCS DEFVaa 1000 S
+79 85 1d1+6000 1d1+255 1d1+22 3
+-45 -45 -45 -40
+IJABF I H F
+8 8 2 1000
+0 0 M 0
+
+#16905
+moorish cavalry horsemen men~
+The Moorish Cavalry~
+A few men mounted on horses are here, sword and spear at the ready.
+~
+This band of moorish cavalry are riding fine white war horses.. they seem
+to number four or so, and they goad you, trying to make you make the first
+move. They don't seem afraid however.
+~
+horse~
+BCS DEFVaa 1000 S
+95 104 1d1+6900 15d15+30 1d1+29 15
+-50 -50 -50 -50
+IJABK ABH I KO
+8 8 2 5000
+0 0 M 0
+#16906
+El-Hajjaj el hajjaj man turbaned~
+El-Hajjaj~
+A Tough looking turbaned man is here.
+~
+The glint in his eye makes you think twice about attacking him. He seems
+to know more than you.
+~
+human~
+BCS DEFVaa 1000 S
+120 135 1d1+7000 10d15+85 1d1+37 25
+-55 -50 -55 -55 
+IJ IPQ H CN
+8 8 1 5000
+0 0 M 0
+
+#16907
+camel beast~
+A Camel~
+A multi humped beast is here, spitting at you.
+~
+This monstrosity is a rude ugly beast. It keeps spitting at you, and the 
+only reason it is kept around is because it doesn't drink much water.
+~
+camel~
+BCS DEFVaa 1000 S
+60 85 1d1+4500 12d13+10 1d1+13 1
+-30 -30 -30 -40
+ABF 0 0 0
+8 8 0 15000
+0 0 M 0
+
+#16908
+Mijae djinn fellow tall~
+The Mijae Djinn~
+A Tall fellow, with a flaming aura stands here looking at you.
+~
+This Djinn Looks like a match for any warrior. Muscles of steel and a sharp
+eye have kept him alive a lot longer then most.
+~
+demon~
+BCS DEFVaa 1000 S
+91 100 1d1+7900 60d4+125 1d1+35 6
+-50 -50 -50 -50
+0 BH M CN 
+8 8 2 10000
+0 0 M 0
+#16909
+abu ja'far~
+Abu Ja'Far~
+Abu Ja'far is here, he looks like he wants to make a deal.
+~
+Abu looks like a good haggler, arcane symbols dangle from a necklace he's 
+wearing. And every now and then he mutters sayings in arcane tongues.
+~     
+human~
+BCS DEFVaa 1000 S
+100 105 1d1+5000 40d4+150 1d1+37 6
+-50 -50 -50 -50
+0 0 0 F
+8 8 1 3000
+0 0 M 0
+#16910
+aladdin~
+Aladdin~
+Aladdin is here, polishing his lamp.
+~
+A Good looking youth is here, He holds on to a magic lamp, and tries to keep
+it out of sight. He's not bashful however, and jumps up to greet you.
+You can't help but feel like your purse is lighter after a few moments.
+~ 
+human~
+BCS DEFVaa 1000 S
+120 125 1d1+8000 1d1+300 1d1+32 27
+-65 -65 -65 -65
+ABKF 0 0 CG
+8 8 1 10000
+0 0 M 0
+
+#16911
+king sulemain~
+The King Sulemain~
+The Mighty King Sulemain is here, waiting to slay a Djinn.
+~
+A thick moustache and dark beard are the most prominent facial features on 
+this fellow, dressed in white robes befitting a king he looks at you before
+passing judgement.
+~
+human~
+BCS DEFVaa 1000 S
+120 125 1d1+11400 200d5+100 1d1+30 10
+-55 -55 -55 -50
+ABKF 0 0 0
+8 8 1 1000
+0 0 M 0
+
+#16912
+war elephant~
+A War Elephant~
+A Large Elephant is here with a bloodlust in its eye.
+~
+This elephant bears the scars of many battles, and as it turns it bleary eye
+upon you it snorts and tries to trample you into the ground.
+~ 
+elephant~
+BCS DEFVaa 1000 S
+75 65 1d1+6500 300d300+1 1d1+10 2
+-25 -25 -25 -30
+AFKC 0 0 0
+8 8 0 1000
+0 0 M 0
+
+#16913
+brass man~
+The Brass Man~
+A mechanical man, made of brass stumbles around.
+~
+This creation looks to be made of nuts and bolts and mud.. More a golem like
+creation then anything else, it looks to have a mindless will, only doing
+what its master wants.
+~ 
+human~
+BCS DEFVaa 1000 S
+100 85 1d1+9900 100d4+100 1d1+30 2
+-40 -40 -40 -50
+AFK B 0 0
+8 8 0 2000
+0 0 M 0
+
+#16914
+dancing sword scimitar~
+The Dancing Scimitar~
+A sword darts to and fro in the air here, seeking out a new victim.
+~
+The dancing sword flies about, weaving through the air ever in search of 
+new opponents. ~ 
+unique~
+BCS DEFVaa 1000 S
+95 75 1d1+5800 300d1+300 1d1+27 25
+-32 -32 -32 -30
+CDE 0 0 0
+8 8 0 4500
+0 0 M 0
+
+#16915
+juzam djinn~
+The Juzam Djinn~
+A Large Horned Demon stands here. He looks at you and attacks!
+~
+This demon stands fully 20 feet tall, huge horns protruding from either side
+of its head. Black skinned, and tougher than a rock it looks like.
+~
+demon~
+BCS DEFVaa 1000 S
+110 96 1d1+8900 500d5+100 1d1+34 25
+-60 -60 -60 -50
+CDE 0 L N
+8 8 1 1000
+0 0 L 0
+ 
+#16916
+aligor man~
+Aligor The Magnificent~ 
+A turbaned man, clad all in white looks at you and smiles.
+~
+Aligor is here, praying and chanting. He looks at you and welcomes you to his
+residence. He is a humble but proud man.
+~
+human~
+BCS DEFVaa 1000 S
+110 129 1d1+9900 300d1+700 1d1+35 25
+-60 -65 -65 -65
+CDEF 0 0 D
+8 8 1 7000
+0 0 M 0
+
+#16917
+genie~
+The Mighty Genie~
+A turbaned man is here, you can almost see through him.
+~
+He looks set on an important mission for aladdin. The genie ignores you.
+~      
+human~
+BCS DEFVaa 1000 S
+115 120 1d1+6000 1000d3+100 1d1+35 19
+-50 -50 -50 -50
+CDE 0 0 D 
+8 8 1 25000
+0 0 M 0
+#16918
+ali cairo~
+Ali, the man from Cairo~
+A man stands here, dressed in outlandish garb. 
+~
+Ali has long pointed slippers, and a hat with diamonds and emeralds set into
+it. He looks around himself aimlessly, obviously lost.
+~     
+human~
+BCS DEFVaa 1000 S
+115 125 1d10+7500 100d100+1 1d1+32 25
+-50 -50 -50 -55
+CDE 0 0 D
+8 8 1 20000
+0 0 M 0
+
+#16919
+ebony horse~
+The Ebony Horse~
+A horse made out of metal stands here.
+~
+The ebony horse looks at you, wondering if you can oil it or something.
+Made mostly out of metal, it is a little prone to rust, but it looks like a 
+sturdy beast to have with oneself. there's even a spot for saddlebags on his 
+frame.
+~
+horse~
+BCS DEFVaa 1000 S
+85 80 1d1+6500 1000d3+1000 1d1+25 19
+-40 -40 -40 -40
+ACDE 0 0 0
+8 8 0 1000
+0 0 M 0
+#16920
+ydwen efreet~
+The Ydwyen Efreet~
+A Efreet stands here, snarling at you.
+~
+Tall and powerful, orange skinned and eyes hard as rock. You back off.
+~
+human~
+BCS DEFVaa 1000 S
+125 125 1d1+9900 300d10+900 1d1+37 19
+-50 -50 -55 -50
+ADE 0 0 0
+8 8 1 2000
+0 0 M 0
+#16921
+sinbad~
+Sinbad~
+Sinbad the sailor stands here.
+~
+Sinband stands here, leaning against a pole. He is dressed in blue sailing 
+garb and looks at you with an uncanny wisdom
+~     
+human~
+BCS DEFVaa 1000 S
+93 75 1d1+5000 1000d3+500 1d1+33 1
+-40 -40 -40 -40
+AFE B 0 0
+8 8 1 1000
+0 0 M 0
+#16922
+old man sea~
+The Old man of the Sea~
+A sun beaten old man leans on a staff here.
+~
+The old man of the sea looks tough for his apparent age. He meets your eyes
+with a steady gaze of his own.
+~         
+human~
+BCS DEFVaa 1000 S
+42 45 1d1+1500 100d10+1000 1d1+10 2
+-25 -25 -25 -20
+ACDE 0 0 0
+8 8 1 1000
+0 0 M 0
+#0
+
+#OBJECTS
+
+#16901
+aladdin lamp~
+Aladdin brass Lamp.~
+A plain lamp sits on the ground here.~
+adamantite~
+1 ABK A
+0 0 999 0 0
+70 10 190 P
+E
+lamp brass aladdin~
+This looks like a plain lamp, maybe you should polish it...~
+A
+18 2
+A
+19 2
+A
+17 -15
+A
+13 10
+#16902
+ring ma'ruf~
+The Ring of Ma'ruf.~
+A ring possessed of a magic aura lies in some shit her.~ 
+adamantite~
+9 ABK AB
+20 20 20 10 0
+70 3 100 P
+E
+ring ma'ruf~
+This ring of power looks fit for a king!~            
+A
+1 -1
+A
+3 2
+A
+4 1
+A 
+12 15
+A
+24 -5
+#16903
+jandor saddlebags~
+Jandors Saddlebags.~
+Some Thick Leather Saddlebags lie here.~
+adamantite~
+15 ABK AL
+999 5 0 0 0
+70 5 100 P
+E 
+jandor saddle bag~
+Dark strips of leather stand out against  the brown leather that makes up 
+these saddlebags.~
+A
+4 2
+A
+13 20
+#16904
+mace king sulemain~
+The Mace Of King Sulemain~
+A Large ornate mace rests on the floor here.~
+adamantite~
+5 ABK AN
+4 9 10 27 0
+25 24 195 P
+E
+mace~
+A Heavy mace with fine carvings is here.~
+A
+12 20
+A
+13 30
+A
+18 3
+A
+19 3
+#16905
+sandal sandals abdulla~
+Abdulla's Sandals~
+Some travel weary sandals.~ 
+adamantite~
+9 ABK AG
+30 30 30 10 0
+10 10 10 P
+E
+sandals abdulla~ 
+Simple and plain, these sandals look comfortable and sturdy.~
+A
+2 2
+A
+14 20
+A
+17 -15
+A
+19 2
+#16906
+amulet aligor~
+The Amulet of Aligor~
+An ivory amulet lays in the dust here.~
+adamantite~
+9 ABK AC
+25 30 25 15 0
+15 5 100 P
+E
+amulet aligor~
+Finely carven in indian folklore carvings, this amulet is indeed intricrate.~
+A 
+18 1
+A
+19 1
+A
+12 15
+#16907
+skin djinn~
+The Skin of the Djinn~
+There is a red skin is on the gound here.~
+adamantite~
+9 ABK AD
+30 30 30 30 0
+70 50 500 P
+E
+skin djinn~
+The Red hide of a djinn feels subtle yet hard to your touch.~
+A
+13 70
+A
+14 -150
+A
+18 3
+#16908
+sinbad scarf~
+SindBads Scarf~
+A Blue Scarf is on the ground here.~
+adamantite~
+9 ABK AC
+20 20 20 20 0
+70 15 100 P
+E
+sinbad scarf~
+A Brilliant blue scarf is here, it's looks slightly sweaty.~
+A
+13 30
+A
+18 2
+A
+19 2
+A
+12 -75
+#16909
+demon claws djinn~
+The Claws of a Djinn~
+There is a set of red claws on the ground here.~
+adamantite~
+9 ABK AH
+20 20 20 20 0
+70 10 100 P
+E
+demon claws djinn~
+The Red claws of a djinn feel as though they could rip through your skin in a second.~
+A
+12 10
+A
+13 10
+A
+18 2
+A 
+19 2
+A
+1 -1
+#0
+
+#ROOMS
+
+#16901
+Enterance To the Bazaar of Baghdad.~
+Thick colorfull tapestries hand all around you, colorfull maidens wink at you
+from under pastel colored viels. Incense fills the air between the tall walls
+and the heat is sweltering. You can hear the bustle of a marketplace up ahead
+and you can make your way back the way you came.
+~
+0 0 1
+D0
+The City walls lead to a Marketplace.~
+~
+0 -1 16902
+D3
+You see the wind-swept ledge.~
+~
+0 -1 5063
+S
+#16902
+The Bazaar Of baghdad.~
+All around you merchants try to haggle their wares on you, most in languages
+You can't understand, all manners of goods from fine carpets and silks to 
+gold and jewelry of the finest quality. Overhead someone is joyriding on a 
+Flying carpet. Dust rises and flies buzz and you feel thirsty.
+~
+0 0 1
+D0
+The Center of the Bazaar.~
+~
+0 -1 16906
+D1
+The East side.~
+~
+0 -1 16904
+D2
+Enterance To the Bazarre~
+~
+0 -1 16901
+D3
+West End.~
+~
+0 -1 16903
+S
+#16903
+The west side.~
+You stand in the upper classed houses, sunlight glints off gold covered 
+rooftops, and from a good vantage point it looks like a sea of easter eggs.
+You notice a small cyclone kicking up dirt, but it looks harmless.. there 
+does seem to be some oddities around however.
+~
+0 0 1
+D0
+Outskirts of town.~
+~
+0 -1 16905
+D1
+Bazaar Of Baghdad.~
+~
+0 -1 16902
+D2
+Library Of Alexandria.~
+~
+0 -1 16917
+S
+#16904
+East Side of Town.~
+The further east you go, the less and less housing there seems to be.. Soon
+all there is is scattered tents, and the obviously poor live here. The desert
+seems ready to close in on the already small village. The wind whips up the
+sand furiously, stinging the hands and face, It looks like a good place to 
+get jumped.
+~
+0 1 10
+D0
+In The Desert.~
+~
+0 -1 16907
+D1
+In The Desert.~
+~
+0 -1 16919
+D2
+Elephant graveyard.~
+~
+0 -1 16918
+D3
+Back to the bazaar~
+~
+0 -1 16902
+S
+#16905
+In The Outskirts.~
+Thick bearded thugs look you over, as you wander to the far edges of the 
+village. The Seem to be sending angry glares your way, but make no move to 
+attack, perhaps their just angry at outsiders for taking more of their 
+already dwindling water.. There seems to be a large forbidding tent to theånorth, and you can make out the center of town to the east.
+~
+0 0 1
+D0
+Shamans Tent.~
+~
+0 -1 16911
+D1
+Oasis.~
+~
+0 -1 16906
+D2
+West End.~
+~
+0 -1 16903
+S
+#16906
+Oasis At Center Square.~
+This is Obviously the source of the towns prosperity, bublling clear water 
+spills out of a stone fountain, forming a small pool in which many people
+rely on for their drinking needs. A Large tree grows here, and there seems
+to be fruit of various ripness overloading it's boughs.
+~
+0 0 -1
+D0
+Before The Palace.~
+~
+0 -1 16912
+D1
+A Path to the desert.~
+~
+0 -1 16907
+D2
+Bazaar of Baghdad.~
+~
+0 -1 16902
+D3
+Outskirts of Town.~
+~
+0 -1 16905
+S
+#16907
+In the desert.~
+You are in the beginning of what looks like a painfull desert. Tall sand dunes
+make travell sketchy at best. You can make out a number of tents to the south,and the oasis is to the west.
+~
+0 0 10
+D0
+A Dark tent.~
+~
+0 -1 16913
+D1
+In the Desert.~
+~
+0 -1 16908
+D2
+East End.~
+~
+0 -1 16904
+D3
+Oasis.~
+~
+0 -1 16906
+S
+#16908
+In The Desert.~
+Sand Dunes Shift and turn, making it hard to tell where you are.
+~
+0 0 10
+D2
+In The Desert.~
+~
+0 -1 16907
+D3
+In The Desert.~
+~
+0 -1 16909
+S
+#16909
+In The Desert.~
+Sand dunes shift and turn, making it hard to tell where you are.
+~
+0 1 10
+D1
+A Small Cave.~
+~
+0 -1 16910
+D3
+In The Desert.~
+~
+0 -1 16908
+S
+#16910
+In A Small Cave.~
+The Walls of this cave, (more a chunk of rock in the middle of nowhere!) are
+very plain, and it looks like someone lives here. A few simple tools lie on 
+the floor, and a slab of rock looks to be someone's bed.
+~
+0 9 5
+D3
+In The Desert.~
+~
+0 -1 16909
+S
+#16911
+The Mages Tent.~
+Abu Jufar is sitting here, writing down another spell. He see's you come in
+and offers you his finest selection of enhancement items. Unfortunately he
+pleads, this cost is high due to the sheer rarity of his items.
+~
+0 8 0
+D1
+Enterance to the Palace.~
+~
+0 -1 16912
+D2
+Outskirts of Town.~
+~
+0 -1 16905
+D3
+Room of Summoning.~
+~
+0 -1 16916
+S
+#16912
+Enterance to the Palace.~
+Heavy marble is under your feet, a welcome change from the grimy dust that 
+plagues this place. Uniformed palace guards watch you from beneath their 
+turbans, and you can see the guilded Gold cylinders that make up the palace
+to the north.
+~
+0 0 1
+D0
+The Palace.~
+~
+0 -1 16914
+D1
+A Dark Tent.~
+~
+0 -1 16913
+D2
+The oasis.~
+~
+0 -1 16906
+D3
+A Dark Tent.~
+~
+0 -1 16911
+S
+#16913
+Jandor's Tent.~
+Jandor the artificer is here, Working on another creation. All sorts of 
+automations wander his shop, be they crawling or hopping, wiggling or 
+squirming. Jandor himself comes out from a back room to the east, muttering
+something about 'those damn juzam djinns'..
+~
+0 8 0
+D1
+Behind Some curtains.~
+~
+0 -1 16915
+D2
+Towards the desert.~
+~
+0 -1 16907
+D3
+Before the Palace.~
+~
+0 -1 16912
+S
+#16914
+The Palace of King Suleiman.~
+You enter into the grand hall of King Sulemain himself. He sits in a massive
+throne, made entirely of gold and gems, and you wonder where the manpower to
+build such a magnificent palace could be found, after all, this IS the middle
+of nowhere..
+~
+0 8 0
+D2
+Before the Palace.~
+~
+0 -1 16912
+S
+#16915
+Back Of The Tent.~
+This is the back of jandors tent, things seem quite a mess! Boxes and crates
+lie strewn about, overturned braizers spill liquids of unknown origin onto 
+the floor.
+~
+0 8 0
+D3
+Jandors tent.~
+~
+0 -1 16913
+S
+#16916
+The Summoning Chanmer of Abu Jufar.~
+A pentagram, surrounded by a circle takes up the floor of this room.. Thick
+clouds of smoke rise form brass pots set in the corners, and the fumes make 
+your dizzy after a few moments. Some small cages on the floor in the back 
+hold some small animals, presumably for sacrafice judging by the blood smears
+on the floor. You feel definately uncomfortable and want to leave.
+~
+0 8 0
+D1
+The Tent Of Abu Jufar.~
+~
+0 -1 16911
+S
+#16917
+Library Of Alexandria.~
+Thick Marble steps Lead up to a Library of wonderous proportions. A magical
+air seems to shimmer in the air, and you get the feeling you may be able to
+find THIS library anywhere... The large bronze doors swing inwards to a plush
+setting, books lining the wall as far back as you can see and it seems somehow
+to be bigger inside then it seemed from the outside.
+~
+0 8 0
+D0
+West End.~
+~
+0 -1 16903
+S
+#16918
+Elephant graveyard.~
+A Small path leads down into a pit, full of bones and tusks.. All seem to be
+from elephants, or perhaps mamoths judging from the size of some of those 
+tusks!!! Smooth clay walls reach into the sky, but all is not quiet.
+You could swear you heard the trumpting of an elephant.
+~
+0 0 10
+D0
+East end of Town.~
+~
+0 -1 16904
+S
+#16919
+In The Desert.~
+Sand dunes aren't too bad here, and a clear path runs east-west. The town
+lies to the east, and you can hear crickets in the scrub.
+~
+0 0 10
+D1
+Diamond Valley.~
+~
+0 -1 16920
+D3
+East end of town.~
+~
+0 -1 16904
+S
+#16920
+Diamond Valley.~
+But a parched tree stands here, a forgotten skull of some horned beast lays at
+it's feet. At fist the valley you stumble into looks like any other, but you 
+can't help but catch the glint of millions of little pebbles.. A small oasis
+fills the center, and it looks like a regular feeding place for animals.
+Diamonds are abundant here, and there sits three diamond decanters by the 
+pool.
+~
+0 0 10
+D3
+In The Desert.~
+~
+0 -1 16919
+D5
+A black hole.
+~
+~
+0 -1 45504
+S
+#0
+
+#RESETS
+M 0 16901 3 16902
+M 0 16901 3 16906
+M 0 16901 3 16907
+M 0 16902 1 16905
+M 0 16903 3 16906
+M 0 16903 3 16902
+M 0 16903 3 16903
+M 0 16904 2 16908
+M 0 16904 2 16909
+M 0 16905 2 16904
+M 0 16905 2 16903
+M 0 16906 1 16907
+M 0 16907 4 16902
+M 0 16907 4 16904
+M 0 16907 4 16908
+M 0 16907 4 16903
+M 0 16908 1 16916
+E 1 16907 2 5
+M 0 16909 1 16911
+M 0 16910 1 16910
+E 1 16901 1 1
+M 0 16911 1 16914
+E 1 16904 3 16
+M 0 16912 1 16918
+M 0 16913 3 16913
+M 0 16913 3 16916
+M 0 16913 3 16912
+M 0 16914 1 16905
+M 0 16915 1 16915
+E 1 16902 3 2
+M 0 16916 1 16912
+E 1 16905 2 8
+M 0 16917 1 16911
+M 0 16918 1 16905
+M 0 16919 2 16906
+M 0 16919 2 16904
+E 1 16903 5 13
+M 0 16920 1 16920
+M 0 16921 1 16913
+E 1 16908 2 6
+E 1 16909 2 9
+M 0 16922 1 16913
+S
+
+#$ 
+
+
+
+

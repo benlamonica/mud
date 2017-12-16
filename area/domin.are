@@ -1,0 +1,678 @@
+#AREA {GUILD} Dhai/KS Dominion Guild Area~
+
+#HELPS
+
+0 $~
+
+#MOBILES
+
+#8201
+Lillandra~
+Lillandra  the Demoness~
+Lillandra says '^BPHow may i serve you Master?^NN'.
+~
+You see a skimply clad demoness hopping around for the patrons.
+~
+unique~
+OV CDEFGNOTVZ -1000 S
+50 0 1d1+99 1d1+99 1d1+9 32
+0 0 0 0
+0 ABCDEFGHIJKLMNO 0 0
+8 8 2 0
+0 0 L 0
+#8203
+Figure Dark Healer~
+A Dark Figure~
+A pitch black figure stands in the center of the room.
+~
+You look more closely at the darkly clad man in the center of the room...and
+cant tell much.  He is covered in black cloth that seems to absorb the rooms
+little light, and his eyeless gaze on you makes you stand back while he
+continues his incantation
+~
+human~
+ABGOVa CDEFGHNOTV -999 S
+100 0 1d1+99 1d1+99 1d1+9 31
+0 0 0 0
+AFK ABCDEFGHIJKLMNO 0 0
+8 8 0 0
+0 0 G 0
+#8204
+Hunchback Hobbling Man~
+A Hunchbacked Man~
+A small hunchbacked man hobbles amongst the goods here.
+~
+You see a ganrled old man hobbling amongst his goods.  He sees you come in and a
+greedy glow comes to his eyes.  You notice he has only one leg, which is why he
+is hoggling.  He also has a very hunched back, and puts you on guard with his
+oily smile.
+~
+dwarf~
+ABOVY CDEFGPV -500 S
+50 0 1d1+99 1d1+99 1d1+9 31
+0 0 0 0
+0 ABCDEFGHIJKLMNO 0 0
+8 8 1 0
+0 0 T 0
+#8205
+Master Arms Man~
+The Master of Arms~
+A large man stands here, directing his pupils.
+~
+You see a huge man standing in the center of this room.  His shear size almost
+knocks you off your feet.  You dread the day you get on the wrong side of the
+man.  When he sees you, he smiles.  It is a cruel smile, one of anticipation and
+violence.
+~
+human~
+ABGKOTVbY CDEFGHJNOPQTUVZ -1000 S
+70 0 10d1000+9999 1d1+99 60d60+9 31
+0 0 0 0
+FK ABCDEFGHIJKLMNO 0 0
+8 8 1 0
+0 0 G 0
+#8206
+Maelstrom~
+Maelstrom~
+A large man with a wild look in his eyes watches you closely.
+~
+You almost faint when you see this man.  His eyes on you makes you want to
+scream.  He looks like hes the victor of many battles, and enjoyed every one.  A
+small smile comes to his lips when he sees you plan on entering his domain.
+Enjoy you stay.
+~
+human~
+ABORV CDEFGHNOUVZ -1000 S
+100 0 600d550+60000 1d1+100 40d40+200 18
+-3 -3 -3 -5
+0 ABCFHKORYZ 0 0
+8 8 0 0
+0 0 G 0
+#0
+
+#OBJECTS
+
+#8202
+Black Marble Fountain~
+A Black Marble Fountain~
+A black marble fountain spurts a steady stream of water.~
+marble~
+25 0 0
+999 999 0 0 0
+25 500 0 P
+#8203
+Human Flesh Bloody~
+A Bloody Chunk of Human Flesh~
+A chunk of human flesh festers on the ground.~
+unique~
+19 0 A
+3 10 0 0 0
+30 3 200 P
+#8204
+Pit Sacrifice~
+A Pit~
+A pit made for donations lies here.~
+stone~
+15 0 0
+555 555 0 555 100
+30 500 0 P
+#8205
+Obelisk~
+an Obelisk~
+A large black obelisk juts out of the ground here.~
+unique~
+29 E 0
+0 0 B 8212 0
+50 7937 0 P
+#8207
+Key Bloody~
+A Bloody Key~
+A key that seems to draw in light sits here.~
+bone~
+18 ACEHNP A
+0 0 0 0 0
+40 2 2 P
+#8208
+Glass Blood~
+A Glass of Blood~
+A glass of blood lies on the ground here.~
+unique~
+17 0 A
+5 5 13 0 0
+30 1 300 P
+#8209
+Eyeball~
+An Eyeball~
+An eyeball winks at you.~
+unique~
+19 0 A
+1 3 0 0 0
+30 1 20 P
+#8210
+Glass Water~
+A Glass of Water~
+A glass of water is here.~
+glass~
+17 0 A
+4 4 0 0 0
+32 1 50 P
+#8211
+jug huge~
+A small jug~
+A small jug lies here.~
+bamboo~
+17 CE A
+30 30 0 0 0
+30 0 0 P
+#8212
+Portal Glowing~
+A glowing portals sits here.~
+A glowing portals leads to places unknown.~
+glass~
+29 A 0
+0 0 A 3054 0
+60 0 0 P
+#8213
+Humming Portal~
+A humming portal~
+A humming portal leads to places unknown.	~
+glass~
+29 B 0
+999 0 A 14837 0
+60 0 20 P
+#8214
+Small Pack~
+A small pack~
+A small pack lies here.~
+leather~
+15 0 AK
+100 100 0 50 100
+30 3 50 P
+#0
+
+#ROOMS
+#8201
+Dhaimon's Room of Death~
+You stand in a pitch black room.  The only illumination comes from the greater
+darkness known as Dhaimon.  You look around, and even tho it is completely dark,
+see the heads of vanquished enemy on the wall.  You can hear the screams of
+those still living as thjey await the comfort of death.
+~
+0 ADKNP 0
+D0
+~
+~
+0 -1 1
+D1
+~
+~
+0 -1 1212
+D2
+~
+~
+0 -1 3054
+D3
+~
+~
+0 -1 8202
+S
+#8202
+The Dark Obelisk~
+You enter a large room and are immediatly overwhelmed by darkness.  Above you
+stands a glowing green dome warping the view of the eternal night.  In the
+center of the room stands a huge black obeliskk.  Surrounding the obelisk is a
+pool of crimson red water, you are not sure you want to drink from. Exits lead
+in all directions.
+~
+0 ADK 0
+D0
+You see a dark hallway in this direction.
+~
+~
+0 -1 8203
+D1
+A small shop is nearby.
+~
+~
+0 -1 8205
+D3
+You see a large pit.
+~
+~
+0 -1 8213
+D5
+~
+~
+0 -1 8206
+S
+#8203
+A Long Dark Corridor~
+You are standing in the center of a long dark corridor.  There is an exit to the
+south leading to the obeslisk.  To the north you see flashes of light coming
+though a small doorway.
+~
+0 K 0
+D0
+You hear loud sounds from this direction.
+~
+~
+0 -1 8204
+D1
+You see a swirling mass of colors.
+~
+~
+0 -1 8221
+D2
+The dark obelisk towers in the distance.
+~
+~
+0 -1 8202
+D3
+~
+~
+0 -1 8216
+S
+#8204
+The Sacrificial Altar~
+When you first enter this large room, your eyes are drawn to two large black
+joles jutting out of the ground to each side of the black robed man.
+Occasionaly out of these large black poles lightning juts out into the air.  You
+hear softly utter incantions coming from the man.  The man stops his
+incantations as you walk into the room and fixes his eyeless gaze upon you.
+~
+0 ADK 0
+D2
+A long dark corridor stretches down this way.
+~
+~
+0 -1 8203
+D5
+~
+~
+0 -1 3054
+S
+#8205
+A Small Shop~
+As soon as you enter the circular room you are surrounded by many burning
+torches.  The room is divided in half in front of you by a long black counter.
+Behind the counter you notice an assortment of goods and many decaying corpses.
+As you look at the shops wares, you notice a strange man hobbling amongst the
+goods.
+~
+0 ADK 0
+D3
+A dark obelisk rises in the distance.
+~
+~
+0 -1 8202
+S
+#8206
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8207
+D1
+The arena.
+~
+~
+0 -1 8209
+D2
+The arena.
+~
+~
+0 -1 8210
+D3
+The arena
+~
+~
+0 -1 8208
+D4
+~
+~
+0 -1 8211
+D5
+~
+~
+0 -1 8212
+S
+#8207
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8206
+D1
+The arena.
+~
+~
+0 -1 8211
+D2
+The arena.
+~
+~
+0 -1 8207
+D3
+The arena.
+~
+~
+0 -1 8209
+D4
+~
+~
+0 -1 8210
+D5
+~
+~
+0 -1 8208
+S
+#8208
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8206
+D1
+The arena.
+~
+~
+0 -1 8209
+D2
+The arena.
+~
+~
+0 -1 8211
+D3
+The arena.
+~
+~
+0 -1 8208
+D4
+~
+~
+0 -1 8207
+D5
+~
+~
+0 -1 8210
+S
+#8209
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8210
+D1
+The arena.
+~
+~
+0 -1 8211
+D2
+The arena.
+~
+~
+0 -1 8207
+D3
+The arena.
+~
+~
+0 -1 8206
+D4
+~
+~
+0 -1 8208
+D5
+~
+~
+0 -1 8209
+S
+#8210
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8206
+D1
+The arena.
+~
+~
+0 -1 8208
+D2
+The arena.
+~
+~
+0 -1 8210
+D3
+The arena.
+~
+~
+0 -1 8211
+D4
+~
+~
+0 -1 8207
+D5
+~
+~
+0 -1 8209
+S
+#8211
+The Arena~
+You stand in a huge arena...it goes in all directions.
+~
+0 ACD 0
+D0
+The arena.
+~
+~
+0 -1 8210
+D1
+The arena.
+~
+~
+0 -1 8209
+D2
+The arena.
+~
+~
+0 -1 8207
+D3
+The arena.
+~
+~
+0 -1 8210
+D4
+~
+~
+0 -1 8206
+D5
+~
+~
+0 -1 8208
+S
+#8212
+A Small Room~
+As you enter this room you immediatly notice that you are surrounded by an old
+crumblind foundation.  Stones lie on the floor, covered with a dank smelling
+moss.  In front of you stands a staricase spiraling downward.
+~
+0 ACDK 0
+D5
+A spiral staircase spreads out below you.
+~
+~
+0 -1 8215
+S
+#8213
+The Donation Room~
+You stand in a huge room, covered in jewels.  This is where the kinder of your
+guild brothers and sisters leave what they dont need.  Most of it is trash, but
+you always might find something of use if you look hard enough.
+~
+0 ACDK 0
+D1
+The dark obelisk rises in the distance.
+~
+~
+0 -1 8202
+S
+#8214
+The Gathering Room~
+As you first enter this room you cough at the large amounts of smoke in the air.
+This room is much different from the rest of this fortress sas you hear cheerful
+music playing in the background, and a pale skinned voluptious woman serviing
+tables.  You take a few steps into the room and decide to take a seat on the
+large satin sofa in the center of the room.  You snap the your fingers and
+Lillandra comes to take your order.
+~
+0 ADK 0
+D4
+The dark obelisk rises above you.
+~
+~
+0 -1 8202
+S
+#8215
+A Spiral Staircase~
+As you step onto these rotten wooden stairs, you immediately grab onto the
+railing which crumbles at your touch.  You carefuly make your way down these
+stairs trying to to slip on the blood covering the stairs.
+~
+0 ADK 0
+D5
+A cozy room is below you.
+~
+~
+0 -1 8214
+S
+#8216
+The Training Room~
+You stand in a large room.  Implements of destruction litter the ground and you
+see your fellow guild members honing their skills all around you.  In the center
+of it all stands a huge man.  Whenever someone does something wrong, he uses the
+long leather whip on his belt.
+~
+0 AK 0
+D1
+A long dark corridor stretches out to your east.
+~
+~
+0 -1 8203
+S
+#8220
+Before the Gates~
+The sparse patches of grass give way to a stone tile walkway.  Before you rises
+into the air a pair of pitch black ivy inlaid gates.  You wonder whether it
+would be wise to enter or not.
+~
+0 A 0
+D2
+~
+~
+0 -1 26033
+D0
+You see a large pair of pitch black gates towering before you.
+~
+Gates Black Gate Ivory~
+1 8207 8202
+E
+Sign~
+Welcome to the Great Hall of Dominion.  Dhaimon welcomes you.
+~
+S
+#8221
+The Portal Room~
+You stand in a large room full of swirling colors.  In every dircetions you see 
+different scenes.  Some are day, some are nigt.  It seems you can reach many of 
+the more imporant parts of the game through this room.
+~
+0 0 0
+D0
+You cannot see clearly.
+~
+~
+0 -1 11812
+D1
+You cannot see clearly.
+~
+~
+0 -1 16499
+D2
+You cannot see clearly.
+~
+~
+0 -1 11700
+D3
+A long corridor stretches out before you.
+~
+~
+0 -1 8203
+D4
+You cannot see clearly.
+~
+~
+0 -1 15059
+D5
+You cannot see clearly.
+~
+~
+0 -1 9506
+S
+#0
+
+#RESETS
+O 0 8202 -1 8201	* > A Black Marble Fountain
+O 0 8202 -1 8202	* > A Black Marble Fountain
+O 0 8205 -1 8202	* > an Obelisk
+M 0 8203 1 8204	* A Dark Figure
+M 0 8204 1 8205	* A Hunchbacked Man
+G 0 8211 -1		*   > A small jug
+G 0 8214 -1		*   > A small pack
+G 0 8207 -1		*   > A Bloody Key
+M 0 8204 1 8212	* A Hunchbacked Man
+G 0 8207 -1		*   > A Bloody Key
+G 0 8211 -1		*   > A small jug
+O 0 8204 -1 8213	* > A Pit
+M 0 8201 1 8214	* Lillandra  the Demoness
+G 0 8203 -1		*   > A Bloody Chunk of Human Flesh
+G 0 8208 -1		*   > A Glass of Blood
+G 0 8210 -1		*   > A Glass of Water
+G 0 8209 -1		*   > An Eyeball
+O 0 8204 -1 8214	* > A Pit
+M 0 8206 1 8220	* Maelstrom
+D 0 8220 0 1	* North Door
+O 0 8212 -1 8221	* > A glowing portals sits here.
+S
+
+#SHOPS
+8201 0 0 0 0 0 100 100 0 23	; Lillandra  the Demoness
+8204 0 0 0 0 0 100 100 0 23	; A Hunchbacked Man
+0
+
+
+#SPECIALS
+M 8201 spec_cast_adept		; Lillandra  the Demoness
+M 8206 spec_breath_gas		; Maelstrom
+S
+
+#$

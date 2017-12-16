@@ -1,0 +1,2971 @@
+#AREA {30 66} Ellowyn Dracula's Castle~
+
+#MOBILES
+#16500
+boy young~
+a scared young boy~
+a young boy with a frown on his face and fear in his eyes.
+~
+a young boy cowers in the corner in fear of anyone that enters the room.  
+The boy has been lost in the tunnels beneith Dracula castle for weeks and 
+he see no end in sight
+~
+human~
+ACG O 300 S
+30 6 50d10+175 30d7+200 6d5+3 16
+-10 -30 -10 -10
+EFIJKN 0 BCDEFGHIJKLMNOP 0
+8 8 1 20
+0 0 S 0
+#16501
+girl young~
+a young girl with pigtails~
+a young girl with dirt covering her entire body
+~
+The small body of a young girl stands before you in fear.  Being lost in 
+the tunnels of the castle she has become caked in dirt and grime.  She 
+shivers from the elements she has been exposed to.
+~
+human~
+ACS 0 100S
+31 5 60d5+100 90d5+100 6d6+2 25
+-13 -12 -13 -10
+DIKO ABI CDHK 0
+8 8 2 130
+0 0 M 0
+#16502
+flo cook woman~
+Flo the cook~
+A large woman named Flo shouts at anything that moves
+~
+Throwing things about the room, Flo shouts for you to leave her kitchen 
+before she beats you over the head with a rolling pin.  She carefully 
+cleans the sink so she doesn't have to worry about any dirt or germs on 
+the food.  The sweat from her brow is wiped on her apren.  She is a 
+grumpy old woman, but the man can she cook.
+~
+human~
+ABCDFG NV 0 S
+55 12 50d5+700 60d6+100 9d7+9 7
+-30 -30 -30 -30
+ABCDEFKN ABI C X
+8 8 2 100
+0 0 L 0
+#16503
+zombie dead~
+a zombie~
+a zombie wrapped in a cloth has returned from the dead
+~
+Wrapped completely in cloth the zombie wanders around the room.  Not 
+being able to speak an understandable word, the zombie remain in the room 
+where he might be accompanied by someone else from the dead.
+~
+human~
+AG 0 -500 S
+38 7 50d7+200 60d3+32 7d3+9 30
+-30 -10 0 -10
+BCEKO ABD C JN
+8 8 0 10
+0 0 L 0
+#16504
+vampire bat~
+a vampire bat~
+a vampire bat swoops down to bite you!!
+~
+A small but powerful creature, the vampire bat flys above you watching 
+your every move.  Drool from his teeth falls off as he can sence new 
+blood around him.
+~
+bat~
+AF TZ 0S
+40 10 90d5+300 90d3+300 5d6+9 31
+-30 -20 -10 -20
+FH ABO CD S
+8 8 0 30
+0 0 L 0
+#16505
+owl bird~
+an owl~
+a huge great horned owl watches you from his perch
+~
+The great and dignified owl rolls his head back as if to tell you that he 
+is more noble then you.  The talons on the owl are razor sharp and could 
+be deadly if the owl chose to use them.
+~
+owl~
+ACGT CDEFTZ 400 S
+40 14 60d5+200 70d50+50 6d6+10 29
+-20 -15 -20 -13
+CEFHIKO ABO CD 0
+8 8 1 50
+W EFPQU L 0
+#16506
+animal rat~
+a large rat~
+a furious looking rat steps towards you bearing his teeth
+~
+A small but ugly rat has spread disease across the land.  He now bears 
+his teeth at you.
+~
+rat~
+ACT JZ -100 S
+38 12 60d9+150 5d3+700 6d3+12 31
+-12 -10 -50 -7
+CEFHKO JK BCD 0
+8 8 1 75
+G ABCDEFGHIJKLQ L O
+#16507
+charlie man caretaker~
+Charlie the caretaker~
+A man works dilagently to care for the graveyard
+~
+Charlie stands to keep the entire graveyard in perfect shape.  Every 
+piece of grass and every flower is carefully taken care of.  Charlie 
+takes great pride in the work he does to keep the graveyard looking nice.
+~
+human~
+ACS HN 100 S
+55 16 60d10+400 70d30+100 5d9+7 1
+-30 -30 -30 -30
+BCDEFKN AB BD C
+8 8 1 50
+0 0 L 0
+#16508
+woman pretty young~
+a pretty young woman~
+a young woman with long flowing hair stand before you
+~
+A fearful woman gazes towards you as you walk in the room.  She looks to 
+you with discontempt and distrust.
+~
+human~
+AGHT HV 500 S
+47 12 30d10+400 70d30+100 5d6+10 7
+-30 -30 -50 -60
+BCEFO ABEJ CD Y
+8 8 2 200
+0 0 M 0
+#16509
+old wrinkly man~
+an old man~
+a wrinkly old man stumbles to the ground before you
+~
+Having been stuck in the confines of the castle for a long time the old 
+man does nothing but complain.  He has seen many people come in the 
+castle and never leave it.  A number of the people he has seen come in he 
+has also seen die.  You sence the man is a very wise old man.
+~
+human~
+AR NVZ 300 S
+49 15 80d5+450 90d10+300 5d9+13 9
+-50 -50 -50 -50
+CDEFHKN FJ BCD Q
+6 6 1 3000
+0 0 L 0
+#16510
+animal alligator~
+a 15 foot alligator~
+a huge animal rests on an island in the warm sunlight
+~
+The huge scale covered body of a 15 foot alligator twitches in the 
+sunlight.  The jaws of the animal are so powerful that they could crush 
+human bones.
+~
+alligator~
+ABFT HVaa -700 S
+50 15 90d5+475 60d60+100 7d7+12 31
+-40 -40 -40 -40
+ACDEFHJKO AH BCD I
+8 8 1 100
+cc ABCDEFKQUX M 0
+#16511
+herman butler~
+herman the butler~
+a short man stands at the side of the door to welcome you to 
+the castle.
+~
+A very dignifed man wearing all black keeps the front hallways neat and 
+clean.  The man says nothing much at all to you, nor does he say anything 
+much about anyone.  The snooty additude of the man annoys you.
+~
+human~
+ABCG HV 1000S
+62 20 60d12+600 90d10+100 9d7+15 20 
+-70 -70 -70 -70
+CEFHK ABJ CD S
+8 8 1 1000
+0 0 M 0
+#16512
+milkman man~
+the milkman~
+a tall man who works for the dairy department looks confused
+~
+The milkman runs around the room with his head cut off trying to get out 
+of the castle.  Looking at his charts of when he is supposed to be where 
+he scratches another name off the list as he is never going to make it 
+there in time.  The milkman seems to have no patience for anything or anyone.
+~
+human~
+ADCGR J 500 S
+52 17 40d10+450 30d20+399 6d9+10 27
+-20 -10 -20 -10
+FJ C BD N
+8 8 1 3000
+0 0 M 0
+#16513
+black widow spider~
+A huge black widow spider~
+A huge spider with a red hour glass on it's underside spins a
+web.
+~
+The venomous creature slowly falls from the ceiling before your eyes.  
+This is no ordinary spider.  The fangs of the spider are huge.  On the 
+bottom of the spider you can see a red hour glass.  This is the sign of a 
+black widow spider, the most deadly spider in the world.
+~
+human~
+ABCGR NTV -300 S
+40 15 50d10+300 60d20+10 8d6+10 29
+-15 -10 -15 -15
+BEFKN ABE CDFGHJKO 0
+8 8 2 350
+0 0 M 0
+#16514
+jose man~
+jose~
+A man who looks very nice wears a name tags that says 'Jose'
+~
+Jose jst got lost on the way home from school.  Looking the part of the 
+prep school he attends, he is only worried about finding a TV so he can 
+watch ER when it comes on.
+~
+human~
+ABCF CDEFHN 500 S
+48 16 30d20+300 20d20+500 9d7+1 6
+-30 -40 -20 10
+ABCDEFJKOR ABE D X
+8 8 1 10000
+0 0 M 0
+#16515
+dog large woof bark~
+a large dog~
+a large dog jumps toward you and barks...WOOF!!!
+~
+With saliva dripping from his lips the huge dog steps closer towards you 
+bearing his teeth.  You sence he does not like your being here.  The dog 
+is no longer wagging his tail, but he appears ready to attack.
+~
+dog~
+ABC V -1000 S
+43 12 30d20+200 50d20+100 5d6+15 31
+-20 -20 -20 -20
+ACDEFJ A BCD Y
+8 8 1 100
+G ABCDEFJKLQU L 0
+#16516
+boy young~
+a scared young boy~
+a young boy with a frown on his face and fear in his eyes.
+~
+Only wanting to find a way back to Seaseme Street the small boy sits in 
+the corner and crys to himself.  Will he ever get so see his sister 
+again, he quietly says to himself in between sobs.  Dirt covers the 
+feable body of the boy.
+~
+human~
+ACG O 300 S
+30 6 50d10+175 30d7+200 6d5+3 16
+-10 -30 -10 -10
+EFIJKN 0 BCDEFGHIJKLMNOP 0
+8 8 1 20
+0 0 S 0
+#16517
+girl young~
+a young girl with pigtails~
+a young girl with dirt covering her entire body
+~
+She may look inoscent, but she is the devil reincarnated.  She sits in 
+the corner of the room burning the fur off a rat that is slowly dying of 
+starvation.  The girl cackle in glee over the suffering of the animal.
+~
+human~
+ACS 0 -1000S
+31 5 60d5+100 90d5+100 6d6+2 25
+-13 -12 -13 -10
+DIKO I CDHK 0
+8 8 3 130
+0 0 M 0
+#16518
+maid mary~
+Mary the Maid~
+The maid is feverously cleaning the room.
+~
+Feather duster in hand, Mary cleans the bedroom so it looks to have some 
+sort of order.  She mutter to herself about the messy state the room is 
+in.  While picking up a book she opens it and begins to read it aloud, 
+but to soft for you to understand.  She seems like a friendy woman.
+~
+human~
+ABCG N 250 S
+40 15 50d9+300 60d8+200 8d5+10 22
+-10 -10 -10 -10
+BEFKN ABE CDFGHJKO 0
+8 8 2 250
+0 0 M 0
+#16519
+owl bird~
+an owl~
+a huge great horned owl watches you from his perch
+~
+Looking down upon you with wise eyes, the owl flaps his wings.  Perhaps 
+in an attempt to show his powerful wings or an attempt to show he is more 
+powerful then you.  The owl flufs his feathers.
+~
+owl~
+ACGT CDEFTZ 400 S
+40 14 60d5+200 70d50+50 6d6+10 29
+-20 -15 -20 -13
+CEFHIKO ABO CD 0
+8 8 1 50
+W EFPQU L 0
+#16520
+dracula count~
+Count Dracula~
+A huge man with a dark black cape and large teeth stands before
+you.
+~
+Letting out a ear piercing shill Dracula speads his cloak in the air 
+giving him the appearence of having wings.  The pale white face of a 
+powerful man grins at you with the look of death.  The hands of Dracula 
+are huge in size and his fingers are long and slender.  The huge white 
+teeth that he is unable to keep inside his mouth glisten in the faint 
+light of the room.
+~
+human~
+AFR U -1000 S
+66 20 60d30+400 70d6+400 8d6d+10 2
+-50 -70 -30 -30
+ABDEFKN ABJKQ CDEFGHIMOS 0 
+8 8 1 500
+0 0 L 0
+#16521
+animal rat~
+a large rat~
+a furious looking rat steps towards you bearing his teeth
+~
+A furry rat scampers in to a corner of the room so he is hiden by the 
+shadows.  The glowing red eyes of the rat shine through the darkness and 
+piece your vision.
+~
+rat~
+ACT JZ -100 S
+38 12 60d9+150 5d3+700 6d3+12 31
+-12 -10 -50 -7
+CEFHKO JK BCD 0
+8 8 1 75
+G ABCDEFGHIJKLQ L O
+#16522
+vampire bat~
+a vampire bat~
+a vampire bat swoops down to bite you!!
+~
+Flying around searching for blood to feed on the bat begins to circle 
+above your head.  Every move you make the bat follows you.  Diving out of 
+the sky the bat trys to bite you.
+~
+bat~
+AF TZ 0S
+40 10 90d5+300 90d3+300 5d6+9 31
+-30 -20 -10 -20
+FH O CD S
+8 8 0 30
+0 0 L 0
+#16523
+father ghost dracula~
+the ghost of Dracula's Father~
+a spirt of Lord Dracula's Father fills the room
+~
+The faint light that fills the room appears to be in the shape of a human 
+body.  It could only be the body of Dracula's father back from the dead 
+to protect his grave site.  The ghost hovers in the center of the room.
+~
+human~
+ABCFR BCDEFHQV -700 S
+64 20 50d20+400 30d30+500 9d9+2 20
+-30 -30 -30 -30
+ABCDEFHIKNO AB 0 NY
+8 8 1 300
+0 0 L 0
+#16524
+worker man grave~
+a worker~
+a strong man works on building a casket 
+~
+With sweat dripping from his body the worker continues to pound at the 
+stone to carve the stone casket.  The worker only stops to brush the dust 
+from his chipping away and to wipe sweat from his brow.  Th worker's 
+muscles bulge out of his cloths showing the man is of great strength.
+~
+human~
+ABC  Vaa 300 S
+54 15 30d30+300 50d30+300 8d7+7 7
+-20 -10 -20 0
+BCDEFKO 0 BCD 0
+8 8 1 1000 
+0 0 L 0
+#16525
+woman pretty young~
+a pretty young woman~
+a young woman with long flowing hair stand before you
+~
+The woman sighs in he lost heart.  She was supposed to get married a week 
+or so ago, but alas she is stuck within the castle.  All hopes of every 
+finding a way out she has lost.  She now just wanders like a ghost 
+looking for a body to haunt.
+~
+human~
+AGHT HV 500 S
+47 12 30d10+400 70d30+100 5d6+10 7
+-30 -30 -50 -60
+BCEFO AEJ CD Y
+8 8 2 200
+0 0 M 0
+#0
+
+#OBJECTS
+#16500
+ring black shadows~
+a black ring of the shadows~
+the ring sucks up all of the light from the room.~
+steel~
+9 BC AB
+12 6 8 9 6
+69 3 1046 0
+A
+14 -50
+A
+1 2
+#16501
+cloak noble~
+the cloak of a nobleman~
+a long dark cloak with a crest of a family sewn in.~
+cotton~
+9 A AK
+16 8 9 9 12
+65 12 10000 0
+A
+12 15
+#16502
+dagger tusk~
+an elephant's tusk~
+a huge ivory tusk glistens in the sunlight.~
+iron~
+5 H AN
+2 10 7 5 E
+65 7 12000 0
+A
+18 5
+A
+19 2
+#16503
+feather duster~
+a colorful feather duster~
+a long pole with a bunch of feathers at the end.~
+wood~
+9 H AO
+8 12 15 6 2
+40 7 900 0
+A
+14 20
+#16504
+spoon wooden~
+a large wooden spoon~
+a spoon that is large enough to cook with.~
+wood~
+9 H AO
+12 6 9 5 9
+55 9 1000 0
+#16505
+apron cook~
+a cooking apron that says 'kiss the cook'~
+a long apron with lettering on it and straps to tie it with.~
+plastic~
+9 O AD
+10 12 6 9 9
+55 3 1200 0
+A
+5 1
+#16506
+shovel large~
+a large shovel used for digging graves~
+a shovel with fresh dirt caked on it from use.~
+steel~
+4 O AO
+55 6 6 39 0
+55 12 1200 0
+#16507
+boots timberland~
+a pair of Timberland Hiking boots~
+a sturdy pair of boots made of soft leather.~
+leather~
+9 A AG
+15 6 6 12 12
+55 6 1500 0
+A
+24 -10
+#16508
+gloves pair~
+a sturdy pair of old gloves~
+a pair of well used gloves with a whole in the thumbs.~
+leather~
+9 G AH
+9 12 4 9 6
+55 2 4000 0
+A
+1 2
+#16509
+milk holder bottle~
+a milk bottle carrier holding 6 bottles~
+a metal holder with opening for six bottles of milk.~
+steel~
+9 G AO
+6 2 6 8 7
+50 4 2000 0
+#16510
+hat cap white~
+a white cap worn by a milkman~
+a fitted cap with a cow logo on the front of it.~
+cotton~
+9 G AE
+3 3 3 3 3 
+50 2 150 0
+A
+13 10
+#16511
+box crayons crayon~
+a box of crayons~
+a box of 64 crayons with only 1 missing.~
+cardboard~
+8 G AO
+0 0 0 0 0
+30 2 300 0
+#16512
+skirt colorful~
+a colorful skirt~
+a brightly colored skirt with a floral pattern.~
+silk~
+9 G AF
+7 7 7 7 7 
+46 3 1500 0
+#16513
+crayon yellow~
+a yellow crayon~
+a yellow crayon that is worn down from use.~
+plastic~
+5 G AO
+0 5 7 22 E
+30 5 10 0
+#16514
+collar dog~
+a dog collar made of chain links~
+a set of chain links welded together to for a collar.~
+steel~
+9 G AC
+10 6 8 6 4
+43 25 150 0
+#16515
+egg sac~
+an egg sac~
+a ball like object filled with smaller ball shaped objects.~
+silk~
+9 G AO
+10 6 10 6 4
+40 1 500 0
+#16516
+necklace beaded~
+a colorful beaded necklace~
+a multi-colored necklace with small wooden beads on it.~
+wood~
+9 B AC
+10 6 6 8 7
+47 2 500 0
+#16517
+necklace candy~
+a candy necklace~
+a piece of elastic with small pieces of candy strung on it.~
+elastic~
+9 MH AC
+3 6 3 2 1
+30 1 6 0
+#16518
+furry mouse~
+a small furry grey mouse~
+a small animal with claw marks in its sides.~
+fur~
+26 A AO
+20 16 16 6 0
+40 5 2 0
+#16519
+cheese~
+a piece of cheese~
+a small piece of cheese that smells really bad.~
+food~
+19 O AO
+3 0 0 0 0
+38 1 5 0
+#16520
+cleaning apron~
+an apron worn for cleaning~
+an apron with lots of pockets on the front of it.~
+plastic~
+9 AB AD
+10 6 10 6 10
+40 3 1000 0
+#16521
+fabric wraps~
+a strip of white fabric~
+a long strip of white fabric.~
+cloth~
+9 AB AK
+7 7 7 7 7
+38 3 100 0
+A
+2 2
+#16522
+book~
+a copy of Faulkner's "As I lay Dying"~
+a large book by William Faulkner with a coffin on the cover.~
+paper~
+18 AB AO
+0 0 0 0 0
+30 3 100 0
+A
+3 3
+#16523
+hat white~
+a large white hat with a brim~
+a huge hat with a brim that runs around the outside.~
+satin~
+9 G AE
+14 3 3 9 9
+47 3 500 0
+#16524
+pair pants dockers~
+a pair of khaki Dockers~
+a pair of pants made by Dockers which are khaki in color.~
+cotton~
+9 G AF
+3 3 9 9 9
+47 3 100 0
+#16525
+watch gold~
+a Gold Watch~
+a banded watch made of gold~
+steel~
+9 O AM
+9 9 11 12 9
+47 2 120 0
+#16526
+holder candlestick candle~
+a bronze candle holder with a lit candle~
+an intricately made candlestick holder with a candle in it.~
+bronze~
+1 O AO
+0 0 50 0 0
+30 5 500 0
+A
+4 1
+A
+5 1
+#16527
+sunglasses glasses oakleys~
+a pair of E-Rim Oakley sunglasses~
+a styling pair of sunglasses with thin frames.~
+plastic~
+9 AB AE
+12 9 12 12 9
+47 5 1500 0
+A
+18 4
+#16528
+shirt tommy hilfiger~
+a striped Tommy Hilfiger~
+a shirt with red and white stripes on it.~
+cotton~
+9 O AD
+15 12 15 6 12
+47 15 1500 0
+#16529
+teva pair sandals~
+a pair of Teva sandals~
+a pair of sandals with velcro straps on them.~
+plastic~
+9 O AG
+10 10 10 10 10
+47 3 100 0
+#16530
+jeans blue pants~
+a pair of torn jeans~
+these pants have more holes in them then swiss cheese.~
+cotton~
+9 O AF
+3 3 3 2 9
+47 5 20 0
+#16531
+tag dog~
+a dog tag~
+a small piece of metal with writing on it.~
+steel~
+9 O AC
+3 9 3 0 6
+43 1 5 0
+E
+writing~
+I belong to "Count Dracula"
+~
+#16532
+key~
+a key made of human bones~
+a rather small key with a skull at on end of the key.~
+key~
+18 0 AO
+0 0 0 0 0
+30 1 1 0
+#16533
+hammer~
+a huge hammer~
+a large piece of wood with a piece of stone at the end.~
+stone~
+5 B AN
+5 9 9 4 E
+54 10 1200 0
+A
+18 2
+A
+19 6
+#16534
+chisel~
+a stone chisel~
+a large piece of iron that is sharpened at one end.~
+iron~
+9 0 AO
+12 10 12 19 10
+54 5 500 0
+#0
+
+#ROOMS
+#16500 
+The Castle Entrance~
+  In front of you stands a huge castle belonging to Dracula.  
+The Castle seems to always be shadowed by black clouds.  
+Lightning flashes from the clouds above illuminating the door 
+into the Castle.  A sign, covered in Ivy, is hanging from a 
+tree just in front of the entrance.
+~
+0 0 3
+D2
+Your path to the woods.
+~
+~
+0 0 2304
+D0
+The front door to the Castle of Dracula.
+~
+~
+0 0 16543
+E
+sign~
+-=<< WARNING!! >>=- You are about to enter the Castle of Dracula,
+anything can happen...and it will.
+~
+E
+ivy~
+Thick green ivy is almost covering the sign that warns you of 
+where you are.
+~
+S
+#16501
+The Front Hallway.~
+  The door slams behind you!!
+  You are trapped within the castle walls!!
+~
+0 D 0
+D0
+The Dinning Room appears to be in that room.
+~
+~
+0 0 16502
+D2
+The hallway continues to the south.
+~
+~
+0 0 16543
+D3
+A corridor stretches westward.
+~
+~
+0 0 16504
+S
+#16502
+Dracula's Dinning Room~ 
+  The dinning room table is set for only one person.  That 
+place setting is at the head of the huge table.  The chair 
+almost looks like a throne of a king.  There is no food on 
+the table but you can smell something cooking.
+~
+0 D 0
+D0
+The Smell of something cooking comes from there.
+~
+~
+0 0 16503
+D2
+The Front entrance to the Castle.
+~
+~
+0 0 16501
+D4
+It looks like the Parlor room.
+~
+~
+0 0 16505
+E
+chair throne~
+The huge wooden chair sits at the head of the table.  The chair 
+appears to be out of the 12th century from the cravings on the 
+back and arm rests.  Royalty could have used this chair judging 
+from its beauty.
+~
+S
+#16503
+The Kitchen~
+  You have entered the kitchen of Dracula.  The stove is a wood 
+burning stove and there is nothing to keep things cold in.  You 
+wonder what he eats with his glass of fresh blood.
+~
+0 D 0
+D2
+The Dinning Room.
+~
+~
+0 0 16502
+S
+#16504
+A Corridor in the Castle.~
+  The walls seem to go up forever.  You can hear the faint
+screams of bats flying about the room.  You begin to worry as to
+where you are going or what zyou should do to save yourself.
+~
+0 D 0
+D0
+It looks like the Parlor Room.
+~
+~
+0 0 16505
+D1
+Just at the end of your site you can seem the huge door to the
+castle.
+~
+~
+0 0 16501
+D3
+The Corridor continues westward.
+~
+~
+0 0 16507
+S
+#16505
+The Parlor Room~
+  A huge billiard table is sitting in the center of the room.  On
+the wall there is a billiard cue rack holding seven cues.  The balls on
+the table are scattered as though someone left in the middle of a game.  
+On the table you notice little red drops of what could be blood.
+Your pulse begins to quicken as your fear grows.
+~
+0 D 0
+D0
+The Walls are lined with book shelves.
+~
+~
+0 0 16506
+D1
+A huge table stretches almost the length of the room.
+~
+~
+0 0 16502
+D2
+The western hallways passes to the south.
+~
+~
+0 0 16504
+D4
+There are cobwebs throughout the whole room.
+~
+~
+0 0 16513
+S
+#16506
+The Library.~
+  Book shelves run along every wall and from the ceiling to the
+floor.  There is not one open space on any shelf for a book.  You
+look at some of the books on the shelves only to learn that
+Dracula has a taste for Hemingway and Faulkner along with more
+traditional works of literature.
+~
+0 D 0
+D2
+It looks like the parlor room.
+~
+~
+0 0 16505
+D3
+There is a fireplace and a chair sitting in the room.
+~
+~
+0 0 16509
+S
+#16507
+The end of the southern hallway~
+  The southern hallway stops here.  So much for being safe.
+~
+0 D 0
+D0
+There appears to be no life in there.
+~
+~
+0 0 16508
+D1
+The southern hallway continues eastward.
+~
+~
+0 0 16504
+D4
+There appears to be a trap door in the ceiling.
+~
+trap~
+0 0 16514
+S
+#16508
+The dead room.~
+  The air is so calm in this room that you have difficulty
+breathing.  It seems impossible that anyone could stay in a room
+like this for any period of time.  Death is evident in the room.
+~
+0 D 0
+D0
+It looks nice and pleasant in there.
+~
+~
+0 0 16509
+D2
+The end of the southern hallway.
+~
+~
+0 0 16507
+S
+#16509
+The Reading Room.~
+  In the front of the room there stands a fireplace with a fire
+burning in it.  The room is warm and pleasant.  The chair that
+sits by the fireplace seems comfortable.  For a moment you think
+that you are going to stay alive.
+~
+0 D 0
+D1
+All you see are books.
+~
+~
+0 0 16506
+D2
+Death.
+~
+~
+0 0 16508
+D3
+It looks like a graveyard.
+~
+~
+0 0 16544
+S
+#16510
+The back closet~
+  This storage closet is filled with bottles of a red liquid. 
+You wonder what it is, hoping it is not blood.  The cabinet is
+relatively cold in temperature.
+~
+0 D 0
+D0
+The end of the hallway.
+~
+~
+0 0 16511
+S
+#16511
+The end of the hallway.~
+  The hallway ends here.  You can feel a breeze blowing coming
+from under the door.  You wonder where the breeze is coming from. 
+There is no carpeting on the floor making the floor very cold. 
+You scream hello.  You can hear the sound echoing through out the
+entire castle.  Beginning to feel very alone and distressed try
+and find help and a way out of the castle.
+~
+0 D 0
+D0
+You feel a slight breeze from there.
+~
+~
+0 0 16512
+D2
+It appears to be a storage closet of some sort.
+~
+~
+0 0 16510
+D3
+The room is filled with cobwebs.
+~
+~
+0 0 16513
+S
+#16512
+The Upper Terrace.~
+  Through the glass doors you walk on to the stone terrace of the
+second floor in the castle.  From the terrace you can see the
+mountains in the distance and the clouds in the sky above.  You
+think that you could just lower yourself to the ground and
+escape, but as you look over the edge of the terrace you 
+realize that there is no ground below the terrace.  The earth
+fails to exist below the stone terrace.
+~
+0 0 2
+D2
+Through the glass doors you can see the end of the hallway.
+~
+~
+0 0 16511
+S
+#16513
+The Spider Room.~
+  You can't see more then a foot in front of your face from all
+of the spider webs.  As you make your way though the room you
+hope that you don't run into the maker of all of the webs. 
+Anything that could make this many webs has got to be huge.
+~
+0 D 0
+D1
+It looks like the end of the hallway.
+~
+~
+0 0 16511
+D3
+The door is open to the Master Bedroom.
+~
+~
+0 0 16515
+D5
+It looks like a room for games.
+~
+~
+0 0 16505
+E
+web~
+The spider's web fills the room.  From wall to wall there is
+nothing but webs.  You begin to feel unwanted and that your
+presence is not desired to go any further in the Castle.
+~
+S
+#16514
+The Southern Terrace.~
+  Through the stone door you walk on to the southern terrace. 
+The feeling of the wind blowing through your hair is something
+you have not felt for a long time.  You begin to wonder if you
+will ever be able to enjoy a sunset again, or will you be stuck
+in the castle for the rest of your life.
+~
+0 0 5
+D1
+The end of the hallway.
+~
+~
+0 0 16515
+D5
+There appears to be a door in the floor.
+~
+trap~
+0 0 16507
+E
+trap door~
+By dragging your feet you notice a small door in the floor. 
+There is dust covering the edges of it, but it is a door.  You
+wonder is this your escape.~
+S
+#16515
+The end of the hallway.~
+  The hallway ends here.  What direction to go from here is
+unknown.  You hope you make the right choice and are able to
+escape from the castle.
+~
+0 D 0
+D0
+It looks like a bathroom of sorts.
+~
+~
+0 0 16516
+D1
+The room is filled with spider webs.
+~
+~
+0 0 16513
+D2
+You feel a slight breeze from the south coming from under the
+door.
+~
+door~
+0 0 16514
+D4
+There is a rope hanging from the ceiling.
+climb~
+trap rope~
+0 0 16539
+S
+#16516
+The Master Bathroom.~
+  The tile floors and the `Mgold trim`` around the everything can
+only tell you that you are in the master bathroom.  The sink and
+toilet are even beautiful.
+~
+0 D 0
+D2
+The end of the hallway.
+~
+door~
+0 0 16515
+D3
+There is a huge bed in the room.
+~
+~
+0 0 16518
+E
+sink~
+The sink is marble with golden handles.  There is not a spot
+of dirt on the entire sink.
+~
+E
+toilet~
+The golden toilet shine brilliantly in the light of the room.
+~
+E
+mirror~
+The mirror has a gold trim around the edge, adding to the
+beauty of the room.
+~
+S
+#16517
+The secret escape tunnel.~
+  The tunnel is dark and damp.  Thank God for the candle on the
+walls that allow you to see a little.
+~
+0 AD 0
+D0
+The Master Bedroom.
+crawl~
+trap door~
+2 16522 16518
+D5
+The tunnel continues downward.
+~
+~
+0 0 16519
+S
+#16518
+The master bedroom.~
+  The master bedroom is filled with junk.  The bed is covered in
+clothes, and the books that should be on the bookshelf are strewn
+about the room. The dresser has been toppled over, and the mirror
+broken.  It looks like someone was going through the room looking
+for something.
+~
+0 D 0
+D1
+The gold glistens in the light of the room.
+~
+~
+0 0 16516
+D2
+Through the bookshelf you think you can see some light coming
+through.
+crawl~
+lever book shelf~
+2 16522 16517
+E
+bookshelf~
+There are no more books on the shelf.  You think you can see some
+light coming through the back.
+~
+S
+#16519
+In the escape tunnel~
+  The candles light the way, not well, but it is better then
+nothing.
+~
+0 AD 0
+D4
+The tunnel leads you upward.
+~
+~
+0 0 16517
+D5
+The tunnel continues downward.
+~
+~
+0 0 16528
+S
+#16520
+The Crypt of Count Dracula.~
+  The entire room is filled with caskets.  You wonder which one
+belongs to Count Dracula.  The smell of blood is emanating
+throughout the room.  You no longer feel safe, but you feel as
+though you are being watched by some more powerful being.  Some
+creature that could destroy you with its bare hands.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16521
+D3
+The tunnel continues westward.
+~
+~
+0 0 16524
+D4
+The tunnel continues upward.
+~
+~
+0 0 16502
+E
+casket~
+The casket is solid oak and beautifully decorated.
+~
+S
+#16521
+In the escape tunnel.~
+  You can hear screams coming from the a nearby room.  On the
+wall are hand and foot shackles.  You wonder if people have been
+tortured down here.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16522
+D2
+The Crypt of Count Dracula is to the south.
+~
+~
+0 0 16520
+D3
+The tunnel continues westward.
+~
+~
+0 0 16525
+E
+shackle~
+The black metal shackles are bolted to the wall.  On the wall
+behind then you can see small spots of blood.
+~
+S
+#16522
+In the escape tunnel.~
+  The candles in this room are almost burned completely.  You
+begin to wonder if you will ever make it out of the tunnel back
+to the real world.
+~
+0 AD 0
+D2
+The tunnel continues southward.
+~
+~
+0 0 16521
+D3
+The tunnel continues westward.
+~
+~
+0 0 16538
+D4
+A ladder is in the room leading upward.
+climb~
+~
+0 0 3001
+S
+#16523
+In the escape tunnel.~
+  You are deep within the escape tunnel.  The walls are really
+damp and covered in moss.  On the floor of the tunnel small
+puddles of water have formed from all of the moisture in the
+stagnant air.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16524
+D3
+The tunnel continues westward.
+~
+~
+0 0 16530
+S
+#16524
+In the escape tunnel.~
+  You hear screams coming from a nearby room.  The sounds send
+chills up and down your spine.  You feel a rat try to crawl up
+your leg.  The tunnel is getting darker by the minute and you are
+feeling helpless and hopeless.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16525
+D1
+The Crypt of Count Dracula is to the east.
+~
+~
+0 0 16520
+D2
+The tunnel continues southward.
+~
+~
+0 0 16523
+S
+#16525
+In the escape tunnel.~
+  You are beginning to lose your sense of direction.  Thoughts of
+your family and friends begin to fill your mind as you realize
+you may never see any of them again.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16521
+D2
+The tunnel continues southward.
+~
+~
+0 0 16524
+D3
+The tunnel continues westward.
+~
+~
+0 0 16526
+S
+#16526
+In the escape tunnel.~
+  You wonder where you are going and why you have entered the
+tunnel.  There seems to be no end to the tunnel in sight.  Could
+it have been a trick to lure you to your death?
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16525
+D3
+The tunnel continues westward.
+~
+~
+0 0 16527
+S
+#16527
+In the escape tunnel.~
+  You are somewhere beneath the Castle of Lord Dracula.  The
+floors are dirt and the walls stone.  You wonder where the oxygen
+comes from down here to keep the candles lit.  There is an
+inscription on the wall.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16526
+D2
+The tunnel continues southward.
+~
+~
+0 0 16528
+E
+stone wall~
+The walls look to be over a million years old.  There are
+inscriptions on the walls as though someone was trying to get
+your attention.
+~
+E
+inscription~
+Leave while you can...you will die....he will get you....
+~
+S
+#16528
+The bottom of the escape tunnel.~
+  You have reached the end of the downward tunnel.  You still
+have no idea where you are, or where to go.  You are lost.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16527
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16529
+D4
+The tunnel continues upward.
+~
+~
+0 0 16519
+S
+#16529
+A dead end.~
+  The tunnel ends here.  Your hopes and desires that you may
+escape from the tunnel are diminishing quickly.
+~
+0 AD 0
+D3
+The tunnel continues westward.
+~
+~
+0 0 16528
+S
+#16530
+In the escape tunnel.~
+  The candles are burning giving you a little light in the room. 
+You are lost and have no idea where you really are.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16523
+D3
+The tunnel continues westward.
+~
+~
+0 0 16531
+S
+#16531
+In the escape tunnel.~
+  The ceiling slopes down towards the floor making the room about
+three feet lower.  You hit your head as you make your way though
+the room.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16530
+D3
+The tunnel continues westward.
+~
+~
+0 0 16532
+S
+#16532
+In the escape tunnel.~
+  The air is getting very heavy the deeper in the tunnel you go. 
+How long will you be able to survive these conditions, you keep
+asking yourself. The walls are cold to the touch.  Thoughts of
+freezing to death enter your mind.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16533
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16531
+S
+#16533
+In the escape tunnel.~
+  You are deep within the escape tunnel with no end in sight.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16534
+D2                           
+The tunnel continues southward.
+~
+~
+0 0 16532
+D3
+It looks like someone was digging in there.
+~
+~
+0 0 16482
+S
+#16534
+In the escape tunnel.~
+  On the walls there are scratches as though people have tried to
+dig their way out of the tunnel.  You continually hear screams
+coming from deeper within the tunnel.
+~
+0 AD 0
+D0
+The tunnel continues northward.
+~
+~
+0 0 16535
+D2
+The tunnel continues southward.
+~
+~
+0 0 16533
+S
+#16535
+In the escape tunnel.~
+  A corner in the escape tunnel, but where will it take you.  On
+the ground are the bones of humans who have perished deep within
+the tunnel. Rats feed on the remains of another human like
+figure.  The figure has just begun to decay.  You can see that
+the body is that of a young girl with long hair. You begin to
+wonder will you be the next to die in the tunnel.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16536
+D2
+The tunnel continues southward.
+~
+~
+0 0 16534
+E
+bones bone~
+The bones of a human are in the corner of the room.  The arms are
+outstretched as though they are trying to grab hold of the walls
+for support. Most of the bones are still in one piece, but some
+have been broken in half.
+~
+S
+#16536
+In the escape tunnel.~
+  You are so far within the tunnel that you have lost all hope of
+seeing the rest of the world again.  You feel as though you are
+doomed to remain within the walls of the castle for eternity.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16537
+D3
+The tunnel continues westward.
+~
+~
+0 0 16535
+S
+#16537
+In the escape tunnel.~
+  Rats and other rodents scamper around the room in search of
+corpses for their next meal.  The temperature in the room has
+fallen about five degrees. Your clothes are damp from being under
+the ground for such a long time that you have become very
+susceptible to the elements.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16538
+D3
+The tunnel continues westward.
+~
+~
+0 0 16536
+S
+#16538
+In the escape tunnel.~
+  You are hopelessly lost within the confines of the castle.  You
+feel someone watching you, but there is nothing unusual in the
+room.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+~
+~
+0 0 16522
+D3
+The tunnel continues westward.
+~
+~
+0 0 16537
+S
+#16539
+The southeastern corner of the belltower.~
+  As you look out the side of the belltower you can see the rest
+f the world.  Being up here make you long for the outside once
+again.
+~
+0 0 1
+D0
+You can see to the north and east from that corner.
+~
+~
+0 0 16540
+D3
+You can see to the south and west from that corner.
+~
+~
+0 0 16542
+D5
+You can see inside the castle.
+~
+~
+0 0 16515
+S
+#16540
+The northeastern corner of the belltower.~
+  As you look out the northeastern corner of the belltower you
+can see the mountains in the distance and the clouds in the sky
+above.  The stone walls around you prohibit you from leaving the
+castle from up here.
+~
+0 0 1
+D2
+You can see to the southeast from there.
+~
+~
+0 0 16539
+D3
+You can see to the northwest from there.
+~
+~
+0 0 16541
+S
+#16541
+The northwestern corner of the belltower.~
+  You look down and to the west and you see the graveyard below. 
+In the graveyard a man is working on a new grave site.  You raise
+your vision to the north and watch as a flock of birds flies by.
+~
+0 0 1
+D1
+You can see to the northeast from there.
+~
+~
+0 0 16540
+D2
+You can see to the southwest from there.
+~
+~
+0 0 16542
+S
+#16542
+The southwestern corner of the belltower.~
+  In the northeastern corner of the room stands a huge bell.  The
+thoughts of the age and power of the bell enter your mind.  You
+hope the bell will not sound while you are in the tower.
+~
+0 0 1
+D0
+You can see to the northwest from there.
+~
+~
+0 0 16541
+D1
+You can see to the southeast from there.
+~
+~
+0 0 16539
+S
+#16543
+The Grand Entrance Way.~
+  You are standing in a room with a thirty foot high ceiling and
+stain glass windows throughout the walls.  When the sun is
+shining through them you can only imagine how beautiful the
+scenes would be.  As you take a closer look at the stained glass
+you notice the scenes depicted in them are scenes of murder
+and destruction.  At this point you realize how wrong of a turn
+you have made.
+~
+0 AD 0
+D0
+The hallway continues to the north.
+~
+~
+0 0 16501
+D2
+A huge door stand in the room to the south.
+~
+~
+0 0 16500
+S
+#16544
+The entrance to the graveyard.~
+  Stepping through the glass doors you have entered the
+graveyard.  The proximity of the graveyard to the house worries
+you.  As you look across the graveyard you see a tomb, headstones
+and a grave that is being dug.  You hope that you are not going
+to be to occupant to the new grave.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16545
+D1
+You can see a bunch of books and bookshelves.
+~
+~
+0 0 16509
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16546
+S
+#16545
+A plot in the graveyard.~
+                Here lies the lost soul of
+                a twelve year old child.
+                The poor kid got lost in the
+                tunnels below the castle, and
+                was not found in time to
+                be saved.
+                At least he made a good meal
+                for the rats.
+~
+0 0 1
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16544
+S
+#16546
+A cobble stone path in the graveyard.~
+  The path is lined with flowers and small bushes.  The graveyard
+is very well kept.  The caretaker must care a great deal about
+the graveyard for the beauty that lies within the stone walls.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16544
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16547
+S
+#16547
+The plot within the graveyard.~
+                        Here lies a full grown man
+                        We think he was part of a band,
+                        but he may have been in the clan
+                        needless to say he is now lying
+                        in the land.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16548
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16546
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16473
+S
+#16548
+The northern wall of the graveyard.~
+  The huge stone wall that lies to the north is covered in thick
+ivy.  There are no opening in the wall for anyone to get through. 
+The wall stretches over twelve feet high.
+~
+0 0 1
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16547
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16549
+E
+ivy~
+The lush green ivy is of a deep green in color.  You try to put
+your arm through the ivy to touch the wall, but your hand never
+reachs the wall.
+~
+S
+#16549
+Along the northern wall of the graveyard.~
+  The huge stone wall continues to block your exiting the castle
+grounds. You can see the birds in the sky flying freely in the
+air.  You just hope you can find an exit soon.  You see a huge
+tree in the south western corner of the graveyard.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16548
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16550
+S
+#16550
+A intersection that leads in many directions.~
+  You can see grave plots around you.  You are unsure of what
+direction you should follow.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16549
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16472
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16551
+S
+#16551
+A resting place for visitors.~
+  The grassy clearing is a place for those who are in the
+graveyard to sit and talk about their loved ones or friends who
+have died.  There is a bench for people to sit on and a table to
+sit at close by.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16550
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16552
+S
+#16552
+A grave site of another person.~
+                        Here lies Henry the Cook;
+                        I told him to read from the book
+                        before he started to cook,
+                        but Henry had some fun
+                        and he got burned till he
+                        was well done.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16551
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16553
+S
+#16553
+The western corner of the stone wall.~
+  The huge stone wall makes its turn here and continues to the
+south.  There is still no sign of a gate or any other kind of
+entrance to the graveyard other then from inside the house.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16552
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16554
+S
+#16554
+A grave site on another person.~
+                        Here is the grave of Ted
+                        At first we didn't think
+                        he was really dead.
+                        We just thought he liked to
+                        stay in bed.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16553
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16555
+S
+#16555
+An intersection within the graveyard.~
+  Someone has started to dig a new grave site here.  You don't
+see a headstone on the ground and begin to wonder who the grave
+is for.  You realize that if you don't find a way out soon, it
+could very well be for you.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16554
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16462
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16556
+S
+#16556
+On the path in the graveyard.~
+  You walk through the graveyard has brought you to a serene
+corner of the graveyard.  You take a moment to look at the huge
+tree that is providing shade for you from the heat.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16555
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16557
+S
+#16557
+The caretakers hut.~
+  You are standing on the proch of the caretakes little hut.  You
+are almost in the farthest corner of the graveyard.  You begin to
+hope that maybe the caretaker has an secret entrance to the
+graveyard that you could use to escape.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16556
+D2
+The front door to the caretakers little hut.
+~
+~
+0 0 16558
+S
+#16558
+Inside the little hut.~
+  The walls of the hut are all filled with hooks and nails to
+hang tools on.  You begin to wonder what the caretaker does
+besides work on the graveyard all day.  There is nothing to sit
+down on, no tables, nothing at all except tools.
+~
+0 D 0
+D0
+The front porch of the little hut.
+~
+~
+0 0 16557 
+D2
+Another room in the little hut.
+~
+~
+0 0 16559
+S
+#16559
+The back room of the little hut.~
+  The room is completely empty.  The floor has no carpet or rugs,
+but it is a dirt floor.  You see a door in the one corner of the
+room.  Could it be that you have finally found your escape roote
+back to the real world.
+~
+0 D 0
+D0
+All you can see are tools on the walls. 
+~
+~
+0 0 16558
+D1
+You see a wooden door.
+~
+~
+0 0 16460
+S
+#16460
+Just outside the little hut of the caretaker.~
+  You can see a huge tree that lies to the north of you.  The
+tree draws your attention that you forget about the grave that
+you just walked across.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16461
+D3
+You see a wooden door to the caretakers hut.
+~
+~
+0 0 16559
+S
+#16461
+The base of the huge tree.~
+  You are standing at the base of the largest oak tree you have
+ever seen in you lifetime.  The tree must be at least ten feet in
+diameter and over a hundred feet tall.  The tree looks as though
+it would be perfect for climbing, but you are leary of what may
+be in the tree waiting for you.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16462
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16463
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16460
+D4
+You look up the tree to see huge branches to sit on.
+~
+~
+0 0 16483
+S
+#16462
+The pond of the graveyard.~
+  As you near the pond, frogs and snakes jump and slip into the
+water in fear of you.  The pond is small and contains large gold
+fish. You wonder how the fish got so huge in such a small pond.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16555
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16461
+S
+#16463
+Another grave site of a person.~
+                        Here lies Father Mark
+                        He tried to climb the tree,
+                        but it just wasn't ment to be,
+                        since couldn't grip the bark
+                        and fell to the ground,
+                        but no one heard him make a sound.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16467
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16464
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16461
+S
+#16464
+The Southern wall of the graveyard.~
+  The huge stone wall is completely visable.  You try to climb
+the wall, but you fail and fall to the ground.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16463
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16465
+S
+#16465
+The Southern wall of the graveyard.~
+  It is hopeless that you will ever find an exit to the castle
+grounds.  The stone wall stretches up towards the sky.  You stand
+in the grass at the base of the wall just staring at the sky.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16467
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16466
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16464
+S
+#16466
+On the cobble stone path in the graveyard.~
+  As you walk along the cobble stone path you have come upon a
+patch of pricker bushes.  You try to make your way through them,
+but you get nowhere.  You wonder what is beyond the bushes that
+you can't see.
+~
+0 0 1
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16465
+S
+#16467
+Another grave site of a person.~
+                        Here is the grave of a slave
+                        named Dave.
+                        He thought he was brave,
+                        till he was put in his grave.
+~
+0 0 1
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16468
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16465
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16463
+S
+#16468
+On the cobble stone path.~
+  The grass is lush green around the path and appears that it has
+just been watered.  The stones on the path are damp and there is
+a small puddle too. You are still in the shade of the huge tree.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16469
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16467
+S
+#16469
+Another grave site of a person.~
+                Here lies the body of a man
+                that was hit in the head with a frying pan.
+                His head began to swell,
+                it was then we knew all wasn't well.
+                And he fell to the ground holding his head,
+                it was then, we knew he was going to be dead.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16470
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16468
+S
+#16470
+A T-intersection on the cobblestone path.~
+  Standing in the middle of the path there are three direction
+for you to choose from.  There is a sign that calls your
+attention.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16472
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16471
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16469
+E
+sign~
+                     --==<< DANGER >>==--
+                To the east of here lies the home of
+                the aligator that guards the castle's
+                graveyard.  Proceed with caution.
+
+                                The owners.
+~
+S
+#16471
+The home of the alligator.~
+  There is a large pond that is covered with lily pads.  The
+water is murky green in color.  There is a small island in the
+center of the pond with bones and skulls scattered around it. 
+The creature that inhabits the island must have a great deal of
+strength.
+~
+0 0 1
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16470
+S
+#16472
+On the cobble stone path in the graveyard.~
+  Standing in the middle of the path you look around and don't
+see any grave sites, only a tomb nearby.  You wonder if the gates
+to the tomb are open so you could rest for a minute inside.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16550
+D1
+The path in the graveyard leads eastward.
+~
+~
+0 0 16473
+D2
+The path in the graveyard leads southward.
+~
+~
+0 0 16470
+D3
+The entrance to the tomb.
+~
+~
+0 0 16474
+S
+#16473
+Another grave site of someone.~
+                        Here is the grave of old man Joe.
+                        He was running and he stubbed his toe,
+                        and fell into the pond.
+                        Old Joe tried to swim to shore,
+                        but the aligator had other plans
+                        for old man Joe.
+~
+0 0 1
+D0
+The path in the graveyard leads northward.
+~
+~
+0 0 16547
+D3
+The path in the graveyard leads westward.
+~
+~
+0 0 16472
+S
+#16474
+The Entrance to the Tomb.~
+  You step though the huge steel gates into the tomb of Lord
+Dracula's Father.  The walls are solid granite and there are
+pictures on the walls depicting scenes from his life.  The
+temperature in the crypt is about fifteen degrees lower then
+outside.  You hears sounds coming from further within the tomb.
+~
+0 AD 0
+D1
+Huge steel gates block your exit.
+~
+gate~
+0 0 16473
+D2
+The light is to dim to tell.
+~
+~
+0 0 16479
+D3
+The light is to dim to tell.
+~
+~
+0 0 16475
+S
+#16475
+Within the tomb walls.~
+  The room is dimly lit with oil lamps on the walls.  You can
+hear things scampering around the room.  You only hope that they
+don't bother you.  The room seems to be empty from what you can
+see.
+~
+0 AD 0
+D1
+The light is to dim to tell.
+~
+~
+0 0 16474
+D2
+The light is to dim to tell.
+~
+~
+0 0 16476
+S
+#16476
+Within the tomb walls.~
+
+You have fallen down a set of stairs!!!
+
+Standing on what appear to be an alter of some sorts you feel
+your feet slipping from under you.  You wonder what it is that is
+making you slip, so you take your hand and put it on the floor
+only to find out that the substance on the floor is blood.
+~
+0 AD 0
+D0
+The light is to dim to tell.
+~
+~
+0 0 16475
+D2
+The light is to dim to tell.
+~
+~
+0 0 16477
+E
+alter~
+The alter is covered in a coating of blood.  The alter must be a
+sacrificial alter.
+~
+S
+#16477
+The Room of Lord Dracula's Father.~
+  As you walk into the room you run into a huge stone casket. 
+The top of the casket appears to be not on all of the way.  As
+you look into the stone casket you notice the corpse is not
+there.  You hear breathing from behind you and turn around only
+to see nothing.
+~
+0 AD 0
+D0
+The light is to dim to tell.
+~
+~
+0 0 16476
+D1
+The light is to dim to tell.
+~
+~
+0 0 16478
+E
+stone casket~
+The stone casket is about 7 feet long and 3 1/2 feet wide.  The
+sides and top are decorated with scenes of people being murdered.
+~
+S
+#16478
+The work room.~
+  As you walk in the room you can feel yourself walking on what
+feels like sand.  You notice some tools and another casket that
+is being made.  This casket must be the one that is going to be
+used when Lord Dracula dies.
+~
+0 AD 0
+D0
+The light is to dim to tell.
+~
+~
+0 0 16479
+D3
+The light is to dim to tell.
+~
+~
+0 0 16477
+S
+#16479
+The Picture room.~
+  The walls are completely covered in paintings of war and people
+being murdered.  Someone has sick taste in art from all of the
+blood and gore that is embodied in the paintings.
+~
+0 AD 0
+D0
+The light is to dim to tell.
+~
+~
+0 0 16474
+D2
+The light is to dim to tell.
+~
+~
+0 0 16478
+S
+#16480
+In the digging tunnel.~
+  The tunnel comes to an end, but you don't know which way you
+should go. You think to yourself that you should just dig your
+way out.
+~
+0 AD 0
+D1
+In the freshly dug tunnel.
+~
+~
+0 0 16481
+D4
+The light is to dim to tell.
+crawl~
+dig~
+0 0 16474
+S
+#16481
+In the digging tunnel.~
+  The tunnel gets larger and you are able to stand up in the
+room.  You notice a broken shove in the corner of the room.  Even
+as you just stand there you can feel dirt falling from the
+ceiling on your head and body.
+~
+0 AD 0
+D1
+In the freshly dug tunnel.
+~
+~
+0 0 16482
+D3
+In the freshly dug tunnel.
+~
+~
+0 0 16480
+S
+#16482
+In the digging tunnel.~
+  You crawl though the small hole hoping that it will take you
+closer to the real world.  The dirt on the walls is wet and your
+cloths become damp from crawling.
+~
+0 AD 0
+D1
+The tunnel continues eastward.
+crawl~
+~
+0 0 16533
+D3
+In the freshly dug tunnel.
+crawl~
+~
+0 0 16481
+S
+#16483
+On the Trunk of the Great Tree.~
+  All along the trunk of the tree are small foot hole that make
+climbing the tree easy.  Glancing out over the graveyard you can
+see the entire graveyard. There is not one thing that is hiden
+from site, aside from the insides of buildings.  You still are
+not high enough to see over the wall surrounding the graveyard.
+~
+0 0 1
+D4
+The trunk stretches toward the sky.
+~
+~
+0 0 16484
+D5
+You can see roots and grass.
+~
+~
+0 0 16461
+S
+#16484
+In the branches of the Great tree~
+  You have reached a spot on the tree where there are many
+branches that are interlaced forming a grid of thick branches. 
+You can hear the songs of many different types of birds.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16485
+D1
+The branch stretches eastward.
+~
+~
+0 0 16495
+D5
+The trunk of the tree is huge in diameter.
+~
+~
+0 0 16483
+S
+#16485
+In the branches of the great tree.~
+  Walking along the branches you look down into the graveyard and
+realize just how high off the ground you really are.  The
+branches are so interlaced that you can't even feel them move
+with your weight on them.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16486
+D1
+The branch stretches eastward.
+~
+~
+0 0 16494
+D2
+The branch stretches southward.
+~
+~
+0 0 16484
+S
+#16486
+In the branches of the great tree.~
+  The leaves on the tree rustle as the breeze blows through them.
+The sound puts your mind at ease from the horrors within the
+castle.  One of the branches is shaped like a chair.  Feeling
+tired you test it out.
+~
+0 0 1
+D2
+The branch stretches southward.
+~
+~
+0 0 16485
+D4
+The branch reaches for the sky.
+~
+~
+0 0 16487
+S
+#16487
+In the branches of the great tree.~
+  You climb up a branch and look out over the land.  You can see
+a city in the distance.  A small bird flys in and perchs itself
+next to you. Your persence doesn't phase the bird in the
+slightest.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16497
+D1
+The branch stretches eastward.
+~
+~
+0 0 16488
+D5
+~
+~
+0 0 16486
+S
+#16488
+In the branches of the great tree.~
+  Standing deep within the branches of the great tree you can see
+far into the heart of the tree.  The entire tree is an intricate
+lacing of branches and leaves.  Some of the branches and leaves
+are broken and trampled on to make you think someone has been
+here reciently.
+~
+0 0 1
+D3
+The branches stretch westward.
+~
+~
+0 0 16487
+D5
+The branches stretch downward.
+~
+~
+0 0 16489
+S
+#16489
+In the branches of the great tree.~
+  The branches of the tree arch over the branch forming a
+beautiful shaped archway.  You walk through the archway and look
+at the branches that form almost a cabin.  The branches of the
+trees are so tight that not much light gets through them.  You
+wonder who took the time to weave all of the branches so they
+would grow in this manner.
+~
+0 0 1
+D0
+The branches stretch northward.
+~
+~
+0 0 16490
+D4
+The branches stretch upward.
+~
+~
+0 0 16488
+S
+#16490
+In the branches of the great tree.~
+  The trees provide a beautiful environment for you to relax in. 
+You wonder if you are going to be on the castle grounds for the
+rest of your life.
+~
+0 0 1
+D1
+The branch stretches eastward.
+~
+~
+0 0 16491
+D2
+The branch stretches southward.
+~
+~
+0 0 16489
+S
+#16491
+In the branches of the great tree.~
+  The thick cover of the branches helps to shade you from the
+sunlight and weather.  There is some trash on the ground which
+make you wonder if someone had been up here reciently.
+~
+0 0 1
+D2
+The branch stretches southward.
+~
+~
+0 0 16492
+D3
+The branch stretches westward.
+~
+~
+0 0 16490
+S
+#16492
+In the branches of the great tree.~
+  As you look off to the east you can see the huge castle.  You
+hope that you will never have to go back inside.  From one of the
+chimneys of the castle you begin to see smoke pouring out.  It is
+almost as though someone made a fire.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16491
+D2
+The branch stretches southward.
+~
+~
+0 0 16493
+S
+#16493
+In the branches of the great tree.~
+  Someone brought boards and a table up into the tree and has
+made a small area where you can sit down.  The wooden planks are
+fasten to the branches with vines.  You jump up and down to see
+how sturdy it is, and the boards don't move.  This would be a
+good place to just sit back and relax for a while.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16492
+D3
+The branch stretches westward.
+~
+~
+0 0 16494
+S
+#16494
+In the branches of the great tree.~
+  Wooden planks have created an area where you can rest and
+relax.  You wonder how in the world the wooden planks got up
+here.  As you look around you can see birds and squirrels nests.
+~
+0 0 1
+D1
+The branch stretches eastward.
+~
+~
+0 0 16493
+D2
+The branch stretches southward.
+~
+~
+0 0 16495
+D3
+The branch stretches westward.
+~
+~
+0 0 16485
+S
+#16495
+In the branches of the great tree.~
+  Standing in the great tree you feel safe.  You can look down
+upon the graveyard and the plots.
+~
+0 0 1
+D0
+The branch stretches northward.
+~
+~
+0 0 16494
+D1
+The branch stretches eastward.
+~
+~
+0 0 16496
+D3
+The branch stretches westward.
+~
+~
+0 0 16484
+S
+#16496
+In the branches of the great tree.~
+  You see the a hole in one of the branches that look as though
+an animal may live in the tree.  Standing at the end of the
+branch you look down to the ground and become dizzy from how high
+you are in the tree.
+~
+0 0 96
+D3
+The branch stretches westward.
+~
+~
+0 0 16495
+S
+#16497
+In the branches of the great tree.~
+  The branches are thick and sturdy providing a good place to
+walk along.  You feel safe walking along the branches this high
+in the tree.
+~
+0 0 1
+D1
+The branch stretches eastward.
+~
+~
+0 0 16498
+D2
+The branch stretches southward.
+~
+~
+0 0 16487
+S
+#16498
+In the branches of the great tree.~
+  Walking along the huge branch you notice marking on the branch
+warning you that the end of the branch is near.
+~
+0 0 1
+D1
+The branch stretches eastward.
+~
+~
+0 0 16499
+D3
+The branch stretches westward.
+~
+~
+0 0 16497
+S
+#16499
+In the branches of the great tree.~
+  You stand on the end of the branch and lean over the edge
+looking down to the ground far below.  You hope the branch
+doesn't break and send you to your dead.
+~
+0 0 1
+D3
+The branch stretches westward.
+~
+~
+0 0 16498
+D4
+You can see a small cloud above you
+~
+~
+0 0 13000
+S
+#0
+
+#RESETS
+M 0 16500 2 16535              little boy in the tunnel
+E 1 16511 10 17             Boy of crayons
+E 1 16526 10 0              Candlestick holder
+M 0 16501 2 16528              little girl in the tunnel
+E 1 16513 5 16              A crayon
+E 1 16517 10 3              Candy necklace
+M 0 16502 1 16503               Flo the cook to the kitchen
+E 1 16504 9 17              Wooden spoon
+E 1 16505 6 5               Apren
+M 0 16503 3 16508              Zombies to the dead room
+E 1 16521 10 12             Wraps on Zombie
+M 0 16504 2 16504               Bat to the belltower
+M 0 16505 1 16490               Owl to the great tree
+E 1 16518 10 17             Mouse to owl
+M 0 16506 2 16480              Rat to the great tree
+E 1 16519 10 17             Cheese to rat
+M 0 16507 1 16558               Charlie to hut
+E 1 16506 6 17              shovel to be held
+E 1 16507 6 8               Boots to feet
+E 1 16508 6 9               Gloves to hands
+M 0 16508 1 16512               Woman to the terrace
+E 1 16512 5 7               skirt to legs
+E 1 16516 5 3               necklace to neck
+M 0 16509 1 16489               Old man to tree
+E 1 16523 4 6               hat to head
+E 1 16524 4 7               pants to legs
+E 1 16525 4 14              watch to wrist
+M 0 16510 1 16471               Alligator to pond
+M 0 16511 1 16501               Butler to the entrance
+M 0 16512 1 16463               Milkman to gravesite
+E 1 16509 3 17              bottle holder held
+E 1 16510 7 6               hat to head
+M 0 16513 2 16513               Spider to spider room
+E 1 16515 6 17              egg sac to held
+M 0 16514 1 16473               Jose to graveyard
+E 1 16527 3 6               oakleys to head
+E 1 16528 3 5               Tommy to body
+E 1 16529 3 8               Teva's to feet
+E 1 16530 3 7               jeans to legs
+M 0 16515 2 16529               Dog to the tunnel
+E 1 16514 3 3               collar around neck
+E 1 16531 3 4               dog tag around neck
+M 0 16516 2 16538              Boy to the tunnel
+E 1 16511 10 17             crayons to held
+M 0 16517 10 16522              Girl to the tunnel
+E 1 16513 10 16             crayon wield
+E 1 16517 5 3               candy necklace on neck
+M 0 16518 1 16518               Mary to the master bedroom
+E 1 16503 3 17              feather duster held
+E 1 16520 3 5               apron on body
+G 1 16532 -1                Skelton key to inventory
+M 0 16519 2 16542               Owl to belltower
+E 1 16518 10 17             mouse to held
+M 0 16520 1 16520               Dracula to crypt
+E 1 16500 3 1               ring to finger
+E 1 16501 3 12              cloak about body
+E 1 16502 2 16              dagger wield
+M 0 16521 2 16537              Rat to the tunnel
+E 1 16519 3 17              cheese held
+M 0 16522 2 16499               bat to the tree 
+M 0 16523 1 16477               Ghost of drac father to crypt
+M 0 16524 2 16478               Worker to working room
+E 1 16533 3 16              hammer wielded
+E 1 16534 3 17              chisel held
+M 0 16525 1 16488               Woman to the tree
+E 1 16512 6 7               skirt to legs
+E 1 16516 6 3               necklace to neck
+O 0 16522 3 16509           Faulkners as I lay dying
+D 0 16518 2 2            door in master bedroom to tunnel
+D 0 16517 0 2            door in tunnel to bedroom
+S
+#SHOPS
+0
+#SPECIALS
+M 16502 spec_breath_any
+M 16509 spec_cast_mage
+M 16511 spec_janitor
+M 16518 spec_janitor
+M 16520 spec_breath_any
+M 16520 spec_cast_mage
+M 16520 spec_poison
+M 16523 spec_cast_undead
+S
+#$
+

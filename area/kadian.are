@@ -1,0 +1,6059 @@
+#AREA {60 90} Kadian  Halcyon~
+
+#MOBILES
+#22500
+Merganser~
+Merganser~
+`PMerganser```I, Magitor of the `LOuter Realms```I stands here.``
+~
+The magitor looks at you through sorrowful eyes surrounded by alien flesh.
+His muscles ripple in a strange fashion that shows true strength and agility.
+His rage at the abuse of magic has left the thorne elves in their eternal
+torment.
+~
+unique~
+CFGT DFJPTVZaacc 0 S
+91 80 50d100+15000 1d1+2000 35d4+0 27
+-50 -60 -70 -80
+ADCFHK ABCHIJKLMNORS G 0
+8 8 1 0
+H ABCDEFGHIJKL H 0
+
+#22501
+a thorne elf~
+a thorne elf~
+In torment, the thorne elf awaits you.
+~
+Thorns protrude from various locations on the elf's body from a curse that is
+to be forever his burden. As he moves, new wounds appear and heal in a bizarre
+fashion.
+~
+elf~
+BFGST DFHJPQTVZcc -300 S
+60 15 10d50+1650 1d1+400 4d20+0 22
+-29 -29 -29 -34
+BFJKLPRU ABGIJLOPQ CEFJK 0
+8 8 1 3000
+0 0 M 0
+
+#22502
+a thorne elf~
+a thorne elf~
+The thorne elf awaits you in a haze of pain.
+~
+With a mask of controlled pain, the thorne elf looks to wish the same upon
+you. The thorns of the elf bristle with anger while flecks of blood drip off
+of them falling to the ground.
+~
+elf~
+BCGS FHJNPTVZcc -300 S
+50 0 10d25+1200 10d50+300 5d12+0 22
+-19 -19 -19 -9
+EFHKPRU ABGIJLOPQ CEFJKQ H
+8 8 1 2000
+0 0 M 0
+
+#22503
+the thorne sage~
+the thorne sage~
+Even in agony, this elf is intent in study.
+~
+Blood drips from the very fingertips of this elf as she peers intently at
+her bloodstained tome.
+~
+elf~
+BCGS FJPTVZcc -300 S
+55 0 200d4+600 200d4+200 8d12+0 13
+-23 -23 -23 -11
+EFHKPRU ABGIJLOPQ CEFJKQ 0
+8 8 2 3000
+0 0 M 0
+
+#22504
+Alachia~
+Alachia~
+Even in thorns, this elven female is breathtaking.
+~
+The slender form of this elf holds great power. Even her stunning beauty is
+shadowed by the primal forces she wields.
+~
+elf~
+BCFGRST CDEFJPQTVZcc -1000 S
+68 0 10d50+5800 1d1+2000 5d12+40 16
+-30 -30 -30 -20
+EFGHKPRU ABGIJLOPQ CEFJKQ 0
+8 8 2 5000
+0 0 M 0
+
+#22505
+the seneschal~
+the seneschal~
+An elite seneschal of the elves ignores the pain.
+~
+Even as new sores open from this elf, he takes notice of only you, the more
+recent pest.
+~
+elf~
+BFGST BDFHPQTVZaacc -600 S
+66 0 18d50+900 1d1+1000 10d10+0 27
+-25 -25 -25 -15
+BCDEFHIJKLNOPRU ABGIJLOPQ CEFJKQ 0
+8 8 1 3500
+0 0 M 0
+
+#22506
+the abomination~
+the abomination~
+A combination of grotesque body parts reaches for you.
+~
+Dozens of faces scream for your body, hoping to add it to the collection.
+The features of all types of creatures are apparent in this abomination from
+elves to dragons.
+~
+unique~
+BCFGOQRST BDFPQTVXZaacc -1000 S
+70 40 1d1+5000 1d1+1000 24d6+10 13
+-30 -30 -30 -20
+ABEFKM ABQ CEFLMNOPQRS E
+8 8 0 10000
+I ABCDEFGHIJKLMNOPPQUVWXY G 0
+
+#22507
+the abomination~
+the abomination~
+A massive creature reaches to embrace you into its tortured existance.
+~
+More than a hundred faces scream in hatred which makes your very soul
+shiver. It reaches forth to acquire your soul for its own collection in
+the wall.
+~
+unique~
+BCFGOQRST BDFHPQTVXZaacc -1000 S
+70 50 1d1+6000 1d1+1000 24d6+10 13
+-30 -30 -30 -20
+ABEFKM ABQ CEFLMNOPQRS E
+8 8 0 15000
+I ABCDEFGHIJKLMNOPQUVWXY G 0
+
+#22508
+a pylryphas~
+a pylryphas~
+A beast that sizzles with electricity howls at you.
+~
+Electric arcs course through the yellowish fur of this creature. The
+monster is almost bipedal but seems to support itself just as well on
+four limbs. It's face has humanoid features although large fangs
+protrude from its mouth. These features are surrounded by a lion-like
+mane which adds to the creature's look of ferocity.
+~
+unique~
+BCFG DFVZaa 0 S
+68 20 10d100+4000 1d1+1000 20d5+0 28
+-25 -25 -25 -14
+FKNU ABEJ I 0
+8 8 0 0
+V ABCDEFGHJKLUV M 0
+
+#22509
+the treant~
+the treant~
+A tree is here almost seemingly alive.
+~
+Twisted and gnarled branches look as if they mean to grab you. Two
+knotholes in the tree are placed almost like eyes.
+~
+treant~
+BGT H -1000 S
+45 13 6d30+900 1d1+100 7d8+0 27
+-19 -19 -19 -14
+0 AB 0 HIJ
+8 8 0 800
+H BEK L 0
+
+#22510
+the wood imp~
+the wood imp~
+A small imp is creating havoc.
+~
+This little creature looks at you with an evil glint in its eye. Its
+claws clench and tail flicks as its wings lift it closer to your eyes.
+~
+imp~
+CGHRS BDFPQTUVcc -500 S
+40 15 1d1+800 1d1+500 1d10+25 5
+-17 -17 -17 -12
+FHJKM AHIJ CD 0
+8 8 0 200
+H ABCDEFGHJKLPQU S 0
+
+#22511
+the halcyon~
+the halcyon~
+`RPeace`M flows through you at the sight of the ```GHalcyon``.
+~
+A bird of a myriad of blue colours which soothe you and the surrounding
+area as the eyes double the effect of its feathers.
+~
+bird~
+BGQ CHTV 1000 S
+76 48 1d1+18888 1d1+4444 5d20+40 20
+-50 -50 -50 -45
+AFHKLQS ABFKO CD Q
+8 8 0 200
+W ACDEFHKLPQ G 0
+
+#22512
+the blood centaur~
+the blood centaur~
+A strange centaur glares at your intrusion.
+~
+A visitor to the elves at the time of the curse, the hide of this horse is
+dark red in colour, much like that of blood. The only other feature that
+distinguishes this centaur from a normal centaur is the deadly clawed hands
+the blood centaur has.
+~
+centaur~
+BGHT aa 0 S
+45 10 1d1+900 1d1+300 5d6+0 5
+-15 -15 -15 -13
+CFKRU A B 0
+8 8 1 300
+N ABCDEFGHIJKL L 0
+
+#22513
+the srazshlan~
+the srazshlan~
+An eight legged cat growls and hisses at you.
+~
+The eyes of the beast glitter with intelligence as it snarls angrily at
+you. The cat has eight legs which makes it move incredibly fast and it is
+hard to follow it accurately as it circles around you.
+~
+cat~
+BCFG DFJPVZaa -300 S
+62 40 1d1+1700 1d1+200 8d4+15 5
+-25 -25 -25 -15
+FKM AB D K
+8 8 1 300
+0 0 M 0
+
+#22514
+the wood golem~
+the wood golem~
+A humanoid of solid wood guards this boom.
+~
+This monsterous creation of wood stands a solemn watch for the blood elves.
+Great eye sockets of black pierce your being, chilling you to a point of
+nearly screaming.
+~
+unique~
+BG aacc 0 S
+50 0 1d1+2000 1d1+0 5d12+20 7
+-13 -13 -13 -40
+CEIKNO ABEIJKLMNOPQRS F H
+8 8 0 0
+M ABCEGHI L 0
+
+#22515
+the dragon earth~
+the earth dragon~
+```GA great mound of earth lies here.``
+~
+The large mound of earth heaves up and down in a steady rhythm shaking dirt
+and makes a continual dust cloud. From the earth springs an eye that studies
+you intently.
+~
+dragon~
+BQT Q 0 S
+81 20 6d100+5100 1d1+1000 20d8+12 27
+-50 -50 -50 -34
+KM AHKO 0 0
+8 8 0 4000
+Z ABCDEFHJKLQUVX G 0
+
+#22516
+Lelia~
+Lelia~
+A half-woman, half-cat reclines here on a branch.
+~
+A nude woman lies here on a branch. Your eyes travel along her bare skin
+and stop suddenly as you realize that she is covered with fine fur. She
+turns slightly and sniffs at the air, looking at you to decide whether or
+not you are a threat.
+~
+cat~
+BHT PQVaa 0 S
+58 22 1d1+2300 10d8+20 1d1+58 22
+-20 -20 -20 -5
+EFKMR AB 0 0
+8 8 2 0
+0 0 M 0
+
+#22517
+the succubus~
+the succubus~
+A demoness beckons you closer.
+~
+Fluttering in the air on bat-like wings, a succubus smiles at you enticingly.
+Her dark eyes glitter with evil amusement as she moves slowly and surely
+towards you.
+~
+demon~
+BFQR BDFHQTZcc -1000 S
+62 35 1d1+4000 1d1+2000 18d6+0 21
+-40 -35 -40 -60
+FKMU ABHKLO CD Y
+8 8 2 5000
+cc ABCDEFGHJKLOQUVW M 0
+
+#22518
+the elven dog~
+the elven dog~
+A small dog backs away at your approach.
+~
+This small tan dog looks up at you with fearful eyes, ready to run at the
+first move you make.
+~
+fox~
+GH Ncc 500 S
+23 12 1d20+390 1d1+100 4d8+10 10
+0 0 0 0
+F 0 0 0
+8 8 0 0
+0 0 S 0
+
+#22519
+the elven cat~
+the elven cat~
+A ```Jsilver `Qhaired `Rcat`` tries not to be noticed.
+~
+A small grey cat looks back at you intently with ice blue eyes that hold
+hidden intelligence.
+~
+cat~
+GHR PQV 500 S
+26 0 1d20+385 1d1+100 3d10+10 5
+0 0 0 0
+FH 0 C 0
+8 8 0 0
+0 0 S 0
+
+#22520
+the dragon of the falls~
+the dragon of the falls~
+```OHalf immersed, a ```Jscaled `Qhead```O looks at you.``
+~
+As you look more blatently at the scaled head it emerges from the water in a
+breathtaking display. Glittering droplets of water slide off the translucent
+blue scales of a dragon. Sinewy muscles and pumping veins can be seen
+underneath the dragon's scales. The dragon glares at you for your intrusion.
+~
+dragon~
+B BQcc 0 S
+62 42 100d4+3800 1d1+1000 104D1+0 30
+-30 -30 -30 -20
+ADFHKMU ABGIL C 0
+8 8 0 200
+Z ABCDEFHJKLOQUVWX G 0
+
+#22521
+a crazed man~
+a crazed man~
+```GA `Lscraggly```G man glares at you through `Myellow```G eyes.``
+~
+Dressed in rags, the remnents of a man crouch before you. He growls a feral
+growl meant for you, then he howls. From nearby, those howls are returned.
+~
+wolf~
+BCT aacc 0 S
+50 20 1d1+1800 1d1+100 4d8+30 13
+-10 -10 -10 -5
+FKR ABL 0 0
+8 8 1 0
+0 0 M 0
+
+#22522
+a wolf~
+a wolf~
+`LA silent stalker lurks in the dark.``
+~
+In this light all you can see is two glittering yellow eyes staring at you
+fiercely.
+~
+wolf~
+B BPQVZaacc 0 S
+40 15 1d1+1000 1d1+100 10d3+10 10
+-5 -5 -5 -3
+CFLR AB 0 0
+8 8 0 0
+0 0 M 0
+
+#22523
+a fanatic Whitecloak~
+a fanatic Whitecloak~
+`BA `Rwhitecloak `Blooks down his nose at you.``
+~
+Immaculately dressed, the Whitecloak looks at you. Now that you've drawn
+attention to yourself, you will surely be questioned.
+~
+human~
+GT CN 300 S
+45 7 1d1+1050 1d1+0 5d4+15 21
+-8 -8 -8 -4
+CEFKQRT A 0 I
+8 8 1 100
+0 0 M 0
+
+#22524
+the ogier~
+the ogier~
+`SStanding near the `RWaygate`S is an ```COgier``.
+~
+Broad nosed and big eyed, this female ogier towers above a normal human.
+She has tufted ears, wide mouth and no eyebrows. She wears a yellow dress
+embroidered with light green leaves that resemble the pattern on the Waygate.
+~
+giant~
+BH HNTaacc 1000 S
+60 50 400d2+1700 1d1+100 4d20+20 17
+-20 -20 -20 -10
+CFKR ABO DH Z
+8 8 2 500
+0 0 L 0
+
+#22525
+the gray man~
+the gray man~
+You barely notice an ordinary man moving quietly in the shadows.
+~
+You find it difficult to keep your eyes focused on this man. He has given
+up his soul to become an assassin.
+~
+human~
+B Qcc 0 S
+40 15 10d10+1000 1d1+100 1d1+18 18
+-5 -5 -5 -5
+EFK AFIKO BG EH
+8 8 1 500
+0 0 M 0
+
+#22526
+a naiad~
+a naiad~
+`JTanning on the ```Obeach```J is a`Q naiad``.
+~
+The water nymph lies on her front appearing to be sleeping.
+~
+nymph~
+BHR Rcc 0 S
+52 27 50d2+850 1d1+500 10d5+10 14
+-10 -10 -10 -10
+FK AB 0 0
+4 4 2 0
+cc ABCDEFGHIJKLO M 0
+
+#22527
+the tinker~
+the tinker~
+`BSitting here quietly, ```Eignoring`B the world, is a `Rtinker``.
+~
+This brightly dressed man is wearing a clash of colourful clothing that
+hurts your eyes. He is sitting next to a wagon that is lacquered and
+painted in equally bright colours of reds, blues, yellows and greens.
+~
+human~
+CGH HINWY 1000 S
+20 -100 1d1+10000 1d1+0 1d1+0 16
+50 50 50 50
+0 AB 0 CD
+8 8 1 1
+0 0 M 0
+
+#22528
+the shadow demon~
+the shadow demon~
+```OOut of the ```Tshadows```O comes a thing of `Ldeath``.
+~
+Grays on gray melt into the shadows as the only thing that defines this
+creature is the stench of rot and the burning embers in the creature's
+eye sockets.
+~
+demon~
+BCF BHQTVZaacc -1000 S
+55 27 50d2+1650 1d1+600 35d2+20 20
+-25 -20 -20 -10
+FKU ABEFO G N
+8 8 0 2000
+cc ABCDEFGHJKLUVWY M 0
+
+#22529
+a crazed man~
+a crazed man~
+Clawing at his face, this man is obviously mad.
+~
+True madness touches this man's brown eyes. He twitches as he talks to
+himself. At certain times he stops to study something, each time he does
+so, fire bursts around him, sometimes it is frost.
+~
+human~
+B HNVcc 0 S
+50 30 1d1+1800 1d1+300 10d3+30 28
+-20 -20 -20 -10
+AFKU AJ FGK L
+8 8 1 4500
+0 0 M 0
+
+#22530
+a darkhound~
+a darkhound~
+A hound darker than night circles you.
+~
+Feral growls come from the beast some call a darkhound. Massive teeth try
+to rip out your throat while paws burn prints into the very stone beneath
+it. It has pitch black fur and silver shining eyes. The pony-sized hound
+moves faster than natural and fills your nostrils with the smell of sulfur.
+~
+special~
+BF DFHQZcc -200 S
+80 50 1d1+4200 1d1+100 100d1+20 5
+-40 -30 -35 -20
+DFHIKRU AQ BCD 0
+8 8 0 10
+V ABCDEFHJKLV L 0
+
+#22531
+a nym figure~
+a nym~
+A figure steps out of the foliage.
+~
+A man-shape of woven vines and leaves with hair of grass long and flowing.
+Hazelnuts act as his eyes which wander over the plants he looks after.
+Butterflies swirl around in motley colours about the nym.
+~
+special~
+FQRST DFZcc 0 S
+95 50 100d30+13000 1d1+100 50d3+0 18
+-60 -60 -60 -60
+ACDEFHKRU AO BC 0
+8 8 1 15
+G ABCDEFGHIJKL H 0
+
+#22532
+slayer death~
+Slayer~
+From the shadows comes death.
+~
+Intent on killing all is a man with a face of stone that could easily be
+mistaken for a warder. Yet in his hazel eyes, you can see the evil. Sweat
+never touches his brow as he swings his weapon in glittering arcs.
+~
+special~
+BFT DFHQTZcc 0 S
+100 45 10d200+16500 1d1+1000 5d10+130 19
+-40 -40 -40 -40
+CDEFHKRU ADHIKLMNOPQRS 0 0
+8 8 1 30
+H ABCDEFGHIJKL L 0
+
+#22533
+mashadar fog~
+Mashadar~
+A fog rolls in and its tendrils are a caress of death.
+~
+Light pours from this vast silvery rolling fog. Multiple tendrils wander
+out from the fog. It's touch surely means death.
+~
+special~
+BFT BDFQTZcc 0 S
+95 20 20d100+12500 1d1+5000 6d50+40 26
+-20 -20 -20 -30
+AHRU ADJO Q 0
+8 8 0 6
+0 0 G 0
+
+#22534
+cymry form~
+Cymry~
+Cymry's mortal form lies here.
+~
+Born with Wings of Light and a Sword of Faith, this heavenly incarnation
+embodies both fury and purity.
+~
+special~
+BCOT BHNTcc 0 S
+115 100 1d1+20000 1d1+5000 50d1+275 16
+-80 -80 -80 -65
+FHKRU AO 0 P
+8 8 2 4000
+H ABCDEFGHIJKL M 0
+
+#22535
+Labyrynthe~
+Labyrynthe~
+Labyrynthe is here amid the chaos.
+~
+He has no head!
+~
+special~
+BCOT BHQcc -1000 S
+120 100 1d1+22000 1d1+5000 25d2+275 12
+-20 -100 -100 -85
+CDFHKRU AO 0 I
+8 8 0 0
+H ACDEFGHIJKL M 0
+
+#22536
+Michiko~
+Michiko~
+The still form of Michiko lies here.
+~
+One of the first Aes Sedai to walk the lands between the Rivers of Blood,
+born and bred fighting the Shadow in all of its incarnations, everything
+about her speaks of an inner serenity and quiet determination. Her raven
+black hair, pulled back into a long ponytail is coiled around her neck
+like a dragon about to strike.
+~
+special~
+BCOT BHQcc 1000 S
+125 100 1d1+25000 1d1+5000 25d2+275 17
+-60 -60 -60 -150
+CDFHKRU AO 0 I
+8 8 2 4000
+H ABCDEFGHIJKL M 0
+
+#22537
+Thistle~
+Thistle~
+The still form of Thistle is here.
+~
+A seasoned warrior stands before you, his rotting face covered in the blood
+of the fallen around you.  His brown eyes pierce into you divining whether
+you are friend or foe.  Thistle casually wipes the blood from his brow and
+moves closer to you in a careful fashion.
+~
+special~
+BCOT BHQcc -1000 S
+130 100 1d1+25000 1d1+5000 25d2+275 27
+-120 -120 -120 -45
+CDFHKRU AO 0 N
+8 8 1 4000
+I ABCDEFGHIJKL M 0
+
+#22538
+Sidara~
+Sidara~
+Sidara awaits to be awoken.
+~
+She glances your way, raven black hair falling in front of her chalk white
+features, from which a pair of ice blue eyes glare at you for waking her
+eternal slumber.  She looks to be a formidable warrior.
+~
+special~
+BFOT DFHJNTXZcc 600 S
+200 150 1d1+30000 1d1+7500 50d1+400 20
+-130 -130 -130 -110
+ADFHKRU AO CD LQ
+8 8 2 8000
+H ABCDEFGHIJKL M 0
+
+#22539
+the worms larvae~
+the worms~
+The larvae of the jumara try to devour you.
+~
+A worm, the baby form of a jumara, is a fierce predator in the Blight.
+Unfortunately worms travel in packs and you think you have the worst
+luck. They sing a fluting song in a chorus of sure death. They do not
+fear. They only hunger.
+~
+special~
+BFT DFHQXZcc -500 S
+98 55 1d1+20000 1d1+0 50d4+40 12
+-60 -60 -60 -60
+ADFHMORU ABFKO CE 0
+8 8 0 100000
+R F G 0
+
+#22540
+a phase spider~
+a phase spider~
+For a moment you see a giant spider staring at you.
+~
+It has eight legs and it's hairy.  That's about all you see as it fades
+from view.
+~
+spider~
+BGOS BPQVcc 0 S
+50 15 1d1+1250 1d1+100 5d8+20 10
+-25 -25 -25 -50
+CDFIKR ABGK J 0
+8 8 0 0
+P ACDEFKV M 0
+#0
+
+#OBJECTS
+#22550
+dagger lifeless~
+a dagger of the lifeless~
+A dagger, dull and unpolished lies here.~
+iron~
+5 CEGJ AN
+2 11 3 11 E
+41 12 107 A
+E
+lifeless dagger~
+This dagger looks ordinary, too ordinary. It feels corupt and tainted.
+It seems to drain the area of life.
+~
+
+#22551
+demonblade blade~
+a demonblade~
+A shadowy aura surrounds a blade of black.~
+steel~
+5 ABCEGJ AN
+1 5 12 20 B
+59 18 263 P
+E
+demonblade blade~
+Shadowed runes writhe with a life of their own along the length of the
+blade. The hilt of the blade is a carving of a couple in an embrace of
+death.
+~
+
+#22552
+glowing nimbus~
+a glowing nimbus~
+Something glows with a strange magical aura.~
+silver~
+5 AFG AN
+0 10 6 28 0
+56 4 300 P
+E
+nimbus glowing~
+Slight currents of electricity can be felt from this object. Maybe it's
+some sort of strange weapon.
+~
+
+#22553
+dream bow~
+the dream bow~
+A transparent bow glows with power.~
+wood~
+5 ABFGM AN
+0 27 3 19 F
+87 1 1000 P
+E
+dream bow~
+A bow of grays, as if it came from the world of dreams.
+~
+
+#22554
+moiraine staff~
+the staff of Moiraine~
+The charred forgotten staff of Moiraine.~
+wood~
+5 AGIK AP
+8 23 4 27 F
+97 17 1000 W
+E
+moiraine staff~
+The burnt staff seems to still hold power in its depths.
+~
+
+#22555
+dagger mordeth~
+the dagger of Mordeth~
+A dagger seems to call out to you.~
+iron~
+5 ABCEGJ AN
+2 4 26 26 C
+97 15 1000 P
+E
+mordeth dagger~
+It sings a song of blood and the blood is sweet.
+~
+
+#22556
+dragon fang~
+the Dragon's Fang~
+A large crystal dagger glitters hypnotically.~
+glass~
+5 ABFGIKM AN
+2 22 4 2 D
+100 4 1500 P
+E
+fang dragon~
+Forged in ancient times, the dagger has withstood the test of time.
+It has fought many Forsaken and is destined to fight again.
+~
+
+#22557
+gnarled axe~
+a gnarled axe~
+A strangely crafted axe is here.~
+steel~
+5 AGHJ AN
+5 12 5 1 0
+71 22 400 G
+E
+gnarled axe~
+A twisted haft holds a polished axe blade.
+~
+
+#22558
+flail talons~
+the Flail of Talons~
+Here lies a strange flail of sorts.~
+adamantite~
+5 AGHM AN
+6 20 3 22 0
+70 25 800 P
+E
+flail talons~
+A cat o' nine tails with each tail ending in deadly peregrine falcon
+talons.
+~
+
+#22559
+circular blade~
+a circular blade~
+A massive axe-like weapon lies here.~
+brass~
+5 AGIM AN
+5 39 2 21 F
+90 30 888 P
+E
+circular blade~
+A large round blade like a double-sided axe with no haft.
+~
+
+#22580
+dragon dragonfalls mask~
+the Dragonfalls Mask~
+A crystal mask glitters before you.~
+glass~
+9 FG AU
+17 14 19 9 0
+62 5 420 P
+E
+mask~
+A well-carved mask of glass fashioned in an ancient ritual of magic.
+~
+
+#22581
+bearskin cloak~
+a bearskin cloak~
+The hide of a bear lies on the ground.~
+leather~
+9 GK AC
+13 15 13 6 0
+51 17 150 A
+E
+bearskin cloak~
+The shiny coat of a black bear has been made into a study cloak.
+~
+
+#22582
+rabbitskin boot~
+a rabbitskin boot~
+A fur boot lie on the ground.~
+leather~
+9  0 AG
+14 14 13 6 0
+49 4 80 A
+E
+boot~
+This boot of fine rabbit fur has been crafted with care.
+~
+
+#22583
+whitecloak cape~
+a whitecloak cape~
+The cape of a whitecloak collects dust.~
+cloth~
+9 AGI AK
+15 12 11 5 0
+46 12 80 P
+E
+cape~
+A plain grey cape with an insignia of a golden sunburst over a field
+of white.
+~
+
+#22584
+book~
+a book~
+Lying on the ground is a large Ogier book.~
+paper~
+2 HM AO
+69 38 4 25 0
+63 50 30 A
+E
+book~
+A massive book on Ogier history that makes for quite interesting reading
+material. It looks like something that's hard to put down.
+~
+
+#22585
+sandal~
+a leather sandal~
+A leather sandal.~
+leather~
+2 6 AG
+50 24 24 24 0
+55 8 50 P
+E
+sandal~
+This sandal looks really comfortable. You notice complex sigils engraved
+into the sole.
+~
+
+#22586
+crystal collar~
+a crystal collar~
+Something circular lies on the ground.~
+glass~
+9 EGJ AC
+18 18 18 22 0
+70 6 700 G
+E
+crystal collar~
+Light reflects throughout the glass collar.
+~
+
+#22587
+aura death shroud~
+an aura of death~
+A shroud of mist hovers near the ground.~
+silver~
+9 GJK AK
+21 21 21 28 0
+87 1 1500 G
+
+#22588
+dream quiver~
+the dream quiver~
+A misty quiver lies on the ground.~
+leather~
+15 FGH AC
+250 0 0 0 0
+97 3 400 G
+
+#22589
+Cymry Armor~
+Cymry's Armor~
+Thin, multi-coloured armor has been discarded here.~
+glass~
+9 AGIK AD
+25 25 25 30 0
+97 40 1000 P
+E
+armor~
+This finely crafted armor has been wrought with magic and hard
+work. It seems to be a suit of glass plate with feathers carved
+about it.
+~
+
+#22590
+elemental arrow~
+an elemental arrow~
+Before you is an arrow from a dream.~
+wood~
+2 ABG AO
+100 200 201 202 0
+97 5 200 P
+E
+arrow elemental~
+Forged from the elements, this arrow looks to penetrate any
+enemy's defenses.
+~
+
+#22591
+true light~
+the true light~
+A soft white light of blue soothes you.~
+silver~
+1 AGK A
+0 0 998 0 0
+97 3 400 P
+E
+true light~
+A ball of silver that glows with a blue light and fills your
+heart with thoughts of good.
+~
+
+#22592
+jester hat~
+a jesters hat~
+Lying before you is a gaudy coloured hat.~
+cloth~
+9 GHJMN AE
+26 26 23 30 0
+97 30 42 G
+E
+jester hat~
+A strange hat which only the very unpredictable can successfully don.
+~
+
+#22593
+chaos sceptre~
+a sceptre of chaos~
+A huge fake-jewelled sceptre is discarded on the ground.~
+bronze~
+9 GHJMN AO
+18 26 28 30 0
+97 31 42 G
+E
+chaos sceptre~
+Underneath all the phony jewels lies power for the truly mad and strange.
+~
+
+#22594
+twisted bracelet~
+a twisted bracelet~
+A bracelet twisted from the taint of the blight.~
+iron~
+9 AGJ AM
+26 26 26 30 0
+97 15 20 W
+E
+twisted bracelet~
+A jewel encrusted iron bracelet warped by the blight but still looks
+wearable.
+~
+
+#22595
+shadow glove~
+shadow glove~
+In the shadows is a barely noticable glove.~
+leather~
+9 ABGK AH
+28 28 28 30 0
+100 5 1500 P
+E
+shadow glove~
+Supple leather is stitched together with extreme care.  This glove
+looks very comfortable.
+~
+
+#22596
+twilight bracelet~
+a twilight bracelet~
+Light glitters from a bracelet on the ground.~
+steel~
+9 A AM
+26 26 26 30 0
+100 5 1000 P
+E
+twilight bracelet~
+Looking closely at the bracelet you can see a forest scene inside
+it.  The scene even seems to be animated.
+~
+
+#22597
+halcyon ring~
+the Halcyon ring~
+A small ring catches your eye.~
+adamantite~
+9 ABGIK AB
+27 27 27 30 0
+57 5 2000 P
+E
+halcyon ring~
+Engraved in extremely fine detail is a bird.  The bird gives you a feeling
+of peace and harmony.
+~
+
+#22598
+pine leg plates~
+pine leg plates~
+Some carved pine lies here.~
+wood~
+9 GJ AF
+11 11 11 0 0
+40 30 50 P
+E
+pine plates~
+The wood looks to be a piece of armor. It is well made yet still
+looks uncomfortable.
+~
+
+#22599
+circlet~
+a wooden circlet~
+A small circlet made of pine lies here.~
+wood~
+18 AFHMN AC
+0 0 0 0 0
+26 20 0 P
+E
+circlet~
+A small branch twisted into a circlet hangs on a thin mithril chain.
+~
+
+#22600
+pine armor~
+pine armor~
+Uncomfortable wood armor has been discarded here.~
+wood~
+9 GJ AD
+10 10 14 0 0
+40 50 50 P
+E
+pine armor~
+Well crafted pine armor looks good for training in but that's about all.
+~
+
+
+#22601
+halcyon eye~
+a Halcyon's eye~
+A disgusting large eye rots here.~
+glass~
+4 AGIK AO
+90 7 7 3 0
+90 7 0 G
+E
+eye~
+An eye of the Halcyon which is said to hold calming powers.  Looking
+at it does little to calm you.
+~
+
+#22602
+halcyon feather~
+the Halcyon feather~
+A large bird feather glows brightly with a blue aura.~
+leather~
+1 AGHIKMN A
+0 0 999 0 0
+50 2 1000 P
+E
+feather~
+A blue peaceful light shines from the feather of the halcyon.
+~
+
+#22603
+thorn cloak~
+a thorn cloak~
+A thorned garment lies on the floor.~
+wood~
+9 AEHJ AK
+15 15 15 6 0
+55 15 10 P
+E
+thorn cloak~
+The cloak appears to be magically made from leaves, thorns and vines.
+Eerily it seems the cloak has a life of its own.
+~
+
+#22604
+yellowed scroll~
+yellowed scroll~
+An old scroll lies here.~
+vellum~
+2 AH AO
+62 28 2 38 0
+55 5 10 P
+
+#22605
+bloodskin blood skin~
+a bloodskin~
+A drinking skin has been left behind~
+leather~
+17 AGP A
+300 300 13 0 0
+20 15 250 P
+
+#22606
+spittle srazshlan~
+srazshlan spittle~
+A small puddle of spittle.~
+glass~
+10 FG AO
+10 3 70 28 0
+30 1 10 P
+
+#22607
+brass neckpiece~
+a brass neckpiece~
+Here lies a circle of brass.~
+brass~
+9 AM AC
+14 14 14 7 0
+50 15 100 P
+E
+brass neckpiece~
+A thick collar made of brass and carved with many glyphs.
+~
+
+#22608
+ring magma~
+a ring of magma~
+Glowing brightly, is a small ring of liquid stone.~
+stone~
+9 AG AB
+25 25 25 0 0
+90 5 150 G
+E
+ring magma~
+It looks to be a ring of flaming rock though it does not burn you.
+~
+
+#22609
+staff earth~
+an earthen staff~
+A strange staff lies before you.~
+stone~
+5 CG AN
+3 10 10 18 0
+85 10 100 P
+E
+staff earth~
+Something magical seems to hold this earth together to form a bizarre
+kind of staff.
+~
+
+#22610
+boot padded~
+a padded boot~
+A soft boot lies here.~
+leather~
+9 0 AG
+12 24 12 0 0
+58 7 150 P
+E
+padded boot~
+This boot looks made with freedom of movement in mind.
+~
+
+#22611
+phase gland~
+a phase gland~
+A sickly yellow sack of liquid lies here.~
+cloth~
+10 AG AO
+60 2 28 3 0
+55 5 0 P
+
+#22612
+demon wings~
+a pair of demon wings~
+A pair of wings severed from some poor demon.~
+leather~
+9 AEJ 1|67108864
+6 6 6 27 0
+55 20 500 P
+E
+wings demon~
+These leathery wings still move with a life of their own.  Claws
+adorn the tips of the wings.
+~
+
+#22613
+demon hooves~
+hooves of a demon~
+Lying on the ground is two severed hooves.~
+stone~
+9 AEJ AG
+17 17 17 8 0
+60 10 150 G
+E
+demon hooves~
+Delicately shaped hooves of a demon have been carved out to fit
+someone's feet.
+~
+
+#22614
+thorn boot~
+a thorned boot~
+A living boot lies on the ground.~
+wood~
+9 AEJM AG
+20 20 20 0 0
+70 10 200 P
+E
+thorn boot~
+This boot seem to be made out of living plant.  The thorns that
+cover the boot make it look uncomfortable to wear.
+~
+
+#22615
+thorn armor~
+a suit of thorned armor~
+Lying about is a suit of discarded plant armor.~
+wood~
+9 AEJM AD
+22 18 20 10 0
+70 30 100 P
+E
+thorn armor~
+A living plant of thorns make up this suit of armor.
+~
+
+#22616
+thorn girth~
+a girth of thorns~
+A girth mode of a thorned plant is discarded here.~
+wood~
+9 AEJM AL
+22 20 22 11 0
+66 20 900 P
+E
+thorn girth~
+A girth made from a thorned plant, it looks quite painful.
+~
+
+#22617
+crystal bracelet~
+a crystal bracelet~
+Barely visible on the ground is a bracelet.~
+glass~
+9 AF AM
+24 24 24 12 0
+87 5 500 P
+E
+crystal bracelet~
+A multi-faceted glass bracelet sparks occasionally.
+~
+
+#22618
+helm talons~
+helm of Talons~
+a strange spiked helm is here.~
+iron~
+9 AC AE
+20 22 24 18 0
+88 15 500 P
+E
+helm talons~
+An iron helm adorned with many sharp talons awaits its next wearer.
+~
+
+#22619
+silver headband~
+a silver headband~
+On the ground lies a band on silver cloth.~
+cloth~
+9 AKP AE
+14 14 14 0 0
+50 5 300 P
+E
+silver headband~
+Thoughtfully made silver cloth forms a beautiful headband.
+~
+
+#22620
+dragon eye~
+the Dragon's eye~
+An eerie ball of red light floats here.~
+glass~
+1 AP A
+0 0 998 0 0
+35 5 0 P
+
+#22621
+arm plate dalsor~
+one of the plates of Dalsor~
+A flowing arm plate lie here.~
+steel~
+9 AG AI
+24 24 24 0 0
+87 20 400 P
+E
+arm plate dalsor~
+This arm plate dates back to an ancient time.  It is
+made of steel and carved with mystic runes.
+~
+
+#22622
+leg plates dalsor~
+plates of Dalsor~
+A pair of glowing leg plates lie here.~
+steel~
+9 AG AF
+24 24 24 0 0
+87 20 400 P
+E
+leg plates dalsor~
+These steel leg plates glow with a magic from a time long since
+past.  Mystic runes adorn every inch of the well polished metal.
+~
+
+#22623
+polaris amulet~
+the Polaris amulet~
+A large metal disc on a chain lies here.~
+steel~
+18 ABFHH AC
+0 0 0 0 0
+50 10 0 P
+E
+polaris amulet~
+Glyphs protrude from the disk of steel which glows eerily.
+~
+
+#22654
+gold~
+some treasure~
+A pile of gold.~
+gold~
+20 0 A
+900 0 0 0 0
+20 40 0 P
+
+#22655
+glove dalsor~
+on of the gloves of Dalsor~
+On the ground lies a supple glove.~
+leather~
+9 AGP AH
+24 24 24 0 0
+92 10 500 P
+E
+glove dalsor~
+Fine leather worked in over the many years by hero after hero.  Now
+worn by yet another.
+~
+
+#22656
+flaming whip~
+a flaming whip~
+Red flames leap from a discarded whip.~
+leather~
+5 ABGP AN
+7 11 7 29 A
+92 15 500 P
+E
+flaming whip~
+A whip fashioned of fire waits to be used on your enemies.
+~
+
+#22657
+thorn bracelet~
+a thorn bracelet~
+Here lies a small bracelet of thorns.~
+wood~
+9 AEJMP AM
+14 16 14 0 0
+92 10 20 P
+E
+thorn bracelet~
+A bracelet of living thorns look uncomfortable to wear.
+~
+
+#22658
+thorn arm plate~
+thorn arm plate~
+Plate of living thorns lie here.~
+wood~
+9 AEJMP AI
+14 16 14 0 0
+92 20 40 P
+E
+thorn arm plate~
+Thorns protrude from all surfaces of this living arm plates.
+~
+
+#22659
+becoming~
+ring of Becoming~
+A beautiful ring waits for someone to pick it up.~
+silver~
+9 AFP AB
+30 0 14 5 0
+92 10 0 A
+E
+ring becoming~
+Two bands of intertwining silver and copper make up this ring.
+~
+
+#22660
+neckband~
+a neckband of Alachia~
+A small band of thorns.~
+wood~
+9 ACGMP AC
+18 18 18 9 0
+92 7 0 P
+E
+neckband~
+Painful looking thorns cover a slim neckband.
+~
+
+#22661
+onyx jewel~
+an onyx jewel~
+A small, shiny black stone lies on the ground.~
+stone~
+8 AGP AO
+0 0 0 0 0
+15 5 300 P
+E
+onyx jewel~
+An onyx gem with the most perfect cuts you have ever seen.
+~
+
+#22662
+moonstone~
+a moonstone~
+A small pearly stone.~
+stone~
+3 AP AO
+40 4 4 38 0
+30 7 100 P
+
+#22666
+hole~
+a hole~
+~
+stone~
+15 COP AM
+1000 0 0 0 0
+52 2000 0 P
+
+#22667
+mural~
+a mural~
+~
+stone~
+15 COP AC
+1000 0 0 0 0
+52 2000 0 P
+
+#22668
+tube~
+a tube~
+~
+steel~
+15 COP AH
+1000 0 0 0 0
+52 2000 0 P
+
+#22669
+hole~
+a hole~
+~
+stone~
+15 COP AI
+1000 0 0 0 0
+52 2000 0 P
+#0
+
+#ROOMS
+
+#22500
+Forest~
+    The scents of pine and maple are abundant here while the noises of woodland
+creatures can be heard whispering in the distance.  The woods feel as if
+something is missing ...it feels unbalanced.
+~
+0 0 3
+D2
+To the south you can see a trail
+~
+~
+0 -1 3584
+D1
+Forest
+~
+~
+0 -1 22501
+S
+#22501
+Forest~
+    The scents of pine and maple are abundant while you hear the whispering of
+animals in the distance.  Yet one thing is definitely missing.. It has
+something to do with the animals.
+To the north is a path that leads to a small village.
+~
+0 0 3
+D0
+Wide Path
+~
+~
+0 -1 22509
+D1
+Forest
+~
+~
+0 -1 22502
+D3
+Forest
+~
+~
+0 -1 22500
+S
+#22502
+Forest~
+    Further into the forest you realize that a majority of the animals are
+elven in nature...so where then, are the elves???  A small path though the
+brambles is south while the main path goes east and west.
+~
+0 0 3
+D1
+Clearing
+~
+~
+0 -1 22503
+D2
+Entrance to the Brambles
+~
+~
+0 -1 22504
+D3
+Forest is west from here.
+~
+~
+0 -1 22501
+S
+#22503
+Clearing~
+    At the edge of the forest is a clearing with a small stream running through
+it. Everything seems so tranquil yet with the elves missing you cannot truly
+enjoy the land they have worked so hard to keep.
+~
+0 1028 2
+D3
+Forest is west from here.
+~
+~
+0 -1 22502
+S
+#22504
+Entrance to the Brambles~
+    A small path through a thicket grows darker the further you go south.  This
+must be new since the elves disappearance.  The sounds of the animals grow
+fainter and the deadening silence takes its place.
+~
+0 0 3
+D0
+Forest is north from here.
+~
+~
+0 -1 22502
+D2
+Brambles
+~
+~
+0 -1 22505
+S
+#22505
+Brambles~
+    The brambles have become thick enough that nothing remains of the
+outside...no light, no wind...nothing.  In the distant south there is some
+light but you can not yet see the source.
+~
+0 9 0
+D0
+Entrance to the Brambles is north from here.
+~
+~
+0 -1 22504
+D2
+Brambles
+~
+~
+0 -1 22506
+S
+#22506
+Brambles~
+    To the south the light is brighter. Here though, the light shows the
+brambles as mere semblances of the former enchanting beauty of rose bushes.
+Now they are deformed and twisted thorn bushes threatening to enclose you
+forever.
+~
+0 8 0
+D0
+Brambles is north from here.
+~
+~
+0 -1 22505
+D2
+Entrance to Halcyon
+~
+~
+0 -1 22507
+S
+#22507
+Entrance to Halcyon~
+    The brambles seem to widen and form something like walls.  On the south is
+a set of double doors engraved with runes of protection and holding.  In the
+center of the door is a small circle with some words written in a strange
+language in it.  Beyond the door must be the elves or at least their decayed
+corpses.
+~
+0 8 0
+D0
+Brambles is north from here.
+~
+~
+0 -1 22506
+D2
+Pool of blood
+~
+circlet~
+51 22599 22508
+S
+#22508
+Pool of Blood~
+    A dark liquid clings to you feet and covers the entirety of the floor.  The
+smell of decay hits your nostrils and make you gag.  The Thorn walls still keep
+out all the light and keep whatever is in, in.  Sounds of activity come from
+the south.
+~
+0 8201 0
+D0
+Entrance to Halcyon is north from here.
+~
+circlet~
+51 22599 22507
+D2
+Secondary Entry to the south.
+~
+~
+0 -1 22562
+S
+#22509
+Wide path~
+    Animals abound this area of forest as this path looks to be more like a
+road.  The maple and oak trees tower above to create a canopy that filters the
+available light from above making a very peaceful road to travel upon.
+~
+0 0 3
+D0
+Road to Baerlon
+~
+~
+0 -1 22510
+D2
+Forest is south from here.
+~
+~
+0 -1 22501
+S
+#22510
+Road to Baerlon~
+    The sheltering canopy above you protects you from the elements as you
+travel on this road.  The road feels safe and pleasant to wander on and maybe
+it wouldn't be  such a good idea to stray from this road.  A small animal trail
+leads off to the west.
+~
+0 0 3
+D0
+Road to Baerlon
+~
+~
+0 -1 22514
+D2
+Wide path is south from here.
+~
+~
+0 -1 22509
+D3
+Small animal path
+~
+~
+0 -1 22511
+S
+#22511
+Small animal path~
+    The forest is dense here and the animal tracks on the ground are of a few
+small creatures.  The pine needles poke and scratch making this path
+uncomfortable to travel upon and the ground beneath you squishes as the mud,
+undried by the sun, suctions to your boots.
+~
+0 0 3
+D1
+Road to Baerlon is east from here.
+~
+~
+0 -1 22510
+D3
+Small animal path
+~
+~
+0 -1 22512
+S
+#22512
+Small animal path~
+    The path ends here with a hole just large enough to squeeze though to the
+north .  The pine needles scratch at you and make you want to go back to the
+road as the mud clings to you and slows your progress to a near crawl.
+~
+0 0 3
+D0
+A small cats den
+~
+~
+0 -1 22513
+D1
+Small animal trail
+~
+~
+0 -1 22511
+S
+#22513
+A small cats den~
+    Bones litters the floor of this abode of some type of small cat.  There are
+varios small holes leading in all directions that these small creatures can
+managed to squeeze though.  For you the only exit is south.
+~
+0 9 0
+D2
+Small animal path is south from here.
+~
+~
+0 -1 22512
+S
+#22514
+Road to Baerlon~
+    To the east is a clearing and you think you can here something like a
+waterfall.  Here, the sheltering road of the oak and maple continues north and
+south still protecting you from the elements.
+~
+0 0 3
+D0
+Road to Baerlon
+~
+~
+0 -1 22518
+D1
+Clearing
+~
+~
+0 -1 22515
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22510
+S
+#22515
+Clearing~
+    Crickets sound as the tall grass sways in the wind while in the distance
+you can see a small waterfall to the east.  The rustling of grass constantly
+keeps you aware of your surroundings and tires you slowly.
+~
+0 0 2
+D1
+Waterfall
+~
+~
+0 -1 22516
+D3
+Road to Baerlon is west from here.
+~
+~
+0 -1 22514
+S
+#22516
+Waterfall~
+    The water scintillates downward in a eternal stream of lifegiving water
+which the surrounding babilia greedily devours and flourishes from it.  The
+tenacious plants cling as close to the waterfall as they can, some
+occasionally getting torn from their roots to become denizens of the stream
+below.
+~
+0 0 2
+D1
+Watery Abode
+~
+Plants~
+3 -1 22517
+D3
+Clearing is west from here.
+~
+~
+0 -1 22515
+S
+#22517
+Watery Abode~
+    This small recess is created from the backspray of the waterfall which
+continuously drenches you.  A large pile of bones, compiled of mostly fish, lie
+here decaying and creates cloy rotting smells.  The creature that lives here
+will more than likely not be happy with your intrusion.
+~
+0 521 6
+D3
+Waterfall is west from here.
+~
+Plants~
+3 -1 22516
+S
+#22518
+Road to Baerlon~
+    As the canopy of vibrant greens continues you see a fox dart into a hole on
+the west side of the road.  The two eyes of the fox peek out at you from inside
+the hole watching you warily.
+~
+0 0 3
+D0
+Road to Baerlon
+~
+~
+0 -1 22519
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22514
+S
+#22519
+Road to baerlon~
+    The sky can be seen to the east from a break in the canopy of trees.  You
+notice that the break is also a path that leads in a straight line as far as
+you can see.  To the south you can see a fox scampering around the road
+although you are sure he is fully aware of your presence.
+~
+0 0 3
+D0
+Road to Baerlon
+~
+~
+0 -1 22685
+D1
+A clear path to the east.
+~
+~
+0 -1 22520
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22518
+S
+#22520
+A clear path~
+    Sparse litterings of trees abound in this clearing while all around it is
+smothered slowly by the forest.  Here some of the creatures allow themselves to
+be seen without seeming to look at all worried you might hunt them down.
+~
+0 0 2
+D1
+Forest
+~
+~
+0 -1 22521
+D3
+Road to baerlon is west from here.
+~
+~
+0 -1 22519
+S
+#22521
+Forest~
+    The tangled branches and roots seem to merge and make progress in any
+direction all but impossible.  East and west the path is barely negotiable
+while to the north it looks as if you move some branches there could be a path.
+~
+0 0 3
+D0
+A Camp of Sorts
+~
+growth~
+3 -1 22697
+D1
+Forest
+~
+~
+0 -1 22522
+D3
+A clear path is west from here.
+~
+~
+0 -1 22520
+S
+#22522
+Forest~
+    This small path continues east and west around which the forest is alive
+with the sounds of creatures such as birds, foxes, rabbits, and other unseen
+creatures.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22523
+D3
+Forest is west from here.
+~
+~
+0 -1 22521
+S
+#22523
+Forest~
+    The overgrowth of trees hampers your movement and makes you want to get
+back to a road or at least a clearing.  A rabbit scurries under your foot and
+hops north into the dense forest.
+~
+0 0 3
+D1
+Crossroads
+~
+~
+0 -1 22524
+D3
+Forest is west from here.
+~
+~
+0 -1 22522
+S
+#22524
+Crossroads~
+    Finally the forest gives way to a small clearing at which lies a crossroads
+of sorts.  Animal paths go east west and south, but to the north seems an
+overgrown walkway of somekind.
+~
+0 0 2
+D0
+Overgrown Walkway
+~
+~
+0 -1 22698
+D1
+Forest
+~
+~
+0 -1 22525
+D2
+Forest
+~
+~
+0 -1 22541
+D3
+Forest is west from here.
+~
+~
+0 -1 22523
+S
+#22525
+Forest~
+    Trees line the path so densely here that you cannot see into the growth for
+more than a few yards.  Animal noises seem to taunt you in your travelling as
+if they know you can't harm them.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22526
+D3
+Crossroads is west from here.
+~
+~
+0 -1 22524
+S
+#22526
+Forest~
+    This part of the path leads in three directions, east, west and south.
+While overgrowth hampers any other direction you would like to travel and the
+wind whispers names of past travellers lost in these parts.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22527
+D2
+Forest
+~
+~
+0 -1 22561
+D3
+Forest is west from here.
+~
+~
+0 -1 22525
+S
+#22527
+Forest~
+    Animal noises distract you, but not enough for you not to notice that the
+animal tracks continue northward and west while an overgrown path leads east.
+Shadows fleet across your vision, looking up you see a sparrow landing in a
+nest feeding it's young carrion of some long dead creature.
+~
+0 0 3
+D0
+Forest
+~
+~
+0 -1 22532
+D1
+Old Path
+~
+~
+0 -1 22528
+D3
+Forest is west from here.
+~
+~
+0 -1 22526
+S
+#22528
+Old Path~
+    Overgrown for decades, maybe even centuries, this path of old travels east
+where at the end lies the possibility of unknown horror or glory.  Here few
+animals sound and when they do it can be told they are skittish to be in this
+area.
+~
+0 0 3
+D1
+End of the ancient path
+~
+~
+0 -1 22529
+D3
+Forest
+~
+~
+0 -1 22527
+S
+#22529
+End of the ancient path~
+    Here the forest has become so tangled that none of the outside can be seen
+except when you look to the west were the dimness of the forest can be made out.
+The is one area where no growth has covered, below your feet, a slab of metal
+carved with intricate symbols of protection.  There is no lock but there is at
+least a huge ring you can pull to open it, that is if you are willing to
+release whatever is held inside this keep.
+~
+0 9 3
+D3
+Old Path is west from here.
+~
+~
+0 -1 22528
+D5
+Ancient Keep
+~
+~
+3 -1 22530
+S
+#22530
+Ancient Keep~
+    You clear away the cobwebs and notice ancient runes line the walls of this
+room making sure that no escape is possible for anything in here. The only exit
+from here is your continued passage down.
+~
+0 8201 0
+D5
+The heart of the keep
+~
+~
+0 -1 22531
+S
+#22531
+The heart of the Keep~
+    Beams of energy crackle along specific parts of the ceiling wall and floors
+caressing the engraved runes that line the walls as if constantly renewing
+each others powers of containment.  Whatever is contained in here will surely
+never escape, then it occurs to you that now you may be trapped as well.
+~
+0 8200 0
+D4
+Ancient Keep is up from here.
+~
+~
+0 -1 22530
+S
+#22532
+Forest~
+    Tangled branches continue to impede your progress and roots trip you as if
+on purpose.  The animal path continues to the north and south.
+~
+0 0 3
+D0
+Forest
+~
+~
+0 -1 22533
+D2
+Forest is south from here.
+~
+~
+0 -1 22527
+S
+#22533
+Forest~
+    A slight fog arrives continuously from the west covering your feet and
+does not help you in walking in this forest.  The path continues to the north
+and south.  It also looks as if there might be a path to the west.
+~
+0 0 3
+D0
+Forest
+~
+~
+0 -1 22536
+D2
+Forest is south from here.
+~
+~
+0 -1 22532
+D3
+Forest
+~
+~
+0 -1 22534
+S
+#22534
+Forest~
+    Here the fog is fairly thick and you vision is impaired by it just as much
+as by the forest itself.  The path continues east and you think it probably
+goes west as well.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22533
+D3
+Dense fog
+~
+~
+0 -1 22535
+S
+#22535
+Dense Fog~
+    The fog here has obscured the forest to mere shadows and things that make
+sounds now make you nervous.  To the west you can barely make out the form of a
+wall, could it be Baerlon??  You had not thought that you had travelled far
+enough north to be a Baerlon yet.
+~
+0 0 3
+D1
+Forest is east from here.
+~
+~
+0 -1 22534
+S
+#22536
+Forest~
+    Far to the east, down the path, through the canopy of trees and other
+overgrowth a light can be seen.  Perhaps it is a clearing as it would be a
+great joy to see the sky again.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22537
+D2
+Forest is south from here.
+~
+~
+0 -1 22533
+S
+#22537
+Forest~
+    The forest floor is scattered with burn marks but it it strange cause it is
+only the floor.  Whatever caused this was certainly not a fire but at least it
+makes for easier walking.
+~
+0 0 3
+D1
+Forest
+~
+~
+0 -1 22538
+D3
+Forest is west from here.
+~
+~
+0 -1 22536
+S
+#22538
+Forest~
+    The burnt path is slowly getting more severe as even the trunks of the
+trees are scarred with burns.  Now to the east you can see that the light is
+flickering maybe there is a fire of some kind.
+~
+0 0 3
+D1
+Charred Forest
+~
+~
+0 -1 22539
+D3
+Forest is west from here.
+~
+~
+0 -1 22537
+S
+#22539
+Charred Forest~
+    Now the Burns on the forest growth reach up to your shoulder while the
+forest floor still smokes and fills the air with it's acrid smell.
+~
+0 0 2
+D1
+Burning Forest
+~
+~
+0 -1 22540
+D3
+Forest is west from here.
+~
+~
+0 -1 22538
+S
+#22540
+Burning Forest~
+    Much of the forest here is ablaze with snaps and crackles coming from all
+directions.  Many of the trees here are split in two as if by lightning.
+~
+0 0 2
+D3
+Charred Forest is west from here.
+~
+~
+0 -1 22539
+S
+#22541
+Forest~
+    Trees overlap other trees and your only path lies north and south.  A stag
+runs by your vision as you look far to the south.
+~
+0 0 3
+D0
+Forest is north from here.
+~
+~
+0 -1 22526
+D2
+Forest
+~
+~
+0 -1 22542
+S
+#22542
+Forest~
+    Dark green and lighter shades of it can be seen on the trees all around as
+small animal noises can be heard all around.  Roots make your progress
+hazardous while the above foliage protects you from the elements.
+~
+0 0 3
+D0
+Forest is north from here.
+~
+~
+0 -1 22541
+D2
+Forest
+~
+~
+0 -1 22543
+S
+#22543
+Forest~
+    The forest seems to be thinning to the point where you can almost take any
+direction you please.  The trail continues south and north.
+~
+0 0 3
+D0
+Forest is north from here.
+~
+~
+0 -1 22542
+D2
+Meadow
+~
+~
+0 -1 22544
+S
+#22544
+Meadow~
+    A forest lies to the north of here which swallows up the sounds of animals.
+ To the west seems to be a fog of sorts that rolls gently over your feet.
+Eastward an animal trail continues from the forest.
+~
+0 0 2
+D0
+Forest is north from here.
+~
+~
+0 -1 22543
+D1
+Meadow
+~
+~
+0 -1 22547
+D3
+Meadow
+~
+~
+0 -1 22545
+S
+#22545
+Meadow~
+    The fog here is at your waist and you can see that the fog is thicker to
+the west.  The only safe trail appears to be east.
+~
+0 0 2
+D1
+Meadow is east from here.
+~
+~
+0 -1 22544
+D3
+Fog
+~
+~
+0 -1 22546
+S
+#22546
+Fog~
+    The fog is very thick here and you can hardly see your own hand when you
+put it up to your face.  You dare not try any direction but east for fear there
+might be a bog to drown in.
+~
+0 0 2
+D1
+Meadow is east from here.
+~
+~
+0 -1 22545
+S
+#22547
+Meadow~
+    Miles of open space is before you and a safe trail lies east and west.
+Crickets can be heard near and far as a gentle breeze flows around you.
+~
+0 0 2
+D1
+Meadow
+~
+~
+0 -1 22548
+D3
+Meadow is west from here.
+~
+~
+0 -1 22544
+S
+#22548
+Meadow~
+    Miles of clear grassland stretches out before you while crickets sound in
+the distance.  A safe trail lies east and south while right to the north of the
+path you see what looks like a path back to the forest.
+~
+0 0 2
+D0
+Forest line
+~
+~
+0 -1 22557
+D2
+Meadow
+~
+~
+0 -1 22549
+D3
+Meadow is west from here.
+~
+~
+0 -1 22547
+S
+#22549
+Meadow~
+    The quiet meadow stretches out for miles in all directions while the trail
+continues north and east.  Few crickets are heard from the east.
+~
+0 0 2
+D0
+Meadow is north from here.
+~
+~
+0 -1 22548
+D1
+Edge of bog.
+~
+~
+0 -1 22550
+S
+#22550
+Edge of bog~
+    The path end here for some reason.  Now you realize you are at the edge of
+a bog.  The only safe path lies west.
+~
+0 0 2
+D1
+Bog
+~
+~
+0 -1 22551
+D3
+Meadow is west from here.
+~
+~
+0 -1 22549
+S
+#22551
+Bog~
+    Algae clings to you as you swim through this bog.  You are anxious to get
+out as there are many creatures that could sneak up from under you and pull you
+down to a watery death.
+~
+0 0 6
+D1
+Bog
+~
+~
+0 -1 22552
+D3
+Edge of bog is west from here.
+~
+~
+0 -1 22550
+S
+#22552
+Bog~
+    Algae cling to your body as you swim in the bog.  You are anxious to get
+out as many creatures could await below to pull you to a watery death.
+~
+0 0 6
+D1
+Bog
+~
+~
+0 -1 22553
+D3
+Bog is west from here.
+~
+~
+0 -1 22551
+S
+#22553
+Bog~
+    The water of the bog is stagnant and once in a while you accidentally
+swallow some and it makes you retch.  The only natural sound you hear now are
+bullfrogs and wonder silently what the other unknown noises are.
+~
+0 0 6
+D1
+Bog
+~
+~
+0 -1 22554
+D3
+Bog is west from here.
+~
+~
+0 -1 22552
+S
+#22554
+Bog~
+    Something below the Algae of the bog brushes past your leg and you swim a
+little faster ignoring the fetid taste of the water each time you swallow some
+in your gasps for air.  To your surprise and delight the water seems to be
+clearer to the north.
+~
+0 0 6
+D0
+Clear water
+~
+~
+0 -1 22555
+D3
+Bog is west from here.
+~
+~
+0 -1 22553
+S
+#22555
+Clear water~
+    A clear line seems to separate the bog from the clear water here which
+seems almost magical in some way.  Now to the north you can make out a small
+island that is lush with vegitation.
+~
+0 0 6
+D0
+Small Island
+~
+~
+0 -1 22556
+D2
+Bog is south from here.
+~
+~
+0 -1 22554
+S
+#22556
+Small island~
+    You fling yourself onto the beach and lie down to rest for a bit.  Then you
+notice humanoid track on the ground and wonder who or what they could belong to
+and if you should stick around to find out.
+~
+0 0 2
+D2
+Clear water is south from here.
+~
+~
+0 -1 22555
+S
+#22557
+Forest line~
+    Crickets sounds and other animals can be heard just inside the line of
+trees to the north where a trail continues.  The is also a path to the east.
+~
+0 0 2
+D0
+Forest
+~
+~
+0 -1 22560
+D1
+Forest line
+~
+~
+0 -1 22558
+D2
+Meadow is south from here.
+~
+~
+0 -1 22548
+S
+#22558
+Forest line~
+    Trees line east to west just to the north where a forest begins while to
+the west and east the meadow continues.  Crickets keep up there constant
+chirping and seem never to pause or break off.
+~
+0 0 2
+D1
+Edge of Bog
+~
+~
+0 -1 22559
+D3
+Forest line is west from here.
+~
+~
+0 -1 22557
+S
+#22559
+Edge of bog~
+    You have reached the edge of a bog where at the shore a dismantled boat
+lays.  to the north the forest stops just at the edge of the bog while to the
+south you can't quit make out the the bogs begins or meadow ends.  A safe trail
+leads back west.
+~
+0 0 2
+D3
+Forest line.
+~
+~
+0 -1 22558
+S
+#22560
+Forest~
+    The sounds of animals fill your ears while the forest tries to strangle the
+path you travel.  Many of the branches in front of you have to be moved and
+many fallen trees have to be climbed over.
+~
+0 0 3
+D0
+Forest
+~
+~
+0 -1 22561
+D2
+Forest line is south from here.
+~
+~
+0 -1 22557
+S
+#22561
+Forest~
+    A rabbit darts into its hole as you come within sight of it.  The trail
+here continues north and south.
+~
+0 0 3
+D0
+Forest is north from here.
+~
+~
+0 -1 22526
+D2
+Forest is south from here.
+~
+~
+0 -1 22560
+S
+#22562
+Secondary Entryway~
+    Another set of double doors represents a secondary entrance which appears
+to be locked.  The dense thorns are dark with dry blood and the pool of blood
+at your feet is still fairly fresh and the amount of it alone is staggering.
+You hear high pitched giggles coming from all around you sounding not nearly
+close to human enough for your liking.
+~
+0 8201 0
+D0
+Pool of Blood is north from here.
+~
+~
+0 -1 22508
+D2
+The Thorn Hallway.
+~
+~
+19 -1 22563
+S
+#22563
+The Thorn Hallway.~
+    The hallway goes east or west from here and is alight from the occasional
+eerily glowing thorns.  The floor beneath you is a black marble with flecks of
+silver laid in large square tiles.  On the south wall is a massive mirror for
+guests to check their appearance in.  The secondary entryway lies to the north.
+~
+0 8200 0
+D0
+Secondary Entryway is north from here.
+~
+~
+19 -1 22562
+D1
+The Thorn Hallway.
+~
+~
+0 -1 22566
+D2
+The secret Mirror entrance.
+~
+mirror~
+3 -1 22564
+D3
+The Thorn Hallway
+~
+~
+0 -1 22598
+S
+#22564
+Secret Passage~
+   On either side of this short passage are murals of intricate detail carved
+into marble.  The ceiling, also replaced by thorns, holds another mural as well
+also carved in a ivory coloured marble.  South is yet another marble mural of
+incredible splendor.
+~
+0 8201 0
+D0
+The Thorn Hallway. is north from here.
+~
+mirror~
+3 -1 22563
+D2
+The Lair of the Halcyon
+~
+halcyon~
+3 -1 22565
+S
+#22565
+The Lair of the Halcyon~
+    You find yourself in a beautiful field of colour.  Greens and blues are the
+most abundant colours filling your soul with an inner peace.  A large pool of
+dark blue water is here where sitting by the edge you would be shaded by the
+trees that block the sun to let an ambient light shine in.
+~
+0 0 2
+D0
+Secret Passage is north from here.
+~
+halcyon~
+3 -1 22564
+D4
+~
+~
+0 -1 22565
+S
+#22566
+The Thorn Hallway~
+    The hall here goes south or west in a stretch of red thorns some of which
+hold that mysterious magical glow. On the west wall is a destroyed portait of
+an elven maiden.
+~
+0 8200 0
+D2
+The Thorn Hallway.
+~
+~
+0 -1 22567
+D3
+The Thorn Hallway.
+~
+~
+0 -1 22563
+S
+#22567
+The Thorn Hallway~
+    On the floor you notice one of the marble tiles is chipped in one corner as
+you search the hallway thoroughly.  Other than that you notice nothing though
+the hallway goes north or south.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22566
+D2
+The Thorn Hallway.
+~
+~
+0 -1 22568
+S
+#22568
+The Thorn Hallway~
+    An old archway is filled in with bricks on the west thorn covered wall.
+The hallway lies north and to the south you see a T-intersection.
+~
+0 8200 0
+D0
+The Throne Hallway is north from here.
+~
+~
+0 -1 22567
+D2
+The Thorn Hallway
+~
+~
+0 -1 22569
+S
+#22569
+The Thorn Hallway~
+    The intersection leads in three directions.  To the east the hallway opens
+up into a well lit room while to the south a T-intersection much like this one
+can be seen.  To the north the hallway continues.  For a brief moment the
+ambient light from the thorns reflects your image off the silver flecked black
+marble and you see thorns seeming to protrude from your own body.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22568
+D1
+The Thorn Hallway
+~
+~
+0 -1 22570
+D2
+The Thorn Hallway.
+~
+~
+0 -1 22576
+S
+#22570
+The Thorn Hallway~
+    At the end of the hall to the east you can see what looks to be a library.
+Here the hall is still much the same as the rest of the hallways with its
+ambient light illuminating the marble floor and the thorned walls and ceiling.
+~
+0 8200 0
+D1
+The Library
+~
+~
+0 -1 22571
+D3
+The Thorn Hallway is west from here.
+~
+~
+0 -1 22569
+S
+#22571
+The Library~
+    Books align the walls of this elegant room.  Leather bound chairs sit close
+to finely carved tables strewn with volume after volume of every subject
+available.  Each wall has at least one shelf lined with books except for the
+south wall which has a strange painting hanging on the wall.  A large fireplace
+on the east wall keeps the room lit with a seemingly eternal flame.
+~
+0 8200 0
+D2
+A Secret Tunnel
+~
+dragon~
+3 -1 22572
+D3
+The Thorn Hallway is west from here.
+~
+~
+0 -1 22570
+S
+#22572
+A Secret Tunnel~
+    This short damp tunnel leads to a shaft that goes down as far as the eye
+can see.  Small puddles of lime are scattered in the tunnel and the occasional
+drip is heard as more lime is dropped from the stalagtites above.
+~
+0 8200 0
+D0
+The Library is north from here.
+~
+dragon~
+3 -1 22571
+D5
+A Large Shaft
+~
+~
+0 -1 22573
+S
+#22573
+A Large Shaft~
+    This area seems untainted by the curse placed on the area above and wonder
+if the cursed elves could even enter this area.  Below you can still see no
+bottom while the ceiling is still visible above you.  All around you is soft
+earthen wall which looks totally unclimbable.
+~
+0 9 9
+D4
+A Secret Tunnel is up from here.
+~
+~
+0 -1 22572
+D5
+The Large Shaft.
+~
+~
+0 -1 22574
+S
+#22574
+The Large Shaft.~
+    From below you can hear a slow rythmic breathing of a large maybe massive
+creature.  You are still surrounded by the soft earthen walls while above the
+ceiling can no longer be seen.
+~
+0 9 9
+D4
+A Large Shaft is up from here.
+~
+~
+0 -1 22573
+D5
+Lair of The Earth Dragon.
+~
+~
+0 -1 22575
+S
+#22575
+Lair of The Earth Dragon~
+    The room is alight from magma that bubbles in a few locations in the room
+that reflect off the multitude of different stones in the room.  Earth, sand,
+mud and rock are also seen around the room in varying mixtures.  Strange dull
+sounds eminate from about the room seemingly from almost all directions.
+~
+0 8 0
+D4
+The Large Shaft. is up from here.
+~
+~
+0 -1 22574
+S
+#22576
+The Thorn Hallway~
+    Thorns alight this T-intersection.  From here another T-intersection can be
+seen to the north and west while to the south you can see a dimly lit room.
+~
+0 8200 0
+D3
+~
+~
+0 -1 22579
+D0
+The Thorn Hallway.
+~
+~
+0 -1 22569
+D2
+The Thorn Hallway.
+~
+~
+0 -1 22577
+S
+#22577
+The Thorn Hallway~
+    The red thorns along this part of the hallway look just as grim and
+impassible as all the others.  To the north is a T-intersection while to the
+south is a dim lit room.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22576
+D2
+Living Quarters.
+~
+~
+0 -1 22578
+S
+#22578
+Living Quarters~
+    This room should have a door to it since it seems to have been the living
+quarters of someone at one time and you notice the remnants of a finely carved
+door that has been bashed to pieces.  Shredded bedding and fabric covered with
+feces lay strewn about the room.  From the smell something has made its lair
+here.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22577
+S
+#22579
+The Thorn Hallway~
+    To the east and west are T-intersections and when you look to the south you
+see a short hallway to another room.  By the north wall is what was once a pair
+of elven warrior statues that have had their faces chiseled apart.
+~
+0 8200 0
+D1
+The Thorn Hallway
+~
+~
+0 -1 22576
+D2
+The Thorn Hallway
+~
+~
+0 -1 22580
+D3
+The Thorn Hallway
+~
+~
+0 -1 22592
+S
+#22580
+The Thorn Hallway~
+    From this point in the thorned hallway you can see that to the south is a
+large chamber for holding audience.  North is a T-intersection.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22579
+D2
+An Audience Chamber
+~
+~
+0 -1 22581
+S
+#22581
+An Audience Chamber~
+    You stand in a large chamber lined with multiple portraits that have all
+been mutilated at some time.  A large half-moon table lies in the center of the
+room at which are several ornate chairs.  This room looks as if it would be the
+main chamber used for holding audience with someone of very high standing.  On
+the south wall instead of the normal thorns is the start of an incredibly
+massive tree on which it has some unique carvings.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22580
+D2
+Tunnel in a tree
+~
+tree~
+3 -1 22582
+S
+#22582
+A Tunnel in the Tree~
+    You stand inside a hidden tunnel carved inside an ancient tree.  You take
+notice that the tree seems to have been specially treated and think it might be
+what keeps it from dying. You can continue up or leave the tree north into the
+audience chamber.
+~
+0 8201 0
+D0
+Audience Chamber
+~
+~
+0 -1 22581
+D4
+A Tunnel in a Tree
+~
+~
+0 -1 22583
+S
+#22583
+A Tunnel in a Tree~
+    You continue through the tunneled tree and are amazed at the ingenuity of
+the elves.  The tunnel continues up or down.
+~
+0 8201 0
+D4
+A tunnel in the Tree
+~
+~
+0 -1 22584
+D5
+A tunnel in the Tree
+~
+~
+0 -1 22582
+S
+#22584
+A Tunnel in a Tree~
+    You hear birds chirping as you go higher in the tree and are sure you must
+be coming nearer an exit.  You can continue up or down.
+~
+0 8201 0
+D4
+A Sitting Room
+~
+~
+0 -1 22585
+D5
+A Tunnel in a Tree is down from here.
+~
+~
+0 -1 22583
+S
+#22585
+A Sitting Room~
+    Here even through the thorns some of the joy from outside this dreary place
+can be heard such as birds and sometimes even a chipmunk.  Maybe the curse is
+wearing off since you entered this place.  A hole in the ancient tree which
+limb you now stand on is to the north and you can venture either to the east or
+west as well.
+~
+0 8200 0
+D1
+Out on a Limb
+~
+~
+0 -1 22586
+D3
+Out on a Limb
+~
+~
+0 -1 22589
+D5
+A Tunnel in a Tree is down from here.
+~
+~
+0 -1 22584
+S
+#22586
+Out on a Limb~
+    Walking across a particularly large limb the thorns still surround you
+though you feel maybe they are not as thick as they are below.  You hear some
+strange sounds coming from the north and think it might be possible to move a
+branch out of the way to take a look.  To the east you see a room that looks
+like it might be a bedroom as strange as it is in a tree. Or to the west is the
+sitting room.
+~
+0 8200 0
+D0
+A Sticky Web
+~
+branch~
+3 -1 22587
+D1
+The Queen's Bedroom
+~
+~
+0 -1 22588
+D3
+A Sitting Room is west from here.
+~
+~
+0 -1 22585
+S
+#22587
+A Sticky Web~
+    You are stuck in some fine webs of a particularly strong kind.  There seems
+to be no way out now and soon you may be lunch for a deadly spider.  There is
+no way out from this place even if you did manage to get free of the webs.
+~
+0 1 0
+S
+#22588
+The Queen's Bedroom~
+    A large four poster bed sits on this part of the limb of the tree.  A chair
+sits near the south wall and a large chest is on the north.  All the
+furnishings are lavishly carved and decorated making them almost priceless.
+West is the only exit from here.
+~
+0 8200 0
+D3
+Out on a Limb is west from here.
+~
+~
+0 -1 22586
+S
+#22589
+Out on a Limb~
+    Out on a large limb of this ancient tree you notice that to the north you
+saw some movement.  The thorns seems light enough that you could grab a branch
+and move it out of the way.  To the east is the sitting room while to the west
+is a room that seem to be lit by candles.
+~
+0 8200 0
+D0
+A Thin Branch
+~
+branch~
+3 -1 22590
+D1
+A Sitting Room is east from here.
+~
+~
+0 -1 22585
+D3
+The Summoning Room
+~
+~
+0 -1 22591
+S
+#22590
+A Thin Branch~
+    The branch you now stand on is a bit to thin for your liking and when you
+look down it does not look like you would enjoy falling off it too much.  You
+notice movement out of the corner of your eye.  You can go south by moving a
+thorny branch out of the way.
+~
+0 8200 0
+D2
+Out on a Limb is south from here.
+~
+branch~
+3 -1 22589
+S
+#22591
+The Summoning Room~
+    This room is cluttered with lit candles except in the middle where a large
+pentegram is drawn.  Arcane symbols are carve into the thorns of the walls and
+chalk symbols are all over the marble floors.  Incense forces its way into your
+nostrils and blocks out any other smells the room might have although you are
+quite sure of one smell and it's evil.
+~
+0 8200 0
+D1
+Out on a Limb is east from here.
+~
+~
+0 -1 22589
+S
+#22592
+The Thorn Hallway~
+    The the thorns around you seem to be a little redder here or maybe even
+bloody.  Then again it could just be your imagination.  To the north and east
+are T-intersections and to the south is a short thorned hallway leading to a
+room.
+~
+0 8200 0
+D0
+The Thorn Hallway
+~
+~
+0 -1 22595
+D1
+The Thorn Hallway is east from here.
+~
+~
+0 -1 22579
+D2
+The Thorn Hallway
+~
+~
+0 -1 22593
+S
+#22593
+The Thorn Hallway~
+    The Blood red thorns light the way down this stretch of hall which ends to
+the south in a barracks room of some type.  The hallway meets at a
+T-intersection to the north.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22592
+D2
+The Barracks
+~
+~
+0 -1 22594
+S
+#22594
+The Barracks~
+    Bunk beds line the walls in this room in a very military and organized
+fashion.  A single candle is on a small bedstand at each bunk.  The only way
+out is to the north.
+~
+0 8200 0
+D0
+The Thorn Hallway is north from here.
+~
+~
+0 -1 22593
+S
+#22595
+The Thorn Hallway~
+    In this T-intersection of thorn walls and marble floors you can discern a
+short hallway to the west that leads to another room.  South lies yet another
+T-intersection while north the thorned hall continues.
+~
+0 8200 0
+D0
+The Thorn Hallway
+~
+~
+0 -1 22596
+D2
+The Thorn Hallway is south from here.
+~
+~
+0 -1 22592
+D3
+The Thorn Hallway
+~
+~
+0 -1 22599
+S
+#22596
+The Thorn Hallway~
+    On the floor of silver specked black marble a small ring looks to be lying
+on the floor.  The ambient light from the thorns show the hall reaches a bend
+after a short ways while just to the south is a T-intersection.
+~
+0 8200 0
+D0
+The Thorn Hallway
+~
+~
+0 -1 22597
+D2
+The Thorn Hallway is south from here.
+~
+~
+0 -1 22595
+S
+#22597
+The Thorn Hallway~
+    Along the lit hallway the blood red thorns illume the way.  On the east
+wall is an ornately carved column of ivory and gold. There is a bend in the
+hall just to the north while the hall also continues south.
+~
+0 8200 0
+D0
+The Thorn Hallway
+~
+~
+0 -1 22598
+D2
+The Thorn Hallway is south from here.
+~
+~
+0 -1 22596
+S
+#22598
+The Thorn Hallway~
+    There is a bend in the hall here and you can travel either east to go back
+to the entrance or go south along the thorned hall.  It's eerily quiet here yet
+when you listen carefully you can here what to you sounds like a beating heart.
+~
+0 8200 0
+D1
+The Thorn Hallway
+~
+~
+0 -1 22563
+D2
+The Thorn Hallway is south from here.
+~
+~
+0 -1 22597
+S
+#22599
+The Thorn Hallway~
+    To the west of here can be seen a room that looks like it might be a
+barracks room.  To the east is a T-intersection lit be the thorned walls.
+~
+0 8200 0
+D1
+The Thorn Hallway is east from here.
+~
+~
+0 -1 22595
+D3
+Makeshift Barracks
+~
+~
+0 -1 22600
+S
+#22600
+Makeshift Barracks~
+    Lit by candlelight this room has murals on all the walls.  Yet bunks are
+situated all around the room at each of which is a bedstand with one lit
+candle.  You think maybe at one time the was used as a lounge or a waiting
+place.  The mural on the north wall seems cracked in some places.
+~
+0 8200 0
+D0
+A Secret Passage
+~
+mural~
+3 -1 22601
+D1
+The Thorn Hallway is east from here.
+~
+~
+0 -1 22599
+S
+#22601
+A Secret Passage~
+    Candles light this hall as the surrounding thorns no longer give off their
+ambient light here.  You see stairs going down here as far as your eyes will
+let you.
+~
+0 8200 0
+D2
+Makeshift Barracks is south from here.
+~
+mural~
+3 -1 22600
+D5
+The Stairway
+~
+~
+0 -1 22602
+S
+#22602
+The Stairway~
+    The stairs are made of simple wooden planks while the walls are of soft
+earth.  The candles held in the earth light the passage going either up or
+down.
+~
+0 8200 0
+D4
+A Secret Passage is up from here.
+~
+~
+0 -1 22601
+D5
+The Stairway
+~
+~
+0 -1 22603
+S
+#22603
+The Stairway~
+    The candles alight the stairway of wood and small movements can be seen in
+the very walls.  Probably just insects.  A door leads west while the stairs
+lead you up.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+east door~
+3 -1 22604
+D4
+The Stairway is up from here.
+~
+~
+0 -1 22602
+S
+#22604
+A Stone Carved Hall~
+    A great stone door lies to the west of you carved with creatures you have
+never seen in battles fought seemingly before your time.  The hall continues in
+all other directions.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22605
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22628
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22627
+D3
+The Stairway is west from here.
+~
+east door~
+3 -1 22603
+S
+#22605
+A Stone Carved Hall~
+    Along these great halls it seems the history of a great race is carved 
+into the very stone in great intricacy.  The east wall holds a spectacular 
+mural of a war fought between two races totally alien to your knowledge.  
+The hall continues north or to the south is a T-intersection.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22606
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22604
+S
+#22606
+A Stone Carved Hall~
+    The light in these halls seems to come from inside the very walls.  The
+history of the alien creatures continues to unfold on the walls.  One carving
+shows a weapon much like a double-headed axe without the haft held by one of
+the creatures.  The hall continues either north to a corner or south.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22607
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22605
+S
+#22607
+A Stone Carved Hall~
+    You come to a corner in the hall going either east or south.  Again along
+the wall are historic carvings of the same alien creatures.  When they are in
+battle they always seem to be fighting against magical creatures or magic using
+creatures.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22608
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22606
+S
+#22608
+A Stone Carved Hall~
+    Along the mural you see a disturbing sight as the story unfolds before you
+one alien creature seemingly drinks from the blood that has poured from his
+enemies wounds and blasts it back in a flesh scouring breath of vapors.  This
+hall continues east or west.
+~
+0 8192 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22609
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22607
+S
+#22609
+A Stone Carved Hallway~
+    The hall here continues east to a T-intersection or west.  The light from
+the walls illumes yet more carved murals.  This one depicts seven of the stout
+alien creatures battling a dragon like creature with eight appendages.  One of
+the appendages wears a strange symbol much like four attached crosses.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22610
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22608
+S
+#22610
+A Stone Carved Hall~
+    Along the continuing story is carved in the wall.  More and more you
+realize the carving don't seem to be in any particular order.  Each area of
+carved grey stone seems to tell a different story as if each is a book.  This
+one shows what seems to be a typical days life in the creatures life.  There is
+a four way intersection to the south and the hall continues either east or
+west.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22611
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22645
+D3
+A Stone Carved Hallway is west from here.
+~
+~
+0 -1 22609
+S
+#22611
+A Stone Carved Hall~
+    To the west lies a T-intersection while to the west the muralled hall
+continues.  Here the carved grey stone shows the alien creatures searching for
+something and some appear to be using magic at some points.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22612
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22610
+S
+#22612
+A Stone Carved Hall~
+    Grey wall supports another carved mural lit by the very wall itself.  This
+one shows many of them crossing what looks like a vast plain of desert.  The
+hall goes west or east to a corner.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22613
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22611
+S
+#22613
+A Stone Carved Hall~
+    At this corner you can go south or west.  The carved wall have the alien
+creatures fighting a mass of creatures similar to orcs.
+~
+0 8200 0
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22614
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22612
+S
+#22614
+A Stone Carved Hall~
+    This north south passage of the hall shows another battle between the
+aliens and a creatures you have never seen.  Maybe these creatures are not of
+this world or otherwise they have long since passed their time here.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22613
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22615
+S
+#22615
+A Stone Carved Hallway~
+    The mural along this stretch of the hall going north and south to a four
+way intersection shows some of the alien creatures eating some food.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22614
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22616
+S
+#22616
+A Stone Carved Hall~
+    Along the floor near the hall going east are some runes or maybe wards
+carved into it.  The hall also continues west to a T-intersection or north and
+south.
+~
+0 8200 0
+D0
+A Stone Carved Hallway
+~
+~
+0 -1 22615
+D1
+A Dark Passage
+~
+~
+0 -1 22650
+D2
+A Stone Carved Hallway
+~
+~
+0 -1 22617
+D3
+A Stone Carved Hallway
+~
+~
+0 -1 22632
+S
+#22617
+A Stone Carved Hallway~
+    The walls are alight with murals of the alien again.  This time though the
+carvings seem to show an infinite sense of sadness and loss but at what is not
+apparent.  There is a four way intersection to the north and the hall continues
+south.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22616
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22618
+S
+#22618
+A Stone Carved Hall~
+    Along this wall is another battle.  This one seems to between elves and
+this creature.  This is the only wall that you've seen a race of creatures you
+recognize.  The is a corner in the hall to the south and the hall also
+continues north.
+~
+0 8200 0
+D0
+A Stone Carved Hallway is north from here.
+~
+~
+0 -1 22617
+D2
+A Stone Carved Hallway
+~
+~
+0 -1 22619
+S
+#22619
+A Carved Stone Hallway~
+    At this corner of the caved stone hall the light shows you can go either
+north or west.  The carving on this wall shows the some of the alien creatures
+stepping through what looks to be a gate between worlds.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22618
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22620
+S
+#22620
+A Stone Carved Hall~
+    The great stone hall continues west as well as east towards a corner.  The
+carved walls almost bring to life a battle between some of the alien creatures
+battling their own kind.
+~
+0 8200 0
+D1
+A Carved Stone Hallway is east from here.
+~
+~
+0 -1 22619
+D3
+A Carved Stone Hallway
+~
+~
+0 -1 22621
+S
+#22621
+A Carved Stone Hallway~
+    Again the walls are line with murals.  Here some words are actually carved
+into the wall. You need to look more closely to make them out.  To the west
+lies a four way intersection while the hall continues east.
+~
+0 8200 0
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22620
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22622
+S
+#22622
+A Stone Carved Hall~
+    To the east and west are muralled hallways.  North of here is another four
+way intersection like this one. South lies a strange runed hallway.
+~
+0 8200 0
+D0
+A Carved Stone Hallway
+~
+~
+0 -1 22636
+D1
+A Carved Stone Hallway is east from here.
+~
+~
+0 -1 22621
+D2
+A Carved Stone Hallway
+~
+~
+0 -1 22676
+D3
+A Carved Stone Hallway
+~
+~
+0 -1 22623
+S
+#22623
+A Carved Stone Hallway~
+    East of here lies a four way intersection while the hall continues west.
+The murals along the wall look as if they've been carved more shallowly almost
+as if with less enthusiasm then the others.  It shows many of the alien
+creatures dying of no apparent cause.  They just seem to fall in their very
+tracks.
+~
+0 8200 0
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22622
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22624
+S
+#22624
+A Stone Carved Hall~
+    A long passage of words is carved into the walls here.  But they are carved
+in a strange tongue you cannot read.  The hall continues east or west.
+~
+0 8200 0
+D1
+A Carved Stone Hallway is east from here.
+~
+~
+0 -1 22623
+D3
+A Carved Stone Hallway
+~
+~
+0 -1 22625
+S
+#22625
+A Carved Stone Hallway~
+    You stand at a corner in the hall that leads north or east.  The carved
+story on this wall shows a season of good harvest for the creatures.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22626
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22624
+S
+#22626
+A Stone Carved Hall~
+    Along this section of hall the fine carved mural shows what looks to be a
+pilgrimage of the strange creatures.  Other creatures also look to be
+travelling with them.  The hall comes to a corner south and continues
+northwards.
+~
+0 8200 0
+D0
+A Carved Stone Hallway
+~
+~
+0 -1 22627
+D2
+A Carved Stone Hallway is south from here.
+~
+~
+0 -1 22625
+S
+#22627
+A Stone Carved Hallway~
+    As you continue through the halls you know that this race slowly died of
+from what seemed to be horrible acts of gods with some of the just slowly
+withering away or maybe flesh flakes off until it reaches bone.  The Mural
+tells all.  There is a 4 way intersection to the north while south the mural
+continues its story.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22604
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22626
+S
+#22628
+A Stone Carved Hallway.~
+    Hundreds of human bodies lay there forms in this part of the mural while
+hundreds more appear to battle the alien creatures with magic.  These Huge
+creatures seem unaffected by everything.  The hallway leads to the four winds.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22641
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22629
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22640
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22604
+S
+#22629
+A Stone Carved Hall~
+    More death and pain is carved deeply into the walls.  Anyone who wields
+magic seems to be an enemy of these creatures who have carved their lives into
+the hallway.  The Hall goes either east or west to a 4 way intersection.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22630
+D3
+A Stone Carved Hallway. is west from here.
+~
+~
+0 -1 22628
+S
+#22630
+A Stone Carved Hall~
+    This is the center of all the murals.  Carved into the floor and ceiling
+are a myriad of symbols and wards which seem to pulse with an energy of raw
+power almost as if it were alive. Exits lead in all four directions.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22646
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22631
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22637
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22629
+S
+#22631
+A Stone Carved Hall~
+    This mural shows the Magitors actually losing a battle against what looks
+like just a normal group of warriors.  Compared to the other engraved walls
+this one depicts a lot less detail.  There is a four way juncture east and a
+little to the west.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22632
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22630
+S
+#22632
+A Stone Carved Hall~
+    Along the north wall it shows a strange creature made of what looks like
+energy although it is hard to tell because it is just a carving.  The alien
+creatures seem to be talking to it.  This is a T intersection with exits all
+but north.
+~
+0 8200 0
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22616
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22633
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22631
+S
+#22633
+A Stone Carved Hall~
+    The mural along this wall seems to be faded with age although the way is
+still well lit.  You can go either north to a T intersection or south to a
+corner section.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22632
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22634
+S
+#22634
+A Stone Carved Hall~
+    The light shows the wear of age along these carved walls and the story
+along here is impossible to make out. The hall continues north or west.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22633
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22635
+S
+#22635
+A Stone Carved Hall~
+    The hall here contains only faded carvings although it looks as if the
+alien creatures might have been a smaller race once.  Exits are east and west.
+~
+0 8200 0
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22634
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22636
+S
+#22636
+A Stone Carved Hall~
+    To the north you can see the Center of this Muraled hallway.  Exits lead in
+all directions.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22637
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22635
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22622
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22638
+S
+#22637
+A Stone Carved Hall~
+    Here shows the mural of the greatest battle you have ever seen.  Images of
+creatures 5 times taller that yourself battle the dwarfed Magitor and the
+Magitor seem to be winning.  Lightning shoots from the very heavens lighting
+this incredible scene. The center lies north. A way also lies south.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22630
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22636
+S
+#22638
+A Stone Carved Hall~
+    This area of the murals is worn with age and all that remains of this part
+of the alien history lies as dust beneath your feet.  Exits lies east and west.
+~
+0 8200 0
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22636
+D3
+A Stone Carved Hall
+~
+~
+0 -1 22639
+S
+#22639
+A Stone Carved Hall~
+    You come to a Corner that leads either north or east.  The murals here are
+faded with age and tell you nothing of interest.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22640
+D1
+A Stone Carved Hall is east from here.
+~
+~
+0 -1 22638
+S
+#22640
+A Stone Carved Hall~
+     Scattered on the floor are bits of remnants of the worn mural along this
+section of the wall.  Only a small patch remains along the east wall which
+looks like a large circle, maybe a symbol of the sun?  Exits lie north and
+south.
+~
+0 8200 0
+D0
+A Stone Carved Hallway. is north from here.
+~
+~
+0 -1 22628
+D1
+~
+sun~
+3 -1 22642
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22639
+S
+#22641
+A Stone Carved Hall~
+    This part of the mural is quite large and continues north along the hall.
+The carvings show a burial of either a king or queen of the Magitor realm. An
+exit also lies south.
+~
+0 8200 0
+D0
+A Stone Carved Hall
+~
+~
+0 -1 22643
+D2
+A Stone Carved Hallway. is south from here.
+~
+~
+0 -1 22628
+S
+#22642
+A Strange Room~
+    It is hard to tell if this room was put here before or after the Magitor
+dominated this place because the room is so plain and shows little use.
+~
+0 9 0
+D3
+A Stone Carved Hall is west from here.
+~
+sun~
+2 -1 22640
+S
+#22643
+A Stone Carved Hallway~
+    The mural of a Funeral continues along this corner of the hallway and goes
+east and south.  The funeral looks very somber and shows a true sense of loss
+as if something was not finished before the passing of this figurehead.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22644
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22641
+S
+#22644
+A Stone Carve Hall~
+    A funeral procession is carved into the north wall which continues west
+along the wall.  There is a four way intersection to the east.
+~
+0 8200 0
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22645
+D3
+A Stone Carved Hallway is west from here.
+~
+~
+0 -1 22643
+S
+#22645
+A Stone Carved Hall~
+    You stand in the center of a four way lit intersection.  Some cracks line
+the floor and are filled with dust.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22610
+D1
+A Stone Carved Hall
+~
+~
+0 -1 22647
+D2
+A Stone Carved Hall
+~
+~
+0 -1 22646
+D3
+A Stone Carve Hall is west from here.
+~
+~
+0 -1 22644
+S
+#22646
+A Stone Carved Hall~
+    Yet another battle is depicted on these walls. Exits are north and south.
+~
+0 8200 0
+D0
+A Stone Carved Hall is north from here.
+~
+~
+0 -1 22645
+D2
+A Stone Carved Hall is south from here.
+~
+~
+0 -1 22630
+S
+#22647
+A Stone Carved Hall~
+    The carvings end abruptly here and there is only smooth wall to the east.
+The light eminating from these walls seems to give off a cold unfeeling
+sensation.
+~
+0 8200 0
+D1
+Uncarved Hallway
+~
+~
+0 -1 22648
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22645
+S
+#22648
+Uncarved Hallway~
+    There are no carvings or murals of any kind along the wall here.  Your very
+soul feels in jeopardy by these walls as if they would pull you in to make you
+part of them and you are almost willing to embrace the wall.  You feel that if
+you go around the corner to the south there is no turning back.
+~
+0 8200 0
+D2
+The Embrace
+~
+~
+0 -1 22649
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22647
+S
+#22649
+The Embrace~
+    You turn the hallway and go south.  The pull of the walls here is too
+strong  to resist.  Maybe you will just let yourself become a mural at least
+then you will be immortalized.  There are no exits from the Embrace.
+~
+0 J 0
+S
+#22650
+A Dark Passage~
+    West of you is the dry muralled hallways while east is more of this damp
+dirty caves you have entered.  The soil beneath your feet seems soft and your
+feet sink in a bit.  A musty decaying smell comes to you from the east.
+~
+0 8201 0
+D1
+A Dark Passage
+~
+~
+0 -1 22651
+D3
+A Stone Carved Hall is west from here.
+~
+~
+0 -1 22616
+S
+#22651
+A Dark Passage~
+    The soil on the ground is also just as soft on the walls and you hope it
+does not hold true for the ceiling as well.  The rotting smell get worse as you
+continue down the hall.
+~
+0 8201 0
+D0
+A Dark Passage
+~
+~
+0 -1 22652
+D3
+A Dark Passage is west from here.
+~
+~
+0 -1 22650
+S
+#22652
+A Dark Passage~
+    Turning a corner the rotting smells hits you in the face and now you swear
+you can hear voices, crying to you, asking for your help, the voices draw you
+east.
+~
+0 8201 0
+D1
+A Dark Passage
+~
+~
+0 -1 22653
+D2
+A Dark Passage is south from here.
+~
+~
+0 -1 22651
+S
+#22653
+A Dark Passage~
+    The voices are still at the same level but they try to draw you nearer.
+The damp soil clings to your boots just as the smell will cling to your
+clothes.  The hall looks to continue for a while to the south.
+~
+0 8201 0
+D2
+A Dark Passage
+~
+~
+0 -1 22654
+D3
+A Dark Passage is west from here.
+~
+~
+0 -1 22652
+S
+#22654
+A Dark Passage~
+    The earth muffles the sounds of movement and now all you can seem to hear
+are the wretched pained voices of suffering souls.  Bits of earth crumble down
+into your hair.  The smell here is vile.
+~
+0 8201 0
+D0
+A Dark Passage is north from here.
+~
+~
+0 -1 22653
+D1
+Room of the Damned
+~
+earth~
+3 -1 22655
+D2
+A Dark Passage
+~
+~
+0 -1 22656
+S
+#22655
+Room of the Damned~
+    Blood coats the walls which seem to writhe with a life of there own.
+Tortured souls beg for you to help release them from eternal torment.
+Furniture of sorts adorns the room.  A chair made from a human skeleton and a
+foot table made from what might have been a dwarf's spine.  What abomination
+would hold this place as it's abode.
+~
+0 13 0
+D3
+A Dark Passage is west from here.
+~
+earth~
+3 -1 22654
+S
+#22656
+A Dark Passage~
+    The fetid smell seems strongest here but there is no evidence of a door or
+anything to reach it's source.  The voices ring in a choir of pain and anguish.
+~
+0 8201 0
+D0
+A Dark Passage is north from here.
+~
+~
+0 -1 22654
+D2
+A Dark Passage
+~
+~
+0 -1 22657
+S
+#22657
+A Dark Passage~
+    The howls of tortured souls wracks your body.  Soft dirt crumble from the
+ceiling and walls.
+~
+0 8201 0
+D0
+A Dark Passage is north from here.
+~
+~
+0 -1 22656
+D1
+Room of the Damned
+~
+earth~
+3 -1 22658
+D2
+A Dark Passage
+~
+~
+0 -1 22659
+S
+#22658
+Room of the Damned~
+    Souls of heroes long dead reside in the walls of blood and bone.  The keeper
+of this room has selected only the finest of remains to make his furniture as
+you notice a DragonSkin rug underneath the bone furniture.
+~
+0 13 0
+D3
+A Dark Passage is west from here.
+~
+earth~
+3 -1 22657
+S
+#22659
+A Dark Passage~
+    Tortured souls cry to you and beg release trying to pull you northward.
+Your feet make tentative steps in the soft soil towards the voices however the
+smell is so repulsive you can easily resist.  There is a door directly to the
+south.
+~
+0 8201 0
+D0
+A Dark Passage is north from here.
+~
+~
+0 -1 22657
+D2
+A Circular Hallway
+~
+door~
+0 22623 22660
+S
+#22660
+A Circular Hallway~
+    Shining metal makes up this hallway that has curved walls, ceiling and
+floor to make a circular hallway.
+~
+0 8 0
+D0
+A Dark Passage is north from here.
+~
+door~
+0 22623 22659
+D1
+A Circular Hallway
+~
+~
+0 -1 22661
+D3
+A Circular Hallway
+~
+~
+0 -1 22668
+S
+#22661
+A Circular Hallway~
+    Continuing along the metallic tube hallway it is hard to keep a sure
+footing.  Light shines from joints of the metal surroundings.
+~
+0 8 0
+D2
+A Circular Hallway
+~
+~
+0 -1 22662
+D3
+A Circular Hallway is west from here.
+~
+~
+0 -1 22660
+S
+#22662
+A Circular Hallway~
+    The round hall also seems to continue in a circular route of sorts.  The
+metallic surroundings start to have a dizzying effect as the light bounces of
+any of the surfaces and into your eyes.
+~
+0 8 0
+D0
+A Circular Hallway is north from here.
+~
+~
+0 -1 22661
+D2
+A Circular Hallway
+~
+~
+0 -1 22663
+S
+#22663
+A Circular Hallway~
+    The tubes here feel untainted by the curse placed on this area.  The metal
+tube hall continues it's circular path in two directions.
+~
+0 8 0
+D0
+A Circular Hallway
+~
+~
+0 -1 22662
+D3
+A Circular Hallway
+~
+~
+0 -1 22664
+S
+#22664
+A Circular Hallway~
+    The smooth metal tube continues in two directions. There seems to be a
+little less light coming from the cracks in this area.
+~
+0 8 0
+D0
+~
+crack~
+51 22623 22665
+D1
+A Circular Hallway
+~
+~
+0 -1 22663
+D3
+A Circular Hallway is west from here.
+~
+~
+0 -1 22666
+S
+#22665
+The Cylinder Room~
+    This room is in the center of the metal circular hallways outside.  This
+seems to be the place treasures were stored by the Magitor people.  Metal
+lines the whole room but for what purpose is unknown.
+~
+0 13 0
+D2
+A Circular Hallway is south from here.
+~
+crack~
+51 22623 22664
+S
+#22666
+A Circular Hallway~
+    The sight of shiny grey continues in its circular route as the light from
+the cracks continues to light your way.
+~
+0 8 0
+D0
+A Circular Hallway
+~
+~
+0 -1 22667
+D1
+A Circular Hallway is east from here.
+~
+~
+0 -1 22664
+D3
+~
+door~
+51 22623 22669
+S
+#22667
+A Circular Hallway~
+    Light shines from between the cracks in the metal floor guiding the way
+along this tubed hall.
+~
+0 8 0
+D0
+A Circular Hallway
+~
+~
+0 -1 22668
+D2
+A Circular Hallway is south from here.
+~
+~
+0 -1 22666
+S
+#22668
+A Circular Hallway~
+    The sheen of the metal bounces light in all directions showing the
+circular path that must be taken.
+~
+0 8 0
+D1
+A Circular Hallway is east from here.
+~
+~
+0 -1 22660
+D2
+A Circular Hallway is south from here.
+~
+~
+0 -1 22667
+S
+#22669
+A Crawlspace~
+    The moist earth clamps to your face as you struggle through this cramped
+passageway.  There is a small metallic door directly to you east.
+~
+0 8201 5
+D0
+~
+dirt~
+3 -1 22670
+D1
+A Circular Hallway is east from here.
+~
+door~
+51 22623 22666
+S
+#22670
+A Crawlspace~
+    Dirt drops into your eyes as you wriggle further and further.  The only
+way you can see to go it west.
+~
+0 8201 5
+D3
+~
+~
+0 -1 22671
+D2
+A Crawlspace is south from here.
+~
+dirt~
+3 -1 22669
+S
+#22671
+A Crawlspace~
+    A short passage lies east that you can see as you attempt to brush the dirt
+out of your eyes and continue with your crawling.
+~
+0 8201 5
+D1
+A Crawlspace
+~
+~
+0 -1 22670
+D2
+A Crawlspace
+~
+dirt~
+3 -1 22672
+S
+#22672
+A Crawlspace~
+    The crawlspace is almost large enough for a human to stand up in but not
+quite.  Dirt drops down occasionally from the low ceiling and the nearby walls.
+~
+0 8201 5
+D0
+A Crawlspace
+~
+~
+3 -1 22671
+D3
+A Crawlspace
+~
+~
+0 -1 22673
+S
+#22673
+A Crawlspace~
+    The confines of this place make it hard not to knock loose dirt down but at
+least it doesn't all cave in.  The earth seems to muffle all sounds so you can
+here only what is close by.
+~
+0 8201 5
+D1
+A Crawlspace is east from here.
+~
+~
+0 -1 22672
+D3
+Entrance to a Crawlspace
+~
+~
+0 -1 22674
+S
+#22674
+Entrance to a Crawlspace~
+    You are in a small room with a five foot high crawlspace to the east that
+is made of loose dirt.  A stone door lies to the west of you.
+~
+0 8201 3
+D1
+A Crawlspace is east from here.
+~
+~
+0 -1 22673
+D3
+A Molded Hall
+~
+stone~
+51 22623 22675
+S
+#22675
+A Molded Hall~
+    This strange hallways seems to be one long piece of molded stone with no
+cracks or corners.  The hall does not even appear to be all that old.
+~
+0 8201 0
+D0
+A Molded Hall
+~
+~
+0 -1 22676
+D1
+Entrance to a Crawlspace is east from here.
+~
+stone~
+51 22623 22674
+D3
+A Molded Hall
+~
+~
+0 -1 22677
+S
+#22676
+The Molded Hallway~
+    This Hall is completely devoid of all cracks and corners and seems to be
+made of one massive slab of stone.
+~
+0 8201 0
+D0
+A Stone Carved hall
+~
+~
+0 -1 22622
+D2
+A Molded Hall is south from here.
+~
+~
+0 -1 22675
+S
+#22677
+A Molded Hall~
+    The molded rock around is incredible to behold with out seeing even one
+cracks or blemish.  It looks as if it could truly withstand the test of time.
+~
+0 8201 0
+D1
+A Molded Hall is east from here.
+~
+~
+0 -1 22675
+D3
+A Massive Entryway
+~
+~
+0 -1 22678
+S
+#22678
+A Massive Entryway~
+    The molded stone opens up to a huge ornamented room that is still molded
+from the same stone as the hallway.  A huge dull black metal door is on the
+west wall and there are glowing runes covering the door.
+~
+0 8200 0
+D1
+A Molded Hall is east from here.
+~
+~
+0 -1 22677
+D3
+The Inner Sanctum
+~
+door~
+19 -1 22679
+S
+#22679
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8205 0
+D0
+~
+~
+0 -1 22682
+D1
+~
+~
+0 -1 22679
+D2
+~
+~
+0 -1 22683
+D3
+~
+~
+0 -1 22681
+D4
+~
+~
+0 -1 22684
+D5
+~
+~
+0 -1 22684
+S
+#22680
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22681
+D1
+~
+~
+0 -1 22679
+D2
+~
+~
+0 -1 22678
+D3
+~
+~
+0 -1 22684
+D4
+~
+~
+0 -1 22682
+D5
+~
+~
+0 -1 22683
+S
+#22681
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22684
+D1
+~
+~
+0 -1 22681
+D2
+~
+~
+0 -1 22681
+D3
+~
+~
+0 -1 22679
+D4
+~
+~
+0 -1 22683
+D5
+~
+~
+0 -1 22682
+S
+#22682
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22679
+D1
+~
+~
+0 -1 22684
+D2
+~
+~
+0 -1 22682
+D3
+~
+~
+0 -1 22683
+D4
+~
+~
+0 -1 22679
+D5
+~
+~
+0 -1 22681
+S
+#22683
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22680
+D1
+~
+~
+0 -1 22683
+D2
+~
+~
+0 -1 22684
+D3
+~
+~
+0 -1 22681
+D4
+~
+~
+0 -1 22679
+D5
+~
+~
+0 -1 22682
+S
+#22684
+The Inner Sanctum~
+    You are in the inner sanctum of a Magitor.  Each step you take makes a dull
+metallic thud.  The metal glows lightly and makes everything look the same to
+you.  Exits lie in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22679
+D1
+~
+~
+0 -1 22682
+D2
+~
+~
+0 -1 22679
+D3
+~
+~
+0 -1 22683
+D4
+~
+~
+0 -1 22681
+D5
+~
+~
+0 -1 22684
+S
+#22685
+Road to Baerlon~
+    The road continues north with a canopy of trees guiding your way.  The road
+also leads south.  Small animal noises can be heard to either side of the road
+of which some sound like an alarm of some mostly from birds.
+~
+0 0 0
+D0
+Road to Baerlon
+~
+~
+0 -1 22686
+D2
+Road to Baerlon
+~
+~
+0 -1 22519
+S
+#22686
+Road to Baerlon~
+    Alongside the road here seems to be an encampment of sorts where the banner
+of the whitecloaks can be seen flying.  Food is cooking on the fire so maybe
+they are around or will be back soon.
+~
+0 0 0
+D0
+Road to Baerlon
+~
+~
+0 -1 22687
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22685
+S
+#22687
+Road to Baerlon~
+    The trees continue to provide you cover and occasionally a leaf falls
+almost within your grasp.  The chittering of animals can be heard all around
+you.
+~
+0 0 0
+D0
+Road to Baerlon
+~
+~
+0 -1 22688
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22686
+S
+#22688
+Road to Baerlon~
+    You can see Baerlon just at the far reach of your vision then the canopy of
+trees blocks your view again.  The smell of nature fills you nostrils and you
+enjoy the sounds it makes as well.
+~
+0 0 0
+D0
+That's all folks!
+~
+~
+0 -1 22689
+D1
+A Small Path
+~
+~
+0 -1 22693
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22687
+D3
+A Well Groomed Path
+~
+~
+0 -1 22690
+S
+#22689
+That's All Folks!~
+    Well...this is the end of the line for now...I'll get Baerlon done in the
+not to near future or maybe someone else will... for now if you have any
+comments about my area... E-mail me, the imps should have my address and will
+give it to you if they deem you worthy I'm sure :)
+~
+0 8205 0
+D2
+Road to Baerlon is south from here.
+~
+~
+0 -1 22688
+S
+#22690
+A Well Groomed Path~
+    Someone or something has been taking care of the plants in this area.  All
+of them are blooming and have lush leaves and stems.  The creature who did this
+has great skill with plants.
+~
+0 0 3
+D1
+Road to Baerlon is east from here.
+~
+~
+0 -1 22688
+D3
+A Well Groomed Path
+~
+~
+0 -1 22691
+S
+#22691
+A Well Groomed Path~
+    Still more lush vegetation thrives along this path and the gardener has yet
+to show him/her/itself.  Animals scurry across your path as if they had no
+worries in the world.
+~
+0 0 3
+D1
+A Well Groomed Path is east from here.
+~
+~
+0 -1 22690
+D2
+A Waygate
+~
+~
+0 -1 22692
+S
+#22692
+A Waygate~
+    The forest opens up into a small field where you see a small gate standing
+in the open.  It's a strange gate made of stone with carvings of leaves about
+it.  Towards the ground you see impressions of someone massive who has been
+sitting by this gate.
+~
+0 0 2
+D0
+A Well Groomed Path is north from here.
+~
+~
+0 -1 22691
+S
+#22693
+A Small Path~
+    Animals scatter in every direction as you come along an animal path.  The
+wild growth is thick and threatens to trip you at every step.
+~
+0 0 3
+D1
+A Small Path
+~
+~
+0 -1 22694
+D3
+Road to Baerlon is west from here.
+~
+~
+0 -1 22688
+S
+#22694
+A Small Path~
+    The path splits in two going east or south.  South seems to come to an end
+while east gets enshrouded in fog.  You hear some howling of wolves in the
+distance.
+~
+0 0 3
+D1
+Fog
+~
+~
+0 -1 22695
+D2
+An End to the Path
+~
+~
+0 -1 22696
+D3
+A Small Path is west from here.
+~
+~
+0 -1 22693
+S
+#22695
+Fog~
+    You are standing in dense fog and can't see a thing.  The only way to go is
+west back the way you came.
+~
+0 1 2
+D3
+A Small Path is west from here.
+~
+~
+0 -1 22694
+S
+#22696
+An End to a Small Path~
+    The Animal path comes to a rather abrupt end.  You swear you can smell a
+cook fire close by.  A wolf howls in the distance which is answered by a group
+of howls that sounded from to close for comfort.
+~
+0 0 3
+D0
+A Small Path is north from here.
+~
+~
+0 -1 22694
+D2
+A Camp of Sorts
+~
+growth~
+3 -1 22697
+S
+#22697
+A Camp of Sorts~
+    You stumble into somebody's hidden campsite.  Eyes seem to watch you from
+all over and you swear you heard a feral growl from in the trees.
+~
+0 0 2
+D0
+An End to a Small Path is north from here.
+~
+growth~
+3 -1 22696
+D2
+Forest
+~
+~
+0 -1 22521
+S
+#22698
+Overgrown Walkway~
+    Tangled vines cover the walkway you try to navigate through.  An ancient
+stone door to the north is barely seen through the vegetation.  You can smell
+the a faint odor of sulfur that seems to come from the other side of the door.
+~
+0 0 3
+D0
+Tower Entrance
+~
+door~
+19 -1 22699
+D2
+Crossroads is south from here.
+~
+~
+0 -1 22524
+S
+#22699
+Tower Entrance~
+    Sulfur enters your nose and you gaze upon the dust filled entrance of an
+ancient forgotten tower.  The grey bricked floor has prints of some dog
+creature all over it and those prints seem to be burned into it.  High above
+you is a beautiful chandalier unlit for centuries.  A circular staircase lies
+near the north wall leading up.
+~
+0 9 0
+D2
+Overgrown Walkway is south from here.
+~
+door~
+1 -1 22698
+D4
+A Floor in an Old Tower
+~
+~
+0 -1 22700
+S
+#22700
+A Floor in an Old Tower~
+    Your feet kick up the decades of accumulated dust from the floor which
+conveniently makes its nest in your hair.  Ancient volumes of books long
+forgotten lie here and the slightest touch makes them fall apart.  A Staircase
+going up is near the south wall and another staircase going down is by the
+north wall.
+~
+0 9 0
+D4
+The Top of an Old Tower
+~
+~
+0 -1 22701
+D5
+Tower Entrance is down from here.
+~
+~
+0 -1 22699
+S
+#22701
+The Top of an Old Tower~
+    This tower does not seem to go very high because you have already reached
+the top.  Dust again covers the room except for one interesting item on the
+north wall which has not been touched by any dust.  The object seems to be
+built into the wall and makes an arch of sorts.  Through the arch you can see
+only darkness.  You stick your hand though the wall and you could swear your
+hand is no longer part of your body and quickly pull it back.
+~
+0 9 0
+D0
+~
+~
+0 -1 22702
+D5
+A Floor in an Old Tower is down from here.
+~
+~
+0 -1 22700
+S
+#22702
+A Field of Golden Wheat~
+    You take a step.
+    You stand in a field of wheat that goes on as far as your eyes can see.
+The wheat looks very well grown almost as if it has had a helping hand.
+~
+0 8192 2
+D0
+~
+~
+0 -1 22705
+D1
+~
+~
+0 -1 22709
+D2
+~
+~
+0 -1 22708
+D3
+~
+~
+0 -1 22707
+D4
+~
+~
+0 -1 22711
+D5
+~
+~
+0 -1 22710
+S
+#22703
+Under the Waves~
+    You take a step.
+    Fish swim away from you as quickly as they can in a frenzied panic and you
+find your self in deep salt water.  The currents drag you around like a doll in
+multiple directions and it hard to enjoy the beauty when you feel like being
+sick.
+~
+0 8201 8
+D0
+~
+~
+0 -1 22702
+D1
+~
+~
+0 -1 22706
+D2
+~
+~
+0 -1 22707
+D3
+~
+~
+0 -1 22712
+D4
+~
+~
+0 -1 22706
+D5
+~
+~
+0 -1 22709
+S
+#22704
+Edge of a Volcano~
+    You take a step.
+    Precariously balanced you stand on the edge of an erupting volcano.  Hot
+lava spews past you on either side nearly hot enough to sear your flesh.  Your
+hair singes as burning ash lands on it.  The lava floods the entire plain below
+you burning a swath of destruction wherever it touches.
+~
+0 8192 5
+D0
+~
+~
+0 -1 22710
+D1
+~
+~
+0 -1 22706
+D2
+~
+~
+0 -1 22709
+D3
+~
+~
+0 -1 22707
+D4
+~
+~
+0 -1 22703
+D5
+~
+~
+0 -1 22711
+S
+#22705
+Shadar Logoth~
+    You take a step.
+    Eyes seem to bore into you from every empty window around you.  You stand
+in the center of a strangely desolate crumbling city.  This is the city that
+trollocs avoid, this is Shadar Logoth.  Unconsiously your fingers tremble as
+you look for the nearest exit to leave this dreadful place.  Wind like ice
+wraps itself around your body chilling you and making a horrid whistling sound
+as it whips through the dead city.
+~
+0 8192 1
+D0
+~
+~
+0 -1 22703
+D1
+~
+~
+0 -1 22709
+D2
+~
+~
+0 -1 22710
+D3
+~
+~
+0 -1 22706
+D4
+~
+~
+0 -1 22704
+D5
+~
+~
+0 -1 22711
+S
+#22706
+Snowy Wasteland~
+    You take a step.
+    Frigid blasts of air whip your clothes about as you squint into the harsh
+light of a snowy landscape.  The snowy landscape goes on for miles on end.
+There is no life of any kind living here.
+~
+0 8192 2
+D0
+~
+~
+0 -1 22708
+D1
+~
+~
+0 -1 22704
+D2
+~
+~
+0 -1 22701
+D3
+~
+~
+0 -1 22707
+D4
+~
+~
+0 -1 22710
+D5
+~
+~
+0 -1 22702
+S
+#22707
+The Darkest of Woods~
+    You take a step.
+    Even with a light source you must squint to make out the tiniest detail of
+this eerie forest.  A coyote howls in the distance and owls hoot their warnings
+nearby.  It feels as if someone is hunting you.
+~
+0 8193 3
+D0
+~
+~
+0 -1 22704
+D1
+~
+~
+0 -1 22711
+D2
+~
+~
+0 -1 22706
+D3
+~
+~
+0 -1 22710
+D4
+~
+~
+0 -1 22705
+D5
+~
+~
+0 -1 22708
+S
+#22708
+The Whitest of Clouds~
+    You take a step.
+    Standing suspended above the land, you find yourself standing on a cloud of
+pure white and the sun beats down upon your face warming it completely.  the
+perfect cool breeze wafts over you and makes your whole body shiver in
+contentment.
+~
+0 8192 9
+D0
+~
+~
+0 -1 22705
+D1
+~
+~
+0 -1 22709
+D2
+~
+~
+0 -1 22711
+D3
+~
+~
+0 -1 22707
+D4
+~
+~
+0 -1 22710
+D5
+~
+~
+0 -1 22703
+S
+#22709
+Anarchy~
+    You take a step.
+    There is no order here at all.  Only Chaos.  Wind whips in every direction
+with hail and brimstone whipping by as well.  The ground beneath you threatens
+to fall beneath you and the air you breath tries to solidify.  The area around
+you lacks any form it is as if you are in the time and place before creation.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22709
+D1
+~
+~
+0 -1 22709
+D2
+~
+~
+0 -1 22709
+D3
+~
+~
+0 -1 22709
+D4
+~
+~
+0 -1 22702
+D5
+~
+~
+0 -1 22709
+S
+#22710
+A Room in the White Tower~
+    You take a step.
+    Simple furnishings adorn this small bedroom that is lit by a single lantern
+on the wall.  Women's whispers can be heard outside the plain wooden door.  On
+the desk before you is a small journal with the name Michiko stamped into it.
+You are standing in the White Tower where it may almost be as dangerous as
+walking naked in the Blight.
+~
+0 8200 0
+D0
+~
+~
+0 -1 22705
+D1
+~
+~
+0 -1 22710
+D2
+~
+~
+0 -1 22704
+D3
+~
+~
+0 -1 22708
+D4
+~
+~
+0 -1 22702
+D5
+~
+~
+0 -1 22711
+S
+#22711
+The Center of a Battlefield~
+    You take a step.
+    On the battlefield of death lie the corpses of fallen soldiers yet they all
+seem to be from the same side.  Blood clings to the air and the smoke starts to
+settle as you look for the cause of all this death.
+~
+0 8192 2
+D0
+~
+~
+0 -1 22707
+D1
+~
+~
+0 -1 22702
+D2
+~
+~
+0 -1 22710
+D3
+~
+~
+0 -1 22703
+D4
+~
+~
+0 -1 22704
+D5
+~
+~
+0 -1 22706
+S
+#22712
+The Trembling Earth of the Blight~
+    You take a step.
+    You nearly fall as the earth trembles beneath you and the evil creatures
+around you run away.  The cracked dry earth below your feet trembles again but
+with more force this time.  Something evil comes.
+~
+0 8192 2
+D0
+~
+~
+0 -1 22702
+D1
+~
+~
+0 -1 22709
+D2
+~
+~
+0 -1 22713
+D3
+~
+~
+0 -1 22705
+D4
+~
+~
+0 -1 22707
+D5
+~
+~
+0 -1 22706
+S
+#22713
+A Burial Chamber~
+    You take a step.
+    You find yourself standing in an extravagant burial chamber.  Murals of a
+woman in black fighting evil with magic and weapon line the walls.  In the
+center of the room lies a crypt adorned with banners proclaiming loyalty to the
+Dragon Reborn.
+~
+0 8201 0
+D0
+~
+~
+0 -1 22630
+D1
+~
+~
+0 -1 22658
+D2
+~
+~
+0 -1 22700
+D3
+~
+~
+0 -1 22712
+D4
+~
+~
+0 -1 22679
+D5
+~
+~
+0 -1 22705
+S
+#0
+
+#RESETS
+M 0 22500 1 22679
+E 1 22559 1 19
+E 1 22623 1 3
+M 0 22501 8 22630
+M 0 22501 8 22616
+M 0 22501 8 22604
+M 0 22501 8 22622
+M 0 22501 8 22630
+M 0 22501 8 22630
+M 0 22501 8 22630
+M 0 22501 8 22630
+E 1 22557 1 19
+M 0 22502 15 22630
+M 0 22502 15 22630
+M 0 22502 15 22594
+M 0 22502 15 22594
+M 0 22502 15 22600
+M 0 22502 15 22600
+M 0 22502 15 22630
+M 0 22502 15 22594
+M 0 22502 15 22600
+M 0 22502 15 22630
+M 0 22502 15 22630
+M 0 22502 15 22594
+M 0 22502 15 22594
+M 0 22502 15 22600
+M 0 22502 15 22600
+M 0 22503 1 22571
+E 1 22603 1 15
+M 0 22504 1 22588
+E 1 22614 1 8
+E 1 22614 1 9
+E 1 22615 1 5
+M 0 22505 1 22630
+E 1 22616 1 16
+M 0 22506 1 22655
+E 1 22558 1 19
+E 1 22618 1 6
+M 0 22507 1 22658
+E 1 22621 1 7
+E 1 22622 1 12
+E 1 22622 1 13
+M 0 22508 2 22651
+M 0 22508 2 22676
+E 1 22617 1 17
+M 0 22509 1 22507
+E 1 22598 1 7
+E 1 22599 1 4
+E 1 22600 1 5
+M 0 22510 8 22562
+M 0 22510 8 22564
+M 0 22510 8 22562
+M 0 22510 8 22564
+M 0 22510 8 22562
+M 0 22510 8 22564
+M 0 22510 8 22562
+M 0 22510 8 22564
+M 0 22511 1 22565
+G 1 22602 -1
+M 0 22512 4 22571
+G 1 22605 1
+M 0 22512 4 22571
+M 0 22512 4 22571
+G 1 22605 1
+M 0 22512 4 22571
+M 0 22513 1 22578
+M 0 22514 1 22581
+E 1 22607 1 4
+M 0 22515 1 22575
+G 1 22609 -1
+E 1 22608 1 2
+M 0 22516 1 22590
+E 1 22610 1 8
+E 1 22610 1 9
+M 0 22517 1 22591
+E 1 22612 1 15
+E 1 22613 1 8
+E 1 22613 1 9
+M 0 22518 10 22501
+M 0 22519 6 22513
+M 0 22520 1 22517
+E 1 22580 1 6
+M 0 22521 1 22697
+E 1 22581 1 15
+E 1 22582 1 8
+E 1 22582 1 9
+M 0 22522 7 22697
+M 0 22522 7 22697
+M 0 22522 7 22697
+M 0 22522 7 22697
+M 0 22522 7 22549
+M 0 22522 7 22549
+M 0 22522 7 22549
+M 0 22523 3 22686
+M 0 22523 3 22686
+M 0 22523 3 22686
+E 1 22583 1 15
+M 0 22524 1 22692
+M 0 22525 4 22546
+M 0 22525 4 22535
+M 0 22525 4 22546
+M 0 22525 4 22535
+E 1 22550 4 19
+M 0 22526 1 22556
+M 0 22527 1 22559
+M 0 22528 1 22531
+E 1 22551 1 19
+M 0 22529 1 22540
+M 0 22530 2 22699
+E 1 22586 1 3
+M 0 22530 2 22699
+E 1 22586 1 4
+M 0 22531 1 22702
+E 1 22552 3 19
+M 0 22532 1 22707
+E 1 22553 1 19
+E 1 22588 1 4
+M 0 22533 1 22705
+E 1 22587 1 15
+
+M 0 22534 1 22708
+G 1 22589 1 -1
+G 1 22591 1 -1
+
+M 0 22535 1 22709
+E 1 22592 1 6
+G 1 22593 1 -1
+
+M 0 22536 1 22710
+G 1 22554 1 -1
+
+M 0 22537 1 22711
+G 1 22555 1 -1
+
+M 0 22539 1 22712
+E 1 22594 1 17
+
+M 0 22538 1 22713
+G 1 22556 1 -1
+G 1 22595 1 -1
+G 1 22596 1 -1
+G 1 22597 1 -1
+
+M 0 22540 4 22587
+M 0 22540 4 22587
+M 0 22540 4 22587
+M 0 22540 4 22587
+O 0 22619 1 22664
+O 0 22620 1 22664
+O 0 22654 1 22664
+O 0 22668 1 22665
+P 1 22655 1 22668
+P 1 22656 1 22668
+O 0 22657 1 22642
+O 0 22658 1 22642
+O 0 22667 1 22564
+P 1 22659 1 22667
+O 0 22666 1 22581
+P 1 22660 1 22666
+O 0 22669 1 22695
+P 1 22661 1 22669
+* D 0 22699 2 2
+* D 0 22700 2 1
+* D 0 22507 2 2
+* D 0 22560 0 2
+* D 0 22562 2 1
+* D 0 22563 0 1
+* D 0 22563 2 1
+* D 0 22564 0 1
+* D 0 22564 2 1
+* D 0 22565 0 1
+* D 0 22571 2 1
+* D 0 22572 0 1 
+* D 0 22581 2 1
+* D 0 22582 0 1
+* D 0 22587 2 1
+* D 0 22586 0 1
+* D 0 22590 2 1
+* D 0 22589 0 1
+* D 0 22600 0 1
+* D 0 22601 2 1
+* D 0 22603 1 1
+* D 0 22604 3 1
+* D 0 22664 0 1
+* D 0 22665 2 1
+* D 0 22675 1 1
+* D 0 22674 3 1
+* D 0 22672 0 1
+* D 0 22671 2 1
+* D 0 22670 2 1
+* D 0 22669 0 1
+* D 0 22669 1 2
+* D 0 22666 3 2
+* D 0 22660 0 2
+* D 0 22659 2 2
+* D 0 22642 3 1
+* D 0 22640 1 1
+* D 0 22678 3 1
+* D 0 22655 3 1
+* D 0 22654 1 1
+* D 0 22658 3 1
+* D 0 22657 1 1
+* D 0 22696 2 1
+* D 0 22697 0 1
+* D 0 22521 0 1
+* D 0 22697 2 1
+* D 0 22516 1 1
+* D 0 22517 3 1
+* D 0 22529 5 1
+R 0 22679 6
+R 0 22680 6
+R 0 22681 6
+R 0 22682 6
+R 0 22683 6
+R 0 22684 6
+R 0 22702 6
+R 0 22703 6
+R 0 22704 6
+R 0 22705 6
+R 0 22706 6
+R 0 22707 6
+R 0 22708 6
+R 0 22709 6
+R 0 22710 6
+R 0 22711 6
+R 0 22712 6
+R 0 22713 6
+S
+
+#SPECIALS
+M 22500 SPEC_BREATH_any
+M 22501 SPEC_POISON
+M 22502 SPEC_BREATH_FROST
+M 22504 SPEC_CAST_MAGE
+M 22506 SPEC_CAST_JUDGE
+M 22507 SPEC_CAST_UNDEAD
+M 22508 SPEC_BREATH_LIGHTNING
+M 22511 SPEC_CAST_CLERIC
+M 22515 SPEC_CAST_CLERIC
+M 22517 SPEC_CAST_MAGE
+M 22520 SPEC_BREATH_any
+M 22526 SPEC_CAST_MAGE
+M 22529 SPEC_BREATH_ANY
+M 22534 SPEC_CAST_CLERIC
+M 22535 SPEC_CAST_JUDGE
+M 22536 SPEC_CAST_MAGE
+M 22537 SPEC_BREATH_ACID
+M 22538 SPEC_CAST_UNDEAD
+S
+
+#$
+

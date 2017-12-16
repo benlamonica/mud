@@ -1,0 +1,311 @@
+amber.are:1602:35 43 501 14 0
+arcade2.are:21:#11501
+arcade2.are:65:95 20 3300d1+501 900d1+1 20d8+10 30
+arcade2.are:672:0 0 11501
+arcade2.are:679:#11501
+arcade2.are:719:0 0 11501
+arcade2.are:1580:M 0 11500 1 11501  Sonya
+arcade2.are:1582:M 0 11501 1 11502 Liu Kang
+blight.are:3372:0 -1 2501
+blight.are:3374:#2501
+blight.are:3410:0 -1 2501
+blight.are:3430:1 -1 2501
+blight.are:5943:M 0 2414 4 2501         * Put Spirit in Tower                   (East Tower)
+blight.are:5995:D 0 2501 0 1            * Set Water Storage Door to Shut        (East Tower)
+chaos2.are:1338:1 1 14501
+chaos2.are:1359:#14501
+chaos2.are:3598:#14501
+chaos2.are:3898:M 0 16669 1 14501    *hologram
+chaos2.are:3900:M 0 16450 1 14501    *zyrin
+chaos2.are:3903:M 0 16649 1 14501   *Chaos guard
+chaos2.are:3949:E 1 14501 7 3      *amulet of stars 
+chaos2.are:4023:D 0 14501 0 1
+crypt4.are:475:0 -1 3501
+dark.are:5:#15501
+dark.are:303:#15501
+dark.are:685:#15501
+dark.are:727:0 -1 15501
+dark.are:2374:M 0 15501 3 15508 1                    * the BIG monkey to Palm path
+dark.are:2375:G 1 15501 -1                             * a monkey paw                     
+dracula.are:20:#16501
+dracula.are:448:#16501
+dracula.are:787:#16501
+dracula.are:826:0 0 16501
+dracula.are:870:0 0 16501
+dracula.are:1719:0 0 16501
+dracula.are:2890:M 0 16501 2 16528              little girl in the tunnel
+dracula.are:2915:M 0 16511 1 16501               Butler to the entrance
+dracula.are:2942:E 1 16501 3 12              cloak about body
+dwarven.are:17:#6501
+dwarven.are:424:0 -1 6501
+dwarven.are:436:#6501
+dwarven.are:468:0 -1 6501
+dwarven.are:1296:M 0 6501 6 6503   load in roam. dwv. worker
+dwarven.are:1297:M 0 6501 6 6502
+dwarven.are:1298:M 0 6501 6 6501
+eastern.are:120:#5010
+eastern.are:132:#5011
+eastern.are:143:#5012
+eastern.are:154:#5013
+eastern.are:166:#5014
+eastern.are:177:#5015
+eastern.are:187:#5017
+eastern.are:285:#5010
+eastern.are:293:#5011
+eastern.are:301:#5012
+eastern.are:309:#5013
+eastern.are:317:#5014
+eastern.are:327:#5015
+eastern.are:335:#5016
+eastern.are:345:#5017
+eastern.are:355:#5018
+eastern.are:363:#5019
+eastern.are:533:0 0 5017
+eastern.are:551:0 0 5018
+eastern.are:568:0 0 5016
+eastern.are:635:0 0 5010
+eastern.are:639:0 0 5012
+eastern.are:645:#5010
+eastern.are:658:0 0 5011
+eastern.are:660:#5011
+eastern.are:669:0 0 5010
+eastern.are:671:#5012
+eastern.are:679:0 0 5013
+eastern.are:685:#5013
+eastern.are:693:0 0 5012
+eastern.are:697:0 0 5014
+eastern.are:699:#5014
+eastern.are:707:0 0 5015
+eastern.are:711:0 0 5013
+eastern.are:713:#5015
+eastern.are:721:0 0 5016
+eastern.are:725:0 0 5014
+eastern.are:727:#5016
+eastern.are:736:0 0 5015
+eastern.are:742:#5017
+eastern.are:755:0 0 5018
+eastern.are:759:0 0 5019
+eastern.are:761:#5018
+eastern.are:774:0 0 5017
+eastern.are:776:#5019
+eastern.are:785:0 0 5017
+eastern.are:804:0 0 5019
+eastern.are:1364:M 0 5015 4 5024          Dustdigger
+eastern.are:1365:M 0 5015 4 5026          Dustdigger
+eastern.are:1366:M 0 5015 4 5030          Dustdigger
+eastern.are:1367:M 0 5015 4 5032          Dustdigger
+eastern.are:1382:G 1 5019 10                (pink potion)
+eastern.are:1400:O 0 5015 1 5070          $$$
+eastern.are:1402:M 0 5017 1 5058          Rabid Camel
+eastern.are:1405:E 1 5016 10 16             (sabre)
+eastern.are:1407:E 1 5017 15 16             (scimitar)
+eastern.are:1409:E 1 5018 25 16             (cutlass)
+eastern.are:1412:M 0 5010 1 5011          Dracolich
+eastern.are:1416:M 0 5011 3 5009          Driders
+eastern.are:1418:M 0 5012 3 5014          Duergars
+eastern.are:1421:M 0 5013 4 5021          myconoids
+eastern.are:1422:M 0 5014 1 5021          Shaman, myc.
+eastern.are:1425:O 0 5005 1 5011          bone
+eastern.are:1427:P 0 5012 1 5007            (stakes)
+eastern.are:1428:P 0 5011 1 5007            (coil o' rope)
+eastern.are:1430:P 1 5014 5 5008            (turban)
+eastern.are:1432:O 0 5010 1 5061          3rd basket leaders tent
+eastern.are:1433:P 1 5013 50 5010           (tattered map)
+eastern.are:1441:M  5010 spec_breath_fire
+eastern.are:1442:M  5014 spec_cast_cleric
+gnome.are:18:#1501
+gnome.are:311:#1501
+gnome.are:508:#1501
+gnome.are:545:0 -1 1501
+gnome.are:1296:2 1501 1546
+gnome.are:1307:2 1501 1545
+gnome.are:2058:M 0 1501  3 1509
+gnome.are:2062:M 0 1501  3 1510
+gnome.are:2066:M 0 1501  3 1511
+gnome.are:2120:G 1 1501 4
+grail.are:5:#10501
+grail.are:438:#10501
+grail.are:823:0 -1 10501
+grail.are:841:#10501
+grail.are:885:0 -1 10501
+grail.are:2767:M 0 10501 5 10501   Swallow
+grail.are:2769:M 0 10501 5 10503
+grail.are:2771:M 0 10501 5 10504
+grail.are:2773:M 0 10501 5 10504
+grail.are:2782:E 1 10501 -1 5      (armour)
+inferno.are:163:#15010
+inferno.are:178:#15011
+inferno.are:194:#15012
+inferno.are:210:#15013
+inferno.are:226:#15014
+inferno.are:242:#15015
+inferno.are:259:#15016
+inferno.are:274:#15017
+inferno.are:291:#15018
+inferno.are:306:#15019
+inferno.are:1901:#15010
+inferno.are:1918:#15011
+inferno.are:1936:#15012
+inferno.are:1959:#15013
+inferno.are:1978:#15014
+inferno.are:1996:#15015
+inferno.are:2013:#15016
+inferno.are:2031:#15017
+inferno.are:2047:#15018
+inferno.are:2066:#15019
+inferno.are:3117:0 -1 15010
+inferno.are:3120:#15010
+inferno.are:3131:0 -1 15011
+inferno.are:3134:#15011
+inferno.are:3155:1 -1 15012
+inferno.are:3158:#15012
+inferno.are:3175:0 -1 15013
+inferno.are:3180:1 -1 15011
+inferno.are:3183:#15013
+inferno.are:3195:0 -1 15012
+inferno.are:3200:0 -1 15014
+inferno.are:3205:0 -1 15018
+inferno.are:3210:0 -1 15016
+inferno.are:3213:#15014
+inferno.are:3224:0 -1 15015
+inferno.are:3234:0 -1 15013
+inferno.are:3237:#15015
+inferno.are:3253:0 -1 15014
+inferno.are:3256:#15016
+inferno.are:3269:0 -1 15013
+inferno.are:3279:0 -1 15017
+inferno.are:3282:#15017
+inferno.are:3294:0 -1 15016
+inferno.are:3302:#15018
+inferno.are:3323:0 -1 15013
+inferno.are:3328:0 -1 15019 
+inferno.are:3331:#15019
+inferno.are:3343:0 -1 15018
+inferno.are:3370:0 -1 15014
+inferno.are:3385:0 -1 15019
+inferno.are:3397:0 -1 15015
+inferno.are:3450:0 -1 15016
+inferno.are:3455:0 -1 15019
+inferno.are:3477:0 -1 15017
+inferno.are:3533:0 -1 15019
+inferno.are:6941:M 0 15004 1 15012               The mob of Opportunists
+inferno.are:6944:M 0 15005 1 15018               Charon
+inferno.are:6963:M 0 15010 1 15052               Electra
+inferno.are:6965:M 0 15011 1 15045               Hector
+inferno.are:6967:M 0 15012 1 15046               Aeneas
+inferno.are:6969:M 0 15013 1 15047               Caesar
+inferno.are:6972:M 0 15014 1 15049               Penthesilea
+inferno.are:6975:M 0 15015 1 15050               Orpheus
+inferno.are:6979:M 0 15016 1 15051               Euclid
+inferno.are:6981:M 0 15017 1 15048               Aristotle
+inferno.are:6984:M 0 15018 1 15048               Socrates
+inferno.are:6987:M 0 15019 1 15048               Plato
+inferno.are:6990:E 1 15010 2 7                   wear P.A.G.A.N. leggings
+inferno.are:6991:E 1 15011 4 14                  wear studded cuff
+inferno.are:6992:E 1 15012 2 16                  wield chain whip
+inferno.are:6995:E 1 15013 1 12                  wear mantle
+inferno.are:6996:E 1 15014 1 10                  wear sleeves
+inferno.are:6997:E 1 15015 1 6                   wear wreath
+inferno.are:6998:E 1 15016 1 14                  wear shackle
+inferno.are:7001:E 1 15017 1 3                   wear collar
+inferno.are:7002:E 1 15018 1 9                   wear claws
+inferno.are:7009:E 1 15019 5 1                   wear signet ring
+inferno.are:7042:M 0 15034 16 15013              GeneriSpirit
+inferno.are:7233:M 15015 spec_cast_cleric        Orpheus
+inferno.are:7234:M 15017 spec_cast_cleric        Aristotle
+inferno.are:7235:M 15018 spec_cast_cleric        Socrates
+inferno.are:7236:M 15019 spec_cast_cleric        Plato
+kadian.are:22:#22501
+kadian.are:1561:0 -1 22501
+kadian.are:1563:#22501
+kadian.are:1608:0 -1 22501
+kadian.are:1733:0 -1 22501
+kadian.are:5811:M 0 22501 8 22630
+kadian.are:5812:M 0 22501 8 22616
+kadian.are:5813:M 0 22501 8 22604
+kadian.are:5814:M 0 22501 8 22622
+kadian.are:5815:M 0 22501 8 22630
+kadian.are:5816:M 0 22501 8 22630
+kadian.are:5817:M 0 22501 8 22630
+kadian.are:5818:M 0 22501 8 22630
+kadian.are:5886:M 0 22518 10 22501
+kadian.are:6039:M 22501 SPEC_POISON
+midennir.are:21:#3501
+midennir.are:145:#3501
+midennir.are:228:0 0 3501
+midennir.are:230:#3501
+midennir.are:263:0 0 3501
+midennir.are:791:0 -1  1501
+midennir.are:1312:M 0 3501 8 3512       Load Goblin in forest   * Heavy Modificatios    *
+midennir.are:1315:M 0 3501 8 3512            Goblin in forest   *   by VampLestat       *
+midennir.are:1319:M 0 3501 8 3509            Goblin in forest   *   for Merc Mud        *
+midennir.are:1322:M 0 3501 8 3506            Goblin in forest
+midennir.are:1325:M 0 3501 8 3513            Goblin in forest
+midennir.are:1328:M 0 3501 8 3556            Goblin in Cavern
+midennir.are:1341:E 1 3501 6 16		long spear
+midgaard.are:1513:14 43 16 501 0
+newthalos.are:18:#9501
+newthalos.are:1106:#9501
+newthalos.are:1939:0 -1 9501
+newthalos.are:1941:#9501
+newthalos.are:2206:1 9501 9513
+newthalos.are:2248:1 9501 9511
+newthalos.are:2438:1 9501 9667
+newthalos.are:2473:1 9501 9669
+newthalos.are:2660:1 9501 9668
+newthalos.are:3993:0 -1 501
+newthalos.are:5122:1 9501 9523
+newthalos.are:6548:0 -1 15501
+newthalos.are:6583:M 0 9504 1 9501   ; the receptionist
+newthalos.are:6733:M 0 9501 1 9603   ; the guildmaster
+newthalos.are:6878:G 1 9501 10   ; The Key to the City of New Thalos
+pir.are:1427:501 5 0 0 0
+pirate2.are:1427:501 5 0 0 0
+sunkencity.are:4075:50 501 0 0 0
+troy.are:18:#29501
+troy.are:588:#29501
+troy.are:812:0 -1 29501
+troy.are:818:#29501
+troy.are:859:0 -1 29501
+troy.are:935:0 -1 29501
+troy.are:2712:E 1 29501 1 17                      holds spear no.2
+troy.are:2721:M 1 29501 1 29534                    loads achilles
+troy.are:2728:E 1 29501 1 17
+troy.are:2735:E 1 29501 1 17                      holds spear no.2
+troy.are:2743:E 1 29501 1 17                      holds spear no.2
+troy.are:2754:E 1 29501 1 17                      holds spear no.2
+troy.are:2765:E 1 29501 1 17                      holds spear no.2
+troy.are:2776:E 1 29501 1 17                      spear
+troy.are:2783:E 1 29501 1 17                      holds spear no.2
+troy.are:2794:E 1 29501 1 17                      holds spear no.2
+troy.are:2802:E 1 29501 1 17                      holds spear no.2
+troy.are:2813:E 1 29501 1 17                      holds spear no.2
+troy.are:2836:E 1 29501 1 17                      spear
+troy.are:2843:E 1 29501 1 17                      spear
+troy.are:2857:E 1 29501 1 17                      holds spear no.2
+troy.are:2865:E 1 29501 1 17                      holds spear no.2
+troy.are:2873:E 1 29501 1 17                      holds spear no.2
+troy.are:2884:E 1 29501 1 17                      holds spear no.2
+troy.are:2892:E 1 29501 1 17                      holds spear no.2
+troy.are:2903:E 1 29501 1 17                      holds spear no.2
+troy.are:2914:E 1 29501 1 17                      holds spear no.2
+troy.are:2925:E 1 29501 1 17                      holds spear no.2
+troy.are:2933:E 1 29501 1 17                      spear
+troy.are:2940:E 1 29501 1 17                      spear
+troy.are:2947:E 1 29501 1 17                      holds spear no.2
+troy.are:2958:E 1 29501 1 17                      spear
+troy.are:2965:E 1 29501 1 17                      holds spear no.2
+troy.are:2979:E 1 29501 1 17                      holds spear no.2
+troy.are:2987:E 1 29501 1 17                      holds spear no.2
+troy.are:2998:E 1 29501 1 17                      holds spear no.2
+troy.are:3006:E 1 29501 1 17                      holds spear no.2
+troy.are:3017:E 1 29501 1 17                      holds spear no.2
+troy.are:3028:E 1 29501 1 17                      holds spear no.2
+troy.are:3039:E 1 29501 1 17                      spear
+troy.are:3045:E 1 29501 1 17                      spear
+troy.are:3051:E 1 29501 1 17                      spear
+troy.are:3057:E 1 29501 1 17                      spear
+troy.are:3064:E 1 29501 1 17                      spear
+troy.are:3070:E 1 29501 1 17                      spear
+troy.are:3076:E 1 29501 1 17                      spear
+troy.are:3082:E 1 29501 1 17                      spear

@@ -1,0 +1,145 @@
+Sender  Aurelie~
+Date    Mon Jul 21 00:33:08 1997~
+Stamp   869463188
+To	  all~
+Subject changes~
+Text
+New changes, additions:
+The "make bag" spell for mwhoever has the creation spell group.
+The leather worker in Midgaard can make a bag for you for cash.
+Giveher the corpse and she'll sell you a bag.
+The snake charmer does interesting things now.
+Fixed the spell levels (they were still at what it was from
+before when this was 60 level mud.
+Thieves get Backstab at level 10 instead of level 1.
+Mages and clerics get gate earlier.
+You have to be level 97 to get wiznet sites.
+~
+Sender  Tybalt~
+Date    Mon Jul 21 00:50:29 1997~
+Stamp   869464229
+To	  all~
+Subject Quest Fix~
+Text
+I fixed it so if you quit in the middle of a quest, it will tell you how
+much time you have until your next quest when you come back on.
+
+It works this way. If you quit out of a quest, and you have 10 minutes
+left to complete the quest, when you log back on, you'll have to wait
+40 minutes until your next quest (the normal 30 + the 10 that were in the
+last quest).
+
+Now you can stop complaining :).
+
+The next thing in will be the board system, along with some other new skills
+and spells.
+
+Enjoy!
+
+-Tybalt
+~
+Sender  Aurelie~
+Date    Mon Jul 21 01:38:27 1997~
+Stamp   869467107
+To	  immortal~
+Subject newbie packs~
+Text
+Don't restring them.
+~
+Sender  Sparhawk~
+Date    Mon Jul 21 05:53:21 1997~
+Stamp   869482401
+To	  all~
+Subject Join a Guild~
+Text
+^BRJoining ^NW[^BWGUARDIAN^NW]
+Welcome to the New World Order!
+As you know the Guilds are now in.
+If you are interested in become a ^BYWinner^NW and a ^BCGood Guy^NW
+Just type help guardian to find out how you can join this guild.
+With your help we can clean up this mud!!
+-^NBSparhawk^NW
+~
+Sender  Chrom~
+Date    Mon Jul 21 09:23:26 1997~
+Stamp   869495006
+To	  imm~
+Subject wiznet~
+Text
+he Tybalt and Aur what exactly should the imps see on wiznet secure should we see only other imms or should we see mortals too cause I was seeing a level 90 just wondering
+chrom
+~
+Sender  Aurelie~
+Date    Mon Jul 21 09:59:39 1997~
+Stamp   869497179
+To	  chrom tybalt~
+Subject wiznet secure~
+Text
+I put log all on because the mud was crashing for strange reasons.
+and if someone that isn't logged does something, there's no way of 
+figuring out what caused the problem. So... yeah it's spammy, so
+I'd leave wiznet secure off. :)
+~
+Sender  Dhaimon~
+Date    Mon Jul 21 10:07:24 1997~
+Stamp   869497644
+To	  all~
+Subject Dominion~
+Text
+Do you like to pk?
+Well, if you like to kill for no reason, other than its fun, Dominion is the guild for you
+We don't need flashy notes to get your attention...if you like to pk, you'll join...if not, you'll die at our hands.
+We are pure evil, we live only to kill, and destroy the light.
+
+
+So, if you want to join the Dark, talk to me while i'm on, or ask one of our members for more information
+
+
+Be killing you soon,
+Dhaimon, ^NRHand ^NNof the ^BKDark^NN
+~
+Sender  Nutari~
+Date    Mon Jul 21 17:28:24 1997~
+Stamp   869524104
+To	  all~
+Subject the balance of the world~
+Text
+We need good people to help restore balance in the world...
+killing is allowed but we will not hold a grudge against one
+guild..we just will perserve the balance between good and evil.
+-Nutari god of balance
+~
+Sender  Aurelie~
+Date    Mon Jul 21 19:35:01 1997~
+Stamp   869531701
+To	  all~
+Subject changes~
+Text
+Changes in the next reboot:
+Mages are called Magicians now and Warriors are called Barbarians.
+Magicians will get nuclear blast spell with combat.
+There is a locat person spell in too.
+A few other spells that will go in with the remort classes:
+Fear: makes your oponnent get scared and flee battle.
+Sate/Quench: Makes you not hungry or not thirsty in just a spell.
+~
+Sender  Aurelie~
+Date    Mon Jul 21 22:30:53 1997~
+Stamp   869542253
+To	  all ~
+Subject fixit~
+Text
+The Questmaster now gives quests again... don't know how he got screwed up in the first place. (next reboot/crash that will take effect)
+~
+Sender  Soris~
+Date    Mon Jul 21 23:03:06 1997~
+Stamp   869544186
+To	  Viper~
+Subject Not a damn thing~
+Text
+stupid whore
+
+
+
+Soris
+~

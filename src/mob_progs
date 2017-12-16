@@ -1,0 +1,135 @@
+Trigger Typs:			
+----------------------------------------------------------------------
+All triggers have the variable self in them. Self references the mobile.
+Greet
+  -target
+GreetAll
+  -target
+Bribe
+  -target
+Give
+  -target
+  -object
+Death
+  -target
+Speech
+  -target
+Random
+  -none
+Fight
+  -target
+Hitpoints
+  -none
+Entry
+  -none
+Act
+  -target
+Follow
+  -target
+Guarddir 'direction'
+  -target
+	This trigger will activate when target tries to go the
+	'direction'. Unless the continue command is issued, the target will
+	not be allowed to leave the room in that directoin.
+GuardObj 'objname'
+  -target
+	This trigger will activate when someone tries to pick a lock on an
+	object, or take an object from the room. Good if a mob is guarding a
+	treasure of some sort.
+
+variables:
+-target
+  -hp
+  -mana
+  -mv
+  -align
+  -class
+  -race
+  -sex
+
+functions:
+is_haste(target)
+is_poison(target)
+is_plague(target)
+is_fly(target)
+is_pass(target)
+is_sanc(target)
+is_npc(target)
+is_invis(target)
+is_hidden(target)
+is_sneaking(target)
+is_bless(target)
+is_holy(target)
+is_giant(target)
+is_killer(target)
+is_thief(target)
+{All is_* functions return TRUE or FALSE, depending if they meet the req's}
+
+random(var) {returns value between 0 and var, inclusive}
+percent()   {returns a number between 0 and 100}
+continue
+
+operators:
+==
+>
+<
+*
+/
++
+-
+=
+++
+--
++=
+-=
+*=
+/=
+if(<argument>) ... endif
+if(<argument>) ... elseif ... elseif ... endif
+{If statements can be spread on several lines}
+
+defining mob_vars:
+bool <name>
+int  <name>
+string <name>
+timer <name>
+
+strings can be set using the = sign. Strings must be stored in ' ' quotes.
+To send commands to the mud interpreter, put them in " ". If you wish to
+send a variable to the mud interpreter, type "$varname" and the $varname
+will be replaced by the value in the variable. To put char vars in, just
+do a "$varname.name".
+
+the timer variable, once given a value, will continue to count down after
+each tick of the mud.
+
+NOTE: It would be neat to be able to assign mobprogs to PC's. Like a
+hypnotism spell.
+
+Format of Mobprog:
+
+#MOBPROGS
+#vnum - Coincides with the mobile. Mobile vnum 1234 will have a mobprog if
+this number is 1234.
+<var> - variable declarations. These are global to the mobile, so they can
+<var> - be accessed between triggers.
+<var>
+<var>
+~
+<trigger>~ - any trigger from the above. If the trigger doesn't exist,
+this is ignored.
+Statment - A statment, using any of the above items.
+.
+.
+.
+~
+<trigger>~
+Statment
+.
+.
+.
+~
+...
+#vnum
+...
+#0

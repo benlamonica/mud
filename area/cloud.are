@@ -1,0 +1,2862 @@
+#AREA   {60 90} Ellowyn The clouds of ecstasy~
+#MOBILES
+#13000
+red tail hawk~
+A red tail hawk~
+A huge red tail hawk glides though the air searching for its prey.
+~
+With a flash of its feathers the hawk swoops down and grabs on to its
+prey.  The wing span of the bird is about 5 feet, showing how strong and
+powerful it is.  The large talons come to razor sharp points.
+~
+hawk~
+ABGT NTV 500 S
+60 55 800d3+200 40d100+100 20d3+10 3
+-40 -40 -40 10
+DEFHKN AB C XYZ
+8 8 1 1000
+W 0 3 0
+#13001
+bald eagle bird~
+A bald eagle~
+A huge bird with a white head circles in the sky above.
+~
+The huge bald eagle gently glides through the air scanning the ground
+below for food.  His wings stretch over 6 feet wide, casting a shadow on
+the cloud.  The power of the eagle is underestimated by many.  His talons
+are huge and razor sharp.  Droplets of blood fall from his talons after
+he grasps his prey.
+~
+eagle~
+ABGT DHJNTV 300 S
+65 59 70d8+2000 100d20+15 25d3+2 3
+-30 -30 10 -30
+CDEFHLN AB C KP
+8 8 1 1500
+W 0 4 0
+#13002
+soul angel fallen spirit~
+A fallen angel~
+A not so holy spirit wanders past you with her head down in shame.
+~
+A fallen angel wanders about the heavens in hopes that someday she will
+be able to wear her halo again.  The aura about her body seems to be 
+fading as every minute passes.  Her robes are no longer the brilliant
+white they once used to be and have turned into a cream color.
+~
+human~
+AGOR BCDEFHJNU 200 S
+70 50 40d10+4000 100d2+100 20d4+10 19
+-20 5 -20 -20
+FN AB HIJ NPSY
+8 8 2 2000
+0 0 3 0
+#13003
+guardian keeper~
+The guardian~
+A large man, claiming to be the guardian, stands looking down upon you.
+~
+The guardian of the entrance to the city in the clouds is extremely large
+and powerful.  His hands seem to be bursting with strength and power.  You
+fear he could destroy you easily should he ever choose to do so.
+~
+human~
+BFT CDEFHNTZ 300 S
+70 60 50d4+6300 20d20+100 25d3+12 26
+-10 -10 -10 -10
+ABCDEFHIJKN L EFG GKZ
+8 8 1 2000
+0 0 4 0
+#13004
+boy child~
+A large boy~
+A fairly large boy wrestles with his friends to regain his title.
+~
+The boy seems determined to regain his title from the smaller
+boy.  He claims to have lost it unfairly and will stop at nothing
+to get it back.  The boy seems to be strong enough to do it, but
+the other must have been stronger to take it from him.
+~
+human~
+ABCT H 300 S
+62 55 222d2+2000 50d50+100 5d15+5 22
+-10 -10 -30 -10
+ACDIL AB CD JKN
+8 8 1 2000
+0 0 3 0
+#13005
+boy child~
+A fat boy~
+A fat boy is wrestling with a couple of his friends.
+~
+The boy is huge in size.  You would think that he must have
+the title between the children, but he doesn't.  He is so angry
+he doesn't have the title that he will stop only short of killing
+someone to get it back.  The boy is so large that his shirt does
+not cover his entire belly.
+~
+human~
+ABCGT NUV 300 S
+65 60 100d5+2700 20d20+100 8d16+8 13
+-30 -20 -10 -10
+ACDEIJLNO AB CD IKLMPQS
+8 8 1 3000
+0 0 5 0
+#13006
+man citizen~
+A citizen~
+A citizen of the city wanders by.
+~
+Wearing all white clothes, an average built man stops to say hello to you.
+He begins to tell the story of how the city was beginning to crumble
+because of the evil forces that have entered its walls.  The body of the
+man is not feeble, but is strong and powerful.  It is the body of a hard
+working man.
+~
+human~
+AGRT N 300 S
+75 60 100d4+3000 50d4+400 15d3+20 18
+-20 -14 -20 -10
+EFIN H BC ENO
+8 8 1 312
+0 0 3 0
+#13007
+woman citizen~
+A female citizen~
+A female citizen of the city is standing talking.
+~
+The woman is standing here talking like there is no tomorrow.
+She seems to have to tell you about everything and anything.  She
+talks as fast as she can with nothing really to say.  As you start
+to walk away from her, she grabs you and makes you talk some more.
+~
+human~
+ABS HNV 300 S
+80 70 100d9+3500 10d10+200 20d2+30 16
+-10 -20 -20 -20
+EFHIKN AB CD MN
+8 8 2 10000
+0 0 3 0
+#13008
+dog~
+A dog~
+A small dog runs around barking at anything and everything.
+~
+The dog is one of those dogs that you want to stick a sock
+in it's mouth.  It never seems to shut up.  It doesn't have a
+dog tag, so you have no idea whose it is.
+~
+fido~
+ABCGT HNV 300 S
+65 50 200d2+2000 20d20+10 10d5+10 10
+-30 -30 -30 -30
+H AB D C
+8 8 1 0
+0 0 3 0
+#13009
+man taker census~
+The census taker~
+A tall man stands here taking the towns cencus.
+~
+The man furiously writes down the names of all of the people who
+enter the city.  The book he writes the names down in is huge.  It
+has to be at least 1000 pages.  He is using a feathered pen and ink.
+Someone tries to walk past him without giving their name and the census
+taker draws his sword and places it against the man's neck.
+~
+human~
+ABCGT CDEFNUV 300 S
+90 70 300d5+6000 100d50+2 25d4+8 21
+-5 -40 -50 -12
+CDEFHN AB C FH
+8 8 1 5000
+0 0 3 0
+#13010
+man punishment~
+A large man~
+A large man stands waiting to open the gate to hell.
+~
+Looking at the man, you think he seems to enjoy sending people to their 
+death.  He has an evil look on his face almost as though he gains energy 
+from their deaths.
+~
+human~
+ABCT CDEFHM 300 S
+80 75 210d5+7000 50d50+100 20d5+10 9
+-20 -30 -20 10
+EJKO ABHK D IO
+8 8 1 2000
+0 0 3 0
+#13011
+medic man~
+A medic~
+A man trained in the power of healing stands over a hurt man.
+~
+The medic is healing a man who was injured in the games.  As
+you talk to the man, he tells you that he has had to help ten
+people so far in this one game.  He continues on about how
+dangerous the sport is but everyone still loves to play it.
+You ask him the name of the sport and he rattles off the name,
+but you couldn't understand him.
+~
+human~
+ABCGQ HNTUV 300 S
+94 90 500d3+3700 30d30+30 30d3+10 20
+-40 -40 -40 -40
+CDEFIJKL ABC D MXYZ
+8 8 1 6043
+0 0 3 0
+#13012
+man citizen~
+A citizen~
+A citizen of the city stands talking.
+~
+Wearing all white clothes, an average built man stops to say hello to you.
+The man tried to escape from the woman talking to him, but the woman
+keeps on talking to him.  The man whispers that she will never stop
+talking.  The body of the man is not feeble, but is strong and 
+powerful.  It is the body of a hard working man.
+~
+human~
+AGRT N 300 S
+80 60 100d4+3000 50d4+400 15d3+20 18
+-20 -14 -20 -10
+EFIN H BC ENO
+8 8 1 3123
+0 0 3 0
+#13016
+citizen woman lady~
+A large woman~
+A large woman stands in the middle of the street talking to herself.
+~
+The woman is very well fed.  She looks to be a very strong woman
+with nothing much to live for.  Her clothes are ratty and old and she
+look tired.  Although her outward apperance is weak, her inner strength
+seems to be strong.
+~
+human~
+BCR NTV 200 S
+75 69 195d7+3100 100d2+200 15d6+6 13
+-20 -10 -30 -50
+DEHJK ABQ CD NXYZ
+8 8 2 3000
+0 0 3 0
+#13019
+butcher al~
+Al the Butcher~
+Al the Butcher stands over a carcass cutting it up.
+~
+A huge man stands here cutting his meat for sales.  As you look at him
+he turns and grunts at you then goes back to cutting the meat.  His
+counters are filled with meat and other items to tempt your taste buds.
+~
+human~
+ABGT 0 300 S
+199 100 1d1+1000 1d1+1000 100d100+1000 7
+-90 -90 -90 -90
+N ABCD 0 0
+8 8 1 1000
+0 0 4 0
+#13020
+boy child~
+A small boy~
+A small boy is here wrestling with his friends.
+~
+A small but extremely strong boy is wrestling with his friends.
+Although he is the smallest of the three, he seems to be the one who has
+won the most.  He is wearing a belt indicating he is the world champion.
+Although the belt seems to be made from cardboard, it still means a lot
+to him.
+~
+human~
+ABCFGT CDEFNQ 300 S
+60 50 100d2+2000 20d20+500 10d8+10 18
+-20 -20 -20 -20
+ABCDEFGHIJKNO ABM C FIN
+8 8 1 1000
+0 0 2 0
+#13024
+mother lady~
+A worried mother~
+A worried mother stands at the bottom of the hill watching.
+~
+The mother seems concerned for some reason as her son runs
+up the hill only to roll right back down.  As you talk to her,
+you realize that there is evil lurking beyond the top of the
+hill and the mother is only protecting her kin.
+~
+human~
+ABS HNV 300 S
+85 70 100d9+3800 10d10+200 20d2+30 16
+-10 -20 -20 -20
+EFHIKN AB CD MN
+8 8 2 1000
+0 0 3 0
+#13025
+woman lady angry~
+An angry woman~
+An woman stands here shouting about her boyfriend.
+~
+The woman seems to have a problem with everything in the
+world around here.  Nothing has ever gone right for the woman
+or does she believe that it ever will go right.  She is angry
+with everything and anything.  As you try to calm her down she
+takes a swing at you, misses, and falls to the ground in tears.
+~
+human~
+ABCFT DHNUZ 300 S
+78 60 200d4+2700 20d20+100 10d10+2 27
+-30 -30 -20 -30
+ABCEFI AB CD HK
+8 8 2 7000
+0 0 3 0
+#13026
+boyfriend man~
+An upset man~
+A man sits on the ground sobbing to himself about his girlfriend.
+~
+The man seems to be upset over his girlfriend who has gone
+mad.  He tells you of how she was cast out of the city for
+something she didn't even do.  When she came back to the city
+she had to run around so nobody could see her.  He sobs quietly
+as he continues.  Now the two are broken up and he can't do
+anything to get her back.
+~
+human~
+ABT HQU 300 S
+80 60 220d2+3000 20d20+50 15d4+22 20
+-40 -40 -40 -40
+CDEFIJKN A CD KN
+6 6 1 2000
+0 0 3 0
+#13029
+mayor~
+The mayor of the city~
+The mayor of the city of ecstasy paces about the room.
+~
+The mayor of the city seems to be worried about something
+that is happening in the world around him.  He has been pacing
+so much that the cloud has been worn down and there is a small
+rut.  The mayor is quite well dressed.  He has a nice suit and
+tie.
+~
+human~
+ABT HJNTUVZ 300 S
+100 100 200d3+9000 20d20+300 50d2+10 18
+-30 -30 -30 -30
+CDEFHIJKLNO ABEHLMOPQRS CD KY
+8 8 1 10000
+0 0 3 0
+#13030
+secretary woman~
+The secretary~
+The rear entrance secretary looks up as you walk into the room.
+~
+The secretary seems to have everything in the room in perfect
+order.  There is not a speck of dust in the room or a magazine
+that is out of place.  Her desk is spotless and the work she
+is doing is organized in front of her.
+~
+human~
+ABCGT NV 300 S
+65 50 100d2+2000 50d50+40 10d5+20 16
+-10 -10 -10 -10
+DEFHIJN ABE CD N
+6 6 2 1000
+0 0 3 0
+#13031
+man citizen~
+A citizen~
+A citizen of the city stands talking.
+~
+Wearing all white clothes, an average built man stops to say hello to you.
+The man tried to escape from the woman talking to him, but the woman
+keeps on talking to him.  The man whispers that she will never stop
+talking.  The body of the man is not feeble, but is strong and 
+powerful.  It is the body of a hard working man.
+~
+human~
+AGR N 300 S
+79 60 100d4+3000 50d4+400 15d3+20 18
+-20 -14 -20 -10
+EFIN H BC ENO
+8 8 1 3123
+0 0 3 0
+#13032
+secretary woman~
+A secretary~
+The secretary of the main entrance to the mayor's office says hi.
+~
+The woman is very friendly and curious.  She doesn't seem to
+have everything in order though.  Her desk is covered in papers
+and other things she has to get done.  She strikes up a 
+conversation with you as you take a seat in the waiting room.
+She asks you questions about why you have come to the city and if
+you like it or not.  You humor her and answer them.
+~
+human~
+ABCGT NV 300 S
+67 50 100d2+2000 50d50+40 10d5+22 16
+-20 -20 -20 -20
+DEFHIJN ABE CD N
+6 6 2 1000
+0 0 3 0
+#13033
+stock worker clerk boy~
+A stock clerk~
+A boy feverishly works to keep the boxes in order.
+~
+The boy seems to have so much work to do and he seems to
+think that he will never get it all done.  He rushes from here
+to there almost in a panic that if everything is not perfect 
+by then end of the day that he will not have a job the next day.
+~
+human~
+ABCGT HTV 300 S
+78 60 300d3+3000 50d50+20 17d4+10 26
+-20 -20 -20 -20
+CDEFGHIJKLNO AB CD HJ
+8 8 2 1000
+0 0 3 0
+#13035
+man michael~
+Michael~
+A man rests in the corner of the room hoping nobody will see him.
+~
+   Michael is a strong man who looks a little wounded.  He is
+sitting in the corner as blood runs down his face.  There is a
+small hole in his head.  The wound looks like a dagger wound
+from a knife fight.  You ask if you can help him, but he refuses
+and turns his back on you.
+~
+human~
+ABCGT HNQ 300 S
+95 90 500d2+6000 50d50+20 20d3+30 6 
+-40 -30 -40 -30
+CDEFGHIJKLNO AB CD FY
+6 6 1 2352
+0 0 3 0
+#13036
+man citizen~
+A citizen~
+A citizen of the city stands talking.
+~
+Wearing all white clothes, an average built man stops to say hello to you.
+He begins to ask you questions as to where you are from and how long
+you will be in the city.  Everyone seems to wonder why you have come
+to their city and they all want to know when you are leaving.
+~
+human~
+AGT N 300 S
+85 70 100d4+3020 50d4+400 15d4+20 18
+-20 -14 -20 -10
+EFIN ABH C ENO
+8 8 1 3123
+0 0 3 0
+#13042
+figure man shadow~
+A shadowy figure~
+A figure lurks amongst the shadows of the room.
+~
+The shadowy figure seems to be extremely powerful and a
+master of magic.  As you look at him, a shroud of blackness
+envelopes him so you can't see anything else.
+~
+human~
+ABDGR BHNQV 300 S
+97 90 300d3+4000 30d30+20 20d3+20 19
+-40 -40 -40 -40
+DEFGHIJKLNO ABC D XYZ
+8 8 1 7435
+0 0 4 0
+#13043
+dog~
+A dog~
+A small dog runs around barking at anything and everything.
+~
+The dog is one of those dogs that you want to stick a sock
+in it's mouth.  It seems to never shut up.  It doesn't have a
+dog tag, so you have no idea whose it is.
+~
+fido~
+ABCGT HNV 300 S
+65 50 200d2+2000 20d20+10 10d5+10 10
+-30 -30 -30 -30
+H AB D C
+8 8 1 0
+0 0 3 0
+#13044
+cat~
+A cat~
+A furry little cat runs away in terror from you.
+~
+The cat seems to be afraid of anything that moves.  As you
+walk towards it, it runs away as fast as it can.  The grey and
+white stripes on the cat make it easy to find against the white
+background of the clouds.
+~
+fido~
+ABCGT HNV 300 S
+66 50 200d2+2050 20d20+10 10d5+15 10
+-30 -30 -30 -30
+H AB D C
+8 8 1 0
+0 0 3 0
+#13045
+player man~
+A player~
+A man lies on the ground in pain as he is hurt in the game.
+~
+   The man doubles over in pain as he is hurt in the game.
+The other players all run off except one who stays to stand
+by the hurt man.  You wonder if you can do anything to help
+the injured man, but as you step on to the field, someone
+tells you not to do anything and that he would be ok.
+~
+human~
+ABGT H 300 S
+87 70 400d3+3500 20d20+50 30d2+25 32
+-30 -30 -30 -5
+CDEFIJNO AB CD NO
+8 8 1 3000
+0 0 3 0
+#13047
+cloaked man figure~
+A cloaked figure~
+A cloaked figure seems to be looking for something in the shadows.
+~
+The man seems to be searching for something.  As you try to talk
+to the man, he disappears into nothing.  You search around the street
+for him, but he is gone from sight.
+~
+human~
+ABGOQ BHNQTUVZaa 300 S
+96 85 700d2+4300 50d50+30 10d7+30 18
+-40 -40 -40 -40
+CDEFGHIJKLNO AB CD NQ
+8 8 1 2302
+0 0 4 0
+#13050
+man citizen~
+A citizen~
+A citizen of the city stands talking.
+~
+Wearing all white clothes, an average built man stops to say hello to you.
+He begins to ask you questions as to where you are from and how long
+you will be in the city.  Everyone seems to wonder why you have come
+to their city and they all want to know when you are leaving.
+~
+human~
+AGRT N 300 S
+85 70 100d4+3020 50d4+400 15d4+20 18
+-20 -14 -20 -10
+EFIN ABH C ENO
+8 8 1 3123
+0 0 3 0
+#13052
+woman citizen~
+A female citizen~
+A female citizen of the city is standing talking.
+~
+The woman is standing here talking like there is no tomorrow.
+She seems to have to tell you about everything and anything.  She
+talks as fast as she can with nothing really to say.  As you start
+to walk away from her, she grabs you and makes you talk some more.
+~
+human~
+ABS HNV 300 S
+80 70 100d9+3500 10d10+200 20d2+30 16
+-10 -20 -20 -20
+EFHIKN ABG CD MN
+8 8 2 1000
+0 0 3 0
+#13053
+mother woman~
+The mother of the family~
+A woman throws a shoe screaming 'Get back to studying!'
+~
+The woman is upset with her son for not studying and
+playing out in the park with his friends.  She offers you
+a cup of coffee and a place to relax.  Although she is nice
+to you, you realize you don't want to be on her bad side.
+~
+human~
+ABCGT HNV 300 S
+97 90 400d3+5000 50d50+30 30d4+4 16
+-30 -30 -30 -30
+BCDEFGHIJKN AB CD KX
+8 8 2 6969
+0 0 3 0
+#13054
+woman citizen~
+A female citizen~
+A female citizen of the city is standing talking.
+~
+The woman is standing here talking like there is no tomorrow.
+She seems to have to tell you about everything and anything.  She
+talks as fast as she can with nothing really to say.  As you start
+to walk away from her, she grabs you and makes you talk some more.
+~
+human~
+ABS HNV 300 S
+85 79 100d9+3550 10d10+200 23d2+30 16
+-20 -30 -30 -30
+EFHIKN ABG CD MN
+8 8 2 1000
+0 0 3 0
+#13056
+mother woman~
+The mother of the house~
+A mother of the house rests in the chair listen to the piano.
+~
+The woman rests while her daughter practices on the piano.
+As soon as the child makes a mistake, she corrects the child and makes 
+sure the child repeats that section until she gets it right.  The mother 
+seems to be at peace with everything around her.
+~
+human~
+ABCGT NTUV 300 S
+80 65 300d3+3000 40d40+20 13d3+40 23
+-30 -30 -30 -30
+CDEFHIJKL AB CD HKZ
+8 8 2 3000
+0 0 3 0
+#13058
+jimmy man~
+Jimmy~
+A strong man is fighting his way to the top of the hill.
+~
+Jimmy is a strong man who only wants to be the king of the
+hill.  He is almost to the top, but he has one man left to
+kill before he is the king.  He tells you about how he fought
+ten men to get where he is now, not to mention many before that.
+~
+human~
+ABCFS DHNTUV 300 S
+99 95 500d3+11000 50d50+30 20d4+30 18
+-40 -40 -40 -40
+BCDEFKI ABK CD KQXY
+8 8 1 2000
+0 0 4 0
+#13059
+king man~
+The king of the hill~
+A huge man stands on the top of the hill strutting his stuff.
+~
+This man is definitely the king of the hill.  He is huge.  You
+begin to wonder if anything could kill him.  There is not a
+scratch on his entire body.  You begin to talk to him, and he
+tells you about the hundreds of men who have tried to kill him,
+but all have failed.
+~
+human~
+ABCT HJNTUVZ 300 S
+100 95 500d3+8000 50d50+30 25d4+25 20
+-50 -50 -50 -50
+CDEFIJN AB CD HXZ
+8 8 1 6000
+0 0 5 0
+#0
+#OBJECTS
+#13000
+talons hawk~
+A pair of talons from a hawk~
+A set of razor sharp talons lies on the ground.
+~
+flesh~
+9 J AG
+15 17 12 20 12
+65 2 1212 0
+A
+1 3
+A
+19 3
+#13001
+white spot~
+A white spot from a bald eagle~
+The white feathers from the head of a bald eagle rest on the ground.
+~
+feathers~
+9 J AE
+15 15 15 15 15
+65 2 3000 0
+A
+3 2
+A
+4 1
+#13002
+axe guardian~
+The axe of the guardian~
+The axe of the guardian of the city lies on the ground.
+~
+steel~
+5 ABJ AN
+0 10 9 8 D
+80 20 20000 0
+A
+18 5
+A
+19 3
+#13003
+halo tarnished~
+A tarnished halo~
+A tarnished golden halo lies on the ground.
+~
+gold~
+9 AJ AE
+14 14 14 12 15
+70 3 2000 0
+A
+4 2
+A
+5 3
+#13004
+sac~
+A glittering sac~
+A sturdy glittering sac lies on the ground.
+~
+cotton~
+15 AJ AL
+1000 0 0 0 0
+70 10 3212 0
+#13005
+book ledger~
+A ledger of names~
+The ledger of the names of all who have entered the city is here.
+~
+paper~
+2 AJ AO
+60 53 0 0 0
+80 20 2000 0
+#13006
+robe white~
+A white robe~
+A solid white robe lies on the ground.
+~
+cloth~
+9 AJ AD
+15 15 20 15 15
+75 7 15000 0
+A          
+13 10
+A
+18 2
+#13007
+feathered pen~
+A feathered pen~
+A large white feather with a dot of ink at the end lies on the ground.
+~
+feather~
+9 AJ AO
+13 14 12 15 11
+80 3 2000 0
+A
+3 3
+#13008
+robe bath~
+A bath robe~
+A nice soft fluffy bath robe lies on the ground.
+~
+cotton~
+9 AJ AK
+15 20 14 30 10
+85 4 2323 0
+#13009
+neck tie~
+A silk tie~
+A nice silk tie is sitting on the ground.
+~
+silk~
+9 AJ AC
+20 20 20 20 20
+100 2 32000 0
+A
+13 25
+A
+18 3
+#13010
+suit georgio armanni~
+A Georgio Armanni suit~
+A beautifully made suit rests on the ground.
+~
+silk~
+9 ABGJ AK
+25 25 25 25 0
+100 10 32340 0
+A
+2 1
+A
+12 30
+A
+13 10
+A
+23 -7
+#13011
+spectacles glasses~
+A pair of glasses~
+A small pair of reading glasses lies on the ground.
+~
+plastic~
+9 J AE
+23 23 23 23 23
+100 2 3123 0
+A
+3 3
+A
+24 -10
+#13012
+cup coffee~
+A cup of coffee~
+A strong cup of coffee rests on the ground.
+~
+plastic~
+10 ABJ A
+75 28 28 0 0
+75 2 131 0
+#13013
+belt champion~
+The wrestling champion of the world belt~
+A belt made of cardboard lies on the ground.
+~
+cardboard~
+9 ABJ AL
+20 20 20 20 0
+70 3 230 0
+A
+1 1
+#13014
+sword king hill~
+The king of the hill's sword~
+A long sword with an inscription on it.
+~
+silver~
+5 ABJM AN
+1 10 9 18 D 
+100 20 21232 0
+A
+18 5
+A
+19 6
+#13015
+pants gold jeans~
+A pair of gold jeans~
+A pair of jeans that have been painted gold are resting on the ground.
+~
+denim~
+9 AGJ AF
+25 25 25 25 0
+100 4 2320 0
+A
+13 10
+A
+18 3
+#13016
+chain gold~
+A broken gold chain~
+A broken gold chain rests on the ground.
+~
+gold~
+9 ABGIJ AM
+20 20 20 20 0
+100 5 12320 0
+A
+18 3
+A
+19 2
+#13017
+bandage healing~
+A blood bandage~
+A blood bandage soaks up blood on the ground.
+~
+cotton~
+26 ABJ AO
+100 63 63 63 0
+100 2 34340 0
+#13018
+shirt blood~
+A blood stained shirt~
+A blood stained shirt is crumpled up on the ground.
+~
+cotton~
+9 ABJ AD
+20 20 20 20 0
+100 10 2343 0
+A
+18 4
+A
+23 -5
+#13019
+leggings plated iron~
+A pair of iron plated leggings~
+A rusted pair of leggings lie on the ground.
+~
+iron~
+9 AJ AF
+25 25 25 25 0
+100 25 3234 0
+A
+1 3
+A
+13 10
+A
+24 -5
+#13020
+helmet guardian~
+The helmet of the guardian~
+A large strong helmet lies on the ground.
+~
+steel~
+9 BJ AE
+15 15 15 15 0
+70 4 2343 0
+A
+17 -10
+A
+21 -5
+#13021
+shirt white~
+A white shirt~
+A white shirt is getting dirty on the ground.
+~
+cotton~
+9 AEJ AD
+13 13 13 13 0
+68 4 2310 0
+#13022
+twinkie~
+A twinkie~
+A golden yellow cake with white filling lies on the ground.
+~
+food~
+26 J AO
+50 68 53 53 0
+68 1 8500 0
+#13023
+robe white~
+A white wrinkled robe~
+A solid white robe lies on the ground.
+~
+cloth~
+9 AJ AD
+15 15 20 15 0
+75 7 15000 0
+#13024
+long robe~
+A long white robe with stripes~
+A long gown stretches to the floor and rests on the ground.
+~
+cotton~
+9 BJ AK
+23 23 23 23 0
+90 10 1232 0
+A
+3 3
+A
+13 20
+#13025
+axe chopping~
+An axe used to chop heads off~
+A huge axe rests on the ground with blood dripping from its blade.
+~
+silver~
+5 ABEGJM AN
+5 7 14 25 D
+80 20 12100 0
+A
+13 10
+A
+18 5
+A
+19 3
+#13026
+blood stained rag~
+A blood stained rag~
+A rag covered in blood lies on the ground.
+~
+cotton~
+9 AJ AO
+20 20 20 20 0
+80 3 120 0
+#13027
+medkit medical kit~
+A medical kit~
+A small box with supplies to help injured people rests on the ground.
+~
+steel~
+4 AJ AO
+90 5 5 28 0
+94 5 12340 0
+#13028
+gloves rubber~
+A pair of rubber gloves~
+A pair of blood stained sanitary gloves rests on the ground.
+~
+plastic~
+9 J AH
+23 23 23 23 0
+94 10 23020 0
+A
+12 25
+A
+13 10
+#13029
+steak venison~
+A venison steak~
+A steak covered in blood rests on the floor.
+~
+food~
+19 J A0
+20 0 0 0 0
+50 3 120 0
+#13030
+chicken whole~
+A whole chicken~
+An entire chicken minus the hand rests on the ground.
+~
+food~
+19 J AO
+25 0 0 0 0
+50 3 150 0
+#13031
+cow tongue~
+A piece of a cow's tongue~
+A piece of a cow's tongue has been cut off and is sitting on the floor.
+~
+food~
+19 J AO
+10 0 0 0 0
+50 3 90 0
+#13032
+slab ribs~
+A slab of ribs~
+A beautifully cut slab of ribs rests on the ground.
+~
+food~
+19 J AO
+30 0 0 0 0
+50 5 200 0
+#13033
+breast chicken~
+A chicken breast~
+The breast of a chicken gathers flies on the ground.
+~
+food~
+19 J AO
+5 0 0 0 0
+50 2 60 0
+#13034
+dress woman plaid~
+A plaid dress~
+A red and black plaid dress is crumpled up in the corner.
+~
+cotton~
+9 AJ AF
+24 21 23 20 25
+85 10 1230 0
+A
+3 -2
+A
+18 4
+#13035
+white blouse~
+A white blouse~
+A long sleeve blouse rests on the ground.
+~
+cotton~
+9 AGJ AD
+23 23 20 30 20
+85 15 10232 0
+A
+18 3
+#13036
+clip hair~
+A hair clip~
+A small clip used in a woman's hair rests on the ground.
+~
+metal~
+9 J AE
+12 12 12 12 12
+85 3 1200 0
+#13037
+frame picture~
+A small picture frame~
+A wooden picture frame with no picture in it rests on the ground.
+~
+wood~
+9 AMJ AO
+14 14 14 14 14
+85 4 102 0
+A
+4 -2
+A
+5 -3
+#13038
+body suit white~
+A white body suit~
+A tight fitting white body suit rests on the ground.
+~
+cotton~
+9 ABJ AK
+18 20 16 16 20
+85 5 10202 0
+A
+18 3
+A
+24 -5
+#13039
+necklace silver~
+A silver necklace~
+A small silver chain is in a ball on the floor.
+~
+silver~
+9 J AC
+20 17 19 17 20
+85 10 12032 0
+A
+13 20
+A
+18 5
+#13040
+kleenex tissue~
+A white tissue~
+A slightly soiled kleenex lies on the ground.
+~
+cotton~
+9 J AO
+9 9 9 9 9
+80 1 100 0
+#13041
+watch digital~
+A digital watch~
+A broken watch rests on the ground under a branch.
+~
+plastic~
+9 BJ AM
+17 17 20 20 13
+80 10 2321 0
+A
+13 3
+A
+24 -5
+#13042
+leather belt~
+A braided leather belt~
+A belt made of strips of leather is resting on the ground.
+~
+leather~
+9 J AL
+19 17 19 20 22
+80 5 1232 0
+A
+13 5
+A
+18 2
+#13043
+pencil paper~
+A pencil and paper~
+A small pad of paper and a pencil rest on the floor.
+~
+paper~
+9 J AO
+13 13 12 13 12
+65 4 100 0
+#13044
+dress~
+A long white dress~
+A beautiful full length white dress rests on the floor.
+~
+cotton~
+9 GJ AF
+16 18 12 17 15
+65 19 2391 0
+#13045
+pen paper~
+A pen and paper~
+A small pad of paper and a pen rest on the ground.
+~
+paper~
+2 J AO
+60 31 53 0 0
+64 5 100 0
+#13046
+pair white pants~
+A pair of white dress pants~
+A pair of womens' white dress pants are in a ball on the floor.
+~
+cotton~
+9 J AF
+13 14 15 13 13
+67 15 1202 0
+#13047
+list paper~
+A list of the objects in the room~
+A long list of all of the objects in the storage room is on the floor.
+~
+paper~
+2 J AO
+70 38 68 4 0
+78 3 100 0
+#13048
+hat baseball~
+An Indians baseball hat~
+A Cleveland Indians baseball hat lies on the ground.
+~
+wool~
+9 AJ AE
+13 14 14 13 13
+78 14 10230 0
+A
+1 2
+A
+18 3
+#13049
+sandals white~
+A pair of white sandals~
+An well crafted pair of sandals rests on the ground.
+~
+leather~
+9 ABGJ AG
+23 23 23 23 23
+95 14 10000 0
+A
+18 3
+A
+19 3
+A
+34 -1
+#13050
+cloak shadow~
+A full length shadow cloak~
+A cloak which seems to absorb all the light rests on the ground.
+~
+cotton~
+9 ABFGJ AK
+24 24 24 24 24
+97 20 12032 0
+A
+13 10
+A
+18 4
+A
+29 -1
+#13051
+blade steel~
+A blade of steel~
+A strong and mighty blade of steel rests on the ground.
+~
+iron~
+5 ABFHJM AN
+0 8 12 19 D
+97 23 20120 0
+A
+1 2
+A
+18 5
+A
+19 4
+#13052
+strip cloth black~
+A strip of black cloth~
+A long strip of black cloth is in a ball on the floor.
+~
+cloth~
+9 FJ AI
+22 23 22 21 0
+97 4 1020 0
+A
+23 -10
+#13054
+cleats shoes~
+A pair of cleats~
+A size ten pair of sports cleats rests in the dirt.
+~
+leather~
+9 AJ AG
+20 19 22 20 16
+87 15 1023 0
+A
+12 20
+A
+18 3
+#13055
+gloves leather~
+A pair of leather gloves~
+A small pair of leather gloves often worn while playing ball are here.
+~
+leather~
+9 AJ AH
+18 20 22 20 20
+87 15 2003 0
+A
+1 2
+A
+18 4
+#13056
+dark cloak~
+A dark cloak~
+A cloak that seems to make someone fade out of existance.
+~
+cotton~
+9 AFJ AC
+24 24 23 23 24
+96 20 10300 0
+A
+13 5
+A
+18 5
+A
+27 -1
+#13057
+ring spider~
+A small ring with a spider engraved on it~
+A black ring with a carving of a black widow spider on it rests here.
+~
+marble~
+9 AFJ AB
+23 20 21 22 20
+96 14 20120 0
+A
+12 20
+A
+18 4
+#13058
+ruby staff~
+A ruby staff~
+A large staff with a ruby on the top of it rests here.
+~
+steel~
+4 AFJ AO
+50 5 5 28 0
+96 5 1020 0
+#13059
+energy weak men~
+The energy of weak men~
+A blade of energy seems to draw power from the souls of men.
+~
+silver~
+5 AFJ AN
+0 16 5 18 D
+96 30 10320 0
+A
+18 5
+A
+19 6
+#13060
+shoe wooden~
+A wooden shoe~
+A small wooden shoe rests here without its mate.
+~
+wood~
+9 J AO
+25 23 23 24 0
+97 10 10203 0
+A
+18 5
+A
+24 -5
+#16535
+cloud black small~
+A small black rain cloud~
+A small black rain cloud is bursting with water.
+~
+stone~
+25 0 0
+1000 1000 0 0 0
+1 0 0 0
+#16536
+bandana white~
+A white bandana~
+A square shaped white bandana rests on the ground.
+~
+cotton~
+9 ABJ AC
+24 24 23 23 24
+97 3 1002 0
+A
+1 2
+A
+18 4
+#16537
+blanket wool~
+A wool blanket~
+A soft and fuzzy blanket rests on the ground.
+~
+wool~
+9 AJ AF
+27 23 23 13 23
+97 20 20030 0
+A
+14 -50
+A
+18 3
+A
+23 -5
+A
+24 -5
+#16538
+sweater wool~
+A sleeveless wool vest~
+A warm vest rests on the ground.
+~
+wool~
+9 AJ AD
+22 22 22 22 22
+97 20 2032 0
+A
+21 -10
+#16539
+human sharpened bone~
+A sharpened human bone~
+A white bone of a human has been sharpened to a point lies here.
+~
+bone~
+5 ABHJM AN
+0 9 10 8 D
+99 25 20010 0
+A
+13 10
+A
+18 5
+A
+19 6
+#16540
+golden wedding ring~
+A golden wedding band~
+A small band of gold glistens in the sunlight.
+~
+gold~
+9 ABJ AB
+24 24 24 24 24
+99 5 23003 0
+A
+4 2
+A
+13 5
+A
+18 3
+#0
+#ROOMS
+#13000
+Cloud 1~
+    As you come through the tree branches and crawl up on to the cloud you 
+begin to feel as though you have less worries.  The sky opens up before you as
+you look across the land.  A gentle wind moves you around though the air, but
+you don't feel as though you are moving at all.
+~
+0 0 9
+D4
+You can only see thick white clouds up.
+~
+~
+0 0 13001
+D5
+Branches of a tree block your view downward.
+~
+~
+0 0 16499
+S
+#13001
+Cloud 2~
+    You are standing in a thick white cloud.  Your view of the world is hazy
+from the thickness of the cloud.  As the wind shifts you can see parts of the
+unknown world through small breaks in the clouds.  The cloud is constantly
+moving, making you feel uneasy and unsure if you are really safe.  The
+temperature is getting cooler the higher you travel.
+~
+0 0 9
+D4
+As you poke a hole in the cloud you can only see more clouds upwards.
+~
+~
+0 0 13002
+D5
+As you poke a hole in the cloud you can only see more clouds downwards.
+~
+~
+0 0 13000
+S
+#13002
+Cloud 3~
+    You are getting more and more relaxed the higher you climb in the clouds.
+All of your fears and troubles seem less important and are not eating 
+away at you any longer.  The clouds are damp with moisture.  The brilliant
+white color of the clouds is almost blinding when the sun's rays invade the
+solitude of the cloud.
+~
+0 0 9
+D4
+As you poke a hole in the cloud you can only see more clouds upwards.
+~
+~
+0 0 13003
+D5
+As you poke a hole in the cloud you can only see more clouds downwards.
+~
+~
+0 0 13001
+S
+#13003
+Cloud 4~
+    A small cloud sits upon the cloud you are standing on.  It almost looks
+as though the smaller cloud is a house for something.  The small cloud is
+darker in color and makes you believe there to be anger and fury inside of
+it.  As the wind shifts you can look out across the landscape.  The mountains
+and forests in the distance help you to realize just how far above the world
+you are.
+~
+0 0 9
+D4
+As you poke a hole in the cloud you can only see more clouds upwards.
+~
+~
+0 0 13004
+D5
+As you poke a hole in the cloud you can only see more clouds downwards.
+~
+~
+0 0 13002
+E
+cloud house~
+The cloud is in the shape of a guard house of the guardian of the land of the
+clouds.
+~
+S
+#13004
+Cloud 5~
+    The clouds shift and arch to form a gateway.  There is no sign or    
+anything to help you figure out where you are or where you are headed.  Even
+so, you don't have any concerns with continuing on.  The clouds give with 
+each step you take.
+~
+0 0 9
+D4
+Through the gate you can only see more clouds.
+~
+~
+0 0 13005
+D5
+As you poke a hole in the cloud you can only see more clouds downward.
+~
+~
+0 0 13003
+E
+arch cloud~
+A brilliant white archway made of clouds welcomes you to the paradise of the
+heavens.
+~
+S
+#13005
+Cloud 6~
+    The clouds flatten out and look almost like a road.  You can see foot
+prints in the clouds which leads you to believe others have been here before
+you.  The wind is no longer a factor at this height and the clouds remain
+stationary.  The temperature is so cold that you no longer feel cold, but a
+warm glow resides over you.
+~
+0 0 9
+D4
+The path continues upwards deeper into the clouds.
+~
+~
+0 0 13006
+D5
+A huge archway lies downward.
+~
+~
+0 0 13004
+S
+#13006
+Cloud 7~
+    You feel at peace with the world and everything about it.  You are
+growing short of breath from being so high up.  The air is very thin and
+lacks oxygen.  There is a small bench here for you to rest on.  The path
+is well traveled.
+~
+0 0 9
+D4
+The path continues upwards deeper into the clouds.
+~
+~
+0 0 13007
+D5
+The path continues downwards into the clouds.
+~
+~
+0 0 13005
+E
+bench~
+A small cloud looks like a bench for you to rest upon.
+~
+S
+#13007
+Cloud 8~
+    The constant movement in the cold temperature makes your body ache in
+pain.  Although you hurt, there is some inner force driving you to move 
+onward towards something, but you don't quite know what.  The cloud you 
+are standing on is no longer flat, but is sheer.  You press your hand
+against it and realize the cloud is like marshmallow.
+~
+0 0 9
+D4
+The path continues upwards deeper into the clouds.
+~
+~
+0 0 13008
+D5
+The path continues downward into the clouds.
+~
+~
+0 0 13006
+S
+#13008
+Cloud 9~
+    As you pull your body over the top of the cloud you look upon a city made
+of clouds.  The air is no longer thin, but it is rich in oxygen.  The bone
+chilling cold you had endured has suddenly become a pleasant temperature.
+The sun shines down brightly upon the city illuminating it with a glow of 
+warmth and relaxation.  You are in complete ecstasy.
+~
+0 0 9
+D0
+The small booth lies to the north.
+~
+~
+0 0 13009
+D5
+The path continues downward through the clouds.
+~
+~
+0 0 13007
+S
+#13009
+The census taker booth~
+    The well traveled path takes you to a small booth where the census of the
+city is taken.  Everyone must register with the city before they are allowed
+to proceed into the city any further.  You can't find any problems with
+anything in the world you have traveled to.
+~
+0 0 9
+D0
+The city opens before your eyes to the north.
+~
+~
+0 0 13012
+D2
+The path out of the city lies to the south.
+~
+~
+0 0 13008
+D3
+The punishment chamber lies to the west.
+~
+~
+0 0 13010
+S
+#13010
+The punishment chamber~
+    The walls of the room are one huge black cloud enshrouded amongst
+the white clouds of the sky.  A small cloud forms a desk where a stack of
+papers rest.  You get the feeling that you really don't want to be sent here.
+You can hear the screams of people from below.  As you look down, you can
+only see the flames of hell.
+~
+0 0 9
+D1
+A small booth lies to the east.
+~
+~
+0 0 13009
+S
+#13011
+A path in the city of ecstasy~
+    Standing at the foot of a large stairwell you can see people conversing
+at the top.  The cloud looks almost exactly like a marble staircase, so
+much so you begin to forget you are floating in the sky.  A small dog buries
+a bone in the cloud, but digs too far and falls through.
+~
+0 0 9
+D0
+The path leads you northward.
+~
+~
+0 0 13014
+D4
+A top the staircase you can see people talking.
+~
+~
+0 0 13031
+S
+#13012
+A path in the city of ecstasy~
+    Just beyond the census taker booth, you stand in awe.  The city you are
+looking upon is made completely of clouds.  You can see no metal or wooden
+structures.  Houses are made completely from the clouds in the sky.  People
+walk through the streets without a care in the world.  You can't see any
+forests or anything to produce food, only clouds, yet the people seem to be
+in complete ecstasy.
+~
+0 0 9
+D2
+A man stands to the south.
+~
+~
+0 0 13009
+D3
+The path within the city lead westward.
+~
+~
+0 0 13013
+S
+#13013
+A corner of the path of ecstasy~
+    You have come to a corner on the path through the city in the clouds.
+The sheer white wall of cloud blocks your view to the west and south.  You
+can't feel the clouds moving at all.  Sometimes you begin to wonder if you
+are really in the clouds.  A small cat darts past you scaring you.  The cat
+seems to be chasing a small cloud being blown about in the breeze.
+~
+0 0 9
+D0
+The path within the city leads you northward.
+~
+~
+0 0 13016
+D1
+The path within the city leads you eastward.
+~
+~
+0 0 13012
+S
+#13014
+At the bottom of a ladder made of a cloud~
+   You have come to another corner within the city.  In the corner you see
+a ladder leading upward.  You begin to wonder where the ladder leads to
+but for some reason you have no sense of urgency to find out.  The wind 
+begins to pick up, blowing small clouds past you.  With the breeze the sun's
+rays penetrate the clouds illuminating the street.
+~
+0 0 9
+D2
+The path within the city leads you southward.
+~
+~
+0 0 13011
+D3
+The path within the city leads you westward.
+~
+~
+0 0 13015
+D4
+The ladder appears to lead you to another street upwards.
+~
+~
+0 0 13036
+S
+#13015
+A T-crossing in the city streets~
+    In the vast opening of the intersection you can see streets leading off
+in many directions.  You look above you, but the clouds block your view.
+The intersection seems as though it would be a good place to hold a 
+demonstration or to listen to a speaker.  You can see a poster on the side
+of one of the clouds.
+~
+0 0 9
+D0
+The path within the city leads you northward.
+~
+~
+0 0 13019
+D1
+The path within the city leads you eastward.
+~
+~
+0 0 13014
+D3
+The path within the city leads you westward.
+~
+~
+0 0 13016
+E
+poster~
+Friday at 8:45 pm there will be a meeting of the city of ecstacy.  This
+is just going to be an informational meeting.  No real business.
+~
+S
+#13016
+A path in the city of ecstacy~
+   You stand on another well worn path in the city of ecstacy.  Thick white
+clouds surround you as always.  The path leads north and west here. 
+~
+0 0 9
+D1
+The path leads to a T-crossing ahead.
+~
+~
+0 0 13015
+D2
+The path takes a turn ahead.
+~
+~
+0 0 13013
+S
+#13017
+The Southeast corner of part of city of ecstasy~
+   The path you are standing on is not as well worn as the ones from the 
+streets above.  The clouds seem to be thicker making it harder for you to
+walk.  The street you are standing on seems to be some corner of a huge 
+square.  You begin to wonder where you really are.
+~
+0 0 9
+D0
+It looks like the northeast corner of the square.
+~
+~
+0 0 13020
+D3
+It looks like the southwest corner of the square.
+~
+~
+0 0 13018
+D4
+A well traveled path is above you.
+~
+~
+0 0 13039
+S
+#13018
+The southwest corner of part of the city of ecstasy~
+    A warm breeze blows through the corner of the square.  As the wind
+blows, you can hear a faint howling throughout the square.  The ground
+seems to be more worn in this corner of the square.  A small bird flies past
+you and lands in the square.  You throw a small amount of bread to the bird
+and it flies away in fear.
+~
+0 0 9
+D0
+It looks like the northwest corner of the square.
+~
+~
+0 0 13021
+D1
+It looks like the southeast corner of the square.
+~
+~
+0 0 13017
+D4
+You can see a street above you.
+~
+~
+0 0 13040
+S
+#13019
+The shop at the far end of the street~
+    On the front of the shop you can see a ladder leading up into the
+clouds.  Inside the shop you can smell food being prepared.  In one corner
+of the shop the carcass of a deer is hanging from the ceiling.  The skin
+of the deer has been removed and blood drips from the limp body on to a sheet
+on the floor.  The smell of the food makes your mouth water.
+~
+0 DK 9
+D2
+You can see a large intersection to the south.
+~
+~
+0 0 13015
+D4
+As you walk outside the shop and look up you can see a street.
+~
+~
+0 0 13043
+E
+carcass deer~
+The hind feet of the deer are tied together and hung on a hook from the
+ceiling to drain all of the blood from the body before the meat is cut.
+~
+S
+#13020
+The northeast corner of part of the city of esctasy~
+    A few kids sit in the corner of the square playing together.  You stand
+and watch the children for a while.  The breeze continues to blow throughout
+the square.  The sun's rays shine through the clouds above.  The sunlight
+on your face warms your body and soul.  The sun seems to be so much more
+powerful the higher you are.
+~
+0 0 9
+D2
+It looks like the southeast corner of the square.
+~
+~
+0 0 13017
+D3
+It looks like the northwest corner of the square.
+~
+~
+0 0 13021
+S
+#13021
+The northwest corner of part of the city of esctasy~
+    You look across the vast square and can barely make out the wall on the
+far side.  The ground here seems to be well traveled.  You can see speckles
+of red on the ground.  You begin to wonder what battle took place here.  A
+gust of wind blows a small cloud revealing a bloody finger on the ground.
+On the finger is a `MGold`` wedding ring.  As you bend down to pick up the
+finger, it disappears.
+~
+0 0 9
+D0
+A wide path leads you out of the square to the north.
+~
+~
+0 0 13023
+D1
+It looks like the northeast corner of the square.
+~
+~
+0 0 13020
+D2
+It looks like the southwest corner of the square.
+~
+~
+0 0 13018
+E
+finger ring blood~
+A finger rests on the ground with a solid `Mgold`` wedding band around it.
+You can't see much other blood on the ground, only a few speckles.
+~
+S
+#13022
+A path leading down the side of a cloud~
+    As you climb down the side of the cloud you can look over your shoulder
+across the sky.  Clouds no longer block your view of the world.  You are no
+longer feeling at ease with the world and all of your problems seem
+to have resurfaced again.
+~
+0 0 9
+D4
+You look up the side of the cloud to see a ledge.
+~
+~
+0 0 13048
+D5
+You can see a square with people walking around in it.
+~
+~
+0 0 9506
+S
+#13023
+A wide path in the city of esctasy~
+    You come to a turn in the path.  The path seems to be well traveled so
+you have no worries about continuing on the path.  A few kids run past you
+then disappear around the corner.  A small dog and cat chase each other 
+around the room.  The dog brushes your leg knocking you off balance.
+~
+0 0 9
+D2
+You can see a huge square to the south.
+~
+~
+0 0 13021
+D3
+As you look around the corner you can see the base of a hill.
+~
+~
+0 0 13024
+S
+#13024
+The base of a hill made of clouds~
+    There is a long incline ahead of you.  The bright white color of the
+clouds reminds you of a snow covered slope.  Small children roll down the
+hill coming to a stop at your feet.  The sun shines brightly on the hill
+making a beautiful scene.  As you begin to climb the hill, you stop a little
+ways up and look out over the world below.
+~
+0 0 9
+D1
+You see a corner of the street, but you can't see around it.
+~
+~
+0 0 13023
+D4
+You see a bench on the top of the hill.
+~
+~
+0 0 13049
+S
+#13025
+A back alley~
+    You stand at the bottom of a ladder leading into the clouds.  There is   
+a small alley leading away from you.  There is not much room to move around.
+It is almost like the alley is a place for hiding.  The white light of the
+room is not as bright as the rest of the city.
+~
+0 0 9
+D3
+The alley ends to the west.
+~
+~
+0 0 13026
+D4
+Looking up the hill you can see the street above.
+~
+~
+0 0 13050
+S
+#13026
+The end of the alley~
+    The alley comes to an end here.  There is black writing on the white
+clouds.  The end of the alley looks like at one time it led somewhere else,
+but to where you can't be sure.  Not much light shines in here.  The alley
+is fairly dark.  There is the corpse of a small animal in the corner.  The
+body of the animal is almost completely decayed.
+~
+0 0 9
+D1
+The alley leads you to the east.
+~
+~
+0 0 13025
+S
+#13027
+The rear entrance to the office~
+    You are standing infront of a huge white door to the main office of the
+City of Ecstasy.  The large building towers over the city around you.  On
+the top of the building you can see people looking out over the city, as if
+they are keeping watch over the city.  Seeing the people on the roof makes
+you feel more comfortable that someone is looking out for you.
+~
+0 0 9
+D0
+A huge white door to the office is to the north.
+~
+~
+0 0 13030
+D4
+You can see people talking at the top of the staircase.
+~
+~
+0 0 13052
+S
+#13028
+A back street of the city~
+   You are standing on a small street in part of the city.  You can see a
+magic shop and a general store, but both appear to be out of business.  You
+wonder how shops could go bankrupt in a place like this.  The street you are
+standing on is a short street, but people are constantly walking on it.
+There must be an important building around here.
+~
+0 0 9
+D0
+The street continues to the north.
+~
+~
+0 0 13031
+D4
+You can hear people talking at the top of the hill.
+~
+~
+0 0 13054
+S
+#13029
+The mayor's office~
+    You are standing in the mayor of the City of Ecstasy's office.  The large
+desk and lush chair make you think the city is doing just fine.  There is a
+window which looks out to the world below.  Through the window you can see
+a small town and a forest surrounding the town.  Seeing the lush green
+trees makes you happier.
+~
+0 0 9
+D0
+The front entrance of the office is to the north.
+~
+~
+0 0 13032
+D3
+The rear entrance to the office is to the west.
+~
+~
+0 0 13030
+D5
+The census taker's room is below.
+~
+~
+0 0 13009
+S
+#13030
+The rear waiting room of the office~
+    Lush white chairs line the waiting room.  One of the mayor's secretaries
+is sitting at her desk typing a letter.  The table in front of the chairs
+is filled with magazines and papers to read.  You pick up one and on the
+cover is a picture of the front gates to the City of Ecstasy.  There is
+a mother with her child waiting to see the mayor.  The office is very quiet.
+~
+0 0 9
+D0
+You can see books and files to the north.
+~
+~
+0 0 13033
+D1
+The mayor's office lies to the east.
+~
+~
+0 0 13029
+D2
+There is a huge door to the south.
+~
+~
+0 0 13027
+S
+#13031
+A deserted street in the city~
+    All of the shops and places to buy anything on the street have been
+closed.  Although everything is closed, the shops are still filled with
+items to sell.  You press your face against one of the windows.  You can
+see all of the items in the store still inside, but the store has no posted
+hours of when it will be open.
+~
+0 0 9
+D2
+The deserted street continues to the south.
+~
+~
+0 0 13028
+D3
+The front entrance to the mayor's office lies to the west.
+~
+~
+0 0 13032
+D5
+Looking down the staircase you can see the street below.
+~
+~
+0 0 13011
+S
+#13032
+The front entrance to the Mayor's office.~
+    The secretary greets you as you walk through the door.  You sit down in
+one of the chairs and look across the room.  There is a cardboard setup of
+the City of Ecstasy.  As you walk across the room you can see a small plate
+explaining it is representing.  You return to your seat and begin to fall
+asleep in the comfort of the chair.
+~
+0 0 9
+D1
+Nothing seems to be happening to the east.
+~
+~
+0 0 13031
+D2
+The mayor's office is to the south.
+~
+~
+0 0 13029
+D3
+A bunch of files and boxes fall as you look to the west.
+~
+~
+0 0 13033
+S
+#13033
+The storage room~
+   The room is filled with clutter.  Boxes and file cabinets line the 
+entire room.  You stand in the room and look up.  The cabinets stretch about
+10 feet into the air.  On the floor are tons of boxes.  You open one of the
+boxes and see they are filled with files too.  There is a ladder in the
+corner of the room.
+~
+0 0 9
+D1
+There are people waiting in the room to the east.
+~
+~
+0 0 13032
+D2
+There are people waiting in the room to the south.
+~
+~
+0 0 13030
+S
+#13034
+Inside the abandoned streets~
+    The street you are now on is covered in blood.  The people who live in
+this part of the town are definately not as friendly as the other.  As you
+continue down the street you can see people running in fear for their lives
+and screaming at the top of their lungs.  You turn around to find a huge man
+standing right behind you.  His huge body strikes fear into your heart.
+~
+0 0 9
+D0
+The street continues to the north.
+~
+~
+0 0 13040
+D3
+The street continues to the west.
+~
+~
+0 0 13035
+S
+#13035
+Inside the abandoned streets~
+    You peer around the corner you have come to to see who is waiting on
+around the corner.  You can't see anyone waiting, and your heart stops 
+beating so fast.  A wave of calm passes over you and you begin to remeber
+where you are...In the city of ecstasy, a place of peace and tranquility.
+The stream of blood flows into a sewer on the street.
+~
+0 0 9
+D0
+The abandoned streets continue to the north.
+~
+~
+0 0 13041
+D1
+The abandoned streets continue to the east.
+~
+~
+0 0 13034
+S
+#13036
+On the city streets~
+   You trip over a ladder in the floor leading to the streets below.  The
+people on the street snicker at your actions.  You begin to laugh too.  A
+man offers you a beer after your embarrassing moment.  You graciously accept
+and drink the beer.  The two of you sit on the curb of the street and watch
+the people of the city walking past.  People seem to be moving around a lot
+on this street.
+~
+0 0 9
+D3
+The city street continues to the west.
+~
+~
+0 0 13037
+D4
+The city street leads you up a hill.
+~
+~
+0 0 13057
+D5
+A small ladder leads you to the street below.
+~
+~
+0 0 13014
+S
+#13037
+The park entrance~
+    The city park of the city of ecstasy lies before you.  You look arcoss
+the park and see people having a good time.  Children are playing in the
+vast open area, while their parents chat with each other.  The park seems
+to have a feeling of joy and freedom.  Although it is a park, there are no
+trees or any green bushes to contrast the white clouds.
+~
+0 0 9
+D0
+The path in the park leads you northward.
+~
+~
+0 0 13042
+D1
+The city street leads you to the east.
+~
+~
+0 0 13036
+D3
+The path in the park leads you westward.
+~
+~
+0 0 13038
+S
+#13038
+The park within the city~
+    There is a tall swing set where children are playing.  The slide for the
+children is mammoth.  It seems to stretch into the sky.  There are four 
+swings for the children, one of which isn't in use.  Two children run towards
+the swing at the same time.  The larger of the two children pushes the 
+small child out of the way.  A bolt of light radiates from the sky and the
+larger child ceases to exist.  You are in awe at the sight, but the rest of
+the people seem to not be phased.
+~
+0 0 9
+D1
+The path in the park leads you eastward.
+~
+~
+0 0 13037
+D3
+The path in the patk leads you westward.
+~
+~
+0 0 13039
+S
+#13039
+The far corner of the park~
+    There is nobody in this part of the park.  The area is completely empty
+of all life except you.  The clouds are thick and fluffy, not smooth like
+the rest of the park.  The sun doesn't seem to be able to reach this park
+of the park.  The corner is enshrouded by a hint of darkness.
+There is a hole in the ground with boards covering it.
+~
+0 0 9
+D0
+The path in the park leads you northward.
+~
+~
+0 0 13045
+D1
+The path in the park leads you eastward.
+~
+~
+0 0 13038
+D5
+Through the hole you can see a small stream of blood.
+~
+~
+0 0 13017
+S
+#13040
+Inside the abandoned streets~
+    On top of the hill you can see the square below you.  There is nobody
+in sight.  The clouds are no longer the brilliant white they have been,
+but are a shade of grey.  The clouds above you shift, but the sun seems to
+always be blocked, casting shadows on the streets.
+~
+0 0 9
+D2
+The street continues to the south.
+~
+~
+0 0 13034
+D5
+You look down the hill on to the square.
+~
+~
+0 0 13018
+S
+#13041
+Inside the abandoned streets~
+    Standing at the base of another hill in the streets, there is a small
+side street that leads away from here.  You can't see around the corner of
+that street.  The streets are empty of all shops.  A small dog runs past you
+on to the side street barking at something.
+~
+0 0 9
+D2
+The street continues to the south.
+~
+~
+0 0 13035
+D3
+A side street leads you to the west.
+~
+~
+0 0 13042
+D4
+The street continues up the hill.
+~
+~
+0 0 13058
+S
+#13042
+A side street in the abandoned streets~
+    A small dog barks at something lurking in a small shadow in the corner.
+The sun breaks through and fills the street with light.  The shadows 
+disappear and the dog continues to bark at something.  A group of clouds 
+blocks the sun's rays again.  A chilling wind blows though the street.
+~
+0 0 9
+D0
+The side street continues to the north.
+~
+~
+0 0 13047
+D1
+You can see the base of a hill to the east.
+~
+~
+0 0 13041
+S
+#13043
+The park within the city~
+   There are picnic tables all around you.  Each table is set up with a table
+cloth and filled with food.  There is nobody sitting at any of the tables.
+A small dog is sniffing at the food on one of the tables.  You quickly turn
+around and look to see if anyone saw you steal a piece of pie.  Nobody did.
+A small dog runs off chasing a cat.
+~
+0 0 9
+D2
+The path in the park leads you to the south.
+~
+~
+0 0 13037
+D3
+The path in the park continues westward.
+~
+~
+0 0 13044
+S
+#13044
+The northern entrance to the park.~
+    You are standing under a large gate to the park within the city.  This
+entrance doesn't seem to be used as much at the other gate.  You look across
+the park and you can see people playing and having a good time.  All of the
+people are at ease with the world around them.  There are small dogs chasing
+cats around the park.
+~
+0 0 9
+D0
+There is a path leading out of the park to the north.
+~
+~
+0 0 13048
+D1
+The path in the park continues to the east.
+~
+~
+0 0 13043
+D3
+The path in the park continues to the west.
+~
+~
+0 0 13045
+S
+#13045
+The park within the city~
+    There is a large game of some sport you have never seem before being
+played on the open area.  The game closely resembles football, but it seems
+to be much more violent.  The people playing the game are wearing nothing
+to protect themselves from being hurt.  There are a large group of people
+standing watching the game.
+~
+0 0 9
+D1
+The path within the park continues to the east.
+~
+~
+0 0 13044
+D2
+The path within the park continues to the south.
+~
+~
+0 0 13039
+S
+#13046
+Inside the abandoned streets~
+    There is an ill wind blowing through the streets.  You can't really see
+much around you.  Everything seems to be enshrouded by shadows.  The sun
+penetrates for a second, but is quickly covered by clouds.  While the sun
+was out, you were able to see a small street leading westward, but it too
+is covered in shadows.
+~
+0 0 9
+D0
+The abandoned streets end to the north.
+~
+~
+0 0 13049
+D3
+There is a small side street to the west.
+~
+~
+0 0 13047
+D4
+The abandoned streets continue up the hill.
+~
+~
+0 0 13059
+S
+#13047
+A side street in the abandoned streets~
+    A small stream of blood runs down the side street.  You begin to wonder
+if coming down the side street was really such a great idea.  It seems like a
+great place to hide from someone, since nobody in their right mind would
+be here.  You can see people moving around in the shadows.
+~
+0 0 9
+D1
+An empty street lies to the east.
+~
+~
+0 0 13046
+D2
+The side street continues to the south.
+~
+~
+0 0 13042
+S
+#13048
+The lookout point~
+    You have come the the edge of the clouds.  As you look across the land
+you can see for hundreds of miles.  The towns and cities below speckle the
+green earth.  A small gust of wind blows pushing the cloud and making you
+sit down to keep standing.  The view from the cloud is unbelievable.  You
+feel so small compared to everything that is before your eyes.
+~
+0 0 9
+D2
+There is an entrance way to a park to the south.
+~
+~
+0 0 13044
+D5
+A sturdy ladder lies downward.
+~
+~
+0 0 13022
+S
+#13049
+The top of the hill of clouds~
+    You crawl to the top of the hill and look out across the land.  Clouds
+fill the sky.  For as far as you can see, all you can see are clouds.  The
+brilliant white clouds move gracefully across the sky.  A small boy pushes
+past you as he rolls down the hill.  Children are playing on the hill as
+though it is the only means of entertainment.
+~
+0 0 9
+D2
+There is an empty street to the south.
+~
+~
+0 0 13046
+D5
+A white cloud filled with children playing lies downward.
+~
+~
+0 0 13024
+S
+#13050
+The city streets~
+    You have come to a turn in the city streets.  There is a small street
+that goes down a hill, but there are signs that warn you not to go.  The
+street is well traveled.  People brush past you on their way past the you.
+~
+0 0 9
+D0
+The street continues to the north.
+~
+~
+0 0 13054
+D3
+The street continues to the west.
+~
+~
+0 0 13051
+D5
+There is a small alley down a hill.
+~
+~
+0 0 13025
+S
+#13051
+The city streets~
+    The street is packed with people walking towards the west.  They all 
+seem to be in a rush to get somewhere, but nobody is pushing anyone and 
+everything is orderly.  The sun breaks through the clouds and shines brightly
+down on the city street.  As soon as the sun appears, everyone stops for a
+moment to relax in the sun.
+~
+0 0 9
+D1
+The city street continue to the east.
+~
+~
+0 0 13050
+D3
+There is a staircase to the west.
+~
+~
+0 0 13052
+S
+#13052
+The top of a large staircase~
+    Standing at the top of the staircase you can look down to the street
+below.  Each stair is an individual small white cloud with speckles
+of grey.  They almost look like marble.  There is no banister to help you
+on the stairs.  People are standing around talking amongst themselves.
+~
+0 0 9
+D1
+The city street continues to the east.
+~
+~
+0 0 13051
+D5
+You can't see much at the bottom of the staircase.
+~
+~
+0 0 13027
+S
+#13053
+A small house in the city.~
+    The house is small and not very well kept.  The mother throws a shoe at
+her son while he runs up the stairs, yelling and screaming at the child to
+get back to studying.  There is a table in the center of the room set for
+three people.  The food on the table smells so wonderful that you begin to
+drool.
+~
+0 0 9
+D3
+The city street lies to the west.
+~
+~
+0 0 13054
+S
+#13054
+An intersection at the top of the hill~
+    Standing in the middle of the intersection you can see up and down the
+streets.  The hill below looks steep and treacherous.  This street looks like
+a residential street.  There are houses on either side of the street with
+children playing in the front yards and mothers working in the garden.  A
+dog runs past you towards a house.
+~
+0 0 9
+D0
+The city street continues to the north.
+~
+~
+0 0 13055
+D1
+A small house lies to the east.
+~
+~
+0 0 13053
+D2
+The city street continues to the south.
+~
+~
+0 0 13050
+D5
+You can't see much at the bottom of the hill.
+~
+~
+0 0 13028
+S
+#13055
+The city streets~
+    For some reason you seem to want to walk down the middle of the street.
+As you look around you can see various types of houses but all of them
+seem to be exactly the same size.  Although they are the same size, each
+has its own personality.  Some of the house have beautiful flower gardens,
+while other have well groomed lawns.  The lawns aren't really lawns,
+they are more like clouds that keep growing.
+~
+0 0 9
+D0
+The city streets continue to the north.
+~
+~
+0 0 13057
+D2
+The city streets continue to the south.
+~
+~
+0 0 13054
+D3
+There is a small house to the west.
+~
+~
+0 0 13056
+S
+#13056
+A small house in the city~
+    You walk up a small path with a flower garden on either side of it to
+the open front door of a house.  Inside the house you can see everything
+the family owns.  There is a small piano with a young girl practicing on 
+it.  Her mother sits in a chair in the corner half asleep listening to 
+her.  As the child makes a mistake, the mother is quick to correct her.
+~
+0 0 9
+D1
+The city street lies to the east.
+~
+~
+0 0 13055
+S
+#13057
+A dead end of the city street~
+    The city street comes to an abrupt halt.  It looks as though at one
+point in time the street continued on, but for some reason the street has
+been cut off.  The houses on either side of you are empty and falling apart.
+It is almost as though most of the life around you has ended.  There are
+people on the streets, but nowhere near the numbers you had seen.
+~
+0 0 9
+D2
+The city street continues to the south.
+~
+~
+0 0 13055
+D5
+There is a ladder which leads to other streets below.
+~
+~
+0 0 13036
+S
+#13058
+The top of the hill in the abandoned streets~
+    Blood covers the ground.  There is a stream of blood coming from a small
+hill to the south.  It is just a slight incline, but it seems that if you
+could get higher, more power would be yours.  The world around you is 
+enshrouded by shadows of darkness and evil.
+~
+0 0 9
+D0
+The street continues to the north.
+~
+~
+0 0 13059
+D5
+Down the hill you can't see much.
+~
+~
+0 0 13041
+S
+#13059
+The top of the hill in the abandoned streets~
+    The entire top of the hill is covered in blood.  It looks like people
+have battles here to determine who is the strongest.  The blood runs down
+the street and around a corner.  The top of the hill is enshrouded by
+darkness and evil.  As you look out across the land you can't seen anything.
+The entire world around you is blocked from view.
+~
+0 0 9
+D2
+The street continues to the south.
+~
+~
+0 0 13058
+D5
+Down the hill you can't see much.
+~
+~
+0 0 13046
+S
+#0
+#RESETS
+M 0 13000 1 13000               Hawk to cloud 1~
+E 1 13000 10  8                   talons to hawk~
+M 0 13001 1 13001               Eagle to cloud 2~
+E 1 13001 10 6                    spot to eagle~
+M 0 13002 1 13002               Fallen angel to cloud 3~
+E 1 13004 10 13                   sac to angel's waist~
+P 1 13003 5 13004                 Halo in sac~
+M 0 13003 1 13003               Guardian to guardhouse~
+E 1 13002 2 16                    Axe to guardian~
+E 1 13020 5 6                     helmet to guardian~
+M 0 13004 1 13020               Kid to square~     
+E 1 13021 2 5                     shirt to kid~
+M 0 13005 1 13020               Kid to square~
+E 1 13022 100 17                  twinkie to fat boy~
+M 0 13006 1 13006               Citizen to cloud 5~
+E 1 13006 2 12                    robe to citizen~
+M 0 13007 1 13031               woman to top of the ladder~ 
+E 1 13023 2 12                    robe to woman~
+M 0 13008 1 13042               Dog to side street by shadowy~
+M 0 13009 1 13009               Census taker to booth~
+E 1 13005 2 17                    ledger to census taker~
+G 1 13007 2 17                    feather to census taker~
+E 1 13024 1 12                    robe to census taker~
+M 0 13010 1 13010               punisher to punishment chamber~
+E 1 13025 2 16                    axe to punisher~
+E 1 13026 10 17                   rag to punisher~
+M 0 13011 1 13045               medic to park field~
+E 1 13027 2 17                    medkit to medic~
+E 1 13028 5 9                     rubber gloves to medic~
+M 0 13012 1 13052               man to the top of the stairs~
+M 0 13016 1 13016               Fat woman to city streets~
+M 0 13019 1 13019               Al to butcher shop~
+G 1 13029 -1                                 ~
+G 1 13030 -1                                  ~
+G 1 13031 -1                      food to al~
+G 1 13032 -1                                   ~
+G 1 13033 -1                                    ~
+M 0 13020 1 13020               Kid to square~
+E 1 13013 5 13                    belt to champ~
+M 0 13024 2 13024               Worried mom to bottom of hill~
+E 1 13034 5 7                     dress to legs~
+E 1 13035 10 5                    blouse to body~
+E 1 13036 10 6                    clip to head~
+M 0 13025 1 13025               Girlfriend to small alley~
+E 1 13037 10 17                   picture from to girlfriend~
+E 1 13038 10 5                    bodysuit to her too~
+E 1 13039 10 3                    necklace to chick~
+M 0 13026 1 13026               Boyfriend to end of small alley~
+E 1 13040 10 17                   kleenex to boy~
+E 1 13041 10 14                   watch to wrist~
+E 1 13042 10 13                   belt to waist~
+M 0 13029 1 13029               Mayor to his office~
+E 1 13009 3 3                     tie to neck~
+E 1 13010 3 5                     suit to body~
+E 1 13011 3 6                     glassses to head~
+E 1 13012 3 17                    coffee to hold~
+M 0 13030 1 13030               rear secretary to rear entrance~
+E 1 13043 10 17                   pencil and paper to hold~
+E 1 13044 10 7                    dress to legs~
+M 0 13031 1 13031               man to top of the ladder~
+E 1 13006 2 12                    robe to man~
+M 0 13032 1 13032               Front secretary to front entrance~
+E 1 13045 10 17                   pen and paper to hold~
+E 1 13046 10 7                    pants to legs~
+M 0 13033 2 13033               Stock clerk to office storage room~
+E 1 13047 100 17                  list to hold~
+E 1 13048 10 6                    Indians hat to head~
+M 0 13035 1 13035               michael to abandoned streets~
+E 1 13018 10 17                   bandages to hold~
+E 1 13049 10 8                    sandals to feet~
+M 0 13036 1 13036               man to the top of the ladder~
+E 1 13006 2 12                    robe to citizen~
+M 0 13042 1 13042               Shadowy figure to side street w/ dog~
+E 1 13050 5 12                    shadow cloak about body~
+E 1 13051 2 16                    blade to wield~
+E 1 13052 4 10                    cloth to arm~
+*E 1 13053 3 0                     fire of hell to light~
+M 0 13043 1 13043               Dog to park within city~
+M 0 13044 1 13044               Cat to park within city~
+M 0 13045 1 13045               hurt player to park within city field~
+E 1 13054 5 8                     cleats to player~
+E 1 13055 5 9                     gloves to hands~
+M 0 13047 1 13047               Cloaked figure to side street by shadowy~
+E 1 13056 5 3                     cloak to neck~
+E 1 13057 5 1                     ring to finger~ 
+E 1 13058 100 17                  staff to hold~
+E 1 13059 2 16                    energy to wield~
+M 0 13050 1 13050               Man to top of hill~
+M 0 13052 1 13052               Woman to top of staircase w/ man~
+E 1 13006 2 12                    robe to woman~
+M 0 13053 1 13053               Mother to house~
+E 1 13008 5 5                     bathrobe to body~
+E 1 13060 5 17                    shoe to hold~
+E 1 16536 5 3                     bandana to neck~
+M 0 13054 1 13054               Woman to top of the hill intersection~
+M 0 13056 1 13056               Resting mother to house~
+E 1 16537 4 7                     blanket to legs~
+E 1 16538 5 5                     sweater to body~
+M 0 13058 1 13058               Jimmy to top of hill in abandoned streets~
+E 1 13018 2 5                     Shirt to body~
+E 1 13019 4 7                     iron leggings to legs~
+E 1 16539 4 16                    bone to wield~ 
+E 1 16540 4 1                     ring to finger~
+M 0 13059 1 13059               Big mother fugger to rl top of hill by jimmy~
+E 1 13014 5 16                       sword to wield~
+E 1 13015 3 7                       Jeans to legs~
+E 1 13016 3 14                      chain to wrist~
+O 0 16535 1 13044                 Fountain to T-intersection~
+S
+#SHOPS
+13019 13029 13030 13031 13032 13033 100 25 0 23        Al the butcher~
+0
+#SPECIALS
+M 13011 spec_cast_cleric        Medic the cleric~
+M 13016 spec_cast_mage          fat lady magic~
+M 13029 spec_cast_adept         Mayor~
+M 13029 spec_cast_undead        Mayor again~
+M 13042 spec_cast_mage          shadowy mage~
+M 13047 spec_cast_cleric        clouded cleric~
+M 13053 spec_cast_undead        Mother wizi~
+M 13058 spec_cast_mage          jimmy mage~
+M 13058 spec_thief              Jimmy thief~
+M 13059 spec_cast_mage          Big guy on top of hill~
+M 13059 spec_breath_lightning   Big guy on top of hill~
+S
+#$

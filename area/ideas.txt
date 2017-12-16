@@ -1,0 +1,91 @@
+[ 3054] Azrael: read
+[ 3054] Azrael: read
+[17398] Galford: lance
+[ 3714] Jesana: abbreviations on MOB names
+[ 3714] Jesana: Fix the lag, it is REALLY a problem
+[ 3054] Zap: arms
+[ 3020] Zap: arms
+[ 1235] Nimro: I think u should get a quest giveup command for the quest master
+[ 1625] Nimro: i think u should implement circle for thieves backstab during fight... u get -50 hp -50 mana -50mv and u acn use it every second round
+[ 5270] Nimro: i think u just input a autodamage command so u see how much damage i deal and are dealt to by hits and spells
+[ 3020] Hellscream: flower
+[ 3743] Artec: list
+[ 3759] Artec: list
+[ 9410] Artec: include a drink container in hte newbie pack
+[ 3033] Dekar: bottle
+[ 3001] Anavrin: to all
+[ 3734] Uma: Abrevations for monster names.
+[ 3020] Satanica: bronze
+[ 3020] Jarlaxle: amulet
+[ 1200] Jouster: list
+[ 3020] Hellscream: leggings
+[ 8638] Tragor: i am lvl 18 and can no longer recall, but i am stuck in the void above the city, where all I can find are small areas where it says I can recall.  How do I get out?
+[ 3020] Hellscream: copper
+[ 3054] Methuzila: list
+[ 3020] Hellscream: duster
+[ 1236] Oreo: jug
+[ 3016] Koty: read
+[ 3016] Koty: read
+[ 3011] LordNikkon: avalanche
+[ 3020] LordNikkon: avalacne
+[ 3020] Lobo: mop
+[30003] Mychael: record
+[ 3054] Interceptor: list
+[ 3054] Divian: write
+[ 3054] Divian: list
+[ 3054] Marius: catchup
+[ 3054] Marius: read
+[ 3054] Marius: list
+[ 3020] Thargan: skin
+[ 1212] Slava: volcano
+[ 1236] Poukimakk: list
+[30892] Dragnosi: bok
+[ 3020] Frogger: hmm
+[11892] Dragnosi: pills
+[ 3054] Zenit: locust
+[ 3054] Renegade: list
+[ 3054] Gavin: maybe we should find a way to get the autoquests to stop sending level 10s and 14s to level 55+ areas for quests...
+[ 3054] Gavin: how about a "quest abort" command?
+[ 3020] Marius: leggings
+[ 3020] Lobo: scroll
+[  699] Zap: boots
+[ 3054] Ezekial: ring
+[ 3008] Melinko: safety deposit boxes
+[ 3020] Lelldorin: 1.
+[ 3033] Prael: cup
+[ 3700] Ulyssess: enlightment
+[26052] Knytmare: amulet
+[ 3054] Kyp: list
+[ 3054] Kyp: scepter
+[11702] Kyp: sphere
+[ 3054] Grym: dagger
+[ 1202] Ulyssess: rod
+[ 3054] Alzem: list
+[ 3700] Invisibleman: shit
+[ 3054] Mahlin: sting
+[ 3054] Mahlin: dagger
+[ 3700] Zendar: list
+[ 3052] Invisibleman: kris
+[ 3054] Kille: mirror
+[ 3054] Kille: mirror
+[ 3054] Darkstar: read
+[11814] Bingo: might
+[ 3005] Cookie: read
+[ 3700] Methos: catchup
+[ 2571] Mordenkai: knife
+[ 3020] Byzantine: leggings
+[ 3054] Invisibleman: damn
+[ 3054] Invisibleman: damn
+[ 3054] Byzantine: storage
+[ 3150] Nerell: sleeves
+[ 3054] Byzantine: 1.
+[ 3054] Bingo: ring
+[ 3020] Specialk: ring
+[ 3274] Byzantine: 1.
+[ 3274] Byzantine: 1.
+[ 3150] Byzantine: 1.
+[ 3054] Byzantine: pig
+[ 3054] Shamahadazi: i want newbies on level 1 to get some free eq and a 3 level boost
+[ 3054] Byzantine: 1.
+[ 3020] Thaiguoya: kris
+[ 3274] Bingo: bracer

@@ -1,0 +1,214 @@
+
+#HELPS
+
+0 quest~
+Quest
+
+ QUEST REQUEST - allows you to ask for a automated quest from the questmaster.
+ QUEST COMPLETE - Completes the current quest you're on (works only  w/ 
+       automated questmasters)
+ QUEST TIME - shows you how much time you have left in your quest or how much 
+       till next one is allowed.
+ QUEST INFO - shows you what the object of the quest is.
+ QUEST POINTS - Shows you how many quest points you have saved.
+ QUEST LIST - Show a list of items that you can buy w/ quest points. (only 
+        works at automated questmasters)
+ QUEST BUY {item} - buys an item from the quest list.
+
+The questmasters are currently Hassan and the Questmaster (who resides in the
+temple of quests... all the way up from the healer).
+~
+
+0 Bank~
+BANK
+  BANK - tells you how much gold you currently have in the bank
+  BANK DEPOSIT {amount} - deposits that amount of gold into the bank
+  BANK WITHDRAW {amount} - withdraws that amount of gold from the bank
+
+The Midgaard Savings and Loan is e u from recall.  There is also another
+branch of it in New Thalos, and they have access to your account as well.
+~
+
+0 Finger~
+FINGER
+   FINGER {char/mob}
+     Shows that char/mob's general statistics.  If there is more than one
+mobile with the same name, you can type FINGER 2.mobile and FINGER 3.mobile
+(and so on down the line) to access the others.
+~
+
+0 Push~
+PUSH
+PUSH {char/mob name} {direction}
+
+  Pushes that char/mob out of the room in the direction desired (provided there 
+is an exit there). Pushing a char will make you unsafe.  Push only works on 
+standing chars/mobs.  You have to be higher than level 15 in order to push
+other players.
+~
+
+0 Drag~
+DRAG
+DRAG {char/mob name} {direction}
+	
+   Drags the char/mob into the room of the desired direction. Only works on 
+sitting, resting, or sleeping chars/mobs.  NOTE: you go into that room also, 
+and dragging a char makes you unsafe.  You have to be higher than level 15 in
+order to drag players.
+~
+
+90 WIZNET~
+Syntax:
+  Wiznet show
+  Wiznet <toggle>
+
+Wiznet lets immortals see what is going on on the mud and keep an eye on 
+things.  The higher up imm you are, the more things you can see.  You have
+to be level 94 to get wiznet.
+~
+
+0 DONATE DONATION~
+Syntax:
+  donate <object>
+
+The gods reward people's generosity when they donate.  If you donate something
+it will appear in one of our two donation rooms.  One donation room is n u e
+from recall, and the other one is in New Thalos.  For obvious reasons 
+(mainly it's location), the New Thalos donation room generally has more 
+things in it to choose from.  If you are in need of equipment, you can go
+to one of the donation rooms and check out the free merchandise.
+~
+
+0 ALIGN ALIGNMENT~
+
+Your alignment is how good or evil you are.  You can raise your alignment
+(become more good) by killing evil critters.  You can lower your alignment
+(become more evil) by killing good critters.  If you are wearing equipment
+that only good people can wear, and you become evil, it may pop off of you,
+and you will be unable to wear it.  The same goes for evil equipment.
+~
+
+0 PDEATHS PKILLS PRATING~
+
+Pdeaths is how many times you have been killed by other players.
+Pkills is how many people you have killed.
+Prating is the difference in levels of the people you have killed.
+~
+
+0 DEAF~
+
+Deaf makes you unable to hear shouts.  It comes in handy sometimes.
+~
+
+0 WORTH~
+
+Worth shows you how much gold you are holding, how much gold you have in
+the bank, how much experience you have accumulated so far, and how much
+experience you have until you level.
+~
+
+0 MUSIC GOSSIP NEWBIE OOC AUCTION CHANNEL CHANNELS~
+
+Syntax:
+  music <message>
+  gossip <message>
+  newbie <message>
+  ooc <message>
+  auction <message>
+  
+These are the channels on Rivers of Blood.  They are the forms of 
+communication between you and all the other players on the mud, so everyone
+can hear them no matter where they are.  OOC is used for out of character
+communication, auction is used if you are trying to sell an object, NEWBIE
+is for newbies to use to ask questions and talk to other newbies, and MUSIC
+and GOSSIP are the general chatlines.
+~
+
+0 ENTER~
+
+Syntax:
+  enter gate
+  enter portal
+  enter <object>
+
+This is how you go into a gate, portal, or other mode of transportation from
+one part of the world to another.
+~
+
+0 SCAN~
+
+Syntax:
+  scan <direction>
+  scan
+
+The scan command shows you your surroundings.  You cannot scan through 
+closed doors.
+~
+
+0 QUIET~
+
+Syntax:
+  quiet
+
+The quiet command lets you turn all the channels off or on.  To turn them
+all off, you type QUIET, and then to turn them back on again, you type
+QUIET again.  The DEAF command will turn off shouts.
+~
+
+0 PROMPT~
+
+Syntax:
+  prompt
+
+The prompt command toggles the prompt on or off.  It is a generally good 
+idea to leave it on at all times.
+~
+
+0 COLOR 'COLOR CODE'~
+
+Syntax:
+  color
+
+The COLOR command toggles color on or off for you.  If you want to use color
+in your title or speech, you need to learn how to use the color code.  Our
+color code is rather easy to learn.  At the beginning of the color, you 
+put the start code, and after the color, you close it in order to prevent
+color bleed.  The start color key is ^^ and you follow it with a B for bright
+or an N for normal.  After that, you put the color... K W C R G B P Y
+So, bright red would be ^^BR.  To close the color, you close it with a 
+^^NW (normal white).  
+
+^^BK = ^bkbright black^nw
+^^NK = ^nknormal black^nw
+^^BW = ^bwbright white^nw
+^^NW = ^nwnormal white^nw
+^^BC = ^bcbright cyan^nw
+^^NC = ^ncnormal cyan^nw
+^^BR = ^brbright red^nw
+^^NR = ^nrnormal red^nw
+^^BG = ^bgbright green^nw
+^^NG = ^ngnormal green^nw
+^^BB = ^bbbright blue^nw
+^^NB = ^nbnormal blue^nw
+^^BP = ^BPbright pink^nw
+^^NP = ^npnormal purple^nw
+^^BY = ^bybright yellow^nw
+^^NY = ^nynormal yellow^nw
+~
+
+0 NEXUS PORTAL~
+Syntax:
+  cast nexus <mobile/player>
+  cast portal <mobile/player>
+
+Nexus opens a two way gate to someplace you specify.  Portal opens a
+one way gate there.  To enter the gate, type ENTER GATE.
+~
+
+
+
+
+0 $~
+
+
+#$

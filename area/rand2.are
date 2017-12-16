@@ -1,0 +1,1202 @@
+#AREA {10 30} Amanda  Rand's Tower~
+#MOBILES
+#4700
+goat mountain~
+a mountain goat~
+A mountain goat nibbles at a piece of grass here.
+~
+This goat is acclimated to the rugged terrain of the 
+mountains.  It looks at you and shies away a little.
+~
+human~
+192 0 0 S
+8 0 1d1+80 1d1+99 1d7+2 0
+0 0 0 0
+5 5 5 7
+8 8 1 0
+0 0 M 0
+#4701
+demon decay~
+a Demon of Decay~
+A cloaked and clawed demon of decay comes at you viciously!
+~
+This demon has pure malevolence for anything living.  
+Oops!  You're living!  I guess that means you!
+~
+human~
+34 8 -1000 S
+12 0 1d1+120 1d1+99 1d10+3 0
+2 2 2 6
+0 0 0 0
+8 8 0 0
+0 0 M 0
+#4702
+book monster guardian~
+the Book Monster~
+A mound of books rise up into a human shape and tries to hit you!
+~
+Ironically enough, the book-monster's head is War and
+Peace.  Hmm.
+~
+human~
+34 8 0 S
+14 0 1d1+140 1d1+99 1d10+3 0
+2 2 2 6
+0 0 0 0
+8 8 0 0
+0 0 M 0
+#4703
+bad feeling~
+a Bad Feeling~
+A bad feeling chokes your throat.
+~
+It resembles a lot of other bad feelings you've had,
+but a lot more tangible....magic?
+~
+human~
+34 8 0 S
+18 0 1d1+180 1d1+99 2d7+4 0
+-1 -1 -1 6
+0 0 0 0
+8 8 0 0
+0 0 M 0
+#4704
+nightmare~
+Your Worst Nightmare~
+Your worst nightmare coalesces in front of you and attacks!
+~
+It looks like you deepest, darkest fears personified.
+Wait a minute!  It IS your deepest, darkest fears
+personified!
+~
+human~
+34 8 0 S
+19 0 1d1+190 1d1+99 2d7+4 0
+-1 -1 -1 6
+0 0 0 0
+8 8 0 0
+0 0 M 0
+#4705
+guardian~
+the Guardian~
+A guardian guards the door.  It looks at you and attacks!
+~
+The guardian guards the door.  That's about all its
+brain can handle: guarding.
+~
+human~
+34 8 0 S
+18 0 1d1+190 1d1+99 2d7+4 0
+-1 -1 -1 6
+0 0 0 0
+8 8 0 0
+0 0 M 0
+#0
+
+#OBJECTS
+#4700
+dagger glowing~
+a glowing dagger~
+A glowing dagger glows here.~
+steel~
+5 65 8193
+2 3 4 2 0
+10 5 50 P
+A
+18 3
+#4701
+glowing platemail plate mail~
+the glowing platemail~
+Some glowing platemail lies in a heap here.~
+steel~
+9 65 9
+9 9 9 4 0
+10 10 100 P
+#4702
+agate gem~
+an agate~
+A small gem lies here.~
+~
+8 0 1
+0 0 0 0 0
+10 5 1000 P
+#4703
+jade jewel~
+a piece of jade~
+A small jewel gleams here.~
+~
+8 0 1
+0 0 0 0 0
+10 5 1000 P
+#4704
+sculpture~
+a piece of sculpture~
+A nice piece of sculpture is here.~
+stone~
+8 0 1
+0 0 0 0 0
+10 10 100 P
+E
+sculpture~
+Its of a beautiful woman, straining
+beneath a heavy weight.  She looks
+tired, with chiseled tears staining
+her cheeks.  It makes you sad.
+~
+#4705
+vial dragons blood~
+a vial of dragon's blood~
+A small vial filled with a red fluid lies in the dust here.~
+~
+10 0 1
+7 39 39 39 0
+10 5 100 P
+#4706
+amulet~
+an amulet~
+An odd looking amulet has been discarded here.~
+~
+9 65 5
+9 8 9 4 0
+10 5 100 P
+A
+2 3
+#4707
+tent pole~
+a tent pole~
+A tent pole has been tossed away here.~
+~
+3 65 16385
+25 5 5 38 0
+10 5 100 P
+#4708
+bag powder wealth~
+a bag of powder of wealth~
+A small bag filled with powder of wealth lies here.~
+~
+20 65 1
+100000 0 0 0 0
+10 10 1000 P
+#4709
+desk~
+a desk~
+There is an ebony desk here.~
+wood~
+15 0 0
+100 13 0 0 0
+10 1000 100 P
+#4710
+chaos book~
+the Book of Chaos~
+A book with a title written in moving letters rests here.~
+~
+3 195 16385
+20 1 1 26 0
+20 5 100 P
+#4711
+elder book~
+the Book of the Elder~
+A grey-bound book lies here.~
+~
+3 67 16385
+30 1 1 28 0
+30 5 100 P
+#4712
+occluded lens~
+the Occluded Lens~
+A smoky lens about a foot around has been scuffled in the dirt here.~
+~
+1 1729 16385
+0 0 400 0 0
+20 5 50 P
+A
+12 20
+A
+4 1
+#4713
+mevais herb leaf~
+a leaf of mevais~
+A small black leaf of a mevais plant lies here, well preserved.~
+~
+10 0 1
+30 27 33 4 0
+30 5 50 P
+E
+mevais herb leaf~
+Quaffing this down might provide interesting effects.
+~
+#4714
+bottle peska~
+a bottle of peska~
+There is a bottle of a milky fluid here.~
+~
+10 0 1
+30 28 3 1 0
+30 5 100 P
+E
+bottle peska~
+It's a milky concoction, with strange motes floating in it.
+~
+#4715
+rand staff~
+Rand's staff~
+There is a metal-shod staff here.~
+~
+9 65 16385
+9 8 9 4 0
+20 5 100 P
+A
+12 5
+A
+17 5
+#4716
+chest wooden~
+a wooden chest~
+There is a wooden chest here.~
+~
+15 0 0
+500 13 0 0 0
+20 100 100 P
+#4717
+chest wooden~
+a wooden chest~
+There is a wooden chest here.~
+~
+15 0 0
+500 13 0 0 0
+20 100 100 P
+#4718
+chest wooden~
+a wooden chest~
+There is a wooden chest here.~
+~
+15 0 0
+500 13 0 0 0
+20 100 100 P
+#4719
+basin water~
+a water basin~
+A basin filled with crisp, clean water is here.~
+~
+25 1 0
+100 100 0 0 0
+20 100 100 P
+#4720
+food~
+some food~
+There's some food lying here.~
+food~
+19 0 1
+8 0 0 0 0
+5 2 0 P
+E
+food~
+   It's just random and assorted food.
+   Don't ask questions.  It's just a game.
+~
+
+#0
+#ROOMS
+
+#4700
+Mountain Trail~
+   This trail leads up, up, up into the mountains.  You
+hope you don't fall down, because that would hurt, hurt,
+hurt!  The trail continues to the east, and you can go
+back to the main trail to the west.
+~
+0 0 5
+D3
+~
+~
+0 -1 4001
+D1
+~
+~
+0 -1 4701
+S
+#4701
+Mountain Trail~
+   You're really high up now.  You can keep going even
+farther up into the mountains to the east, or go back
+down to the west.
+~
+0 0 5
+D1
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 4700
+S
+#4702
+Mountain Trail~
+   Wispy clouds are beginning to surround you now, and
+your ears pop due to the altitude.  To the east, you see
+the summit of the mountain, and from the way the nearby
+mountains are arranged behind it, you believe you're
+on your way to a big valley.  You can also go down
+to the west.
+~
+0 0 5
+D1
+~
+~
+0 -1 4703
+D3
+~
+~
+0 -1 4701
+S
+#4703
+Near the Mountain's Peak~
+   The peak of this mountain is another couple hundred
+feet above you, but here is where the trail leads down
+into the valley...  What an odd valley!
+The valley seems to have been filled up by a hundreds of 
+feet of lava many years ago.  It gives the valley an
+odd, 'flat' look and darkish ground.  The path leads
+down east into the valley, and west back to civilization.
+~
+0 0 5
+D1
+~
+~
+0 -1 4704
+D3
+~
+~
+0 -1 4702
+S
+#4704
+Trail to the Valley~
+   The trail leads down into the valley, where, by judging
+by the height of the trees, the lava had cooled tens
+of decades ago.  Down below you see the path lead into
+the small forest in the valley, and disappear out of
+sight.  East leads into the valley, West back to civilization.
+~
+0 0 5
+D1
+~
+~
+0 -1 4705
+D3
+~
+~
+0 -1 4703
+S
+#4705
+In the Valley~
+   The ground has taken on the texture of dirt on the top,
+but this valley is far too flat and too rocky to disguise
+the catastrophe that happened here so long ago.  Looking
+up to the mountains ringing this area, you notice several
+mountains look as if they had 'exploded', which is strange,
+considering that they are not volcanos.
+   The path leads into the woods to the east, and back up
+the mountain to the west.
+~
+0 0 3
+D1
+~
+~
+0 -1 4706
+D3
+~
+~
+0 -1 4704
+S
+#4706
+In a Clearing~
+   You come to a small clearing now, after walking for several
+minutes through the silent woods.  An odd block sticks up
+here and there in   the ground...  wait a minute.  These
+stones seem a little too regular, and from the circle 
+formation and size you could almost swear that they were...
+crenellations?  Could some sort of building been buried
+by the lava here?  A rusty ring sticks out of the earth
+in the center...a trapdoor?  This is almost too good to
+be true!
+~
+0 0 3
+D3
+~
+~
+0 -1 4705
+D5
+An ancient trapdoor, grimed with earth and age.
+~
+trapdoor trap~
+1 -1 4707
+S
+#4707
+A Stairwell~
+   This small room is the top of a stairwell leading down
+deep into the tower.  A small trapdoor overhead leaks
+the light of day around its edges.  To the south is a 
+wooden door, preserved through the ages by means 
+unknown.  To the west is a short hall.
+~
+0 9 0
+D2
+~
+door~
+1 -1 4708
+D3
+~
+~
+0 -1 4709
+D4
+An ancient trapdoor, grimed with earth and age.
+~
+trapdoor trap~
+1 -1 4706
+D5
+~
+~
+0 -1 4713
+S
+#4708
+A Linen Closet~
+   This small room holds many types of linen on shelves 
+along the walls.  They are undoubtedly preserved by
+magic against the toil of the ages, since they seem
+freshly washed and folded.  You wonder what sort of
+mage could wield so much power to waste on such little
+things.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4707
+E
+linen shelf shelves~
+   White sheets, pillow-cases, etc.  Not really 
+anything that you need, but interesting.
+~
+S
+#4709
+Corridor~
+   This is only a clean corridor, that leads back to the 
+stairwell to the east, and has doors leading to other
+rooms to the north and south.
+~
+0 9 0
+D0
+~
+door north~
+1 -1 4711
+D1
+~
+~
+0 -1 4707
+D2
+~
+door south~
+1 -1 4710
+S
+#4710
+Bathroom~
+   This is some sort of bathroom, like you've never seen
+before...  Water appliances leading from nowhere deliver
+hot and cold running water to basins that drain to...
+where?  How strange!
+~
+0 9 0
+D0
+~
+door~
+1 -1 4709
+S
+#4711
+Master Bedroom~
+   This is an opulent room, decorated in silks and gold.
+There is an ebony desk against one wall, cooled lava rock
+spilling over its surface from the window it once looked
+out at.  A nice, spacious closet is filled with clothes
+just cleaned and pressed.
+~
+0 9 0
+D2
+~
+door~
+1 -1 4709
+E
+desk~
+   The desk is basically uninteresting, as are the papers 
+on top of it...
+~
+E
+closet~
+   Nice clothes, but not your size at all.
+~
+S
+#4712
+The Library~
+   A great mages' library is contained on this floor of 
+the tower.  You feel you could learn anything you wanted
+to if you only looked and read long enough.  A door
+opens up back on the stairwell to the east.
+~
+0 9 0
+D1
+~
+door~
+1 -1 4713
+D3
+A big bookcase, that looks rather odd.
+~
+bookcase~
+1 -1 4714
+E
+book books~
+There's lots of books about everything here!
+~
+S
+#4713
+Stairwell~
+   This stairwell continues up and down, and there is
+a door to the west.
+~
+0 9 0
+D3
+~
+door~
+1 -1 4712
+D4
+~
+~
+0 -1 4707
+D5
+~
+~
+0 -1 4715
+S
+#4714
+A Hidden Hall~
+   This is a small hidden hall with a secret entrance to the
+library on the north end of the west wall, and a trapdoor 
+on the south end.
+~
+0 9 0
+D1
+The backside of a movable bookcase.
+~
+book bookcase~
+1 -1 4712
+D5
+~
+trapdoor trap~
+1 -1 4716
+S
+#4715
+A Stairwell~
+   This stairwell continues up and down, and there is a door
+to the west opening up onto this level.
+~
+0 9 0
+D3
+~
+door~
+1 -1 4717
+D4
+~
+~
+0 -1 4713
+D5
+~
+~
+0 -1 4722
+S
+#4716
+Hidden Treasure Room~
+   Jackpot!  A small room filled with treasure chests!  Go get it!
+~
+0 0 0
+D4
+~
+trapdoor trap~
+1 -1 4714
+S
+#4717
+Hallway~
+   This hall runs through the tower.  There's more hall to
+the west, and doors to your north and south.  A door to
+the east leads back to the stairwell.
+~
+0 9 0
+D0
+~
+door north~
+1 -1 4719
+D1
+~
+east door~
+1 -1 4715
+D2
+~
+door south~
+1 -1 4718
+D3
+~
+~
+0 -1 4720
+S
+#4718
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely
+decorated and outfitted with a bed, nightstand, chair
+and table, etc.  Nothing real important here.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4717
+S
+#4719
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely 
+decorated and outfitted with a bed, nightstand, chair
+and table, etc.  Nothing real important here.
+~
+0 9 0
+D2
+~
+door~
+1 -1 4717
+S
+#4720
+Hallway~
+   This hallway continues to the east, and has a door to 
+the north.  You could swear that the way this level
+is arranged...nah, couldn't be.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4721
+D1
+~
+~
+0 -1 4717
+S
+#4721
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely
+decorated and outfitted with a bed, nightstand, chair
+and a table, etc.  Nothing real important here.
+~
+0 9 0
+D2
+~
+door~
+1 -1 4720
+S
+#4722
+Stairwell~
+   This stairwell leads up and down, and there is a big
+open room to your west.
+~
+0 9 0
+D3
+~
+~
+0 -1 4723
+D4
+~
+~
+0 -1 4715
+D5
+~
+~
+0 -1 4725
+S
+#4723
+Dining Hall~
+   This is a large dining hall, with a long table that runs
+down the length of it.  Chairs are set up along the sides
+to accomodate approximately 10 people.  There are paintings
+and tapestries on the walls, adding color to the stonework,
+The cooled lava that had poured in the windows makes the place 
+seem eerie somehow .  There is a door to the north, and
+the stairwell is to the east.
+~
+0 9 0
+D0
+~
+door~
+1 -1 4724
+D1
+~
+~
+0 -1 4722
+E
+tapestry tapestries painting paintings~
+   Many of these show scenes of high magic and heroism.
+Just like almost every tapestry and painting you've seen.
+~
+S
+#4724
+Kitchen Area~
+   This is a well-stocked kitchen, the larders still fresh
+and full as if by magic.  Perhaps this would be a good
+place to take a break.
+~
+0 9 0
+D2
+~
+door~
+0 -1 4723
+S
+#4725
+Stairwell~
+   The stairwell leads up and down here, and there is a hall
+you can enter to the west.
+~
+0 9 0
+D3
+~
+~
+0 -1 4726
+D4
+~
+~
+0 -1 4722
+D5
+~
+~
+0 -1 4729
+S
+#4726
+Hall~
+   This area of the tower seems dank and oppressive.  The
+hall runs north-south, and there is an empty cell to your
+west.  The stairwell is to your east.
+~
+0 9 0
+D0
+~
+~
+0 -1 4727
+D1
+~
+~
+0 -1 4725
+D2
+~
+~
+0 -1 4728
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#4727
+Hall~
+   This is the northern end of the hall.  There are cells to
+your right and left, empty and awaiting occupants.
+~
+0 9 0
+D2
+~
+~
+0 -1 4726
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#4728
+Hall~
+   This is the southern end of the hall.  There are cells to
+your right and left, empty and awaiting occupants.
+~
+0 9 0
+D0
+~
+~
+0 -1 4726
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#4729
+Stairwell~
+   The stairwell continues up and down here.  A large room
+opens up to the west.
+~
+0 9 0
+D3
+~
+~
+0 -1 4730
+D4
+~
+~
+0 -1 4725
+D5
+~
+~
+0 -1 4731
+S
+#4730
+Mage's Office~
+   A small desk here is cluttered with magically preserved
+papers and documents.  None seem of value, except perhaps
+to a historian.  This place seems vaguely uninteresting...
+~
+0 9 0
+D1
+~
+~
+0 -1 4729
+E
+paper papers documents document~
+   Well, one of the papers relate a story about how the mage
+of this tower, Rand, angered many kings, and relates how
+they set his armies on him.  You wonder if the lava
+outside was a failed attempt to destroy the armies...
+~
+E
+desk~
+   It's cluttered with all sorts of papers.  Some look
+half interesting, actually.
+~
+S
+#4731
+Stairwell~
+   The stairs go up and down here, and there is a room to the
+west...
+~
+0 9 0
+D3
+~
+~
+0 -1 4732
+D4
+~
+~
+0 -1 4729
+D5
+~
+~
+0 -1 4733
+S
+#4732
+Sitting Room~
+   This is a simply furnished room, with chairs all about.
+A fireplace is inset into an inner wall, the chimney
+undoubtedly directed by magic...
+This would be a nice place to rest awhile...
+~
+0 9 0
+D1
+~
+~
+0 -1 4731
+S
+#4733
+Stairwell~
+    This is where the stairwell finally ends.  There is a hall
+to your west.
+~
+0 9 0
+D3
+~
+~
+0 -1 4734
+D4
+~
+~
+0 -1 4731
+S
+#4734
+Hallway~
+   This small hallway on the former 'ground floor' ran north-
+south.  To the east is the stairwell that leads up into 
+the shadowy recesses of the tower.  To the west is the
+entrance way to the tower.  The north is completely blocked
+off by lava, and the way south is still clear.
+~
+0 9 0
+D1
+~
+~
+0 -1 4733
+D2
+~
+~
+0 -1 4737
+D3
+~
+~
+0 -1 4735
+S
+#4735
+Entranceway~
+   This is a grand chamber with giant double-doors to the
+west.  To the east is the main floor of the tower.
+This room is arranged highly attractively and very
+impressively, with sculptures and tapistries everywhere.
+The doors seem impenetrable...you don't think you'd be able to 
+get through them if you really had to...
+~
+0 9 0
+D1
+~
+~
+0 -1 4734
+D3
+   These doors seem incredible.  Unfortunately, they're locked.
+~
+door double~
+1 0 4736
+E
+sculpture tapestry sculptures tapestries~
+   They look nice, but aren't very valuble.
+~
+S
+#4736
+Doorway~
+   This was the entrance to the tower.  Now lava has blocked
+it up completely.  However:
+   It seems when the lava came down a man was outside the
+doors.  He was blasted into the doors, and died instantly,
+but his skeleton still clutches a staff in perfect 
+condition...
+~
+0 9 0
+D1
+These double doors have the outline of a man blasted into them...
+~
+double doors~
+1 0 4735
+S
+#4737
+Hallway~
+    This is the southern part of the hallway.  There is 
+a door to the west, barred with gleaming bands of lights.
+To the north is more hallway.
+~
+0 9 0
+D0
+~
+~
+0 -1 4734
+D3
+~
+door~
+2 -1 4738
+S
+#4738
+Stairs~
+   Stairs lead down here into the tower's basement, or you
+can head east into the main floor of the tower.
+~
+0 9 0
+D1
+~
+door~
+2 -1 4737
+D5
+~
+~
+0 -1 4739
+S
+#4739
+Stairs~
+   Stairs lead up here to the main level, or you can go east
+to the basement of the tower.
+~
+0 9 0
+D1
+~
+~
+0 -1 4740
+D4
+~
+~
+0 -1 4738
+S
+#4740
+Alcove~
+   This alcove leads into a huge room to your north, and
+to stairs leading down to the east, and stairs going 
+up to your west.
+~
+0 9 0
+D0
+~
+~
+0 -1 4741
+D1
+~
+~
+0 -1 4742
+D3
+~
+~
+0 -1 4739
+S
+#4741
+Laboratory~
+   This laboratory has lots of stuff in it.  Beakers, flasks,
+burners, tongs, mortars and pestles, jars filled with
+normal things, jars filled with abnormal things, jars
+filled with things you'd rather not think about...
+A search could reveal many things...
+~
+0 9 0
+D2
+~
+~
+0 -1 4740
+E
+beaker beakers flask flasks burner burners tong tongs mortar mortars pestle pestles jar jars~
+   Looks like normal, fragile lab equipment to you.
+~
+S
+#4742
+Stairs~
+   Stairs lead down here to the second level of the basement,
+or back west to the alcove.
+~
+0 9 0
+D3
+~
+~
+0 -1 4740
+D5
+~
+~
+0 -1 4743
+S
+#4743
+Stairs~
+   Stairs lead up here to the first level of the basement, or
+you can go east to another big room.
+~
+0 9 0
+D1
+~
+~
+0 -1 4744
+D4
+~
+~
+0 -1 4742
+S
+#4744
+Summoning Room~
+   This room is darkly lit by a giant glowing pentagram in
+the center of the room.  Bands of force encircle some
+sort of being trapped inside.  You think that going
+inside would be an EXTREMELY BAD idea...
+~
+0 9 0
+D0
+~
+~
+0 -1 4745
+D3
+~
+~
+0 -1 4743
+E
+pentagram~
+   It's centuries old.  You don't think standing close
+by would be a good idea.
+~
+E
+being~
+   You can't see it clearly through the energy field
+of the pentagram, but you sense that whatever it is,
+it is very, very, very, very angry.
+~
+S
+#4745
+Inside a Pentagram~
+The small god entrapped by the wizard looks at you with
+an insane expression.  Four hundred years of imprisonment
+doesn't do much for ones...
+
+OOPS!
+
+He killed you!
+You are dead, R.I.P.
+~
+0 2 0
+D2
+~
+~
+0 -1 4744
+S
+#0
+#RESETS
+M 0 4700 3 4700      	/* goats*/
+M 0 4700 3 4702
+M 0 4700 3 4704 
+M 0 4701 2 4707		/* demons */
+M 0 4701 2 4707
+M 0 4702 1 4712		/* book monster */
+G 1 4710 20		/* chaos book */
+G 1 4711 20		/* elder book */
+O 0 4709 1 4711		/* desk */
+M 0 4703 1 4711		/* bad feeling */
+P 1 4702 50 4709	/* agate */
+P 1 4703 50 4709	/* jade */
+P 1 4700 50 4709	/* glowing dagger */
+M 0 4705 1 4737		/* door guardian */
+O 0 4704 5 4711		/* sculpture */
+O 0 4713 100 4741	/* mevais */
+O 0 4714 100 4741	/* peska */
+O 0 4715 20 4736	/* rand's staff */
+O 0 4716 1 4716		/* chest */
+O 0 4717 1 4716		/* chest */
+O 0 4718 1 4716		/* chest */
+O 0 4719 1 4710 	/* water basin */
+M 0 4704 1 4716		/* worst nightmare */
+P 1 4701 50 4716	/* glowing platemail */
+P 1 4705 100 4717	/* dragon's blood */
+P 1 4707 50 4717	/* tent pole */
+P 1 4706 100 4718	/* amulet */
+P 1 4708 1 4718		/* powder of wealth */
+P 1 4712 10 4718	/* occluded lens */
+O 1 4720 10 4724 	/* food */
+O 1 4720 10 4724 	/* food */
+D 0 4706 5 1
+D 0 4707 4 1
+D 0 4707 2 1
+D 0 4708 0 1
+D 0 4709 0 1
+D 0 4709 2 1
+D 0 4710 0 1
+D 0 4711 2 1
+D 0 4712 1 1
+D 0 4712 3 1
+D 0 4713 3 1
+D 0 4714 1 1
+D 0 4714 5 1
+D 0 4715 3 1
+D 0 4716 4 1
+D 0 4717 0 1
+D 0 4717 1 1
+D 0 4717 2 1
+D 0 4718 0 1
+D 0 4719 2 1
+D 0 4720 0 1
+D 0 4721 2 1
+D 0 4723 0 1
+D 0 4735 3 2
+D 0 4736 1 2
+D 0 4737 3 1
+D 0 4738 1 1
+S
+#$

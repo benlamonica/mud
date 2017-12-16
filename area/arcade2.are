@@ -1,0 +1,1653 @@
+
+#AREA {60 90} Sushi   The Virtual Arcade~
+
+#MOBILES
+#11500
+sonya woman~
+Sonya Blade~
+Sonya peers at you, grins, and then asumes a combat stance.
+~
+Sonya Blade is wearing a green skin tight body suit and looks ready for
+battle. Her hair is carefully pulled back by a black headband, to prevent
+it from getting into her eyes
+~
+human~
+ABT DFTHaa 750 S
+75 10 1000d2+500 500d2+100 25d2+5 7
+-20 -20 -20 -20
+CDFIKN AB O C
+8 8 2 1000
+0 0 M 0
+#11501
+liu kang man~
+Liu Kang~
+Liu Kang folds his hands before him and bows to you.
+~
+Liu Kang is wearing some loose fitting black pants and a red headband to
+keep his long black hair from getting in his eyes during battle. His black
+armbands stretch tightly over his muscled forearms.
+~
+human~
+AB DHF 1000 S
+85 15 1800d1+0 500d2+750 40d2+10 18
+-21 -21 -21 -10
+DEFHIK ABM NPO 0
+8 8 1 1500
+0 0 M 0
+#11502
+kano man~
+Kano~
+Kano turns his human eye towards you as a growl rumbles in his throat.
+~
+Kano is a fiercing looking man, with loose white clothing that has been
+worn in the worst of battles and weather. He has a metal plate covering
+half of his face and a cybernetic eye glows red beneath it.
+~
+human~
+AB DFHTaa -500 S
+90 20 2500d1+1 1500d1+1 55d2+15 25
+-25 -25 -25 -25
+CEFHIKN AB ELQ NO
+8 8 1 2000
+0 0 L 0
+#11503
+sub zero man ninja~
+Sub-Zero~
+A large man in black and blue clothing stands before you
+~
+Sub-Zero is dressed in blue and black clothing which nearly covers his
+entire body. He wears the traditional style of the ninja, but has a modern
+face mask covering his mouth and nose. His dead black eyes stare at you as
+he prepares for battle.
+~
+human~
+ABT DFH 0 S
+95 20 3300d1+501 900d1+1 20d8+10 30
+-29 -29 -29 -29
+DFHIKN ABIE FJ HNK
+8 8 1 2500
+0 0 L 0
+#11504
+scorpion man ninja~
+Scorpion~
+Scorpion stands straight up and cooly appraises you as you enter.
+~
+Scorpion is dressed in the traditional garb of the ninja, but in Gold and
+Black. A mask covers his nose and mouth so it is difficult to see what he
+really looks like. His eyes seem to burn into you as he stares through
+you.
+~
+human~
+ABT DFHJVaa -750 S
+100 20 3750d1+0 1200d1+1 10d10+15 2
+-35 -35 -35 -35
+BEFHIKN ABHO FMO IJ
+8 8 1 3000
+0 0 L 0
+#11505
+johnny cage man~
+Johnny Cage~
+Johnny Cage leans back against the wall and smirks at you.
+~
+Johnny Cage seems to be extremely relaxed and confident as he leans back
+against the wall and cooly looks you over. He seems to smirk at you as he
+reaches up and adjusts his shades.
+~
+human~
+AB DFHVaa 600 S
+95 22 4200d1+1 900d1+1 40d3+10 25
+-35 -35 -35 -20
+DEFIKN ABE FNO M
+8 8 1 3500
+0 0 L 0
+#11506
+rayden man~
+Rayden~
+Rayden, God of Lightning, seems to crackle with energy as he greets you.
+~
+Rayden, dressed in simple whtie clothing, seems to crackle with energy as
+he looks you over. You can't help but shiver as you see tiny sparks of
+energy burst from his eyes as his mouth begins to frown with displeasure.
+~
+human~
+AB DFHNTVaa 0 S
+95 30 3500d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11507
+goro dragon man~                                                               
+                                                                               
+                                                                               
+                
+Goro~
+Goro growls angrily at you and flexes his four arms.
+~
+Goro is a HUGE half man, half dragon and just the sight of his four
+massive arms flexing methodically is enough to send shivers down your
+spine. His eerie red eyes bore into you as he lumbers towards you.
+~
+dragon~
+ABT DFHJNVaa -1000 S
+100 30 4500d1+1 1200d1+1 60d2+35 25
+-40 -40 -40 -40
+CDEFHIKNO ABKLQ D HIKN
+8 8 0 4000
+0 0 G 0
+#11508
+shang tsung man~
+Shang Tsung~
+Shang Tsung cackles evilly at your audicity in challenging him.
+~
+As you study Shang Tsung, you realize that he has no natural form and that
+he constantly switches from one warrior to another before your very eyes.
+He has inherited the best traits of all the Kombatants, without any of
+their weaknesses. You begin to get the feeling you're WAY over your head
+in this one.
+~
+human~
+ABR CDFEHNTV -1000 S
+120 30 5200d1+1 2200d1+1 40d3+20 1
+-43 -43 -43 -43
+BCDEFHIJKNO ABO CJHIGMP N
+8 8 1 6000
+0 0 G 0
+#11520
+jacky man~
+Jacky~
+Jacky smiles with confidence as he prepares for battle.
+~
+Jackey is standing here with his blonde hair and black pants waiting for
+you as he laughs.
+~
+human~
+ABT DFTHaa 750 S
+75 10 1000d2+1 500d2+100 25d2+5 7
+-20 -20 -20 -20
+CDFIKN AB O C
+8 8 2 1000
+0 0 M 0
+#11521
+jeffery man~
+Jeffery~
+Jeffery is in his ready stance waiting for the fight to start.
+~
+Jeffery is a pretty large man with dreadlocks that are pulled back.  As he
+prepares for the fight he enters his fighting stance.
+~
+human~
+AB DFH 1000 S
+85 15 1800d1+1 500d2+750 40d2+10 18
+-21 -21 -21 -10
+DEFHIK ABM NPO 0
+8 8 1 1500
+0 0 M 0
+#11522
+sarah woman~
+Sarah~
+Sarah squints her eyes as you enter and prepares herself.
+~
+Sarah is Jackys sister she is wearing a black bodysuit and her blonde hair
+is pulled back into a ponytail.
+~
+human~
+AB DFHTaa -500 S
+90 20 2500d1+1 1500d1+1 55d2+15 25
+-25 -25 -25 -25
+CEFHIKN AB ELQ NO
+8 8 1 2000
+0 0 L 0
+#11523
+kage man ninja~
+Kage~
+A large man in a blue outfit stands before you
+~
+Kage is dressed in blue clothing which covers his entire body. He wears
+the traditional style of the ninja.  He looks you up and down and prepares
+for battle
+~
+human~
+ABT DFH 0 S
+95 20 3300d1+1 900d1+1 20d8+10 30
+-29 -29 -29 -29
+DFHIKN ABIE FJ HNK
+8 8 1 2500
+0 0 L 0
+#11524
+pai woman~
+Pai~
+Pai is prepareing for the battle as you enter.
+~
+Pai is dressed in a light blue and white outfit and is doing her kata as
+you watch she finsihes and gets into her stance
+~
+human~
+AB DFHJVaa -750 S
+100 20 3750d1+1 1200d1+1 10d10+15 2
+-35 -35 -35 -35
+BEFHIKN ABHO FMO IJ
+8 8 1 3000
+0 0 L 0
+#11525
+wolf man~
+Wolf~
+Wolf flexes and poses showing off his muscles.
+~
+Wolf looks like a wrestler and he is very large and looks like he could
+just break you in two
+~
+human~
+AB DFHVaa 600 S
+100 22 4000d1+1 900d1+1 40d3+10 25
+-35 -35 -35 -20
+DEFIKN ABE FNO M
+8 8 1 3500
+0 0 L 0
+#11526
+lao man~
+Lao~
+Lao bows to you and enters his stance quickly as you enter.
+~
+Lao is dressed in a colorful outfit and has his long black hair braided
+and pulled back on his head
+~
+human~
+AB DFHNTVaa 0 S
+110 30 4000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11527
+akira man~
+Akira~
+Akira points at you and utters somthing in japanese as he bows.
+~
+Akira is dressed in a white outfit and tenses up and stands ready for the
+battle
+~
+human~
+AB DFHNTVaa 0 S
+115 30 3500d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11516
+ryu man~
+Ryu~
+Ryu seems cool, calm, and collected as he prepares for battle.
+~
+Ryu is dressed in his white ghi with red headband
+~
+human~
+ABT DFTHaa 750 S
+80 10 1000d2+65 500d2+100 25d2+5 7
+-20 -20 -20 -20
+CDFIKN AB O C
+8 8 2 1000
+0 0 M 0
+#11528
+ken man~
+Ken~
+Ken is showing off to the fans while waiting for the fight to start.
+~
+Ken is dressed in his red ghi and is showing off his moves
+~
+human~
+AB DFH 1000 S
+80 15 1800d1+6 500d2+750 40d2+10 18
+-21 -21 -21 -10
+DEFHIK ABM NPO 0
+8 8 1 1500
+0 0 M 0
+#11529
+chun li woman~
+Chun Li~
+Chun Li is quietly awaiting the fight
+~
+Chun Li is dressed in her blue and white outfit with spiked bracelets
+~
+human~
+AB DFHTaa 500 S
+85 20 2500d1+6 1500d1+1 55d2+15 25
+-25 -25 -25 -25
+CEFHIKN AB ELQ NO
+8 8 1 2000
+0 0 L 0
+#11530
+blanka man~
+Blanka~
+A large beast sparking with energy stands before you.
+~
+Blanka is greenish yellow with red long hair he is growling and sparking
+with electricity
+~
+human~
+ABT DFH 0 S
+90 20 3300d1+7 900d1+1 20d8+10 30
+-29 -29 -29 -29
+DFHIKN ABIE FJ HNK
+8 8 1 2500
+0 0 L 0
+#11531
+dalhisim man~
+Dalhisim~
+Dalhisim is meditating for the battle as you enter.
+~
+Dalhisim is an old wise man who has studied in the ways of yoga and is
+also a powerful opponent
+~
+human~
+ABT DFHJVaa -750 S
+95 20 3750d1+7 1200d1+1 10d10+15 2
+-35 -35 -35 -35
+BEFHIKN ABHO FMO IJ
+8 8 1 3000
+0 0 L 0
+#11532
+zangief man~
+Zangief~
+Zangief flexes and shows off his muscles.
+~
+Zangief is a large wrestler who has scars all over his body from his
+favorite pastime... bear wrestling
+~
+human~
+AB DFHVaa 600 S
+100 22 4200d1+9 900d1+1 40d3+10 25
+-35 -35 -35 -20
+DEFIKN ABE FNO M
+8 8 1 3500
+0 0 L 0
+#11533
+guile man~
+Guile~
+Guile is standing here combing his hair as you enter.
+~
+Guile is here to stop you because he wants M. Bison to himself so he can
+avenge his friends death
+~
+human~
+AB DFHNTVaa 0 S
+105 30 3500d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11534
+honda man~
+E. Honda~
+E. Honda is here eating sashimi before the battle
+~
+E. Honda is dressed in the standard sumo garb
+~
+human~
+AB DFHNTVaa 0 S
+105 30 3500d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11548
+balrog man~
+Balrog~
+Balrog is here shadow boxing as you enter.
+~
+Balrog is wearing boxing gloves and blue shorts.  He looks pretty big and
+could probably knock you out with just a few hits.  He looks up and stares
+at you.
+~
+human~
+AB DFHNTVaa 0 S
+110 30 4000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11549
+vega man~
+Vega~
+Vega is stareing at himself in a mirror while waiting for you.
+~
+Vega is very vain and is gloating about his good looks.  He has a mask
+over his face to protect it during a fight and a long hand claw on his
+right hand that looks like it could do some major damage.
+~
+human~
+AB DFHNTVaa 0 S
+110 30 4000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11550
+sagat man~
+Sagat~
+Sagat is looking at you from his good eye and laughing.
+~
+Sagat is a very strong and very big kickboxer. Across his chest is a large
+scar rumored to have been put there by Ryu.  On one eye is an eyepatch but
+he can see you very well through his other eye.
+~
+human~
+AB DFHNTVaa 0 S
+115 30 4000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11551
+bison man~
+M. Bison~
+M. Bison is here waiting for you so he can finish you off.
+~
+M. Bison is a very evil looking man with dark demonic eyes and wearing a
+military looking outfit with a large cape.  He is here to finish you off
+so he can take over the world.
+~
+human~
+AB DFHNTVaa 0 S
+120 30 5000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11519
+jago man~
+Jago~
+Jago is calm as he prepares for battle.
+~
+Jago is dressed in a blue and black tiger stripped outfit that looks like
+a ninjas.  His eyes are glowing and it spooks ya.
+~
+human~
+ABT DFTHaa 750 S
+70 10 1000d2+45 500d2+100 25d2+5 7
+-20 -20 -20 -20
+CDFIKN AB O C
+8 8 2 1000
+0 0 M 0
+#11539
+cinder man~
+Cinder~
+Cinder is here burning brightly
+~
+Cinder glows bright red but you figure that is because he is pretty much
+made of flames.
+~
+human~
+AB DFH 1000 S
+80 15 1800d1+5 500d2+750 40d2+10 18
+-21 -21 -21 -10
+DEFHIK ABM NPO 0
+8 8 1 1500
+0 0 M 0
+#11540
+orchid woman~
+Orchid~
+Orchid is here working on her moves before the fight
+~
+Orchid is dressed in a green and yellow skin tight outfit and is holding a
+pair of glowing yellow rods
+~
+human~
+AB DFHTaa -500 S
+85 20 2500d1+1 1500d1+1 55d2+15 25
+-25 -25 -25 -25
+CEFHIKN AB ELQ NO
+8 8 1 2000
+0 0 L 0
+#11541
+combo man~
+T.J. Combo~
+T.J. Combo is here working on a punching bag getting ready.
+~
+T.J. Combo is you basic boxer but you sense he is a bit more than that
+from the speed of his punches he lands on the speed bag.  Maybe you should
+be worried.
+~
+human~
+ABT DFH 0 S
+95 20 3300d1+6 900d1+1 20d8+10 30
+-29 -29 -29 -29
+DFHIKN ABIE FJ HNK
+8 8 1 2500
+0 0 L 0
+#11542
+saberwulf man~
+Saberwulf~
+Saberwulf is here chowing on a rubber chew toy.
+~
+Saberwulf is wearing a tattered shirt and a pair of ripped shorts but i
+think that's because he is also a werewolf and is a bit big for his
+clothes.
+~
+human~
+ABT DFHJVaa -750 S
+95 20 3750d1+7 1200d1+1 10d10+15 2
+-35 -35 -35 -35
+BEFHIKN ABHO FMO IJ
+8 8 1 3000
+0 0 L 0
+#11543
+chief thunder man~
+Chief Thunder~
+Chief Thunder is here praying to the spirits before the fight.
+~
+Chief Thunder is covered in ceremonial paint and wearing a large indian
+head dress.  You watch as he channels a bolt of lightning through his axes
+and down through his body.
+~
+human~
+AB DFHVaa 600 S
+100 22 4200d1+1 900d1+1 40d3+10 25
+-35 -35 -35 -20
+DEFIKN ABE FNO M
+8 8 1 3500
+0 0 L 0
+#11544
+spinal man~
+Spinal~
+Spinal is here leaning on his scimitar waiting for a fight.
+~
+Spinal must be very old, probably because he is a walking skeleton with a
+spiked shield and scimitar.
+~
+human~
+AB DFHNTVaa 0 S
+105 30 3500d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#11545
+fulgore man~
+Fulgore~
+Fulgore is doing a systems check before the battle begins.
+~
+Fulgore looks like a cross between the terminator and the predator.  He is
+large, strong, and robotic.  I wouldn't mess with him if I were you.
+~
+human~
+AB DFHNTVaa 0 S
+110 30 4000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+
+#11547
+eyedol man~
+Eyedol~
+Eyedol is fighting amongst himself and then glares at you.
+~
+Eyedol is big ugly and has two heads and a big massive upper body.  His
+bottom half is like that of a goat and he is yelling and screaming at
+himself.
+~
+human~
+AB DFHNTVaa 0 S
+120 30 5000d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+
+#11546
+glacius man~
+Glacius~
+Glacius is here getteing ready for the battle ahead.
+~
+Glacius is made of what seems to be ice because you can see the air around
+him as he breathes and moves.
+~
+human~
+AB DFHNTVaa 0 S
+105 30 4600d1+1 1000d1+1 2d30+50 28
+-39 -39 -39 -39
+DEFHIK ABJO COK EM
+8 8 1 0
+0 0 H 0
+#0
+
+#OBJECTS
+#11508
+key shang tsung victory~
+The Key of Victory!~
+This golden key is your symbol of triumph and permits you to enter the
+Hall of Victory!
+~
+gold~
+18 AG AO
+0 0 0 0 0
+90 5 5 0
+#11510
+plaque kombat champions~
+The Plaque of Kombat Champions!~
+This Plaque contains the names of all those who have successfully defeated
+Shang Tsung and the other Kombatants. There are none listed so far, will
+yours be the first to be engraved?
+~
+gold~
+12 AGO 0
+0 0 0 0 0
+90 5 5 0
+#11514
+sign~
+a WARNING! sign is here~
+a WARNING sign is here~
+wood~
+12 O 0
+0 0 0 0 0
+1 1 1 0
+E
+sign~
+The Mortal Kombat area was done by Winter with some modifications done by
+Sushi so it would fit into the Arcade area much thanks to Winter for use
+of his area.
+
+WARNING WARNING WARNING WARNING WARNING WARNING WARNING
+if you are under level 60 we recomend you do not enter this area. Thank
+You, The Management.
+~
+#0
+
+#ROOMS
+#11500
+The Entrance to the Realm of Kombat!~
+You stand before a large portal, decorated by serpents and open-mouthed
+dragons, though each of their eyes seem to be upon you. You feel a strange
+sense of forboding and you eye the portal warily. As you look into its
+inky blackness, you think you can see some shapes on the other side, but
+the blur and meld so quickly you can't be sure. Only two things await you
+now, Victory or Death.
+~
+0 DN 0
+D3
+The Realm of Kombat lies through the portal.
+~
+~
+0 0 11501
+D1
+Mortal Kombat
+~
+~
+0 -1 11514
+S
+#11501
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing. You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+You see Liu Kang's room up ahead.
+~
+~
+0 0 11502
+D1
+The portal to the Realm of Kombat is due east.
+~
+~
+0 0 11500
+S
+#11502
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety.
+There are two ways to leave this place, and only one of them involve
+breathing.  You begin to wonder whether it was such a wise idea coming
+here in the first place.
+~
+0 DN 0
+D3
+Kano's room is straight ahead.
+~
+~
+0 0 11503
+D1
+Sonya's room is right behind you.
+~
+~
+0 0 11501
+S
+#11503
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing.  You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+Sub-Zero's room is straight ahead.
+~
+~
+0 0 11504
+D1
+Liu Kangs's room is directly behind you.
+~
+~
+0 0 11502
+S
+#11504
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing.  You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+Scorpion's room is straight ahead.
+~
+~
+0 0 11505
+D1
+Kano's room is directly behind you.
+~
+~
+0 0 11503
+S
+#11505
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing.  You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+Johnny Cage's room is straight ahead.
+~
+~
+0 0 11506
+D1
+Sub-Zero's room is directly behind you.
+~
+~
+0 0 11504
+S
+#11506
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing.  You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+Rayden's room is directly ahead of you.                                        
+                                                                               
+                                                                               
+                
+~
+~
+0 0 11507
+D1
+Scorpion's room is right behind you.
+~
+~
+0 0 11505
+S
+#11507
+The Realm of Kombat~
+You stand in one room of many within the Realm of Kombat, created by the
+gods of Outworld for the purpose of pitting mortals against their brethern
+in Mortal Kombat. There is no escape from here, no safety. There are two
+ways to leave this place, and only one of them involve breathing.  You
+begin to wonder whether it was such a wise idea coming here in the first
+place.
+~
+0 DN 0
+D3
+You stand before Goro's Lair!
+~
+~
+0 0 11508
+D1
+Johnny Cage's room is right behind you.
+~
+~
+0 0 11506
+S
+#11508
+Goro's Lair~
+You stand in a HUGE circular room that is littered with bones and various
+pieces of what was probably once human beings.  There is a small fire near
+the back of the room and the rancid smell of something awful cooking. The
+walls are scarred with black and in some places, there are large chunks of
+stone missing from them. At the center of the room, stands the massive
+Goro, the shadow's outlining him menacingly in the
+firelight.
+~
+0 DN 0
+D3
+The battle room containing Shang Tsung is just ahead of you.
+~
+~
+0 0 11509
+D1
+Rayden's room is right behind you.
+~
+~
+0 0 11507
+S
+#11509
+Shang Tsung's Battle Room~
+You stand within a small arena of sorts.  The walls around you are made of
+solid black marble and adorned with torches fairly at points. About 16
+feet off the ground, there is a balcony running along the edge of the room
+which would seat perhaps 40 people. Sitting within the balcony are dozens
+of massive humanoid creatures who appear to be twitching in anticipation
+of the coming fight. Shang Tsung turns to them and bows, and then gives
+you his undivided attention. Keeping his eyes locked on yours, he gives a
+quick bow from the waist and prepares to attack!
+~
+0 DN 0
+D1
+Goro's Lair is right behind you.                                               
+                                                                               
+                                                                               
+                
+~
+~
+0 0 11508
+D3
+The Hall of Victory is just ahead!
+~
+~
+2 11508 11510
+S
+#11510
+Hall of Victory!~
+You stand within the Hall of Victory!  This either means one of two
+things, that you took the coward's way out and fled through the realm of
+combat and will be dealt with appropriately or you have successfully
+defeated all of the Kombatants are now ready to recieve your reward! The
+walls are solid gold here and two crystal chandoliers hang from the
+ceiling bathing the hall with light.  You stand proudly before the gods
+who must be watching you and await the announcement to the world that you
+have become the Champion of Mortal Kombat!
+~
+0 DN 0
+D1
+Shang Tsung's Battle Room lies right behind you.
+~
+~
+2 2949 11509
+D3
+You can see your homeland just ahead!
+~
+~
+0 0 3001
+S
+#11511
+Entrance to the Virtual Arcade~
+This is the entrance to the Virtual Arcade the games here seem almost
+lifelike. Only the best games are here everything from Mortal Kombat to
+Street Fighter. There is a statue here to greet you as you enter. All of a
+sudden you hear a voice say "Please, step inside and enjoy"
+~
+0 DN 0
+D0
+~
+~
+0 -1 1236
+D2
+The Arcade
+~
+~
+0 -1 11512
+S
+#11512
+The Arcade~
+ You are walking around the arcade looking around trying to find a game to
+play. As you walk around your ears take in the sounds of the many
+different games and you smile.
+~
+0 DN 0
+D0
+Entrance to the Virtual Arcade
+~
+~
+0 -1 11511
+D2
+The Arcade
+~
+~
+0 -1 11513
+D3
+Mortal Kombat
+~
+~
+0 -1 11514
+D1
+Street Fighter
+~
+~
+0 -1 11515
+S
+#11513
+The Arcade~
+ You are walking around the arcade looking around trying to find a game to
+play. As you walk around your ears take in the sounds of the many
+different games and you smile.
+~
+0 DN 0
+D0
+The Arcade
+~
+~
+0 -1 11512
+D1
+Killer Instinct
+~
+~
+0 -1 11517
+D3
+Virtua Fighter
+~
+~
+0 -1 11518
+S
+#11514
+Mortal Kombat~
+ You have found the Mortal Kombat machine. You love this game it's great,
+it's cool, but this one seems different almost like you can actually go
+into the game.
+~
+0 DN 0
+D3
+The Entrance to the Realm of Kombat
+~
+~
+0 -1 11500
+S
+#11515
+Street Fighter~
+You have found the Street Fighter machine in all its glory.  This machine
+looks like it has been well taken care of, the screen is clean and *gasp*
+all the buttons and joystick work.  Although this game does look a but TOO
+real you decide to pop in a quarter.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11516
+S
+#11517
+Killer Instinct~
+You see the Killer Instinct machine.  The game looks amazing with it's
+future setting and it's brilliant colors and charecters this game looks
+like fun.  You think you'll stay and play a while.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11519
+S
+#11518
+Virtua Fighter~
+The Virtua Fighter machine looks cool, with its simple three buttons and
+joystick and actually cool looking polygon graphics this game was a step
+in the right direction for fighting games.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11520
+S
+#11520
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11521
+D1
+Virtua Fighter
+~
+~
+0 -1 11518
+S
+#11521
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11522
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11520
+S
+#11522
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11523
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11521
+S
+#11523
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11524
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11522
+S
+#11524
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11525
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11523
+S
+#11525
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11526
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11524
+S
+#11526
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+The Virtua Fighter World
+~
+~
+0 -1 11527
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11525
+S
+#11527
+The Virtua Fighter World~
+You are here in the polygon world of Virtua Fighter.  The battle platforms
+are simple yet the settings are amazing.  As you stand there you wait for
+the round to begin and you will get a chance to show your power and
+skills.
+~
+0 DN 0
+D3
+Your homeland
+~
+~
+0 -1 3001
+D1
+The Virtua Fighter World
+~
+~
+0 -1 11526
+S
+#11516
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11528
+D3
+Street Fighter
+~
+~
+0 -1 11515
+S
+#11528
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11529
+D3
+The World of Street Fighter
+~
+~
+0 -1 11516
+S
+#11529
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11530
+D3
+The World of Street Fighter
+~
+~
+0 -1 11528
+S
+#11530
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11531
+D3
+The World of Street Fighter
+~
+~
+0 -1 11529
+S
+#11531
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11532
+D3
+The World of Street Fighter
+~
+~
+0 -1 11530
+S
+#11532
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11533
+D3
+The World of Street Fighter
+~
+~
+0 -1 11531
+S
+#11533
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11534
+D3
+The World of Street Fighter
+~
+~
+0 -1 11532
+S
+#11534
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11548
+D3
+The World of Street Fighter
+~
+~
+0 -1 11533
+S
+#11548
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11549
+D3
+The World of Street Fighter
+~
+~
+0 -1 11534
+S
+#11549
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11550
+D3
+The World of Street Fighter
+~
+~
+0 -1 11548
+S
+#11550
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+The World of Street Fighter
+~
+~
+0 -1 11551
+D3
+The World of Street Fighter
+~
+~
+0 -1 11549
+S
+#11551
+The World of Street Fighter~
+You are standing in some back alley of some forgotten street somewhere in
+the world.  There are many onlookers cheering, yelling, and rooting you on
+during the battle.
+~
+0 DN 0
+D1
+Your Homeland
+~
+~
+0 -1 3001
+D3
+The World of Street Fighter
+~
+~
+0 -1 11550
+S
+#11519
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11539
+D3
+Killer Instinct
+~
+~
+0 -1 11517
+S
+#11539
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11540
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11519
+S
+#11540
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11541
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11539
+S
+#11541
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11542
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11540
+S
+#11542
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11543
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11541
+S
+#11543
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11544
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11542
+S
+#11544
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11545
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11543
+S
+#11545
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11546
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11544
+S
+#11546
+The Killer Instinct Battle Ground~
+In this virtual world of skyscrapers and city streets you will find the
+best warriors this world has to offer.  Be careful and watch your step you
+might just find yourself takeing a wrong step off a building and landing
+on a car.
+~
+0 DN 0
+D1
+The Lair of Eyedol
+~
+~
+0 -1 11547
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11545
+S
+#11547
+The Lair of Eyedol~
+You are standing on a long wooden bridge suspended above a lava pit.  You
+think to yourself how bad it would be to fall off and melt.
+~
+0 DN 0
+D1
+Your homeland
+~
+~
+0 -1 3001
+D3
+The Killer Instinct Battle Ground
+~
+~
+0 -1 11546
+S
+#0
+#RESETS
+M 0 11500 1 11501  Sonya
+
+M 0 11501 1 11502 Liu Kang
+
+M 0 11502 1 11503 Kano
+
+M 0 11503 1 11504 Sub-Zero
+
+M 0 11504 1 11505 Scorpion
+
+M 0 11505 1 11506 Johnny Cage
+
+M 0 11506 1 11507 Rayden
+
+M 0 11507 1 11508 Goro
+
+M 0 11508 1 11509 Shang Tsung
+
+M 0 11520 1 11520 Jacky
+M 0 11521 1 11521 Jeffery
+M 0 11522 1 11522 Sarah
+M 0 11523 1 11523 Kage
+M 0 11524 1 11524 Pai
+M 0 11525 1 11525 Wolf
+M 0 11526 1 11526 Lao
+M 0 11527 1 11527 Akira
+M 0 11519 1 11519 Jago
+M 0 11539 1 11539 Cinder
+M 0 11540 1 11540 Orchid
+M 0 11541 1 11541 T.J. Combo
+
+M 0 11542 1 11542 Saberwulf
+M 0 11543 1 11543 Chief Thunder
+
+M 0 11544 1 11544 Spinal
+
+M 0 11545 1 11545 Fulgore
+M 0 11546 1 11546 Glacius
+M 0 11547 1 11547 Eyedol
+M 0 11516 1 11516 Ryu
+M 0 11528 1 11528 Ken
+M 0 11529 1 11529 Chun Li
+
+M 0 11530 1 11530 Blanka
+M 0 11531 1 11531 Dalhisim
+M 0 11532 1 11532 Zangief
+M 0 11533 1 11533 Guile
+
+M 0 11534 1 11534 E. Honda
+M 0 11548 1 11548 Balrog
+M 0 11549 1 11549 Vega
+
+M 0 11550 1 11550 Sagat
+
+M 0 11551 1 11551 M. Bison 
+O 0 11510 1 11510 Plaque
+O 0 11514 1 11511 sign
+D 0 11509 3 2 Door from Shang Tsung to victory
+D 0 11510 1 2 Door from Victory to Shang Tsung
+S
+#SHOPS
+0
+#SPECIALS
+M 11503 spec_breath_frost
+M 11506 spec_breath_lightning
+M 11507 spec_cast_mage
+S
+#$               
+
+
+
+
+
+

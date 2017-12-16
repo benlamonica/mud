@@ -1,0 +1,2983 @@
+#AREA	{ 5 90} Flar    The Prison~
+
+
+#MOBOLD
+#32000
+Gatekeeper~
+the gatekeeper~
+The gatekeeper is here snoozing on the job.
+~
+The gatekeeper is underpayed overweight and not too bright. He snores very loudl
+y and occasionally rubs his chin. Well better kill him now I guess.
+~
+2|64 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32001
+rat~
+the rat~
+The rat sits on its haunches here, thinking about its next meal.
+~
+The rat looks as if it hasn't eaten in days....it contemplates eating YOU!
+~
+64 65536 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32002
+Prison Guard~
+the Prison Guard~
+The Prison Guard stands here keeping an eye out for unruly behavior.
+~
+The Guard is a highly trained specialist in torture and hand to hand combat. Sel
+ectively chosen from the ranks of cityguards he is the best of the elite.
+~
+4|64 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32003
+Prison Worker~
+the Prison Worker~
+The Prison Worker is here working as little as possible.
+~
+The Prison Worker looks almost exactly like a janitor you have seen in Midgaard!
+~
+4|64 8|32|512 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32004
+Cell Guard~
+the Cell Guard~
+The Cell Guard stands here, he is staring icily at you.
+~
+The Cell Guard is one tough dude, outfitted to keep anything prisoner in. And fo
+r that matter anyone not wanted out! He is about 7'8'' and towers above you.
+~
+2|64 128 100 S
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32005
+prisoner~
+the prisoner~
+The prisoner stands here, his will broken.
+~
+The prisoner has been doing hard time for a while. He has the haggard look of an
+ inmate with nothing to lose.
+~
+64 0 0 S
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32006
+cockroach~
+the cockroach~
+The huge black cockroach skitters about.
+~
+The huge black cockroach looks as if it must eat alot of food to support that hu
+ge body. It is at least 2 feet long. Do you have some bug spray?
+~
+64 0 500 S
+8 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32007
+flunky~
+a flunky~
+A flunky skulks about waiting for some orders.
+~
+The flunky is the lowest ranking scum of the prison. He is a shame to all. kinda
+ makes ya want to put him out of his misery.
+~
+64|128 0 0 S
+13 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32008
+Stoned Guard~
+the stoned guard~
+The mob stands here, completely clueless.
+~
+The guard looks as if he has had a little too much to smoke after work today. He
+ must have eyes but all you can see are slits with puffy bloodshot teary......we
+ll you get the idea.
+~
+2|64|128 256 0 S
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32009
+gangster~
+the gangster~
+The gangster is here yelling orders to his flunkies.
+~
+Sadly the gangster was caught not paying taxes to the mayor.
+~
+4|64|128 0 0 S
+23 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32010
+Brad Warden~
+Brad the Warden~
+Brad the Warden is here contemplating the death and execution of another prisone
+r.
+~
+Brad the Warden looks like the all Midgaard guy. Voted most likely to succeed by
+ his class on the Campus he was turned down at job after job. Finally he found o
+ne he can really get into, the torture and murder of the weak. Brad loves to lus
+t after Trixie
+. And after looking at him you notice he has a preferance for women's clothing.
+~
+64 128|1048576 0 S
+84 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32011
+Trixie~
+Trixie the secretary~
+Trixie sits here dreaming about Brad the Warden.
+~
+She looks like your average, everyday, dumb, closed minded secretary. Great body
+. No mind. And a great set of.....paper clips.
+~
+2 0 1000 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32012
+Steve maintenance man~
+Steve the maintenance man~
+Steve the maintenance man is here doing a whole lot of nothing.
+~
+Steve is a career maintenance man. He likes to put new pinups on the wall, he li
+kes to order supplies from Terry and he HATES to work. All of which is quite evi
+dent. in this room
+~
+2|64 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32013
+Butch helper~
+Butch the helper~
+Butch the helper is here doing all of Steve's work.
+~
+Butch is a young lad with all the enthusiasm that ignorance can provide. He work
+s long and hard to keep this prison in working order.
+~
+64 0 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32014
+Wendy Cook~
+Wendy the Cook~
+Wendy stands here dreaming up a beautiful meal for all the inmates.
+~
+Wendy is a gorgeous young lady with flowing long auburn hair wrapped into a loos
+e hairnet. She brings her light and salvation to work with her everyday.....Her 
+son Jacob.
+~
+2|64 128|8192 1000 S
+90 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#32015
+Steam Monster~
+A steam monster~
+A swirl of mist is wafting about here.
+~
+The Steam Monster is glittering although there is no light. It swirls about and 
+about almost charming you in the process......
+~
+2|32|64 8 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32016
+Larry armsmaster~
+Larry the armsmaster~
+Larry the armsmaster is here, wanting to sell you some armor.
+~
+Larry is not the best paid person in here so he supplements his income with a li
+ttle on the side buying and selling.
+~
+2|64 0 0 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32017
+Thomas weaponmaster~
+Thomas the weaponmaster~
+Jimmy the weaponmaster is here selling his goods.
+~
+Jimmy the weaponmaster is an old cell guard who has become an expert at all the 
+weapons at his diposal. The next step in his career was to become the weaponsmas
+ter. Unfortunately he has to resort to selling arms to pay the rent.
+~
+2|64 0 0 S
+76 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32018
+slice bologna~
+(processed aura) a slice of bologna~
+[processed aura] a slice of bologna is here mouldering.
+~
+You look at the slice of bologna and it curls itself into a tube and skitters aw
+ay.
+~
+2|64 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32019
+Muslim cleric~
+The Muslim Cleric~
+A muslim cleric is here, giving you peace and a sense of well being.
+~
+The Muslim Cleric is from a different reality that has been thrust into this tim
+e and place. He makes do with the clothes on his back and the hope that more and
+ more worthy people like you will come and visit.
+~
+2|64|512|1024 128|8192 1000 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32020
+towel boy~
+the towel boy~
+The towel boy stands here with his back to the wall.
+~
+What an awful job the boy has, he has to watch these people drudge in and out of
+ the shower all day long. But he keeps a few handy items on hand.
+~
+2|64 512|8192 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32021
+Executioner~
+The Executioner~
+The Executioner stands here waiting to kill.
+~
+An ageless demon with no face and no soul.....he is feared by all but he is real
+ly just a lonely lost being. All he really wants is a friend for eternity.
+~
+2|64 512|8192 -1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32022
+Thing~
+The Black thing~
+A black thing is here.
+~
+You stare at the center of the black mass but all you can see is a rainbow of co
+lors swirling from the outside to the inside....swirling...swirling....
+~
+2|32|64 512 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#32023
+Mnemoth~
+A huge Bronze Dragon~
+A huge bronze Dragon is snoozing here with one eye open looking at you!
+~
+Since you are a lesser being than Mnemoth you cannot comprehend what you see her
+e.
+~
+64 2|8|32|128|512|32768|1048576 1000 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32024
+Terry ~
+Terry the salesman~
+Terry the salesman is here pitching a product.
+~
+Terry is a young guy who works for Environmental Chemical Corporation. He sells 
+Chemicals to Steve in the prison maintenance. He also likes to stroll the ground
+s and flirt with Wendy his wife.
+~
+4|128 128 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJOLD
+#32000
+gate key~
+a gate key~
+A metal key rests here.~
+~
+18 2 1|16384
+0 1 6 11 
+5 0 0
+E
+gate key~
+This key obviously goes to a large rusty gate DOH!~
+#32001
+short sword~
+a short sword~
+A short sword rests here.~
+~
+5 0 1|8192
+0 10 15 11 
+5 0 0
+A
+18 1
+A
+19 1
+#32002
+pack of cigarettes~
+a pack of cigarettes~
+A pack of smokes have been dropped here carelessly.~
+~
+9 2|16 1|16384
+6 1 6 11 
+5 0 0
+A
+2 -2
+A
+18 2
+E
+smokes cigarettes pack~
+The surgeon General warns that smoking may be harmful to your health~
+#32003
+Trojan wrapper~
+a used condom wrapper~
+A piece of crinkled foil rests here.~
+~
+13 128 1
+0 1 6 11 
+20 0 0
+#32004
+soap rope~
+a soap on a rope~
+Some soap on a rope is here.~
+~
+5 1|64|512|2048 1|8192
+0 12 23 7 
+11 0 0
+A
+19 1
+A
+4 1
+#32005
+tricks~
+flar's bag of tricks~
+An enchanted bag lies here~
+~
+15 32|64 1|16384
+300 1 32088 11 
+0 0 0
+A
+18 4
+A
+19 4
+#32007
+hatchling ember ring~
+a hatchling ember ring~
+A ring of burning embers is here.~
+~
+9 0 1|2
+1 0 0 0 
+8 0 0
+A
+1 1
+A
+13 6
+#32008
+Hatchling robe~
+a hatchling robe~
+An ivory robe lies here.~
+~
+9 0 1|1024
+2 0 0 0 
+5 0 0
+A
+4 1
+A
+12 5
+#32009
+filet rat~
+a rat filet~
+A juicy filet of rat lies here.~
+~
+19 0 1
+15 0 0 0 
+5 0 0
+#32010
+hatchling cloak~
+a hatchling cloak~
+A  hatchling cloak lies here.~
+~
+9 0 1|4
+2 0 0 0 
+5 0 0
+#32011
+hatchling shirt~
+a hatchling shirt~
+A hatchling shirt lies here~
+~
+9 0 1|8
+2 0 0 0 
+5 0 0
+#32012
+helmet~
+a hatchling helmet~
+A hatchling helmet rests here.~
+~
+9 0 1|16
+2 0 0 0 
+5 0 0
+#32013
+hatchling leggings~
+a set of hatchling leggings~
+Some hatchling leggings lie here.~
+~
+9 0 1|32
+2 0 0 0 
+5 0 0
+#32014
+hatchling boots~
+a pair of hatchling boots~
+A pair of hatchling boots lie here.~
+~
+9 0 1|64
+2 0 0 0 
+5 0 0
+#32015
+hatchling gloves~
+a pair of hatchling gloves~
+A pair of hatchling gloves lie here.~
+~
+9 0 1|128
+2 0 0 0 
+5 0 0
+#32016
+hatchling sleeves~
+a set of hatchling sleeves~
+Some hatchling sleeves lie here.~
+~
+9 0 1|256
+2 0 0 0 
+5 0 0
+#32017
+shield hatchling~
+a hatchling shield~
+A hatchling shield has been carelessly left here.~
+~
+9 0 1|512
+2 0 0 0 
+5 0 0
+#32018
+hatchling belt~
+a hatchling belt~
+A hatchling belt has been dropped here.~
+~
+15 0 1|2048
+100 0 0 0 
+5 0 0
+A
+19 1
+A
+18 1
+A
+13 10
+#32019
+hatchling bracer~
+a hatchling bracer ~
+A hatchling bracer has been left here.~
+~
+9 0 1|4096
+2 0 0 0 
+5 0 0
+#32020
+lucky charm hatchling~
+a lucky charm~
+A lucky charm has been left here.~
+~
+8 0 1|16384
+2 0 0 0 
+5 0 0
+A
+4 1
+A
+5 1
+#32021
+Starter Kit~
+a starter kit~
+A starter kit has been dropped here.~
+~
+15 0 1|16384
+75 1 32088 11 
+5 0 0
+E
+starter kit~
+This kit has been brought to you by Environmental Chemical corporation
+
+CALL TOLL FREE
+1-800-262-0458
+Ask For Terry~
+#32022
+fountain water~
+a fountain~
+An intricately carved ivory fountain is here, filled with holy water.~
+~
+25 1 0
+0 0 0 0 
+5 0 0
+#32023
+crumpled piece paper~
+a crumpled piece of paper~
+A crumpled piece of paper has been left here.~
+~
+8 0 1
+0 1 6 11 
+10 0 0
+E
+crumpled piece paper~
+Dear John,
+I am sorry but it is over between us.  I have run off with Chris the druggist.  
+He is really groovy and you are very retro.  I left because you spend too much t
+ime on your job.  Even though you are the town crier you should not let that get
+ in the way of
+ our relationship.
+
+Diana
+
+
+PS I have given the kids to the cannibals in Westreen.~
+#32024
+Desk~
+a large cluttered desk~
+A large cluttered desk with all sorts of paperwork is here.~
+~
+15 0 0
+1000 1 32089 11 
+5 0 0
+E
+desk~
+Don't mess with the desk it is not yours.~
+#32025
+Cell key~
+a cell block key  ~
+A cell block key rusts here~
+~
+18 0 1
+0 1 6 11 
+15 0 0
+#32026
+joint~
+a big fat joint~
+A big fat joint lays here burning.~
+~
+3 0 1|16384
+23 6 6 72 
+5 0 0
+#32027
+py check paycheck~
+a paycheck~
+A paycheck is here, longing for you to take it.~
+~
+8 0 1|16384
+0 1 6 11 
+5 0 0
+#32028
+dirty mop~
+a dirty mop~
+A dirty mop has been set against the wall.~
+~
+5 0 1|8192
+0 8 20 9 
+5 0 0
+#32029
+large battle axe~
+a  large battle axe~
+A large battle axe rests here.~
+~
+5 0 1|8192
+0 40 48 3 
+30 0 0
+A
+17 -10
+A
+19 10
+#32030
+spiked wristguard~
+a spiked wristguard~
+A wicked looking spiked wrist guard lies here.~
+~
+9 0 1|4096
+0 23 33 11 
+5 0 0
+A
+13 25
+A
+12 25
+A
+17 -20
+#32031
+titanium leggings~
+a pair of titanium leggings~
+A pair of strong leggings has been left here.~
+~
+9 0 1|32
+0 1 6 11 
+15 0 0
+A
+17 -15
+A
+24 -15
+#32032
+titanium sleeves~
+a set of titanium sleeves~
+A set of strong sleeves has been dropped here.~
+~
+9 0 1|256
+0 1 6 11 
+5 0 0
+A
+1 3
+#32033
+prison uniform~
+a prison uniform~
+A prison uniform lies here all starched up.~
+~
+9 0 1|1024
+0 1 6 11 
+5 0 0
+A
+2 2
+#32034
+titanium shield~
+a titanium shield~
+A shield of titanium rests here.~
+~
+9 0 1|512
+0 1 6 11 
+5 0 0
+A
+19 10
+#32035
+dagger curved~
+a curved assassin's dagger~
+A curved dagger lies here.~
+~
+5 16|32|512 1|8192
+0 42 62 11 
+5 0 0
+A
+18 5
+#32036
+ring guardian~
+a pitch black ring~
+A pitch black ring with sparkles of color lies on the ground here.~
+~
+9 1|2|32|64 1|2
+0 1 6 11 
+5 0 0
+A
+17 -30
+A
+13 20
+#32037
+iron manacle~
+a set of wrought iron manacles~
+A set of wrought iron manacles lay in the corner here.~
+~
+9 4096 1|4096
+2 1 6 11 
+5 0 0
+A
+14 -200
+#32038
+zip gun~
+a zip gun~
+A home made zip gun lies here.~
+~
+3 0 1|8192
+0 8 4 0 
+5 0 0
+#32039
+coins gold pile~
+a pile of gold coins~
+A pile of gold coins are scattered about.~
+~
+20 0 1
+1500 1 6 11 
+5 0 0
+#32040
+heels pink sequin~
+a set of pink sequined high heels~
+A set aof fabulous looking heels lie here.~
+~
+9 0 1|64
+8 1 6 11 
+5 0 0
+A
+2 3
+#32041
+scarf pink cashmire~
+a pink cashmire scarf~
+A pink cashmire scarf has been left here, a definite plus for anyone's wardrobe.
+~
+~
+9 0 1|4
+6 1 6 11 
+5 0 0
+A
+17 -5
+#32042
+bra push up~
+a push up bra~
+A busty bra lies here.~
+~
+9 4096 1|8
+8 1 6 11 
+5 0 0
+A
+19 2
+#32043
+coveralls~
+a pair of coveralls~
+A workers coveralls lay here.~
+~
+9 2|32 1|1024
+0 14 62 11 
+5 0 0
+A
+1 3
+#32044
+indians baseball hat~
+an Indians baseball hat~
+A baseball hat with the tribe logo on it is here.~
+~
+9 0 1|16
+20 1 6 11 
+6 0 0
+A
+14 20
+A
+24 10
+#32045
+tool belt~
+a tool belt~
+A tool belt lies here.~
+~
+9 0 1|2048
+30 1 6 11 
+5 0 0
+A
+5 2
+#32046
+golden hairnet~
+a golden hairnet~
+A pile of golden netting is here.~
+~
+9 0 1|16
+10 1 6 6 
+5 0 0
+A
+4 1
+A
+3 1
+A
+5 1
+#32047
+baby jacob~
+a baby named Jacob~
+A small baby lies here crying.~
+~
+1 0 1|16384
+10 1 -1 11 
+5 0 0
+A
+18 5
+A
+19 5
+#32048
+scroll persuasion~
+a scroll of persuasion~
+A very delicate scroll set in silver leafs lies here.~
+~
+2 0 1
+60 42 -1 7
+5 0 0
+#32049
+Gown virginity~
+a gown of virginity~
+A gown of virginity has been forgotten here.~
+~
+9 0 1|1024
+10 1 6 11 
+5 0 0
+#32050
+packet boiler water treatment~
+a packet of boiler water treatment~
+A packet of boiler water treatment has been dropped here.~
+~
+19 128 1
+15 1 6 11 
+5 0 0
+#32051
+dreadlocks~
+a mane of dreadlocks~
+A massive pile of dreadlocks rest here.~
+~
+5 1|2|32|1024|2048 1|16
+20 40 80 4 
+5 0 0
+A
+19 1
+#32052
+Axe destruction~
+an axe of destruction~
+A massive blood-stained axe of immeasurable age lies here.~
+~
+5 2|32|64 1|8192
+20 60 85 8 
+30 0 0
+A
+17 120
+#32053
+trash can~
+a trash can~
+A trash can is here so give a hoot and don't pollute!~
+~
+15 0 0
+200 1 6 11 
+5 0 0
+#32054
+chopping block~
+a chopping block~
+A chopping block covered in blood and gore is here.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#32055
+head severed~
+a severed head~
+A severed head of a previous victim lies in the corner.~
+~
+26 0 0
+1 4 17 33 
+5 0 0
+E
+head~
+Hmmm this head looks like it has been here a while. It has maggots crawling in a
+nd out of the eyes. Better put it down........~
+#32056
+rusty shower~
+a rusty leaky shower head~
+A rusty showerhead drips water on the floor here.~
+~
+25 0 0
+0 1 6 11 
+5 0 0
+#32057
+pill lude~
+a lude~
+A pill called a "lude" lies here collecting dust.~
+~
+26 0 1
+5 3 61 36 
+5 0 0
+#32058
+flask vile mist~
+a flask of vile liquid~
+A flas full of vile liquid has been laid to rest here.~
+~
+10 0 1
+8 44 56 -1 
+25 0 0
+#32059
+invisibility staff~
+a staff of invisibility~
+A twig of an oak tree lies here.~
+~
+4 0 1|16384
+12 8 8 29 
+5 0 0
+#32060
+drum~
+a drum~
+A big yellow 55 gallon drum sits here.~
+~
+12 1 1
+0 1 6 11 
+1000 0 0
+E
+drum~
+The proudly states that it was purchased from environmental chemical Corporation
+.~
+#32061
+briefcase~
+a brown leather briefcase~
+A briefcase has been left here~
+~
+15 0 1|512
+50 1 6 11 
+5 0 0
+A
+17 -12
+#32062
+Ball point pen~
+a ball point pen~
+A fine ball point pen lies here.~
+~
+5 32 1|16384
+8 1 6 11 
+5 0 0
+A
+19 3
+A
+18 3
+A
+13 30
+#32063
+quart~
+a quart of astro-sol#3~
+A quart of astrosol#3 has been left here.~
+~
+13 0 1
+0 1 6 11 
+5 0 0
+#32064
+quart Natural ~
+a quart of Natural 50~
+A quart of Natural 50 has been dropped here, now you can smell oranges!~
+~
+13 0 1
+0 1 6 11 
+5 0 0
+#32065
+Can ec50~
+a can of EC50~
+A can of EC50 is here looking dangerous.~
+~
+3 0 1|16384
+50 6 3 26 
+5 0 0
+#32066
+grep~
+a nuclear missile~
+A tactical nuke lies here.~
+~
+5 1|2|16|32|64|512 1|8192
+0 40000 50000 6 
+300 0 0
+A
+13 5000
+A
+12 5000
+A
+19 5000
+A
+18 5000
+A
+1 6
+A
+2 6
+A
+3 6
+A
+4 6
+A
+5 6
+A
+5 6
+E
+tactical nuke nuclear missile~
+I thought i would put this little tidbit in here on the off chance that noone wo
+uld notice it was here heheh
+~
+#32067
+hatchling ember ring~
+a hatchling ember ring~
+A ring of burning embers lies here.~
+~
+9 0 1|2
+2 1 6 11 
+8 0 0
+A
+1 1
+A
+13 6
+#32068
+hatchling cloak~
+a hatchling cloak~
+A hatchling cloak lies here.~
+~
+9 0 1|4|4096|8192
+2 1 6 11 
+5 0 0
+#32069
+hatchling bracer~
+a hatchling bracer~
+A hatchling bracer lies here.~
+~
+9 0 1|4096
+2 1 6 11 
+5 0 0
+#32070
+large desk~
+a large desk~
+A large oaken desk is in the corner here.~
+~
+15 0 0
+200 1 6 11 
+500 0 0
+#32071
+fountain water holy~
+an ivory fountain~
+A carved ivory fountain is here filled with Holy Water. ~
+~
+25 1 0
+0 1 6 11 
+500 0 0
+#0
+
+
+#ROOMS
+#32000
+Entrance to the Prison~
+You are standing in the shadow of a formiddable building. There are no windows o
+nly slits to let in light. In the distance you hear screams that send chills dow
+n your spine.
+~
+0 4 1
+D3
+~
+~
+0 -1 3257
+D0
+~
+~
+0 -1 32001
+S
+#32001
+The Prison of Midgaard~
+You are standing in front of a large prison. It looks as if what goes in never c
+omes out. A large rusty gate is to the north. A plaque is on the wall.
+~
+0 0 1
+D0
+a rusty gate~
+gate~
+2 32000 32002
+D2
+~
+~
+0 -1 32000
+E
+plaque large~
+Welcome to the Prison of Midgaard where our motto is "Work sets you free.".
+
+
+This prison designed and built by
+Flar the Dragonmaster-----in the days before the birth of his son Jacob~
+S
+#32002
+A Bright Intersection~
+This appears to be a central intersection of sorts. You see light to the east an
+d west while to the north a dark hallway extends.
+~
+0 0 0
+D0
+~
+~
+0 -1 32002
+D1
+~
+~
+0 -1 32026
+D2
+~
+~
+0 -1 32001
+D3
+~
+~
+0 -1 32011
+S
+#32003
+A Dark Intersection~
+You are standing in a dark intersection. There appears to be cellblocks to the e
+ast and west of here. The hallway continues north and south.
+~
+0 1 0
+D0
+~
+~
+0 -1 32004
+D1
+~
+~
+0 -1 32052
+D2
+~
+~
+0 -1 32002
+D3
+~
+~
+0 -1 32041
+S
+#32004
+A long hallway~
+You are standing in a long hallway. There is a misty smell to the east. The hall
+way continues north.
+~
+0 0 0
+D0
+~
+~
+0 -1 32005
+D1
+~
+~
+0 -1 32084
+D2
+~
+~
+0 -1 32003
+S
+#32005
+A long hallway~
+You are standing in a long hallway. The hallway continues to the north and south
+.
+~
+0 0 0
+D0
+~
+~
+0 -1 32006
+D2
+~
+~
+0 -1 32004
+S
+#32006
+A long hallway~
+You are standing in a long hallway. A pungent aroma is wafting in from the west 
+here. The hallway continues to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 -1 32007
+D2
+~
+~
+0 -1 32005
+D3
+~
+~
+0 -1 32086
+S
+#32007
+A long hallway~
+You are standing in a long hallway. The hallway continues to the north and south
+.
+~
+0 8 0
+D0
+~
+~
+0 -1 32008
+D2
+~
+~
+0 -1 32006
+S
+#32008
+A long hallway~
+You are standing in a long hallway. The hallway continues to the north and south
+. You can see a yard of sorts to the east and west.
+~
+0 0 0
+D0
+~
+~
+0 -1 32009
+D1
+~
+~
+0 -1 32063
+D2
+~
+~
+0 -1 32006
+D3
+~
+~
+0 -1 32073
+D4
+~
+~
+1 -1 32010
+S
+#32009
+Executioners room~
+This is the last room some of the prisoners will ever see. There is a large bloc
+k in the middle of the room which is used for seperating the head from the body.
+ The stench is overwhelming here.
+~
+0 0 0
+D2
+~
+~
+0 -1 32008
+S
+#32010
+The Cleric's Hold~
+You are in the secret room of the muslim cleric. there are all sorts of religiou
+s artifacts on the walls here. This is a very peaceful room.
+~
+0 16384 0
+D5
+~
+~
+1 -1 32008
+S
+#32011
+A quiet hallway~
+You are standing in a quiet hallway. There is a large painting of the Mayor on t
+he wall here.
+~
+0 0 0
+D1
+~
+~
+0 -1 32002
+D3
+~
+~
+0 -1 32012
+E
+painting  mayor wall~
+The picture of the mayor has been eloquently doodled upon. Scrolled upon the bot
+tom of the painting are the words: THE MAYOR IS A FINK!!~
+S
+#32012
+A quiet hallway~
+You are standing in a quiet hallway. There is a door to the south here.
+~
+0 0 0
+D1
+~
+~
+0 -1 32011
+D2
+~
+~
+1 -1 32013
+D3
+~
+~
+0 -1 32014
+S
+#32013
+The Weapons Room~
+You are standing in the Weapons Room. This is where the guards store their equip
+ment after their shift is over. There is an array of swords and axes stacked on 
+a shelf behind the counter.
+~
+0 0 0
+D0
+~
+~
+0 -1 32012
+S
+#32014
+A quiet hallway~
+You are standing in a quiet hallway. The hallway continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 -1 32012
+D3
+~
+~
+0 -1 32015
+S
+#32015
+Reception area~
+You are standing in the main reception room. There is a lovely couch and a drink
+ing fountain here. The administration Hallway leads to the south.
+~
+0 0 0
+D0
+~
+~
+1 -1 32016
+D1
+~
+~
+0 -1 32014
+D2
+~
+~
+0 -1 32020
+D3
+~
+~
+0 -1 32017
+S
+#32016
+A broom closet~
+You are in a small broom closet. There are old rags and other odds and ends stac
+ked on the shelves here.
+~
+0 1 0
+D2
+~
+~
+1 -1 32015
+S
+#32017
+Spiral staircase~
+You are standing in what appears to be a spiral stone staircase. You smell the p
+ungent odor of Cannibus burning here.
+~
+0 0 0
+D1
+~
+~
+0 -1 32015
+D4
+~
+~
+0 -1 32018
+S
+#32018
+Spiral staircase~
+You are in a spiral staircase made of stone. You hear people laughing above you,
+ and the smell of cannibus is getting stronger.
+~
+0 0 0
+D4
+~
+~
+0 -1 32019
+D5
+~
+~
+0 -1 32017
+S
+#32019
+Smokey Tower~
+You can feel yourself getting very relaxed as you take deep breaths of the smoke
+ in here.  Man.....aren't there ANY windows?
+~
+0 0 0
+D5
+~
+~
+0 -1 32018
+S
+#32020
+The administration hallway~
+You are standing in an administration hallway. The hallway continues to the nort
+h and south.
+~
+0 0 0
+D0
+~
+~
+0 -1 32015
+D2
+~
+~
+0 -1 32021
+S
+#32021
+The administration hallway~
+You are standing in what appears to be a long corridor. The hallway continues to
+ the north and south
+~
+0 0 0
+D0
+~
+~
+0 -1 32020
+D2
+~
+~
+0 -1 32022
+S
+#32022
+The administration hallway~
+You are standing in what appears to be a long corridor. The hallway continues to
+ the north and south.
+~
+0 0 0
+D0
+~
+~
+0 -1 32021
+D2
+~
+~
+0 -1 32023
+S
+#32023
+The administration hallway~
+You are standing in what appears to be a long corridor. You hear the clicking of
+ a typewriter to the south.
+~
+0 0 0
+D0
+~
+~
+0 -1 32022
+D2
+~
+~
+0 -1 32024
+S
+#32024
+Warden's Office~
+You are in the receptionist's office.It smells like pot pourri in here.
+~
+0 0 0
+D0
+~
+~
+0 -1 32023
+D3
+~
+~
+0 -1 32025
+S
+#32025
+Warden's chamber~
+You are standing in the Wardens chamber. There are pictures of all the inmates h
+e has had executed on the walls. A large stack of pictures is on the floor as we
+ll.
+~
+0 0 0
+D1
+~
+~
+0 -1 32024
+S
+#32026
+A quiet hallway~
+You are standing in a quiet hallway. There is a large painting of Warden Brad on
+ the wall here. The hallway continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 -1 32027
+D3
+~
+~
+0 -1 32002
+E
+painting warden brad wall~
+This man is a tyrant as evident by the portrait of him slaying and disemboweling
+ for fun.~
+S
+#32027
+A quiet hallway~
+You are standing in a quiet hallway. There is a door to the south here.
+~
+0 0 0
+D1
+~
+~
+0 -1 32029
+D2
+~
+~
+1 -1 32028
+D3
+~
+~
+0 -1 32026
+S
+#32028
+The Armory~
+You are standing in the armory. This is where the guards come and check there eq
+uipment when their shift is over. You see a stack of shields behind the counter 
+here.
+~
+0 0 0
+D0
+~
+~
+1 -1 32027
+S
+#32029
+Triple junction~
+you are standing in a triple junction. A maintenance hallway extends to the sout
+h and a dimly lit hallway to the east.
+~
+0 0 0
+D1
+~
+~
+0 -1 32030
+D2
+~
+~
+0 -1 32035
+D3
+~
+~
+0 -1 32027
+S
+#32030
+Dimly lit hallway~
+You are standing in a dimly lit hallway.  It seems as though maintenance ought t
+o check on these lights in here.
+~
+0 1 0
+D0
+~
+~
+1 -1 32031
+D1
+~
+~
+0 -1 32032
+D3
+~
+~
+0 -1 32029
+S
+#32031
+A broom closet~
+You are standing in a small broom closet. There are absolutely no brooms here. G
+o figure?!?
+~
+0 0 0
+D2
+~
+~
+1 -1 32030
+S
+#32032
+Spiral staircase~
+You are standing in at the base of a staircase made of stone. You can smell toba
+cco wafting down from above.
+~
+0 0 0
+D3
+~
+~
+0 -1 32030
+D4
+~
+~
+0 -1 32033
+S
+#32033
+Spiral staircase~
+You are standing on a staircase made of stone. You can hear cursing and laughing
+ from above.
+~
+0 0 0
+D4
+~
+~
+0 -1 32034
+D5
+~
+~
+0 -1 32032
+S
+#32034
+The sneaky tower~
+You are at the top of a spiral staircase. All around you are stacks and stacks o
+f encyclopedias. It seems the only use they have had lately is being sit upon fo
+r the nightly poker game.
+~
+0 0 0
+D5
+~
+~
+0 -1 32033
+S
+#32035
+A maintenance hallway~
+You are standing in a long maintenance hallway. You smell solvents and other man
+ly stuff in the air.
+~
+0 0 0
+D0
+~
+~
+0 -1 32029
+D2
+~
+~
+0 -1 32036
+S
+#32036
+A maintenance hallway~
+You are standing in a maintenance hallway. You smell solvents and other manly st
+uff.
+~
+0 0 0
+D0
+~
+~
+0 -1 32035
+D2
+~
+~
+0 -1 32037
+S
+#32037
+A maintenance hallway~
+You are standing in a maintenance hallway. You smell solvents and other manly st
+uff.
+~
+0 0 0
+D0
+~
+~
+0 -1 32036
+D2
+~
+~
+0 -1 32038
+S
+#32038
+A maintenance hallway~
+You are standing in a maintenance hallway. There is a door to the south. There i
+s a sign on the wall here.
+~
+0 0 0
+D0
+~
+~
+0 -1 32037
+D2
+~
+~
+1 -1 32039
+E
+sign wall~
+****ATTENTION****
+Salesmen seen by appointment only!!
+If you dare to enter without an appointment
+you will be killed....
+mgmnt.~
+S
+#32039
+Prison maintenance~
+You are standing in room FULL of all sorts of maintenance items. There are cases
+ and cases of Environmental Chemical Corporation aerosols here.
+~
+0 0 0
+D0
+~
+~
+1 -1 32038
+D1
+~
+~
+0 -1 32040
+S
+#32040
+The boiler room~
+You are in the boiler room. There is a tremendous steam boiler smack dab in the 
+middle of the room. You have an overwhelming sense of forboding here.
+~
+0 0 0
+D3
+~
+~
+0 -1 32039
+S
+#32041
+Guard Room~
+You are in what appears to be a guard room. There is a huge locked door to the w
+est.
+~
+0 0 0
+D1
+~
+~
+0 -1 32003
+D3
+~
+~
+2 32025 32042
+S
+#32042
+A cellblock~
+This is the reason this prison is here, to keep these people from getting out. Y
+ou start to wonder if you can ever get out yourself. There are cells to the nort
+h and south.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32050
+D1
+~
+~
+2 -1 32041
+D2
+~
+~
+1 -1 32051
+D3
+~
+~
+0 -1 32043
+S
+#32043
+A cellblock~
+This is the reason the prison is here, to keep these people from getting out. Yo
+u start to wonder if you will ever get out yourself. There are cells to the nort
+h and south.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32048
+D1
+~
+~
+0 -1 32042
+D2
+~
+~
+1 -1 32049
+D3
+~
+~
+0 -1 32044
+S
+#32044
+A cellblock~
+This is the reason the prison is here, to keep the people from getting out. You 
+start to wonder of you will ever get out yourself. There are cells to the north 
+and south. A small alcove leads to the west.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32046
+D1
+~
+~
+0 -1 32043
+D2
+~
+~
+1 -1 32047
+D3
+~
+~
+0 -1 32045
+S
+#32045
+An alcove~
+This room is absolutely barren.........
+~
+0 1|8192 0
+D1
+~
+~
+0 -1 32044
+S
+#32046
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32044
+S
+#32047
+A cell~
+You are standing in a cell. There ais a pile of straw on the floor and some crud
+e drawings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32044
+S
+#32048
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and some crude
+ drawings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32043
+S
+#32049
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and some crude
+ drawings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32043
+S
+#32050
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and some crude
+ drawings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32042
+S
+#32051
+A cell~
+You are standing in a cell. there is a pile of straw on the floor and some crude
+ drawings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32042
+S
+#32052
+A Guard Room~
+You are in what appears to be a guardroom. there is a huge locked door to the ea
+st.
+~
+0 1 0
+D1
+~
+~
+2 32025 32053
+D3
+~
+~
+0 -1 32003
+S
+#32053
+A cellblock~
+This is the reason the prison is here, to keep people from getting out. You star
+t to wonder if you will ever get out yourself. there are cells to the north and 
+south.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32057
+D1
+~
+~
+1 -1 32054
+D2
+~
+~
+0 -1 32058
+D3
+~
+~
+2 -1 32052
+S
+#32054
+A cellblock~
+This is the reason the prison is here, to keep people from getting out. you star
+t to wonder if you will ever get out yourself. There are cells to the north and 
+south.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32059
+D1
+~
+~
+0 -1 32055
+D2
+~
+~
+1 -1 32060
+D3
+~
+~
+1 -1 32053
+S
+#32055
+A cellblock~
+this is the reason the prison is here, to keep people from getting out. You star
+t to wonder if you will ever get out yourself. there are cells to the north and 
+south. A small alcove leads to the east.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32061
+D1
+~
+~
+1 -1 32056
+D2
+~
+~
+1 -1 32062
+D3
+~
+~
+1 -1 32054
+S
+#32056
+An alcove~
+You are in a small alcove. It appears as if someone has been living here. Piles 
+of feces are in the corners and the smell of urine overpowers you.
+~
+0 1|8192 0
+D3
+~
+~
+0 -1 32055
+S
+#32057
+A cell~
+You are standing in a cell. there is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32053
+S
+#32058
+A cell~
+You are standing in a cell. there is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32053
+S
+#32059
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32054
+S
+#32060
+A cell~
+You are standing in a cell. There is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32054
+S
+#32061
+A cell~
+You are standing in a cell. there is a pile of straw on the floor and crude draw
+ings on the wall.
+~
+0 1|8192 0
+D2
+~
+~
+1 -1 32055
+S
+#32062
+A cell~
+You are standing in a cell. there is a pile of straw on the floor and some crude
+ drawings on the wall.
+~
+0 1|8192 0
+D0
+~
+~
+1 -1 32055
+S
+#32063
+The Yard~
+You are in the exercise yard. You can hear the hustle and bustle of Midgaard jus
+t over the wall. You also hear the muted tones of the prisoners whispers.
+~
+0 0 2
+D1
+~
+~
+0 -1 32064
+D2
+~
+~
+0 -1 32072
+D3
+~
+~
+0 -1 32008
+S
+#32064
+Northeast Corner of the yard~
+You are standing in the northeast corner of the yard. There are Bloodstains on t
+he wall here.
+~
+0 0 2
+D2
+~
+~
+0 -1 32065
+D3
+~
+~
+0 -1 32063
+S
+#32065
+Eastern end of the yard~
+You are standing in the eastern end of the yard. Prisoners are in little groups 
+all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32064
+D2
+~
+~
+0 -1 32066
+D3
+~
+~
+0 -1 32072
+S
+#32066
+Eastern end of the yard~
+You are in the eastern end of the yard. There is a large wall right here to the 
+east. Prisoners are in little groups all over the yard here.
+~
+0 0 2
+D0
+~
+~
+0 -1 32065
+D2
+~
+~
+0 -1 32067
+D3
+~
+~
+0 -1 32071
+S
+#32067
+Eastern end of the yard~
+You are standing in the eastern end of the yard. There is a huge wall right here
+ to the east. there are groups of prisoners all over the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32066
+D2
+~
+~
+0 -1 32068
+D3
+~
+~
+0 -1 32070
+S
+#32068
+Southeastern corner of the yard~
+You are standing in the southeastern corner of the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32067
+D3
+~
+~
+0 -1 32069
+S
+#32069
+Southern end of the yard~
+You are standing in the southern end of the yard. Prisoners are standing in litt
+le groups all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32070
+D1
+~
+~
+0 -1 32068
+D3
+~
+~
+0 -1 32079
+S
+#32070
+Middle of the yard~
+You are standing in the middle of the exercise yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32071
+D1
+~
+~
+0 -1 32067
+D2
+~
+~
+0 -1 32069
+D3
+~
+~
+0 -1 32080
+S
+#32071
+Middle of the yard~
+You are standing in the middle of the exercise yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32072
+D1
+~
+~
+0 -1 32066
+D2
+~
+~
+0 -1 32070
+D3
+~
+~
+0 -1 32081
+S
+#32072
+Middle of the yard~
+You are standing in the middle of the exercise yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32063
+D1
+~
+~
+0 -1 32065
+D2
+~
+~
+0 -1 32071
+D3
+~
+~
+0 -1 32082
+S
+#32073
+The yard~
+You are standing in the exercise yard. You can hear the hustle and bustle of Mid
+gaard just over the wall. You also hear the muted tones of the prisoners whisper
+s.
+~
+0 0 2
+D1
+~
+~
+0 -1 32008
+D2
+~
+~
+0 -1 32082
+D3
+~
+~
+0 -1 32074
+S
+#32074
+Northwestern corner of the yard~
+You are standing in the northwestern corner of the yard. There are groups of pri
+soners huddled all around the yard. It seems as though you are an outsider here.
+~
+0 0 2
+D1
+~
+~
+0 -1 32073
+D2
+~
+~
+0 -1 32075
+S
+#32075
+Western end of the yard~
+You are standing along the western end of the wall. You can see groups of prison
+ers huddled all over the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32074
+D1
+~
+~
+0 -1 32082
+D2
+~
+~
+0 -1 32076
+S
+#32076
+Western end of the yard~
+You are standing on the western end of the yard. You can see groups of prisoners
+ huddled together all over the yard. To the south you can hear a commotion.
+~
+0 0 2
+D0
+~
+~
+0 -1 32075
+D1
+~
+~
+0 -1 32081
+D2
+~
+~
+0 -1 32077
+S
+#32077
+Break in the western wall~
+You are standing on the western end of the yard. There appears to be a hole in t
+he wall to the west.
+~
+0 0 2
+D0
+~
+~
+0 -1 32076
+D1
+~
+~
+0 -1 32080
+D2
+~
+~
+0 -1 32078
+D3
+~
+~
+0 -1 32083
+S
+#32078
+Southwestern corner of the wall.~
+You are standing in the southwest corner of the yard. This is where the beatings
+ must take place as evident by the corpses hanging on the wall.
+~
+0 0 2
+D0
+~
+~
+0 -1 32077
+D1
+~
+~
+0 -1 32079
+S
+#32079
+Southern end of the yard~
+You are standing in the southern end of the yard. Prisoners are standing in litt
+le groups all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32080
+D1
+~
+~
+0 -1 32069
+D3
+~
+~
+0 -1 32078
+S
+#32080
+Middle of the yard~
+You are standing in the middle of the yard. You can see little groups of prisone
+rs all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32081
+D1
+~
+~
+0 -1 32070
+D2
+~
+~
+0 -1 32079
+D3
+~
+~
+0 -1 32077
+S
+#32081
+Middle of the yard~
+You are standing in the middle of the yard. You can see little groups of prisone
+rs all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32082
+D1
+~
+~
+0 -1 32071
+D2
+~
+~
+0 -1 32080
+D3
+~
+~
+0 -1 32076
+S
+#32082
+Middle of the yard~
+You are standing in the middle of the yard. You can see little groups of prisone
+rs all around the yard.
+~
+0 0 2
+D0
+~
+~
+0 -1 32073
+D1
+~
+~
+0 -1 32072
+D2
+~
+~
+0 -1 32081
+D3
+~
+~
+0 -1 32075
+S
+#32083
+Inside the hole~
+You are standing inside a small hole dug into the wall. It looks as if this migh
+t be some kind of escape route. Better hope the person digging it is not around!
+~
+0 0 2
+D1
+~
+~
+0 -1 32077
+S
+#32084
+Deep dank hall~
+You are in a passage that leads to the showers. The walls are moist and slimy he
+re. You can smell fear and decay......better leave now.
+~
+0 1 0
+D1
+~
+~
+0 -1 32085
+D3
+~
+~
+0 -1 32004
+S
+#32085
+The showers~
+This is the most feared and hated place in the entire prison. That must be why a
+ll the prisoners look so dirty. The walls here are covered in slime and blood.
+~
+0 0 0
+D3
+~
+~
+0 -1 32084
+E
+rusty shower head~
+This is what WATER comes out of.........duhhhh.
+
+If you are thirsty you could probably drink from it.~
+S
+#32086
+The Cafeteria~
+This is the place where everyone comes to chow down. Looks like the specials tod
+ay are roast rat and slime ball soup. The smell here is EXTREMELY offensive.
+~
+0 0 0
+D0
+~
+~
+0 -1 32087
+D1
+~
+~
+0 -1 32006
+S
+#32087
+The Kitchen~
+This is where the finest chefs in all of Midgaard prepare the feasts daily for a
+ll the lovely prisoners. It seems as if the chefs, feasts and lovely prisoners a
+re long since gone.
+~
+0 0 0
+D2
+~
+~
+0 -1 32086
+S
+#32089
+Flar's Gateway to heaven~
+You are standing in a huge Warehouse. This must be where Flar spends his days wo
+rking. From here you can see a desk in the corner and a large sign on the wall.
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+*
+*
+M 1 32000 1 32001                     the gatekeeper to The Prison of Midgaard
+E 1 32001 100 16
+E 1 32002 100 17
+G 1 32000 100
+D 1 32001 0 2                 ; The Prison of Midgaard Lock North
+D 1 32008 4 1                 ; A long hallway Close Up
+D 1 32016 2 1                 ; A broom closet Close South
+D 1 32046 2 1                 ; A cell Close South
+D 1 32044 0 1                 ; A cellblock Close North
+D 1 32047 0 1                 ; A cell Close North
+D 1 32048 2 1                 ; A cell Close South
+D 1 32050 2 1                 ; A cell Close South
+D 1 32042 0 1                 ; A cellblock Close North
+D 1 32051 0 1                 ; A cell Close North
+D 1 32053 3 2                 ; A cellblock Lock West
+D 1 32054 3 0                 ; A cellblock Open West
+D 1 32055 3 0                 ; A cellblock Open West
+D 1 32055 1 1                 ; A cellblock Close East
+D 1 32057 2 1                 ; A cell Close South
+D 1 32053 0 1                 ; A cellblock Close North
+D 1 32058 0 1                 ; A cell Close North
+D 1 32059 2 1                 ; A cell Close South
+*
+M 1 32023 1 32089                     A huge Bronze Dragon to The Nesting Ground of the Great Queen Ramoth 
+E 1 32007 100 1
+E 1 32007 100 2
+E 1 32010 100 3
+E 1 32010 100 4
+E 1 32011 100 5
+E 1 32012 100 6
+E 1 32013 100 7
+E 1 32014 100 8
+E 1 32015 100 9
+E 1 32016 100 10
+E 1 32017 100 11
+E 1 32008 100 12
+E 1 32018 100 13
+E 1 32019 100 14
+E 1 32019 100 15
+*E 1 32006 100 16
+E 1 32020 100 17
+G 1 32021 100
+*O 1 32020 100 32088 a lucky charm to The Nesting Ground of the Great Queen Ramoth
+*O 1 32019 100 32088 a hatchling bracer  to The Nesting Ground of the Great Queen Ramoth
+*O 1 32019 100 32088 a hatchling bracer  to The Nesting Ground of the Great Queen Ramoth
+*O 1 32018 100 32088 a hatchling belt to The Nesting Ground of the Great Queen Ramoth
+*O 1 32017 100 32088 a hatchling shield to The Nesting Groundof the Great Queen Ramoth
+*O 1 32016 100 32088 a set of hatchling sleeves to The Nesting Ground of the Great Queen Ramoth
+*O 1 32015 100 32088 a pair of hatchling gloves to The Nesting Ground of the Great Queen Ramoth
+*O 1 32014 100 32088 a pair of hatchling boots to The NestingGround of the Great Queen Ramoth
+*O 1 32013 100 32088 a set of hatchling leggings to The Nesting Ground of the Great Queen Ramoth
+*O 1 32012 100 32088 a hatchling helmet to The Nesting Groundof the Great 
+*O 1 32011 100 32088                   a newbie shirt to The Nesting 
+*O 1 32010 100 32088                   a hatchling cloak to The Nesting Ground of the Great Queen Ramoth
+*O 1 32009 100 32088                   a rat filet to The Nesting Ground 
+*O 1 32008 100 32088                   a hatchlings robe to The Nesting 
+*O 1 32007 100 32088                   an ember ring to The Nesting 
+*O 1 32007 100 32088                   an ember ring to The Nesting 
+*O 1 32006 100 32088                   a sword to The Nesting Ground of 
+*O 1 32005 100 32088                   Flar's bag of tricks to The 
+*O 1 32021 100 32088                   a starter kit to The Nesting 
+*O 1 32022 100 32088                   a fountain to The Nesting Ground 
+M 1 32018 2 32087                     [processed aura] a slice of bologna to The Kitchen
+*
+O 1 32022 100 32089                   a fountain to Flar's Gateway to Heaven
+O 1 32009 100 32089                   a rat filet to Flar's Gateway to Heaven
+O 1 32024 100 32089                   A large cluttered desk to Flar's Gateway to Heaven
+*
+M 1 32003 6 32003                     the Prison Worker to A Dark Intersection
+E 1 32028 100 16
+*C 1 3 0
+*
+M 1 32017 1 32013                     Jimmy the weaponmaster to The Weapons Room
+G 1 32026 100
+G 1 32038 100
+G 1 32004 100
+G 1 32001 100
+*
+M 1 32008 3 32017                     the stoned guard to Spiral staircase
+E 1 32026 100 17
+G 1 32027 100
+*
+M 1 32008 3 32019                     the stoned guard to Smokey Tower
+E 1 32026 100 17
+G 1 32027 100
+*
+M 1 32011 1 32024                     Trixie the secretary to Warden's Office
+E 1 32042 100 5
+*
+M 1 32010 1 32025                     Brad the Warden to Warden's chamber
+E 1 32041 100 3
+E 1 32040 100 8
+G 1 32039 100
+*
+*
+M 1 32016 1 32028                     Larry the armsmaster to The Armory
+G 1 32018 100
+G 1 32019 100
+G 1 32037 100
+G 1 32057 100
+G 1 32058 100
+G 1 32059 100
+*
+M 1 32012 1 32039                     Steve the maintenance man to Prison maintenance
+E 1 32044 100 6
+E 1 32043 100 12
+*
+M 1 32013 1 32039                     Butch the helper to Prison maintenance
+E 1 32045 100 13
+*
+M 1 32015 3 32040                     A steam monster to The boiler room
+G 1 32050 100
+*
+M 1 32002 10 32034                    the Prison Guard to The sneaky tower
+E 1 32007 100 1
+E 1 32030 100 14
+E 1 32029 100 16
+*F 1 0 1
+*
+M 1 32004 2 32041                     the Cell Guard to Guard Room
+E 1 32036 100 1
+E 1 32036 100 2
+E 1 32034 100 11
+E 1 32035 100 16
+G 1 32025 100
+*
+M 1 32004 2 32052                     the Cell Guard to A guardroom
+E 1 32031 100 7
+E 1 32034 100 11
+E 1 32007 100 1
+E 1 32007 100 2
+E 1 32032 100 10
+E 1 32030 100 14
+E 1 32030 100 15
+E 1 32035 100 16
+G 1 32025 100
+*
+M 1 32005 14 32046                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32005 14 32047                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32004 100 16
+*
+M 1 32005 14 32048                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32005 14 32049                    the prisoner to A cell
+E 1 32038 100 16
+E 1 32037 100 15
+G 1 32009 100
+*
+M 1 32005 14 32050                    the prisoner to A cell
+E 1 32011 100 5
+E 1 32038 100 16
+E 1 32037 100 15
+*
+M 1 32005 14 32051                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32004 100 16
+*
+M 1 32005 14 32057                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32004 100 16
+*
+M 1 32005 1 32058                     the prisoner to A cell
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32005 14 32059                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32005 14 32060                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32028 100 16
+*
+M 1 32005 14 32061                    the prisoner to A cell
+E 1 32037 100 14
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32005 14 32062                    the prisoner to A cell
+E 1 32037 100 15
+E 1 32038 100 16
+*
+M 1 32019 1 32010                     The Muslim Cleric to The Cleric's Hold
+E 1 32051 100 6
+*
+*
+M 1 32018 2 32086                     (processed aura) a slice of bologna to The Cafeteria
+*
+M 1 32014 1 32087                     Wendy the Cook to The Kitchen
+E 1 32047 100 0
+E 1 32046 100 6
+E 1 32049 100 12
+G 1 32048 100
+G 1 32058 100
+G 1 32039 100
+G 1 32039 100
+*
+M 1 32021 1 32009                     The Executioner to Executioners room
+E 1 32052 100 16
+*
+M 1 32022 2 32083                     The Black thing to Inside the hole
+G 1 32036 100
+*
+M 1 32009 5 32077                     the gangster to Break in the western wall
+E 1 32038 100 16
+E 1 32020 100 17
+G 1 32039 100
+*
+M 1 32007 15 32077                    a flunky to Break in the western wall
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32005 14 32075                    the prisoner to Western end of the yard
+E 1 32037 100 15
+E 1 32028 100 16
+*
+M 1 32007 15 32074                    a flunky to Northwestern corner of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32001 12 32082                    the rat to Middle of the yard
+*
+M 1 32009 5 32081                     the gangster to Middle of the yard
+E 1 32038 100 16
+E 1 32020 100 17
+G 1 32039 100
+*
+M 1 32001 12 32080                    the rat to Middle of the yard
+*
+M 1 32007 15 32080                    a flunky to Middle of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32003 6 32079                     the Prison Worker to Southern end of theyard
+E 1 32028 100 16
+*
+M 1 32007 15 32079                    a flunky to Southern end of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32002 10 32078                    the Prison Guard to Southwestern corner of the wall.
+E 1 32033 100 12
+E 1 32029 100 16
+*
+*
+M 1 32009 5 32068                     the gangster to Southeastern corner of the yard
+E 1 32038 100 16
+E 1 32020 100 17
+G 1 32039 100
+G 1 32057 100
+*
+M 1 32007 15 32068                    a flunky to Southeastern corner of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32067                    a flunky to Eastern end of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32001 12 32066                    the rat to Eastern end of the yard
+*
+M 1 32001 12 32065                    the rat to Eastern end of the yard
+*
+*
+M 1 32007 15 32064                    a flunky to Northeast Corner of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32063                    a flunky to The Yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32009 5 32070                     the gangster to Middle of the yard
+E 1 32038 100 16
+G 1 32057 100
+G 1 32039 100
+*
+M 1 32007 15 32071                    a flunky to Middle of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32005 14 32072                    the prisoner to Middle of the yard
+E 1 32037 100 14
+E 1 32037 100 15
+*
+*
+M 1 32001 12 32040                    the rat to The boiler room
+*
+M 1 32001 12 32037                    the rat to A maintenance hallway
+*
+M 1 32003 6 32037                     the Prison Worker to A maintenance hallway
+E 1 32028 100 16
+*
+M 1 32006 4 32036                     the cockroach to A maintenance hallway
+*
+M 1 32001 12 32031                    the rat to A broom closet
+*
+M 1 32001 12 32033                    the rat to Spiral staircase
+*
+M 1 32003 6 32027                     the Prison Worker to A quiet hallway
+E 1 32028 100 16
+*C 1 3 2
+*
+M 1 32003 6 32005                     the Prison Worker to A long hallway
+E 1 32028 100 16
+*
+M 1 32006 4 32007                     the cockroach to A long hallway
+D 1 32041 3 2                 ; Guard Room Lock West
+D 1 32052 1 2                 ; A Guard Room Lock East
+D 1 32055 0 1                 ; A cellblock Close North
+D 1 32055 2 1                 ; A cellblock Close South
+*
+M 1 32002 10 32008                    the Prison Guard to A long hallway
+E 1 32031 100 7
+E 1 32032 100 10
+E 1 32034 100 11
+E 1 32029 100 16
+O 1 32060 100 32016                   a drum to A broom closet
+*
+M 1 32006 4 32016                     the cockroach to A broom closet
+G 1 32025 100
+*
+M 1 32003 6 32021                     the Prison Worker to The administration hallway
+E 1 32028 100 16
+*
+M 1 32001 12 32029                    the rat to Triple junction
+O 1 32053 100 32031                   a trash can to A broom closet
+O 1 32060 100 32031                   a drum to A broom closet
+O 1 32039 100 32034                   a pile of gold coins to The sneaky tower
+*
+M 1 32001 12 32036                    the rat to A maintenance hallway
+*
+M 1 32024 1 32038                     Terry the salesman to A maintenance hallway
+E 1 32061 100 11
+E 1 32062 100 17
+G 1 32065 100
+G 1 32064 100
+G 1 32063 100
+G 1 32048 100
+O 1 32036 100 32045                   a pitch black ring to An alcove
+*
+M 1 32001 12 32051                    the rat to A cell
+*
+M 1 32001 12 32000                    the rat to Entrance to the Prison
+*
+M 1 32015 3 32040                     A steam monster to The boiler room
+G 1 32050 100
+*
+*
+M 1 32009 5 32081                     the gangster to Middle of the yard
+E 1 32038 100 16
+E 1 32020 100 17
+G 1 32039 100
+*
+M 1 32022 2 32083                     The Black thing to Inside the hole
+G 1 32036 100
+*
+M 1 32001 12 32083                    the rat to Inside the hole
+*
+M 1 32015 3 32085                     A steam monster to The showers
+G 1 32036 100
+*
+M 1 32020 1 32084                     the towel boy to Deep dank hall
+*
+M 1 32002 10 32005                    the Prison Guard to A long hallway
+E 1 32029 100 16
+*
+M 1 32002 10 32008                    the Prison Guard to A long hallway
+E 1 32029 100 16
+*
+M 1 32002 10 32011                    the Prison Guard to A quiet hallway
+E 1 32029 100 16
+*
+M 1 32002 10 32021                    the Prison Guard to The administration hallway
+E 1 32029 100 16
+*
+M 1 32002 10 32026                    the Prison Guard to A quiet hallway
+E 1 32029 100 16
+*
+M 1 32002 10 32030                    the Prison Guard to Dimly lit hallway
+E 1 32029 100 16
+G 1 32039 100
+*
+M 1 32002 10 32034                    the Prison Guard to The sneaky tower
+E 1 32029 100 16
+*
+M 1 32002 10 32085                    the Prison Guard to The showers
+E 1 32029 100 16
+E 1 32033 100 12
+O 1 32055 100 32009                   a severed head to Executioners room
+O 1 32055 100 32009                   a severed head to Executioners room
+O 1 32054 100 32009                   a chopping block to Executioners room
+*
+M 1 32008 3 32019                     the stoned guard to Smokey Tower
+E 1 32026 100 17
+G 1 32027 100
+*
+M 1 32007 15 32063                    a flunky to The Yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32065                    a flunky to Eastern end of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32067                    a flunky to Eastern end of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32067                    a flunky to Eastern end of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32074                    a flunky to Northwestern corner of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+*
+M 1 32007 15 32074                    a flunky to Northwestern corner of the yard
+E 1 32004 100 16
+E 1 32002 100 17
+P 1 32007 100 32005
+P 1 32008 100 32005
+P 1 32009 100 32005
+P 1 32010 100 32005
+P 1 32011 100 32005
+P 1 32012 100 32005
+P 1 32013 100 32005
+P 1 32014 100 32005
+P 1 32015 100 32005
+P 1 32016 100 32005
+P 1 32017 100 32005
+P 1 32018 100 32005
+P 1 32019 100 32005
+P 1 32020 100 32005
+P 1 32021 100 32005
+P 1 32067 100 32005
+P 1 32068 100 32005
+P 1 32069 100 32005
+O 1 32056 100 32085                   a rusty leaky shower head to The showers
+O 1 32003 100 32084                   a used condom wrapper to Deep dank hall
+O 1 32023 100 32002                   a crumpled piece of paper to A Bright Intersection
+O 1 32060 100 32039                   a drum to Prison maintenance
+O 1 32053 100 32024                   a trash can to Warden's Office
+O 1 32070 100 32089                   a large desk to Flar's Gateway to heaven
+O 1 32071 100 32089                   an ivory fountain to Flar's Gateway to heaven
+S
+
+
+
+
+#SPECIALS
+M  32000 spec_thief                     the gatekeeper
+M  32001 spec_fido                      the rat
+M  32002 spec_guard                     the Prison Guard
+M  32003 spec_janitor                   the Prison Worker
+M  32004 spec_guard                     the Cell Guard
+M  32005 spec_thief                     the prisoner
+M  32006 spec_poison                    the cockroach
+M  32010 spec_breath_lightning                  Brad the Warden
+M  32014 spec_breath_any                        Wendy the Cook
+M  32015 spec_poison                    A steam monster
+M  32019 spec_cast_adept                        The Muslim Cleric
+M  32023 spec_breath_fire                       A huge Bronze Dragon
+M  32024 spec_poison                    Terry the salesman
+S
+
+
+#$

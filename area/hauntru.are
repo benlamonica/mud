@@ -1,0 +1,1765 @@
+#AREA {14 50} Amber   Haunted Ruins~
+
+#MOBILES
+#17001
+giant zombie~
+a giant zombie~
+A giant zombie tries to hide in the shadows here.
+~
+You see a huge,one maybe human beeing. It seems partly decayed
+and the smell is terrible. Ist skin is partly green and your only desire is
+to leave quick.
+~
+human~
+ABCFGT DFHNT -1000 S
+65 20 10d168+4100 50d10+100 5d17+27 2
+-35 -35 -35 -5
+EFNU ABEHQ 0 0
+8 8 1 20000
+HMV ABCDEF M gb
+#17002
+ghost major~
+the ghost of the major~
+A sheme of a human hovers in the room.
+~
+You can barely believe you eyes, but this seem to be a real ghost.
+~
+human~
+ABGT DFHPQT -1000 S
+55 12 10d124+1700 43d10+100 5d15+21 11
+-280 -280 -280 -3
+EFNU BIKQ BP 0
+8 8 1 10000
+HMV ABCDEF M gd
+#17003
+indy jones~
+Indiana Jones~
+Indiana Jones stands here, obviously totally confused.
+~
+An average tall man stands here. He is looking at you with a totally confused
+expression in his face. You hear him whisper: 'Did you see snakes around
+here?'
+~
+human~
+ABGT DFHNT 1000 S
+55 12 10d175+2600 51d10+100 5d17+29 4
+-28 -28 -28 -5
+EFNU ABGLJ P K
+8 8 1 100
+HMV ABCDEF M gd
+#17004
+manhunter~
+a manhunter~
+A tall man glares at you.
+~
+You see a tall man, that was obviously disturbed by you in whatever he did,
+glaring at you icily.  He seems unsure if he should attack you or walk away.
+~
+human~
+AGT DFHNT -1000 S
+45 10 10d136+850 45d10+100 5d15+26 7
+-25 -25 -25 -4
+EFNU BINO F H
+8 8 1 5000
+HMV ABCDEF M gd
+#17005
+thief~
+a thief~
+A thief searching for treasures stands here.
+~
+An average man tries to hide in the shadows and move silently stands here. He
+look somewhat afraid.
+~
+human~
+ACGT DFHOQT 0 S
+36 5 10d87+650 36d10+100 5d12+21 3
+-18 -18 -18 -1
+EFNU LO B H
+8 8 1 3000
+HMV ABCDEF M gd
+#17006
+fog~
+a string of Fog~
+A string of Fog hovers over the ground here.
+~
+You see a silver string of a fog like material hovering over the ground. All
+you senses tell you this is dangerous and the only thing you really want to do
+is run.
+~
+human~
+AGT DFT 0 S
+18 3 5d16+180 1d10+100 1d2+0 7
+9 9 9 9
+EFNU 0 0 0
+8 8 1 30
+HMV ABCDEF M gd
+#17007
+orc~
+a fleeing orc~
+An orc running away in sheer panic is here.
+~
+An orc, as ugly as ever, but his face shows utter terror and he seem running
+away from something.
+~
+orc~
+AGT DFOT -1000 S
+24 7 10d38+400 24d10+100 5d8+14 11
+-5 -5 -5 2
+DEFNR I 0 H
+8 8 0 20
+HMV ABCDEFGHIJK M gd
+#0
+
+#OBJECTS
+#17001
+rotten boots~
+rotten leather boots~
+A pair of rotten boots are standing on the ground here.~
+unknown~
+9 EH AG
+13 12 13 0 0
+50 10 25000 P
+A
+2 2
+A
+19 2
+A
+18 2
+A
+17 -5
+A
+13 25
+E
+~
+~
+#17002
+rotten trousers~
+a pair of rotten trousers ~
+A pair of rotten trousers lies here.~
+unknown~
+9 EH AF
+13 12 13 0 0
+50 10 28050 P
+A
+18 2
+A
+19 3
+A
+12 20
+A
+17 -5
+#17003
+golden dagger~
+a golden dagger~
+A slim golden dagger, with a big ruby set in it, lies here.~
+unknown~
+5 AEM AN
+2 8 8 11 0
+50 20 26950 P
+A
+3 -2
+A
+12 20
+A
+13 30
+A
+18 6
+A
+19 6
+#17004
+rotten vest~
+rotten vest~
+A rotten vest lies on the ground here.~
+unknown~
+9 EH AK
+13 12 13 0 0
+50 10 24500 P
+A
+19 2
+A
+17 -5
+A
+18 2
+A
+13 25
+#17005
+gold box~
+a small golden jewelry box~
+A small golden jewelry box, set with rubies and white sapphires 
+lies on the ground here.~
+unknown~
+15 AG AO
+170 13 17006 0 0
+34 5 10098 P
+#17006
+gold key~
+a small golden key~
+A small golden key on a golden chain lies on the ground here.~
+unknown~
+18 AG AC
+0 0 0 0 0
+43 1 16641 P
+#17007
+alabaster hand~
+an alabaster hand~
+An small hand, made from alabaster, that was a part of a statue once, lies here.~
+unknown~
+9 AC AO
+10 9 10 0 0
+45 15 19800 P
+A
+12 30
+A
+4 3
+A
+3 3
+A
+24 -3
+#17008
+mirror safe~
+a safe hidden behind a mirror~
+~
+unknown~
+0 O 0
+100 13 0 0 0
+0 0 9 P
+#17009
+coins~
+some dusty coins~
+Some coins that, are covered with dust lie here.~
+unknown~
+20 0 A
+6000 0 0 0 0
+0 0 10 P
+#17010
+alabaster ring~
+an alabaster ring~
+A small ring made of alabaster lies here.~
+unknown~
+9 AC AB
+10 9 10 0 0
+45 20 22770 P
+A
+18 2
+A
+19 2
+A
+13 22
+A
+24 1
+#17011
+axe steel~
+black steel axe~
+An axe, with a blade made of black steel, lies here.~
+unknown~
+5 ABM AN
+5 3 19 32 0
+36 25 13320 P
+A
+18 6
+A
+19 6
+#17012
+spear slim~
+a slim spear~
+A spear, with a head made of gray steel, lies here.~
+unknown~
+5 ABM AN
+3 7 8 2 0
+36 25 14652 P
+A
+18 6
+A
+19 6
+#17013
+girdle~
+a leather girdle~
+A girdle made of a broad leather band lies here.~
+unknown~
+9 AB AL
+9 8 8 0 0
+36 8 12600 P
+A
+19 2
+A
+2 2
+A
+18 2
+#17014
+shield iron~
+an iron shield~
+A small round shield, made of iron, lies here.~
+unknown~
+9 AE AJ
+9 8 8  0 0
+24 20 5520 P
+A
+5 3
+A
+17 -3
+A
+13 15
+#17015
+arm guard iron~
+an iron arm guard~
+An arm guard, made of iron, lies here.~
+unknown~
+9 AE AI
+9 8 8  0 0
+24 20 6250 P
+A
+12 15
+A
+18 2
+A
+1 2
+#17016
+helmet iron~
+an iron helmet~
+A helmet, made of iron, lies here.~
+unknown~
+9 AE AE
+9 8 8  0 0
+24 20 5520 P
+A
+1 2
+A
+19 2
+A
+2 2
+#17017
+whip brown leather~
+a long leather whip~
+A long slim leather whip lies here.~
+unknown~
+5 ABM AN
+7 8 8  4 0
+50 20 25500 P
+A
+2 3
+A
+12 25
+A
+18 6
+A
+19 6
+#17018
+hat brown~
+an old brown hat~
+A old brown hat, that was obviously worn for ages
+already, lies here.~
+unknown~
+9 AG AE
+11 12 11 0 0
+50 15 28611 P
+A
+24 -3
+#17019
+stone amulet~
+a small stone amulet~
+A small gray stone on a leather band lies here.~
+unknown~
+9 AG AC
+5 4 4  0 0
+18 8 2500 P
+A
+4 1
+A
+5 1
+A
+3 1
+#17020
+glowing flask~
+a glowing flask~
+A glowing flask, filled with a light colored liquid
+lies here.~
+unknown~
+10 ABC AO
+45 24 26 0 0
+51 5 26010 P
+#17021
+iron key~
+a large iron key~
+A large iron key, a bit rusty already, lies here.~
+unknown~
+18 A A
+0 0 0 0 0
+36 5 14256 P
+#17022
+seal disc~
+a small disc~
+A small disc made of unknown material lies here.~
+unknown~
+9 AB AO
+10 11 11 0 0
+43 15 20328 P
+A
+17 -10
+A
+18 3
+A
+19 3
+A
+13 20
+#17023
+stick black~
+a small black stick~
+A small black stick with a golden ring around the top
+lies here.~
+unknown~
+3 AB AO
+45 3 3 29 0
+50 2 27489 P
+#17024
+gray wand~
+a gray wand~
+A gray wand on a small chain lies on the floor here.~
+unknown~
+3 ABC AO
+30 3 3 0 0
+43 5 16254 P
+#17025
+crystal flask~
+a crystal flask~
+A beautiful flask made of crystal glitters in the light.~
+unknown~
+10 ABG AO
+52 26 22 24 0
+50 3 1100 P
+#17026
+ring amber~
+an amber ring~
+A golden ring with a small amber stone lies here.~
+unknown~
+9 AGP AB
+11 12 11 3 0
+50 5 10000 P
+A
+18 2
+A
+19 3
+A
+12 35
+A
+3 2
+#0
+
+#ROOMS
+#11700
+East Gate of the Haunted Ruins~
+You are standing in front of a once beautiful marble arch, that
+leads into what was a beautiful city once. The silence around you
+seems not natural and causes you to shiver.
+To the west you can make out a street, to the east leads a forest path.
+~
+0 0 3
+D1
+~
+~
+0 -1 11702
+D3
+~
+~
+0 -1 11701
+S
+#11701
+Main Street~
+You standing on what was once the main street of this town. The street is covered with leaves and you can barely make out the
+granite stones, that were used to plaster this road.
+A side street leads north and west from here.
+The main street continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 11718
+D1
+The east gate lies to the east.~
+~
+0 -1 11700
+D2
+~
+~
+0 -1 11719
+D3
+~
+~
+0 -1 11703
+S
+#11702
+A narrow path in the forest.~
+You walking on a narrow path in a dark forest. No light seems to
+come through the branches high above you. You can hear no sound
+besides you own feet padding.
+The path continues to the east and to the west.
+~
+0 0 3
+D1
+~
+~
+0 -1 6150
+D3
+~
+~
+0 -1 11700
+S
+#11703
+Main Street~
+You standing on what was once the main street of this town. Ruins
+and partly destroyed buildings are to the left and right. You cannot
+see any entrance to there buildings. 
+The main street continues east and to the west you can see a big
+open space, what seems to a big square.
+~
+0 0 1
+D1
+~
+~
+0 -1 11701
+D3
+~
+~
+0 -1 11707
+S
+#11704
+Main Street~
+You standing on what was once the main street of this town. Ruins
+and partly destroyed buildings are to the left and right.
+The main street continues east and to the east you can see a big
+open space, what seems to a big square.
+~
+0 0 1
+D1
+~
+~
+0 -1 11708
+D3
+~
+~
+0 -1 11705
+S
+#11705
+Main Street~
+You standing on what was once the main street of this town. Ruins
+and partly destroyed buildings are to the left and right.
+To the south you see a door way to a small house.
+The main street continues east and to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 11704
+D2
+~
+~
+0 -1 11747
+D3
+~
+~
+0 -1 11706
+S
+#11706
+Main Street~
+You standing on what was once the main street of this town. Ruins
+and partly destroyed buildings are to the left and right.
+The town wall is to the west. Here once must have been the
+west door to the city.
+A small side path leads to the south.
+~
+0 0 1
+D5
+~
+~
+0 -1 14001
+D1
+~
+~
+0 -1 11705
+D2
+~
+~
+0 -1 11731
+S
+#11707
+The Plaza~
+You are standing in the south east corner of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the south you see the walls of a big temple. 
+A doorway leads to the inside of the temple to the south, the
+plaza stretches out to the west and north and the main street
+leads east from here.
+~
+0 0 1
+D0
+~
+~
+0 -1 11712
+D1
+~
+~
+0 -1 11703
+D2
+~
+~
+0 -1 11738
+D3
+~
+~
+0 -1 11708
+S
+#11708
+The Plaza~
+You are standing in the south west corner of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the south you see the walls of a big temple. 
+A doorway leads to the inside of the temple to the south, the
+plaza stretches out to the east and north and the main street
+leads west from here.
+~
+0 0 1
+D0
+~
+~
+0 -1 11709
+D1
+~
+~
+0 -1 11707
+D2
+~
+~
+0 -1 11745
+D3
+~
+~
+0 -1 11704
+S
+#11709
+The Plaza~
+You are standing at the west side of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the west you see a huge tower, that seems to be intact. 
+A doorway to the west leads into the basement of the tower.
+The plaza stretches out to the south and east.
+~
+0 0 1
+D0
+~
+~
+0 -1 11310
+D1
+~
+~
+0 -1 11712
+D2
+~
+~
+0 -1 11708
+D3
+~
+~
+0 -1 11713
+S
+#11310
+The Plaza~
+You are standing in the north west corner of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the west you see a huge tower, that seems to be intact. 
+The plaza stretches out to the south and east.
+~
+0 0 1
+D1
+~
+~
+0 -1 11711
+D2
+~
+~
+0 -1 11709
+S
+#11711
+The Plaza~
+You are standing in the north east corner of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the west you see a huge tower, that seems to be intact. 
+The plaza stretches out to the south and west.
+A small side street leads to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 11716
+D2
+~
+~
+0 -1 11712
+D3
+~
+~
+0 -1 11310
+S
+#11712
+The Plaza~
+You are standing in the north west corner of the plaza. The
+small granite squares, that used to be the pavement are partly
+loose or broken. The ground is covered with leaves and dirt.
+To the west you see a huge tower, that seems to be intact. 
+A doorway to the west leads into the basement of the tower.
+The plaza stretches out to the south and east.
+~
+0 0 1
+D0
+~
+~
+0 -1 11711
+D1
+~
+~
+0 -1 11748
+D2
+~
+~
+0 -1 11707
+D3
+~
+~
+0 -1 11709
+S
+#11713
+The Tower Basement~
+You stand in the  tower's base. Half decayed torch brackets occupy the
+four corners of this huge room. There are open doors to the north .
+and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 11714
+D1
+~
+~
+0 -1 11709
+D3
+~
+~
+0 -1 11715
+S
+#11714
+A small room in the Tower~
+You are standing in a small dark room. Maybe this was a room
+for the goards once, that were doing their duty in this tower.
+On the walls you see rusted pieces of iron, that could have been
+hooks once, to hang up weapons and shields.
+There is a door to the south.
+~
+0 1 0
+D2
+~
+~
+0 -1 11713
+S
+#11715
+The Staircase of he Tower~
+You are in a musty room. The smell of mold and mildew is
+almost overpowering.  Y
+You hear strange creaks and groans ... is it the wind or did someone
+(something?) make that noise.  To the east
+is a room and there is a stairway leading up into the tower.
+~
+0 1 0
+D1
+~
+~
+0 -1 11713
+D4
+~
+~
+0 -1 11763
+S
+#11716
+Side Street~
+You are in a narrow side street. It is quite dark here. You
+see walls, or what remained from them, left and right from you.
+The ground seemed to be covered with loose stones, that might
+once have been part of buildings. 
+You feel a cold wind blowing and the only sound you can hear,
+is the one your steps make.
+The side streets continues to the east, to the west you see a
+big square.
+~
+0 1 1
+D1
+~
+~
+0 -1 11717
+D3
+~
+~
+0 -1 11711
+S
+#11717
+Side Street~
+You are in a narrow side street. It is quite dark here. You
+see walls, or what remained from them, left and right from you.
+The ground seemed to be covered with loose stones, that might
+once have been part of buildings. 
+You feel a cold wind blowing and the only sound you can hear,
+is the one your steps make.
+The side streets continues to the east and south.
+~
+0 1 1
+D2
+~
+~
+0 -1 11718
+D3
+~
+~
+0 -1 11716
+S
+#11718
+Side Street~
+You are in a narrow side street. It is quite dark here. You
+see walls, or what remained from them, left and right from you.
+The ground seemed to be covered with loose stones, that might
+once have been part of buildings. A house is to the west, a
+small doorway, partly broken, that might once have been a backdoor
+to the house.
+You feel a cold wind blowing and the only sound you can hear,
+is the one your steps make.
+The side streets continues to the north and south.
+~
+0 1 1
+D0
+~
+~
+0 -1 11717
+D2
+~
+~
+0 -1 11701
+D3
+~
+~
+0 -1 11748
+S
+#11719
+Side Street~
+You are standing in a small side street. The ground is covered
+with stones and dirt. You barely find a way through the smaller and
+larger rocks.
+The main street is to the north.
+A door leads to a house to the west. The side street continues 
+to the north and south.
+~
+0 1 1
+D0
+~
+~
+0 -1 11701
+D2
+~
+~
+0 -1 11720
+D3
+~
+~
+0 -1 11749
+S
+#11720
+Side Street~
+You are standing in a small side street. The ground is covered
+with stones and dirt. You barely find a way through the smaller and
+larger rocks.
+A door leads to a house to the west. The side street continues 
+to the north and south.
+~
+0 1 1
+D0
+~
+~
+0 -1 11719
+D2
+~
+~
+0 -1 11721
+D3
+~
+~
+0 -1 11750
+S
+#11721
+Side Street~
+You are standing in a small side street. The ground is covered
+with stones and dirt. You barely find a way through the smaller and
+larger rocks.
+To the south there is the temple street.
+A door leads to a house to the west. The side street continues
+to the north.
+~
+0 1 1
+D0
+~
+~
+0 -1 11720
+D2
+~
+~
+0 -1 11722
+D3
+~
+~
+0 -1 11751
+S
+#11722
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north there is a small side street. To the 
+south you can see the walls of the house of the guilds.
+The temple street continues to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 11721
+D3
+~
+~
+0 -1 11723
+S
+#11723
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north you see the walls of a house. To the 
+south there is an doorway to a big building, the house of
+the guilds.
+The temple street continues to the east and west.
+~
+0 0 1
+D1
+The east gate lies to the east.~
+~
+0 -1 11722
+D2
+~
+~
+0 -1 11732
+D3
+~
+~
+0 -1 11724
+S
+#11724
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north you see the walls of the temple. To the 
+south you can see a small place, that could have been 
+the market square once.
+The temple street continues to the east and west.
+~
+0 0 1
+D1
+The east gate lies to the east.~
+~
+0 -1 11723
+D2
+~
+~
+0 -1 11733
+D3
+~
+~
+0 -1 11725
+S
+#11725
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north you see the walls of the temple. To the 
+south you can see a small place, that could have been 
+the market square once.
+The temple street continues to the east and west.
+~
+0 0 1
+D1
+The east gate lies to the east.~
+~
+0 -1 11724
+D2
+~
+~
+0 -1 11734
+D3
+~
+~
+0 -1 11726
+S
+#11726
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north you see a small path leading north. To the 
+south there is the entrance to the city hall.
+The temple street continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 11728
+D1
+The east gate lies to the east.~
+~
+0 -1 11725
+D2
+~
+~
+0 -1 11735
+D3
+~
+~
+0 -1 11727
+S
+#11727
+Temple Street~
+You are standing on the temple street. The street is totally covered with dirt and stones. 
+To the north you see the entrance to a smaller building. To the 
+south there are the walls of the city hall.
+The temple street continues to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 11737
+D1
+The east gate lies to the east.~
+~
+0 -1 11726
+S
+#11728
+Side Path~
+You are on a small side path between the ruins. The ground is just
+soil as it seems. 
+To the north and east are the backsides of buildings.
+The path continues west and south to temple street..
+~
+0 1 1
+D0
+~
+~
+0 -1 11729
+D2
+~
+~
+0 -1 11726
+S
+#11729
+Side Path~
+You are on a small side path between the ruins. The ground is just
+soil as it seems. 
+To the north and east are the backsides of buildings.
+The path continues west and south to temple street..
+~
+0 1 1
+D2
+~
+~
+0 -1 11728
+D3
+~
+~
+0 -1 11730
+S
+#11730
+Side Path~
+You are on a small side path between the ruins. The ground is just
+soil as it seems. 
+To the south is the backside of a small building, to the west are the city walls.
+The path continues east and north to the main street.
+~
+0 1 1
+D0
+~
+~
+0 -1 11731
+D1
+The east gate lies to the east.~
+~
+0 -1 11729
+S
+#11731
+Side Path~
+You are on a small side path between the ruins. The ground is just
+soil as it seems. 
+To the east is the backside of a small building, to the west are the city walls.
+The path continues east and north to the main street.
+~
+0 1 1
+D0
+~
+~
+0 -1 11706
+D2
+~
+~
+0 -1 11730
+S
+#11732
+Guild House Hall~
+You are standing in the half destroyed entrance hall of the guild
+house. In the corner the remains of big stairway show that there
+must have been a second floor once.
+On the walls you see remains of wooden panels, that might have
+been guild signs.
+You see a doorway in the east wall.
+~
+0 8 0
+D0
+~
+~
+0 -1 11723
+D1
+~
+~
+0 -1 11762
+S
+#11733
+Marketsquare~
+You are standing on a small square, that once was the marketsquare,
+large stone panels cover the ground, party destroyed. The ground
+is covered with stones and dirt.
+The square continues to the west, to the north you can see the Temple Street.
+~
+0 0 1
+D0
+~
+~
+0 -1 11724
+D3
+~
+~
+0 -1 11734
+S
+#11734
+Marketsquare~
+You are standing on a small square, that once was the marketsquare,
+large stone panels cover the ground, party destroyed. The ground
+is covered with stones and dirt.
+The square continues to the east, to the north you can see the Temple Street.
+~
+0 0 1
+D0
+~
+~
+0 -1 11725
+D1
+The east gate lies to the east.~
+~
+0 -1 11733
+S
+#11735
+Entrance Hall~
+You are standing in the entrance hall of the City Hall. The walls
+seemed to be covered with once beautiful goblins, now they are
+just dark colored pieces of cloth. Some furniture, most if it
+half decomposed is lying around on the floor. In the back you
+see a big stairway leading up to a gallery. You can see doorways
+leading away from the gallery.
+There is a guard room to the east and you can see a small door
+to the west, way back in the hall.
+~
+0 8 0
+D0
+~
+~
+0 -1 11726
+D3
+~
+~
+0 -1 11736
+D4
+~
+~
+0 -1 11753
+D5
+~
+~
+2 17021 11752
+S
+#11736
+Guards Room of the City Hall~
+This must have been the guards room once. You can see the remains
+of a big table and some chairs. Some pieces of destroyed weapons
+are lying on the ground, all metal parts rusted totally.
+A doorway to the east leads back in the entrance hall.
+~
+0 9 0
+D1
+The east gate lies to the east.~
+~
+0 -1 11735
+S
+#11737
+Smithy~
+You are standing in a small dark room. You can make out a fireplace
+and the remains of a huge anvil. Various rotted tools are lying on the ground. 
+There is a small door to the north and a door to the south leads to the south.
+~
+0 9 0
+D0
+~
+~
+0 -1 11761
+D2
+~
+~
+0 -1 11727
+S
+#11738
+North East Corner of the Temple~
+This stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled. Large chunks of stone
+have fallen from the walls and roof, sending light streaming in on
+you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11707
+D2
+~
+~
+0 -1 11739
+D3
+~
+~
+0 -1 11746
+S
+#11739
+East Wall of the Temple~
+This stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled. Large chunks of stone
+have fallen from the walls and roof, sending light streaming in on
+you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11738
+D2
+~
+~
+0 -1 11740
+D3
+~
+~
+0 -1 11744
+S
+#11740
+East Side Altar of the Temple.~
+This is the place where a small side altar once stood. Only a small 
+marble table at the south wall, that is broken in the middle,
+and pieces of light colored alabaster, that once formed a small
+statue of a god or holy person.
+~
+0 8 0
+D0
+~
+~
+0 -1 11739
+D3
+~
+~
+0 -1 11741
+S
+#11741
+Main Altar of the Temple~
+This was the main altar of the temple. A huge marble pedestal
+is to the south wall. On it you see the remains of a big statue.
+On the floor are lying big pieces of white alabaster. Some seem to
+have golden marks and some ornaments on it.
+~
+0 8 0
+D0
+~
+~
+0 -1 11744
+D1
+~
+~
+0 -1 11740
+D3
+~
+~
+0 -1 11742
+S
+#11742
+West Side Altar of the Temple~
+This is the place where a small side altar once stood. A small marble
+socle remained nearly intact. On it are the remains of a small
+torso, made of marble too. An the ground are lying other parts
+of the statue.
+~
+0 8 0
+D0
+~
+~
+0 -1 11743
+D1
+~
+~
+0 -1 11741
+S
+#11743
+West Wall of the Temple~
+This
+stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled. Large chunks of stone
+have fallen from the walls and roof, sending light streaming in on
+you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11745
+D1
+~
+~
+0 -1 11744
+D2
+~
+~
+0 -1 11742
+S
+#11744
+Center of the Temple~
+This is the center of the temple. A once beautiful mosaic is on the
+ground, now mostly destroyed. It surrounds what is left of a big
+marble basin, that once must have holded holy water. There is
+still some fluid gathered in it.
+~
+0 8 0
+D0
+~
+~
+0 -1 11746
+D1
+~
+~
+0 -1 11739
+D2
+~
+~
+0 -1 11741
+D3
+~
+~
+0 -1 11743
+S
+#11745
+North West Corner of the Temple~
+This stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled. Large chunks of stone
+have fallen from the walls and roof, sending light streaming in on
+you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11708
+D1
+~
+~
+0 -1 11746
+D2
+~
+~
+0 -1 11743
+S
+#11746
+North Wall of the Temple~
+This stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled. Large chunks of stone
+have fallen from the walls and roof, sending light streaming in on
+you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11738
+D2
+~
+~
+0 -1 11744
+D3
+~
+~
+0 -1 11745
+S
+#11747
+Jewelry Shop~
+A table has been tipped over, spilling fine jewelry and gems
+across the market place. Most of these trinkets are battered and
+tarnished and few would have any value anymore.
+~
+0 8 0
+D0
+~
+~
+0 -1 11705
+S
+#11748
+Noble house~
+You are standing in a one noble palace, at the place were the entrance
+hall must have been. All inner wall are totally destroyed, and just
+heaps of stones left, that cover the floor.
+In the east wall you see a small door opening.
+~
+0 8 0
+D1
+~
+~
+0 -1 11718
+D3
+~
+~
+0 -1 11712
+S
+#11749
+House~
+All that's left of this house is a few scattered piles of rubble
+and a very large blast crater. Obviously someone or something important
+was once housed here. A shrieking howl chills your blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 11719
+S
+#11750
+House~
+You are standing in a small entrance hall of a house. All the
+connecting rooms are no existing any more and you can see bricks and stone
+lying in a jumble through the former doors.
+A doorway leads to the side street to the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 11720
+S
+#11751
+Tavern~
+A glorious place in it's prime, this tavern now lies in ruin; tables
+and chairs are broken scattered, bottles and glasses shattered, and
+a small performance stage crushed. Musical instruments and personal
+belongings lie under the rubble, but the people they once belonged to are
+not with them. Looking up you see that the entire second floor and roof
+has fallen in, leaving a gaping hole above.
+~
+0 8 0
+D1
+~
+~
+0 -1 11721
+S
+#11752
+Cellar~
+You are standing in a dark cellar. You can barely make out the
+walls. You can see jewels and gold blinking in the shining of
+you light. Some chests, boxes and bags are lying on the floor.
+A narrow stairway leads upwards.
+~
+0 521 0
+D4
+~
+~
+2 17021 11735
+S
+#11753
+Gallery~
+You are on a wide gallery above the entrance hall. It seems
+to be pretty stable still, though you can see signs of decline.
+The gallery stretches further to the east, there is a doorway
+leading to the north and the a stairway leading down in the 
+entrance hall.
+~
+0 8 0
+D0
+~
+~
+0 -1 11760
+D1
+~
+~
+0 -1 11754
+D5
+~
+~
+0 -1 11735
+S
+#11754
+Gallery~
+You are on a wide gallery above the entrance hall. It seems
+to be pretty stable still, though you can see signs of decline.
+The gallery stretches out to the east and west, there is a doorway
+leading to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 11759
+D1
+~
+~
+0 -1 11755
+D3
+~
+~
+0 -1 11753
+S
+#11755
+Gallery~
+You are on a wide gallery above the entrance hall. It seems
+to be pretty stable still, though you can see signs of decline.
+The gallery stretches out to the east and south, there is a doorway
+leading to the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 11758
+D2
+~
+~
+0 -1 11756
+D3
+~
+~
+0 -1 11754
+S
+#11756
+Gallery~
+You are on a wide gallery above the entrance hall. It seems
+to be pretty stable still, though you can see signs of decline.
+The gallery stretches out to the north, there is a doorway
+leading to the south.
+~
+0 8 0
+D0
+~
+~
+0 -1 11755
+D2
+~
+~
+0 -1 11757
+S
+#11757
+Ceremony Hall~
+You standing in a wide hall, that once must have been the 
+ceremony hall. Huge windows, lacking theirs leafs, let you
+look down at the temple street. The rooms seems to be totally
+empty. On the walls there are remains of some wallcarpets. A 
+already blind and party destroyed mirror is still hanging on 
+the west wall.
+A doorway to the south leads to the gallery.
+~
+0 8 0
+D0
+~
+~
+0 -1 11756
+S
+#11758
+Town scriber's room~
+You are standing in a room, that is full of crumbling paper.
+A piece of wood, that once might have been a writing desk is
+standing here. A small window lets you look in a small garden
+and at the backside of another house.
+A doorway leads to the gallery.
+~
+0 0 0
+D3
+~
+~
+0 -1 11755
+S
+#11759
+Major's office~
+You are standing in a room with wooden paneled walls. The panels
+are partly decayed and lost their color. Some remains of the
+furniture is lying on the floor.
+There is a doorway leading to the gallery.
+~
+0 0 0
+D2
+~
+~
+0 -1 11754
+S
+#11760
+Secretary's room~
+This room is totally empty. Just some dust and dirt is lying
+on the ground. The northern wall is missing completely.
+There is a doorway leading to the gallery to the south.
+~
+0 0 0
+D2
+~
+~
+0 -1 11753
+S
+#11761
+Back Room~
+You standing in a small dark room. Some stairs leading up in
+a second floor, that is not existent any more. You can barely breath
+in here. 
+A door leads to a room in the south, and a small hole in the 
+wall leads to the north.
+~
+0 9 0
+D0
+~
+~
+0 -1 11730
+D2
+~
+~
+0 -1 11737
+S
+#11762
+Guild House Guard Room~
+You are in a small dark room, that was once the room for the guards.
+Some remains of old furniture lies on the ground.
+A doorway to the west leads in the entrance hall.
+~
+0 9 0
+D3
+~
+~
+0 -1 11732
+S
+#11763
+The Staircase of he Tower~
+You are on a small stairway leading upside. Its is dark and
+very
+narrow. The stairs are slippery and you hope they still intact.
+You still hear the strange sounds further up.
+~
+0 1 0
+D4
+~
+~
+0 -1 11764
+D5
+~
+~
+0 -1 11715
+S
+#11764
+On the Tower~
+You are on a small platform surrounded by a wall on the top of
+the tower. Below you can see the ruins of the town and the forest
+that is surrounding it. The ground seems pretty intact. It seems
+this tower is the only intact building in the city.
+~
+0 0 0
+D5
+~
+~
+0 -1 11763
+S
+#0
+
+#SPECIALS
+M 17001 spec_cast_cleric - Assigned to: Mordeth
+M 17002 spec_breath_lightning - Assigned to: Padan Fain
+M 17003 spec_cast_mage - Assigned to: Indiana Jones
+M 17004 spec_cast_mage - Assigned to: a manhunter
+S
+
+#RESETS
+*Door state resets
+D 0 11735 5  2    - 11735: down door is locked
+D 0 11752 4  2    - 11752: up door is locked
+M 0 17006 14  11706 - Load a string of Fog
+M 0 17007 6  11706 - Load a fleeing orc
+E 0 17014 20 11   - An iron shield as a shield on a fleeing orc
+M 0 17006 14  11707 - Load a string of Fog
+M 0 17006 14  11708 - Load a string of Fog
+M 0 17007 6  11709 - Load a fleeing orc
+E 0 17015 20 10   - An iron arm guard on the arms on a fleeing orc
+M 0 17006 14  11714 - Load a string of Fog
+E 0 17019 40 4    - A small stone amulet around the neck (2) on a string of Fog
+M 0 17006 2  11717 - Load a string of Fog
+M 0 17007 1  11719 - Load a fleeing orc
+E 0 17016 20 6    - An iron helmet over the head on a fleeing orc
+M 0 17006 14  11724 - Load a string of Fog
+M 0 17007 6  11724 - Load a fleeing orc
+E 0 17014 20 11   - An iron shield as a shield on a fleeing orc
+M 0 17006 14  11729 - Load a string of Fog
+M 0 17007 6  11731 - Load a fleeing orc
+E 0 17015 20 10   - An iron arm guard on the arms on a fleeing orc
+M 0 17006 14  11734 - Load a string of Fog
+M 0 17004 2  11740 - Load a manhunter
+E 0 17007 10 17   - An alabaster hand held in the hands on a manhunter
+M 0 17004 2  11744 - Load a manhunter
+E 0 17010 10 2    - An alabaster ring on the right finger on a manhunter
+M 0 17005 3  11748 - Load a thief
+E 0 17012 20 16   - A slim spear wielded on a thief
+E 0 17021 30 17   - A large iron key held in the hands on a thief
+M 0 17006 14  11750 - Load a string of Fog
+M 0 17005 3  11751 - Load a thief
+E 0 17011 20 16   - Black steel axe wielded on a thief
+M 0 17001 1  11752 - Load Mordeth
+E 0 17001 5  8    - Soft red leather boots on the feet on Mordeth
+E 0 17004 5  12   - Embroided red vest about the shoulders on Mordeth
+E 0 17003 5  16   - A ruby dagger wielded on Mordeth
+E 0 17002 5  7    - A pair of black breeches on the legs on Mordeth
+E 0 17005 10 17   - A jewlery box held in the hands on Mordeth
+P 0 17026 3  17005 - An amber ring put in an amber ring
+P 0 17025 5  17005 - A crystal flask put in a crystal flask
+P 0 17023 5  17005 - A black stick put in a crystal flask
+M 0 17007 6  11754 - Load a fleeing orc
+E 0 17016 20 6    - An iron helmet over the head on a fleeing orc
+M 0 17002 1  11759 - Load Padan Fain
+E 0 17006 10 3    - A small golden key around the neck (1) on Padan Fain
+E 0 17022 5  17   - A small disc held in the hands on Padan Fain
+G 0 17024 5  0   - A grey wand on inventory on Padan Fain
+M 0 17005 3  11761 - Load a thief
+E 0 17013 20 13   - A leather girdle around the waist on a thief
+M 0 17003 1  11764 - Load Indiana Jones
+E 0 17017 5  16   - A long leather whip wielded on Indiana Jones
+E 0 17018 5  6    - An old brown hat over the head on Indiana Jones
+E 0 17020 5  17   - A glowing flask held in the hands on Indiana Jones
+S
+
+#SHOPS
+0
+
+#$
+

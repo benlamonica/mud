@@ -1,0 +1,719 @@
+#ROM24
+#AREA
+centerearth.are~
+~
+{ 5 35} The Center Of The Earth~
+800 899
+
+#MOBILES
+#800
+Alcuskisk dark sluggish slug creature~
+Alcuskisk~
+A dark sluggish creature oozes here.
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#801
+Bailesrep beastly beast mutant snake~
+Bailesrep the snake~
+A mutant beastly snake creature slithers here.
+~
+A mutan beastly snake on a savage hunt stumbled into this
+hidden world. His life was affected majorly by the journy, and
+he mutated after eating the only food in this realm, he has
+been eating worms, slugs, and other nasty creatures.
+~
+snake~
+BG HNO 0 0
+67 10 1d1+2000 1d1+10 1d1+10 chomp
+-3 -3 -3 -3
+ACDEFIJKN ABK 0 F
+stand stand male 200000
+HMV BC medium 0
+#803
+Caliopius ooze sluggish slug ~
+Caliopius~
+An nasty sluggish creature oozes here. 
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#804
+Daedoler sluggish slug creature ~
+Daedoler~
+A nasty sluggish creature oozes here.
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#805
+Eoploisus sluggish slug creature~
+Eoploisus~
+A nasty sluggish creature oozes here.
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#806
+Faskilert sluggish slug creature~
+Faskilert~
+A nasty sluugish creature oozes here.
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#807
+Heiulerp creature slug sluggish~
+Heiulerp~
+A nasty sluggish creature oozes here.
+~
+A dark figure, not very small, yet not very large.
+This sluggish thing is oozing with purple ooze, and is about
+six feet long, and 4 feet tall. An odd looking thing would
+be the best way to describe this slug creature.
+~
+unique~
+BG H 0 0
+60 10 1d1+2000 1d1+20 1d1+10 slime
+-3 -3 -3 -3
+CEFIJKN ABK 0 F
+stand stand male 3000
+ABHMV ABCDEF medium 0
+#0
+
+
+#OBJECTS
+#800
+alcuskisk skin guard guards skinguards skinguard~
+The skinguards of Alcuskisk~
+The skinguards of alcuskisk glow brightly here.~
+energy~
+armor AB AM
+18 10 14 17 0
+57 2 0 P
+A
+13 2
+A
+18 3
+A
+19 3
+#801
+bailesrep fists flaming flame fist~
+The flaming fists of Bailesrep~
+The flaming fists of Bailesrep burn here.~
+earth~
+armor B AN
+20 20 20 20 0
+55 4 0 P
+A
+19 3
+A
+13 5
+#802
+caliopius head human blood bloody~
+Caliopius' bloody human's head~
+Caliopius' bloody head from a human glows here.~
+gut~
+armor ABS AO
+20 20 20 20 0
+70 3 0 P
+A
+13 15
+A
+12 15
+A
+19 2
+A
+18 2
+#803
+daedoler skin blood bloody~
+Daedoler's bloody skin~
+Daedoler's bloody set of skin glows here.~
+obsidian~
+armor AS AK
+20 17 7 20 0
+60 2 0 P
+A
+24 4
+A
+18 1
+A
+19 2
+A
+13 5
+#804
+eoploisus girdle slug slugs~
+Eoploisus' girdle of slugs~
+Eoploisus' girdle of slugs glow here.~
+earth~
+armor A AL
+20 1 1 3 0
+64 3 0 P
+A
+19 2
+A
+18 2
+#805
+acid blasted blast neckbrace neck brace~
+A acid blasted neckbrace~
+An acid blasted neckbrace burns the grass before your feet.~
+acid~
+armor ABS AC
+9 9 9 9 0
+60 1 0 P
+A
+18 2
+A
+13 10
+A
+24 5
+#0
+
+
+#ROOMS
+#800
+Down through the crust~
+Your moving through the crust of the earth, not very exciting you say?
+Well wait till' you seek the realm below!
+~
+0 0 0
+D4
+~
+~
+0 -1 7434
+D5
+~
+~
+0 -1 801
+S
+#801
+Down through the outer mantle~
+Fires of hell, burning skulls, heat overcomes this place as you
+walk past the outer mantle of the earth.
+~
+0 0 0
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 802
+S
+#802
+Down through the inner mantle~
+Fires of hell, burning skulls, heat overcomes this place as you
+walk past the inner mantle of the earth.
+~
+0 0 0
+D4
+~
+~
+0 -1 801
+D5
+~
+~
+0 -1 803
+S
+#803
+Enterance to the caves of Earth~
+Before you go any lower, and fall to your death in the earth's core,
+your brain tells you to not go any farther down, you see an exit
+thats leads to some caves and conclude that this is the best way
+to travel.
+~
+0 0 0
+D2
+~
+~
+0 -1 804
+D4
+~
+~
+0 -1 802
+S
+#804
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 803
+D1
+~
+~
+0 -1 805
+S
+#805
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D1
+~
+~
+0 -1 806
+D3
+~
+~
+0 -1 804
+S
+#806
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D2
+~
+~
+0 -1 807
+D3
+~
+~
+0 -1 805
+S
+#807
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 806
+D2
+~
+~
+0 -1 808
+S
+#808
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 807
+D2
+~
+~
+0 -1 813
+D3
+~
+~
+0 -1 812
+S
+#809
+A Moist Tunnel~
+All the water that reaches this realm is led in streams to here,
+the creatures use this tunnel to seek water, and the rulers
+of this underground kingdom have lairs scattered along this tunnel.
+~
+0 0 0
+D0
+~
+~
+0 -1 820
+D1
+~
+~
+0 -1 810
+D2
+~
+~
+0 -1 824
+S
+#810
+A Moist Tunnel~
+All the water that reaches this realm is led in streams to here,
+the creatures use this tunnel to seek water, and the rulers
+of this underground kingdom have lairs scattered along this tunnel.
+~
+0 0 0
+D0
+~
+~
+0 -1 821
+D1
+~
+~
+0 -1 811
+D2
+~
+~
+0 -1 825
+D3
+~
+~
+0 -1 809
+S
+#811
+A Moist Tunnel~
+All the water that reaches this realm is led in streams to here,
+the creatures use this tunnel to seek water, and the rulers
+of this underground kingdom have lairs scattered along this tunnel.
+~
+0 0 0
+D0
+~
+~
+0 -1 822
+D1
+~
+~
+0 -1 812
+D2
+~
+~
+0 -1 826
+D3
+~
+~
+0 -1 810
+S
+#812
+A Moist Tunnel~
+All the water that reaches this realm is led in streams to here,
+the creatures use this tunnel to seek water, and the rulers
+of this underground kingdom have lairs scattered along this tunnel.
+~
+0 0 0
+D0
+~
+~
+0 -1 823
+D1
+~
+~
+0 -1 808
+D2
+~
+~
+0 -1 827
+D3
+~
+~
+0 -1 811
+S
+#813
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 808
+D1
+~
+~
+0 -1 814
+S
+#814
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D1
+~
+~
+0 -1 815
+D3
+~
+~
+0 -1 813
+S
+#815
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 816
+D3
+~
+~
+0 -1 814
+S
+#816
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 817
+D2
+~
+~
+0 -1 815
+S
+#817
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 818
+D2
+~
+~
+0 -1 816
+S
+#818
+The Earth's Caverns~
+Slugs, bugs, and slimes of all sorts ooze and fly here, your in the
+caverns of the center of the earth, and it is also very hot here.
+You see many wonderous things as you walk, and your brain is thinking
+about this place, is it a dream? How can this be?
+~
+0 0 0
+D0
+~
+~
+0 -1 819
+D2
+~
+~
+0 -1 817
+S
+#819
+The end of the journey~
+You have reached the end of your journeys, the caves stop here.
+The only other path you can see is the narrow suction hole above you,
+that leads to where only God knows. 
+~
+0 0 0
+D2
+~
+~
+0 -1 818
+D4
+~
+~
+0 -1 800
+S
+#820
+The murky lair of Alcuskisk~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D2
+~
+~
+0 -1 809
+S
+#821
+The murky lair of Bailesrep~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D2
+~
+~
+0 -1 810
+S
+#822
+The murky lair of Caliopius~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D2
+~
+~
+0 -1 811
+S
+#823
+The murky lair of Daedoler~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D2
+~
+~
+0 -1 812
+S
+#824
+The murky lair of Eoploisus~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D0
+~
+~
+0 -1 809
+S
+#825
+The murky lair of Faskilert~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D0
+~
+~
+0 -1 810
+S
+#826
+The murky lair of Geuliox~
+Geuliox has lived in this lair for many years, but his time
+has come. A couple of human hunters managed to kill him and
+he is gone. They leave his lair here to symbolize his life,
+and to charish his death as a new life beyond the caves.
+~
+0 0 0
+D0
+~
+~
+0 -1 811
+S
+#827
+The murky lair of Heiulerp~
+This murky lair was dug out of the hard stone of the earth, created
+only to keep the comfort of the rulers. The lair you stand in is
+not that special, except you do notice a small light hole coming from
+the roof, how can this be so low in the earth?
+~
+0 0 0
+D0
+~
+~
+0 -1 812
+S
+#0
+
+
+#RESETS
+*
+M 1 800 1 820 1			Alcuskisk to The murky lair of Alcuskisk
+E 1 800 100 14
+E 1 800 100 15
+*
+M 1 801 1 821 1			Bailesrep the snake to The murky lair of Bailesrep
+E 1 801 100 16
+*
+M 1 803 1 822 1			Caliopius to The murky lair of Caliopius
+E 1 802 100 17
+*
+M 1 804 1 823 1			Daedoler to The murky lair of Daedoler
+E 1 803 100 12
+*
+M 1 805 1 824 1			Eoploisus to The murky lair of Eoploisus
+E 1 804 100 13
+*
+M 1 806 1 825 1			Faskilert to The murky lair of Faskilert
+E 1 805 100 3
+E 1 805 100 4
+*
+M 1 807 1 827 1			Heiulerp to The murky lair of Heiulerp
+S
+
+
+#SPECIALS
+M  801 spec_breath_lightning			Bailesrep the snake
+S
+
+
+#$

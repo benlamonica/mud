@@ -1,0 +1,2409 @@
+
+#AREA   {35 40} Zahr    The Cliffs of Jorbia'r~
+
+
+#HELPS
+-1 JORBIA'R~
+The people of Jorbia'r are of a different sort then those known to those 
+of this world. Only a few travellers have ventured to that area and survived 
+to tell the tale. But, they bring back the news of a different culture. Of a 
+culture whose ideas are different than those of your's and mine. It is 
+spoken that they view the Goods and Evils in a backwards way then we do. For 
+them, Good is of the Bad alignment, Evil is Good. Thus, those of you who 
+dare to enter, be warned that those creatures are not what they would appear 
+to be in our realm of existence. They may look evil, but, by any chance, 
+might be of the good alignment.~
+
+0 
+$~
+
+
+#MOBILES
+#15700
+crystalline entity~
+the crystalline entity~
+The crystalline entity glides out of its cave to protect its offspring.
+~
+It hums with a soft glow of light and charm as it hovers inches off the 
+ground. It looks much like the other crystals that are collected upon the 
+walls. Perhaps, they are its offspring.
+~
+human~
+2|32|64 512|524288 800 S
+37 1 10d10+1500 10d10+1000 3d10+12
+11
+-12 -12 -12 -12
+ACDEFK ABEIJKM CN P
+8 8 0 0
+AH 0 0 0
+#15701
+snake slithery~
+a slithery snake~
+A slithery snake leaps into the water to avoid your presence.
+~
+He is slithery and soaked. His eyes are useless to him from living in the 
+darkness for so long. As he hears you trampling around, he whispers 
+something to his preciousssss...
+~
+snake~
+2|4|64 2|8|32|512|32768|65536 900 S
+36 0 10d10+1400 1d1+1000 3d10+11
+5
+-12 -12 -12 -12
+CDEFMNU IR BCL E
+8 8 1 0
+BGHY ADEFKLQVX 1 0
+#15702
+queen mother~
+the Queen Mother~
+The Queen of the High Village looks upon you as a sacrifice and 
+not a visitor.
+~
+She is old in her years and rather ugly. Over her head she wears the skin of 
+others as a crown. Her gown is made of a strange fur which covers her body 
+entirely. Her lips move slightly as she notices you and slowly, a grin 
+forms, exposing her toothless mouth. She extends her tongue and licks her 
+lips.
+~
+human~
+2|64 128 1000 S
+40 2 15d10+1850 1d1+1000 4d8+13
+17
+-13 -13 -13 -13
+ACDEFHIKNOUV A BHIL S
+8 8 2 0
+AHMV ABCDEFGHIJK 1 0
+#15703
+armorer~
+the Armorer~
+The Armorer looks appallingly at you and wishes you out of his shop.
+~
+He is an aged man of the Village. His skin is repulsive as it clings loosely 
+to his bony body. His eyes appear to be sunken deep within his head, but 
+that may just be an effect of his withering nature.
+~
+human~
+2|64 65536 950 S
+38 0 10d10+1600 1d1+1000 5d6+12
+3
+-13 -13 -13 -13
+CDEFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15704
+weaponsmith~
+the Weaponsmith~
+The Weaponsmith eyes you up,  an unwelcome stranger.
+~
+Years of hard work in the hot hut must have been unkind to his body. His 
+flesh is wrinkled and hangs from his bones. The hair on his head is thin 
+and threatens to fall out in the slightest breeze.
+~
+human~
+2|64 65536 850 S
+38 0 10d10+1600 1d1+1000 5d6+12
+3
+-13 -13 -13 -13
+CDEFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15705
+high priestess~
+the High Priestess~
+The High Priestess awaits her Mother's bidding.
+~
+She is adorned in lesser skins then that of the Queen Mother, but her 
+appearance is much the same. Old and charmed by evil.
+~
+human~
+2|4|64 128 1000 S
+39 1 15d10+1700 1d1+1000 5d6+13
+11
+-13 -13 -13 -13
+ACDEIKNUV 0 0 0
+8 8 2 0
+BHMV ABCDEFGHIJK 1 0
+#15706
+woodsman carver~
+the Wood Carver~
+The Wood Carver stops whittling as you enter and slowly disappears into 
+the shadows.
+~
+The shadows hide his true appearance. His hands are old and abused from 
+the many years of carving figures out of the heavy wood that surrounds 
+the village.
+~
+human~
+2|4|64 65536 750 S
+38 0 10d10+1600 1d1+1000 5d6+12
+3
+-13 -13 -13 -13
+CDEFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15707
+servant~
+a servant~
+A servant rests on a bed of flesh.
+~
+She is covered partially with the flesh of carcasses. Her naked flesh shows 
+through slightly. She, like the Priestess and the Queen Mother, is old and 
+wrinkled and close to death.
+~
+human~
+2|64 0 650 S
+37 0 10d10+1500 1d1+100 3d10+12
+2
+-12 -12 -12 -12
+CDEFIKNU 0 0 0
+8 8 2 0
+BHMV ABCDEFGHIJK 1 0
+#15708
+citizen war~
+a citizen of War~
+A citizen of War walks around in full armor, sword ready to be drawn.
+~
+His is fully garbed with the finest armor of the city. His sword, drawn and 
+ready, is held tightly to his waist by a sheath of animal skin.
+~
+human~
+4|32|64 65536 900 S
+37 1 10d10+1500 1d1+100 3d10+12
+3
+-12 -12 -12 -12
+CDEFIKNU 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15709
+flesh carver~
+the Flesh Carver~
+The Flesh Carver sits here, skinning the flesh from the bodies of victims.
+~
+He is covered with blood and meat that he has torn from many bodies. His 
+eyes are sunken into his head, wide open as he removes the flesh slowly. 
+Inch by inch, he tears it off in a neat seam.
+~
+human~
+2|64 65536 980 S
+38 0 10d10+1600 1d1+1000 5d6+12
+3
+-13 -13 -13 -13
+CDEFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15710
+grocer~
+the Grocer~
+The Grocer sneaks off into the shadows, hiding from you.
+~
+She is an old lady, dressed like those of the Village -- in rags of flesh.~
+human~
+2|64 65536 880 S
+38 0 10d10+1600 1d1+1000 5d6+12
+3
+-13 -13 -13 -13
+CDEFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15711
+father king~
+the King Father~
+The King Father resides over the village from his thrown.
+~
+He is by far, the eldest of all you have seen here. His skin is practically 
+falling off his body, his eyes have sunken deep into his head. He screams 
+an attack as you enter the room, his hoarse voice crackling in your ears.~
+human~
+2|32|64 8|32|128|512|8192|65536 1000 S
+46 6 25d10+3000 1d1+1000 8d4+16
+17
+-15 -15 -15 -15
+ACDEFHIKNV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15712
+high priest~
+the High Priest~
+The High Priest awaits the King Father's calling.
+~
+He is garbed with only the bloodiest of flesh carvings. They appear to drip 
+endlessly as he wonders around.
+~
+human~
+2|4|64 128 900 S
+39 1 15d10+1700 1d1+1000 5d6+13
+10
+-13 -13 -13 -13
+ACEFHIKU 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15713
+citizen~
+a citizen~
+A citizen sneaks along in the shadows.
+~
+He hides himself deep in the shadows trying to avoid your presence. His 
+skin is just as decrepit as that of the others.
+~
+human~
+64|128 65536 670 S
+35 0 10d10+1300 1d1+100 4d7+11
+1
+-11 -11 -11 -11
+CDFIKNU 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15714
+citizen~
+a citizen~
+A citizen tries to sneak past you in the shadows.
+~
+She walks quietly through the shadows, hoping to avoid you and alarm the 
+others of the village. As she moves, you can notice that her flesh is 
+barely hanging from her body. It looks as if it may fall off of her at 
+anytime.
+~
+human~
+64|128 32768|65536 650 S
+35 0 10d10+1300 1d1+100 4d7+11
+1
+-11 -11 -11 -11
+CDFIKNU 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15715
+monk~
+a monk~
+A monk guards the altar while cleaning up from the ceremonies.
+~
+His body is shadowed by a thick cloak of fur. You cannot see his face since 
+it is hidden under the shadow of his hooded cloak.
+~
+human~
+2|32|64 8|32|512|65536 650 S
+35 0 10d10+1300 1d1+100 4d7+11
+1
+-11 -11 -11 -11
+CDFIKNUV 0 0 0
+8 8 1 0
+BHMV ABCDEFGHIJK 1 0
+#15716
+prophet~
+the Prophet~
+The Prophet looks up at you as you enter the room and a smile crosses his lips.
+~
+The Prophet is a of olden times who has sought refuge in this cave after 
+being chased from the forest long ago. He has survived on the bones of many 
+wandering animals, but is very weak and warn from the rough years. He used 
+to live in the city hidden in the trees, back before the age of the Dark 
+Beast. His clothes are in rags and is covered with dirt. As you eye him up, 
+he starts to speak of the old times and gives a small warning to you of the 
+danger below, then falls silent. He looks as if he might have been powerful 
+in a time long ago, but sometime within those years, he has lost his powers 
+and juvenility.
+~
+human~
+2|4|64 8|32|128|512 -980 S
+39 0 15d10+1700 1d1+1000 5d6+13
+18
+-13 -13 -13 -13
+ACEFHINQ 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJK 1 0
+#15717
+wizard~
+an old wizard~
+An old Wizard slumps over his staff as he stairs out to sea.
+~
+This man is old, and has obviously he has suffered the many perils of this 
+realm. His eyes are the only young part of his appearance. They glow with 
+an eery blue flame.
+~
+human~
+2|64 0 -750 S
+37 0 10d10+1500 1d1+2000 3d10+12
+12
+-12 -12 -12 -12
+AEFGK 0 BCN 0
+8 8 1 0
+AHMV ABCDEFGHIJK 1 0
+#15718
+raven~
+a raven~
+A raven is perched high in the tree above you.
+~
+The raven is camouflaged perfectly with the surrounding trees. It shrieks 
+out at your presence.
+'Never more, Never More will you wonder freely within the Forest.'
+~
+song bird~
+2|64 65536|524288 -650 S
+35 0 10d10+1300 1d1+100 4d7+11
+3
+-11 -11 -11 -11
+DFH 0 0 0
+8 8 2 0
+ABW ACDEFHKP 1 0 
+#15719
+hermit~
+an old hermit~
+An old hermit digs through his clutter, looking for a gift for you.
+~
+He is very old and worn by the hard times. His body is as dirty ashis home. 
+When you enter, he smiles at you and looks around for an object of some 
+value to present as a gift. Alas, he cannot find anything that you may be 
+interested in. Instead, he gives you another quick smile and suggests that 
+you sit and listen to his tale.
+~
+human~
+2|4|64 0 -1000 S
+36 0 10d10+1400 1d1+100 4d8+13
+15
+-12 -12 -12 -12
+CEFIKN 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJK 1 0
+#15720
+cliff hanger~
+a cliff hanger~
+A cliff hanger grasps onto the walls with huge claws.
+~
+This creature is almost bat shaped. Although, it has evolved out ofthe need 
+for wings and has developed a different method of moving around its 
+environment -- claws.
+~
+human~
+4|64 512 0 S
+35 0 10d10+1300 1d1+100 4d7+11
+3
+-11 -11 -11 -11
+DEFKM 0 0 0
+8 8 1 0
+AGH ABCDEFGIJKLMU 1 0
+#15721
+water lizard~
+a water lizard~
+A water lizard slithers below the surface of the dark waters.
+~
+You can't get a good look at this creature as it keeps dodging your curious 
+eyes by diving under the water. It appears to be covered in thick scales 
+though.
+~
+human~
+2|4|32|64 512|32768|524288 500 S
+36 0 10d10+1400 1d1+100 3d10+11
+5
+-12 -12 -12 -12
+DHMU 0 0 0
+8 8 0 0
+BGaa OX 1 0
+#0
+
+
+#OBJECTS
+#15700
+ring precious~
+a ring named 'Precious'~
+A slimy ring rests in a small puddle of cold water.~
+~
+9 FGHM AB
+11 11 11 11 0 
+37 8 10000 A
+A
+2 2
+A
+1 3
+#15701
+skin cloak~
+a skin cloak~
+A cloak made of some beasts flesh rests upon the ground.~
+~
+9 0 AK
+13 13 13 13 0
+37 12 5000 G
+A
+2 -2
+A
+1 -1
+A
+13 20
+#15702
+black shield wooden~
+a wooden shield~
+A shield carved of heavy wood sits firmly on the ground.~
+~
+9 0 AJ
+12 13 13 5 0
+35 10 900 G
+A
+1 -2
+A
+2 -1
+A
+18 2
+#15703
+wooden helmet~
+a wooden helmet~
+A wooden helmet, carved of black wood seems to look at you through its eye 
+openings.~
+~
+9 EM AE
+9 9 9 5 0
+35 10 950 G
+A
+18 -2
+A
+2 1
+E
+wooden helmet~
+It appears to be sentient, grinning at you and eyeing you up through empty 
+eye sockets.~
+#15704
+crown flesh~
+a crown of flesh~
+A crown woven of flesh is clumped in a ball.~
+~
+9 0 AE
+14 14 14 0 0 
+35 8 1100 G
+A
+3 -1
+A
+4 -2
+A
+19 3
+A
+5 -1
+#15705
+sword wooden~
+a wooden sword~
+A wooden sword of the blackest wood blends into the dirt.~
+~
+5 0 AN
+0 1 48 7 0
+38 15 850 G
+#15706
+mace wooden~
+a heavy mace of black wood~
+A mace made of heavy wood crushes the ground with its weight.~
+~
+5 0 AN
+0 1 48 8 0
+35 15 800 G
+A
+1 -3
+A
+2 -2
+A
+18 3
+#15707
+gown flesh~
+a gown made of flesh~
+A gown made of thick flesh is pilled up on the floor.~
+~
+9 E AD
+13 13 13 8 0
+35 8 1500 G
+A
+5 -3
+A
+19 4
+#15708
+skull~
+a skull~
+A skull drips blood from the eye sockets.~
+~
+17 E A
+20 20 13 1 0
+40 10 1000 P
+#15709
+wood carving~
+a wood carving~
+A half finished carving of wood sits here.~
+~
+13 0 A
+0 1 6 11 0
+35 20 500 P
+E
+wood carving~
+It looks to be a carving of wood, not quiet finished, though. But, perhaps 
+it was meant to be something impressive.~
+#15710
+beast wood~
+a wooden beast~
+A wooden carving of a beast's body sits heavily upon the ground.~
+~
+9 E AO
+1 1 1 13 0
+39 10 450 P
+A
+1 -1
+A
+19 2
+E
+beast wooden~
+This wooden carving looks much like the beast that is depicted in the 
+Central area of the High Village. It has large, out reaching claws and 
+sharp teeth. The eyes are made of a deep ruby inset into the wood.~
+#15711
+flesh~
+a pound of flesh~
+A pound of flesh is pilled upon the ground.~
+~
+13 E A
+0 1 6 11 0
+35 1 100 P
+#15712
+gutting device~
+a gutting device~
+A gutting device still has someone's guts hanging from its hook.~
+~
+5 E AN
+0 1 48 5 0
+36 7 150 P
+A
+18 5
+A
+5 -2
+#15713
+flesh~
+a piece of meaty flesh~
+Some meaty flesh spoils on the ground.~
+~
+19 E A
+20 1 6 11 0
+35 3 50 P
+#15714
+crown tongues~
+a crown of tongues~
+A crown of tongues licks at your fingers.~
+~
+9 EM AE
+12 12 12 5 0 
+42 12 600 P
+A
+19 3
+A
+18 3
+E
+crown tongues~
+This crown has been made entirely of tongues, sewn together by a thin wire 
+of intestines. The tongues seem to be alive somehow and lick at you as you 
+study it.~
+#15715
+bloody robe flesh~
+a bloody robe~
+A bloody robe of flesh drips almost endlessly.~
+~
+9 E AK
+11 11 11 8 0
+40 13 850 P
+A
+2 -1
+A
+18 2
+E
+bloody flesh robe~
+The robe is made of freshly carved flesh. It is still dripping the blood of 
+its previous owner.~
+#15716
+staff eye~
+an eye staff~
+A staff with a large eye placed into the top winks at you.~
+~
+1 E AO
+0 0 999 0 0 
+43 10 10000 G
+A
+18 4
+A
+24 4
+E
+eye~
+As you hold the eye staff, a strange feeling that something is watching over 
+you and the surrounding area fills your brain in a maddening rush.~
+#15717
+fur cloak~
+a thick fur cloak~
+A thick fur cloak covers everything in a shroud of darkness.~
+~
+9 0 AK
+13 13 13 5 0
+40 8 1000 G
+A
+1 -1
+A
+12 30
+A
+18 2
+E
+fur~
+The fur cloak is dark and covers you as you put it on. It seems to engulf 
+you within it's depths of heavy fur, hiding your appearance from others.~
+#15718
+altar~
+the Altar~
+an altar covered with runes and blood is here.~
+~
+17 E 0
+1000 1000 13 1 0 
+50 1000 0 P
+A
+9 -10
+E
+altar~
+Blood flows endlessly from within. Something calls to you, beckoning you 
+to drink and be young.~
+#15719
+twisted staff~
+a twisted staff~
+A twisted staff blends in with the roots of a tree.~
+~
+4 0 AO
+35 6 6 2 0 
+34 6 1560 A
+A
+3 2
+A
+18 3
+#15720
+cape emerald~
+an emerald cape~
+An emerald cape has fallen to the ground.~
+~
+9 AG AK
+11 11 11 15 0
+37 10 1000 G
+A
+12 30
+A
+24 3
+A
+18 3
+#15721
+claws~
+a pair of long claws~
+A pair of long claws is embedded into the rock.~
+~
+9 0 AH
+10 10 10 7 0
+35 5 50 D
+A
+14 50
+A
+2 1
+#15722
+key~
+a black key~
+A black key carved of black wood is on the ground.~
+~
+18 0 AO
+0 1 6 11 0
+45 10 0 P
+#15723
+key~
+a black key~
+A large, black wooden key is on the ground.~
+~
+18 E AO
+0 1 6 11 0
+45 10 0 P
+#15725
+dagger bone~
+a bone hilted dagger~
+A dagger made of bones is here.~
+~
+5 EHM AN
+0 1 60 1 0
+45 9 1000 G
+A
+18 5
+#15726
+hearts~
+some freshly squeezed hearts~
+A pile of freshly squeezed hearts drip from within.~
+~
+10 CE AO
+35 15 82 33 0
+40 4 150 P
+#0
+
+
+#ROOMS
+#15700
+A Rocky Ledge~
+All plant life is gone here. Nothing but large rocks, with sharp edges can 
+be seen in any direction but down. Far below, the trees reach up at you, 
+their thick foliage of black, unmoving in the cold breeze. The path is 
+very difficult to see, as the rocks are vaguely distinguishable from the 
+path. Both are deep black and rough under your feet.
+~
+0 1|4|8|8192 5
+D1
+~
+~
+0 -1 15701
+S
+#15701
+A Precarious Path~
+The trail suddenly grows narrow here, as the cliff rushes closer to the 
+edge, pushing you along with it. Heavy boulders rest uneasily above your 
+head, threatening to rumble down the steep cliff. You can barely manage to 
+keep your footing on the narrow trail. As you begin to lose your balance, 
+you notice just how far down it really is and jump back, trying to grasp 
+onto the rocky wall.
+~
+0 1|8|8192 5
+D1
+~
+~
+0 -1 15702
+D3
+~
+~
+0 -1 15700
+D5
+~
+~
+0 -1 15707
+E
+boulder boulders rock~
+High above your head, there are many massive boulders that are resting 
+dangerously directly over your head. It seems that only a chance of luck 
+is keeping the heavy rocks from falling down on top of you, and crushing 
+your entire body in one fell swoop.~
+S
+#15702
+A Crumbling Path~
+The weather has eroded the rocks above here, causing many small avalanches 
+of broken boulders and heavy dirt. The path is even more narrow then before, 
+and much more slippery. There seems to be one path that has been well 
+travelled by something unknown and mysterious.
+~
+0 1|8|8192 5
+D3
+~
+~
+0 -1 15701
+D5
+~
+~
+0 -1 15703
+S
+#15703
+A Cave~
+There is a small ledge here and an opening to a dark cave. No light enters 
+it or escapes from within. Although, a strange sound is coming from deep 
+inside, or is it from far below? You can't really pinpoint where the sound 
+starts from, but it keeps echoing in your ears... maybe a warning, or an 
+invitation -- to death.
+~
+0 1|8|8192 5
+D0
+~
+~
+0 -1 15704
+D4
+~
+~
+0 -1 15702
+S
+#15704
+Inside a Musty Cave~
+Fog collects inside of the cave in a thick mist, making it very difficult 
+to see around yourself. When you bump into the walls, the moisture clings 
+to your arms in a sickly goo. 
+   As you stumble around in the thick haze, the noises you heard outside 
+start to become deafening. Deep growls of a monstrous beast, breathing 
+heavily, smelling you and anticipating your arrival.
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 15705
+D2
+~
+~
+0 -1 15703
+S
+#15705
+Deep Within the Cave~
+The wall of mist slowly dissipates around you as you venture into the depths 
+of this cave. You can dimly see the walls of the cave, all the water rushing 
+down the black rocks, the heavy drops plummeting to large puddles all 
+around you. A small glow from a strange light shines down from above, but 
+it doesn't illuminate the cave at all.
+~
+0 1|8|8192 0
+D2
+~
+~
+0 -1 15704
+D4
+~
+~
+0 -1 15706
+S
+#15706
+The Lair~
+The rock has been pounded and crushed into a firm surface from the pacing 
+of some monstrous beast. The walls echo with its rantings and feasting. 
+All around you, there is a mass of bones from strange animals, some long 
+dead, but most of the bones are from recent meals. A few bones still have 
+bits of meat and flesh on them.
+~
+0 1|8|8192 0
+D5
+~
+~
+0 -1 15705
+S
+#15707
+A Wooded Outcropping~
+There is a large cliff here, just broad enough for small trees to flourish 
+on. They are slightly taller then you and crowd to view in all directions, 
+completely surrounding you and forcing you up against the cliff face. 
+The moon barely shines through the thick foliage. Shadows molest you with 
+fright from all around.
+~
+0 1|8192 5
+D3
+~
+~
+0 -1 15708
+D4
+~
+~
+0 -1 15701
+D5
+~
+~
+0 -1 15724
+S
+#15708
+A Steep Path~
+The path is very steep here, and you almost slide down the mountain side on 
+the small path of dark stones. High over your head, there is a sound of 
+tiny avalanches just before you are pummeled by many hard stones, roughly 
+the size of a tooth. Just below you, you can see the very tops of the 
+gigantic trees that grow in the forest below. Even further off in the 
+distance, you can make out what looks to be a small village bonfire.
+~
+0 1|8|8192 5
+D1
+~
+~
+0 -1 15707
+D5
+~
+~
+0 -1 15709
+S
+#15709
+The Tree Tops~
+As you stand up from your tumble down the rough hillside and brush the dirt 
+from your body, you notice the tall trees reaching up to you from far 
+below. The land seems to be completely covered by blackened trees for as 
+far as your eyes can see. Off to the west, you can hear the distant sound 
+of waves crashing. As the moon shines down upon the world of trees, you 
+feel almost terrified as it is quickly absorbed by the dense forest.
+~
+0 1|8|8192 5
+D2
+You can see a large branch growing out from an even larger tree. It almost 
+looks safe enough to walk across.~
+south~
+0 -1 15712
+D3
+~
+~
+0 -1 15710
+D4
+~
+~
+0 -1 15708
+S
+#15710
+The Tree Tops~
+As you stand up from your tumble down the rough hillside and brush the dirt 
+from your body, you notice the tall trees reaching up to you from far 
+below. The land seems to be completely covered by blackened trees for as 
+far as your eyes can see. Off to the west, you can hear the distant sound 
+of waves crashing. As the moon shines down upon the world of trees, you feel 
+almost terrified as it is quickly absorbed by the dense forest.
+~
+0 1|8|8192 5
+D1
+~
+~
+0 -1 15709
+D3
+~
+~
+0 -1 15711
+D5
+~
+~
+0 -1 15719
+S
+#15711
+An Ocean Overlook~
+Far below you, the sound of waves crashing heavily upon the rocky 
+outcropping rush up with a thin mist that covers you with a chilly cold. 
+The dark sky above is completely clear, but no stars shine down from the 
+heavens. Only a giant moon of pure white, with no irregularities in its 
+shine. The ground is firm beneath your feet, with only a small amount of 
+grayish grass dancing slowly in the ocean breeze.
+~
+0 1|8|8192 5
+D1
+~
+~
+0 -1 15710
+S
+#15712
+A Thick Branch~
+The branch is gigantic, giving you a small comparison to how large the 
+tree it grow from must be. The rough bark of the tree has been worn down 
+from countless beings walking over this, using it as a bridge. the foliage 
+around you is extremely dense and you cannot see anything within the small 
+walking space provided.
+~
+0 1|4|8|8192 5
+D0
+~
+~
+0 -1 15709
+D2
+~
+~
+0 -1 15713
+S
+#15713
+Tree Top~
+You are at the very top of this tree, one of the tallest trees in the 
+entire forest. There is a small gap in the leaves, giving you a vantage 
+point to look out from. The view is extraordinary, you can see for miles 
+over the forest. Off in the distance, to the west, you can see the moon 
+shining off the dark sea. Directly below you, smoke is rising from a small 
+fire.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15712
+D5
+~
+~
+0 -1 15714
+S
+#15714
+High in the Tree~
+The limbs of the tree completely surround you, giving you a narrow path to 
+climb down. No light gets in here except for that of your light. Moss and a 
+strange mold grow on the branches, making it difficult to hang onto. You 
+slip and slide all over the branches, and almost plummet to the ground 
+below, only stopping briefly to hit your head on the many branches below.
+~
+0 1|8|8192 3
+D4
+~
+~
+0 -1 15713
+D5
+~
+~
+0 -1 15715
+S
+#15715
+A Thick Trunk~
+The branches have been cleared out here to make a patio of sorts. To the 
+north, you can make out a small hut in the branches of this tree. The walls 
+of the hut are made of the same bark this tree grows, camouflaging the hut 
+perfectly against the thick foliage of the tree.
+  Below you, the branches appear to grow in a flight of stairs leading down 
+to the ground below.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15716
+D4
+~
+~
+0 -1 15714
+D5
+~
+~
+0 -1 15717
+S
+#15716
+A Tree House~
+A nice little home of some hermit. Odds and ends of mysterious little 
+objects clutter the tables and walls of the hut. There is a soft glow of a 
+fire coming from the far wall, it barely warms your cold skin though. The 
+floor of this room is made of a woven grass, soft under your feet, but 
+extremely dark. Making it look as if there is no floor below you, at least 
+not directly below you.
+~
+0 1|8|8192 3
+D2
+~
+~
+0 -1 15715
+S
+#15717
+The Base of the Tree~
+Large roots grow around the base of this tree. Most are even thicker then 
+your body. The branches of the tree grow out of the huge trunk in a massive, 
+spiral staircase. High above you, the foliage of the trees spread out in a 
+cold blanket of darkness.
+~
+0 1|8|8192 3
+D3
+~
+~
+0 -1 15718
+D4
+~
+~
+0 -1 15715
+S
+#15718
+A Mountain Path~
+You are at the base of a huge mountain side. Large piles of crumbling rocks 
+have collected here in a huge mound of natural rubble. Nothing grows here, 
+everything has been crushed by the falling debris. All around you, there 
+are trees of ancient grandeur, blocking the view all around, but up.
+~
+0 1|4|8|8192 5
+D1
+~
+~
+0 -1 15717
+D3
+Large piles of massive rocks and small boulders rush down the hillside 
+towards you.~
+up~
+0 -1 15720
+D4
+~
+~
+0 -1 15719
+S
+#15719
+A Mountain Slide~
+The path is no longer in tact. Rather a collection of eroded boulders and 
+the crumbling cliff. The ground is slippery beneath your feet and you 
+slowly slide down the hill, followed directly by a huge rock slide.
+~
+0 1|8|8192 5
+D4
+~
+~
+0 -1 15710
+D5
+~
+~
+0 -1 15718
+S
+#15720
+Under the Moon~
+The moon shines brightly down upon the dark sand, sending light beams up 
+into your face. A small mist gathers around you as the waves crash heavily 
+upon the rocky shore. All the world seems to disappear around you in the 
+thickening mist. Suddenly, you feel all alone, peaceful, finally happy 
+with yourself. Even the moist sand between your toes feels pleasant.
+~
+0 1|8|8192 2
+D1
+~
+~
+0 -1 15718
+D2
+~
+~
+0 -1 15721
+S
+#15721
+Moon Drenched Shores~
+The soft sand is highlighted by a glowing moon. Its beams reflect of the 
+wet sand and glimmer in your eye. A feeling of peace shrouds your soul, 
+right before the fog rolls in, surrounding you in a haze of fear. You can 
+hear the sound of some creature rushing towards you from the sea.
+~
+0 1|8|8192 6
+D0
+~
+~
+0 -1 15720
+D1
+~
+~
+0 -1 15747
+D2
+~
+~
+0 -1 15722
+S
+#15722
+The Dark Shore~
+The dark waves of the ocean pound upon the shore, causing the sand beneath 
+your feet to move unstably. The surrounding air is cold, the forest edge 
+is even more unfriendly. The dark sky above and its eery pale moon are 
+not comforting either. You feel engulfed in a madness worthy of a nightmare 
+beyond belief. But, alas, there is a light at the end of this beach, south 
+of here.
+~
+0 1|8|8192 6
+D0
+~
+~
+0 -1 15721
+D1
+~
+~
+0 -1 15748
+D2
+~
+~
+0 -1 15723
+S
+#15723
+A Crystalline Cove~
+The waves rush against the walls at the bottom of this inlet, sending mist 
+and large splashes of water against the rocks. There are strange crystals 
+growing from the crevices, which illuminate the surrounding area. They 
+seem to be giving off their own light. Every minute or so, they stop, only 
+to start again in a new color.
+~
+0 1|8|8192 6
+D0
+~
+~
+0 -1 15722
+D2
+~
+~
+0 -1 9722
+S
+#15724
+The Tree Tops~
+The tops of the trees grow just inches from the edge of the cliff. You 
+almost reach out and grab the dark foliage, but the frightening fall to 
+the rocky surface below forces you to regain your senses and rethink trying 
+to grab the black leaves.
+~
+0 1|8|8192 5
+D1
+~
+~
+0 -1 15725
+D4
+~
+~
+0 -1 15707
+S
+#15725
+The Tree Tops~
+The tops of the trees grow just inches from the edge of the cliff. You 
+almost reach out and grab the dark foliage, but the frightening fall to 
+the rocky surface below forces you to regain your senses and rethink 
+trying to grab the black leaves. There is a treacherous path leading down 
+through the jagged rocks to the forest floor far below.
+~
+0 1|8|8192 5
+D3
+~
+~
+0 -1 15724
+D5
+~
+~
+0 -1 15726
+S
+#15726
+A Rough Path~
+The path is rough and foreboding. Huge rocks block the downward trail, 
+making the path very difficult to follow. It winds and twists all around, 
+almost in a complete circle at times. Looking out, you can hardly see 
+anything, since the trees are so deep and tall.
+~
+0 1|4|8|8192 5
+D4
+~
+~
+0 -1 15725
+D5
+~
+~
+0 -1 15727
+S
+#15727
+Inside the Forest~
+The trees grow right up against the edge of the mountain side. Their routes 
+grow directly into the base of the steep, rocky cliffs. The ancient trees 
+grow high above your head, reaching out over you with their thick foliage 
+of dark leaves. Even the bark of the trees is darker then the night sky 
+above. To the south, you cannot see anything but darkness under the trees.
+~
+0 1|8|8192 3
+D2
+~
+~
+0 -1 15728
+D4
+~
+~
+0 -1 15726
+S
+#15728
+Shrouded by Darkness~
+The trees surround you in a deadly shroud of darkness. You cannot make out 
+the path in any direction. The trees are too dark to see, and the sky is 
+no longer visible from above. Only a single moonbeam gets through as the 
+tree slowly sways in a breeze.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15727
+D3
+~
+~
+0 -1 15729
+S
+#15729
+Under the Blanket~
+Leaves blanket you from above, covering the area in darkness. No light 
+enters, and there appears to be no way out of the forest from here. The soil 
+beneath your feet is light and covered by fallen leaves, making the ground 
+soft and numbing.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15730
+D1
+~
+~
+0 -1 15728
+S
+#15730
+The Ring of Trees~
+The forest opens up in a small ring of trees. All of the surrounding trees 
+have grown so thick that they completely block any exit but the one which 
+you just came through. In the center of the ring, there is a light of 
+undeterminable origin, which makes a pattern in the clearing.
+~
+0 1|8|8192 2
+D0
+~
+north~
+1 -1 15737
+D1
+~
+tree east~
+1 -1 15731
+D2
+~
+~
+0 -1 15729
+D3
+~
+tree west~
+1 -1 15736
+E
+pattern clearing~
+It's of a strange origin, you cannot tell where the light is coming from, 
+but it makes an odd symbol. One that you perhaps recognize, but are not 
+sure of...~
+S
+#15731
+Inside the Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15732
+D3
+~
+~
+1 -1 15730
+S
+#15732
+Inside the Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15733
+D3
+~
+~
+0 -1 15731
+S
+#15733
+Inside the Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15734
+D3
+~
+~
+0 -1 15732
+S
+#15734
+Inside the Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15735
+D3
+~
+~
+0 -1 15733
+S
+#15735
+Inside The Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15736
+D3
+~
+~
+0 -1 15734
+S
+#15736
+Inside The Tree~
+You are inside the dark tree. Its interior workings have been carved out 
+previously by some unknown worker. You can see the rings of age in the 
+tree... more then you can count. The path appears to go on forever.
+~
+0 1|8|8192 0
+D1
+~
+~
+1 -1 15730
+D3
+~
+~
+0 -1 15735
+S
+#15737
+Inside the Mountain~
+As you walk through the thick tree, you can see where the rocks meet the 
+hard wood. The rocks are almost fused against the tree, creating a air 
+tight seal. No air or light gets in from outside. The tunnel leads on, 
+deep inside of the mountain. There is enough room for a group of people 
+to walk in a single file line.
+~
+0 1|4|8|8192 0
+D0
+~
+~
+0 -1 15738
+D2
+~
+~
+1 -1 15730
+S
+#15738
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. Small waves lap at your boat, splashing you. The 
+water is extremely dark and cold, you can't even see your reflection in 
+it, or anything beneath it...
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 15741
+D1
+~
+~
+0 -1 15739
+D2
+~
+~
+0 -1 15737
+D3
+~
+~
+0 -1 15740
+S
+#15739
+A Watery Cave~
+The lake slowly runs back into the mountain in a small cave just east of 
+here. The entrance is too narrow for you to enter, but the current is 
+intent upon pulling you into the opening anyway.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 15742
+D3
+~
+~
+0 -1 15738
+S
+#15740
+An Underground River~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. From an opening in the mountain side, the water 
+swirls out in a soft flow. The inlet is too small for you to enter.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 15746
+D1
+~
+~
+0 -1 15738
+S
+#15741
+A Dark Island~
+The deep waters surround the island entirely, pushing it into a web of 
+darkness. The air around the island feels as cold as the water below. 
+Nothing grows on this island, but as you step off your boat, you can hear 
+the water engulfing some hidden creature as it dives for cover in the dark 
+waters.
+~
+0 1|8|8192 0
+D0
+~
+~
+0 -1 15744
+D1
+~
+~
+0 -1 15742
+D2
+~
+~
+0 -1 15738
+D3
+~
+~
+0 -1 15746
+S
+#15742
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. Small waves lap at your boat, splashing you. The 
+water is extremely dark and cold, you can't even see your reflection in 
+it, or anything beneath it...
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 15743
+D2
+~
+~
+0 -1 15739
+D3
+~
+~
+0 -1 15741
+S
+#15743
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. Small waves lap at your boat, splashing you. The 
+water is extremely dark and cold, you can't even see your reflection in 
+it, or anything beneath it...
+~
+0 1|8|8192 7
+D2
+~
+~
+0 -1 15742
+D3
+~
+~
+0 -1 15744
+S
+#15744
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. Small waves lap at your boat, splashing you. The 
+water is extremely dark and cold, you can't even see your reflection in 
+it, or anything beneath it...
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 15743
+D2
+~
+~
+0 -1 15741
+D3
+~
+~
+0 -1 15745
+S
+#15745
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view 
+within feet of the soft floor. Small waves lap at your boat, splashing you. 
+The water is extremely dark and cold, you can't even see your reflection 
+in it, or anything beneath it...
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 15744
+D2
+~
+~
+0 -1 15746
+S
+#15746
+An Underground Lake~
+The inside of the mountain rises up high above your head, expanding to a 
+height that the naked eye cannot see. The walls disappear from view within 
+feet of the soft floor. Small waves lap at your boat, splashing you. The 
+water is extremely dark and cold, you can't even see your reflection in 
+it, or anything beneath it...
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 15745
+D1
+~
+~
+0 -1 15741
+D2
+~
+~
+0 -1 15740
+S
+#15747
+Edge of the Forest~
+The beach stops suddenly at the boarder of the forest. The trees expand 
+high over your head and block the view of the forest inside. You can 
+vaguely catch a glimpse of two or more eyes peering out from within the 
+heavy cover of the forest.
+~
+0 1|8|8192 3
+D2
+~
+~
+0 -1 15748
+D3
+~
+~
+0 -1 15721
+S
+#15748
+Edge of the Forest~
+The beach stops suddenly at the boarder of the forest. The trees expand high 
+over your head and block the view of the forest inside. You can vaguely 
+catch a glimpse of two or more eyes peering out from within the heavy 
+cover of the forest.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15747
+D1
+~
+~
+0 -1 15751
+D3
+~
+~
+0 -1 15722
+D4
+~
+~
+0 -1 15749
+S
+#15749
+On the Hill~
+You stand upon a steep hill of minimal vegetation. The trees of the forest 
+below still tower high above your head, giving away nothing of its inner 
+secrets. The hill expands higher then you can see.
+~
+0 1|8|8192 4
+D4
+~
+~
+0 -1 15750
+D5
+~
+~
+0 -1 15748
+S
+#15750
+Above the Sea~
+Far below the cliff that you stand upon, the sea expands for eternity over 
+the horizon. You can hear the sound of heavy waves crashing  below you, and 
+a strange glow originates from the north and down... It almost looks like 
+the northern lights, but they are originating from somewhere down on the 
+cliff walls.
+~
+0 1|8|8192 4
+D5
+~
+~
+0 -1 15749
+S
+#15751
+In the Trees~
+As you walk east, you suddenly realize that you are no longer walking on 
+the ground, but high in the trees instead. There must be a valley far below 
+here. Luckily, you just happened to walk out onto a branch instead of 
+tumbling down into the darkness below. The trees here appear to be much 
+older then those that you saw at the edges of the forest.
+~
+0 1|8|8192 3
+D1
+~
+~
+0 -1 15752
+D3
+~
+~
+0 -1 15748
+D5
+~
+~
+0 -1 15753
+S
+#15752
+In the Trees~
+All around you, the trees weave their branches in a tangled web of 
+darkness. Thick branches press against each other, forming a sturdy walkway 
+for you to cross. You cannot see the sky above, or the ground below. How 
+far down it really is, is quiet unknown to you. The only way to find out 
+would be to... fall?
+~
+0 1|8|8192 3
+D3
+~
+~
+0 -1 15751
+D5
+~
+~
+0 -1 15754
+S
+#15753
+In the Trees~
+The branches surrounding you have woven a path for you to follow down into 
+the darker realms of the forest. The distinct impression that you can hear 
+voices in the distance becomes very clear as you scan off to the east. They 
+are chanting something unknown to you from here. Perhaps a closer peek would 
+be advisable or rather, unadvisable...
+~
+0 1|8|8192 3
+D1
+~
+~
+0 -1 15754
+D4
+~
+~
+0 -1 15751
+S
+#15754
+In the Trees~
+The trees open up to reveal a hidden city, secluded high above the ground in 
+little huts. You can see a large, central opening covered by the thick 
+branches and leaves above. There is just enough cover here for you to watch 
+the proceedings unnoticed.
+~
+0 1|4|8|8192 3
+D1
+~
+~
+0 -1 15755
+D3
+~
+~
+0 -1 15753
+D4
+~
+~
+0 -1 15752
+S
+#15755
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15761
+D1
+~
+~
+0 -1 15756
+D2
+~
+~
+0 -1 15760
+D3
+~
+~
+0 -1 15754
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15756
+The Central Opening~
+There is a platform in the exact center of the opening that sits in between 
+two thrones of black wood. One thrown has a massive head embedded into both 
+of the arms, while the other has a head of lesser proportion worked into 
+the end of the arm rest. Between the two thrones is an altar of the same 
+wood. Upon it rests the figure of a large beast.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15762
+D1
+~
+~
+0 -1 15757
+D2
+~
+~
+0 -1 15759
+D3
+~
+~
+0 -1 15755
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+E
+beast large altar~
+The beast has been carved out of a large block of black wood. It sits on 
+its hind legs with its fore legs extended out, claws reaching into thin 
+air as if to rip someone's body apart. Its teeth are large and look to be 
+very sharp for a statue. There is an engraving upon the base of the altar.~
+E
+engraving base~
+It says, 
+
+
+      THE DARK BEAST~
+S
+#15757
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15763
+D2
+~
+~
+0 -1 15758
+D3
+~
+~
+0 -1 15756
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15758
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15757
+D3
+~
+~
+0 -1 15759
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15759
+Avenue of Huts~
+An avenue of huts runs off to the south from here. You can see many figures 
+scampering around in the shadows. As they notice your arrival, they suddenly 
+become still and dissipate into the darkness.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15756
+D1
+~
+~
+0 -1 15758
+D2
+~
+~
+0 -1 15764
+D3
+~
+~
+0 -1 15760
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15760
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15755
+D1
+~
+~
+0 -1 15759
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15761
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D1
+~
+~
+0 -1 15762
+D2
+~
+~
+0 -1 15755
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15762
+Avenue of Huts~
+An avenue of huts is directly north of here. You can see many figures 
+scampering about in the shadows. As soon as they notice you, though, they 
+quickly cover themselves in the deep shadows and remain silent, watching 
+you.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15774
+D1
+~
+~
+0 -1 15763
+D2
+~
+~
+0 -1 15756
+D3
+~
+~
+0 -1 15761
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15763
+Edge of the Central Opening~
+The massive trees that once surrounded you before now completely cover you 
+in a massive ceiling of black leaves above. Not even the shine of the moon 
+comes in through the natural ceiling. The natives of this region have build 
+up a large wooden platform that runs the whole way across this opening.
+~
+0 1|8|8192 3
+D2
+~
+~
+0 -1 15757
+D3
+~
+~
+0 -1 15762
+E
+platform wood~
+Black wood of the trees have provided enough support for the natives to use 
+it as a large platform to cover the central area. The boards look worn from 
+many gatherings.~
+S
+#15764
+Avenue of Huts~
+You are walking along a path that is surrounded by many huts and many the 
+thick foliage of the ancient trees. There appears to be many creatures 
+lurking in the shadows around you, but they tend to keep out of site of 
+you. At the end of this walkway, there is a large hut of marvelous 
+splendor.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15759
+D1
+~
+~
+0 -1 15771
+D2
+~
+~
+0 -1 15765
+D3
+~
+~
+0 -1 15768
+S
+#15765
+Avenue of Huts~
+You are walking along a path that is surrounded by many huts and many the 
+thick foliage of the ancient trees. There appears to be many creatures 
+lurking in the shadows around you, but they tend to keep out of site of 
+you. At the end of this walkway, there is a large hut of marvelous 
+splendor.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15764
+D1
+~
+~
+0 -1 15772
+D2
+~
+~
+0 -1 15766
+D3
+~
+~
+0 -1 15769
+S
+#15766
+Avenue of Huts~
+You are walking along a path that is surrounded by many huts and many the 
+thick foliage of the ancient trees. There appears to be many creatures 
+lurking in the shadows around you, but they tend to keep out of site of 
+you. At the end of this walkway, there is a large hut of marvelous 
+splendor.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 15765
+D1
+~
+~
+0 -1 15773
+D2
+A large door keeps unwanted visitors out of the Queen Mother's hut.~
+hut~
+1 15722 15767
+D3
+~
+~
+0 -1 15770
+S
+#15767
+The Mother's Hut~
+Luxury has not been spared in this large hut. The walls are decorated with 
+the skins of many creatures and beasts. There is a veil that divides the 
+room into two sections, the sleeping area and the common area for 
+worshiping. Judging by the many gifts that rest upon an altar, the people 
+love their Queen.
+~
+0 1|8|8192 0
+D0
+A large door keeps unwanted visitors out of the Queen Mother's hut.~
+hut~
+1 15722 15766
+S
+#15768
+The Armory~
+Many carved armors are displayed upon the wall. They are all made of the 
+same dark wood that the entire forest grows. The shadows are treacherous in 
+this small hut and might hide many secrets.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15764
+S
+#15769
+The Woodman's Hut~
+Small trinkets are cluttered about on shelves within this hut. They must be 
+the objects the Wood Carver spends his time making. You can see many of 
+his portraits of carnage and death within the wood pieces. A few items here 
+and there look a lot like the beast on the altar in the Central Opening.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15765
+S
+#15770
+The Priestess' Hut~
+This is a large, open hut with many shadows that hide the remarkable 
+workings of the Priestess. She has acquired a large collection of skulls 
+and flesh. A few of her companions rest here with her, awaiting the calls 
+of the Mother.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15766
+S
+#15771
+The Weaponsmith's~
+Weapons of many unique kinds hand from hooks on the wall. They all appear 
+to be heavy and deadly. The Weaponsmith is too busy at work to notice your 
+arrival. It looks as if he is busy forming another weapon from the heavy 
+black forest wood.
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 15764
+S
+#15772
+The Flesh Carver's Hut~
+Bodies hang from the ceiling, rotting in the stale air of this dark hut. 
+The floor is slippery with the blood of the many victims hanging above.  
+A single man sits in the back of the room before a large table, removing 
+the flesh from a dead victim.
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 15765
+S
+#15773
+The Servant's Hut~
+The room is sparsely decorated. Only the necessities are offered to the 
+habitants. A large carpet of thick fur is used for a bed, and the skulls of 
+several beasts are used for drinking containers.
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 15766
+S
+#15774
+Avenue of Huts~
+You are walking along a path that is surrounded by many huts and many the 
+thick foliage of the ancient trees. There appears to be many creatures 
+lurking in the shadows around you, but they tend to keep  out of site of 
+you. At the end of this walkway, there is a large hut of marvelous 
+splendor.
+~
+0 1|8|8192 3
+D0
+A large door keeps unwelcome visitors in or out of the King Father's 
+private chamber.~
+hut~
+1 15723 15777
+D1
+~
+~
+0 -1 15775
+D2
+~
+~
+0 -1 15762
+D3
+~
+~
+0 -1 15776
+S
+#15775
+The Priest's Hut~
+The room is sectioned into two rooms by a large curtain of stitched skin. 
+There is an altar here that flows with blood where many people gather 
+around to drink. Strangely, as you watch these people leave, they appear 
+to become younger, as if the blood was a fountain of youth.
+~
+0 1|8|8192 0
+D3
+~
+~
+0 -1 15774
+E
+blood fountain youth~
+Blood flows from inside of this fountain and steam rises from it, so it 
+must be blood recently spilt. As you stand idly by, many people come to 
+drink the fountain. When they leave, their skin looks to be replenished 
+and they have a certain spark of life that wasn't there before.~
+S
+#15776
+The Grocer's Hut~
+The grocer's list of goodies doesn't sound too tempting. That is, unless 
+you enjoy eating the flesh of others. In that case, there are many 
+anatomical parts that you can choose from for your meals, brains, hearts, 
+livers, tongues... Anything your stomach could crave. It's all right here, 
+in a large pile of slop.
+~
+0 1|8|8192 0
+D1
+~
+~
+0 -1 15774
+S
+#15777
+The Father's Hut~
+A large thrown sits in the center of this room with an ancient looking man 
+resting with his arms on the edge. The thrown is decorated with the bones 
+of many. The entire back of it is made of a collage of bones, intertwined 
+and knotted together with the intestines of some long dead victim. On 
+either side of the thrown, there is a huge statue of the Dark Beast.
+~
+0 1|8|8192 0
+D2
+A large door keeps unwelcome worshippers out of the King Father's private 
+room.~
+hut~
+1 15723 15774
+S
+#0
+
+
+#RESETS
+*
+M 1 15700 1 15723                     the crystalline entity to A Crystalline Cove
+D 1 15730 1 1                 ; The Ring of Trees Close East
+D 1 15730 3 1                 ; The Ring of Trees Close West
+D 1 15731 3 1                 ; Inside the Tree Close West
+D 1 15736 1 1                 ; Inside The Tree Close East
+D 1 15737 2 1                 ; Inside the Mountain Close South
+D 1 15730 0 1                 ; The Ring of Trees Close North
+*
+M 1 15701 1 15741                     a slithery snake to A Dark Island
+E 1 15700 100 2
+*
+M 1 15702 1 15767                       the Queen to The Mother's Hut
+E 1 15701 100 12
+E 1 15704 100 6
+*
+M 1 15703 1 15768                     the Armorer to The Armory
+G 1 15702 100
+G 1 15703 100
+*
+M 1 15704 1 15771                     the Weaponsmith to The Weaponsmith's
+G 1 15705 100
+G 1 15706 100
+*
+M 1 15705 1 15770                     the High Priestess to The Priestess' Hut
+G 1 15722 100
+*
+M 1 15707 2 15770                     a servant to The Priestess' Hut
+E 1 15707 100 5
+*
+M 1 15707 3 15773                     a servant to A room
+E 1 15707 100 5
+*
+O 1 15708 100 15773                   a skull to The Servant's Hut
+*
+M 1 15708 1 15766                     a citizen of War to Avenue of Huts
+*
+M 1 15708 2 15756                     a citizen of War to The Central Opening
+*
+M 1 15708 2 15760                     a citizen of War to Edge of the Central Opening
+*
+M 1 15708 1 15762                     a citizen of War to Avenue of Huts
+*
+M 1 15706 1 15769                     the Wood Carver to The Woodman's Hut
+G 1 15709 100
+G 1 15710 100
+*
+M 1 15709 1 15772                     the Flesh Carver to The Flesh Carver's Hut
+E 1 15712 100 16
+G 1 15711 100
+*
+M 1 15710 1 15776                     the Grocer to The Grocer's Hut
+G 1 15713 100
+G 1 15708 100
+G 1 15726 100
+*
+M 1 15711 1 15777                       the King Father to The Father's Hut
+E 1 15714 100 6
+E 1 15716 100 0
+E 1 15725 100 16
+*
+M 1 15712 1 15775                     the High Priest to The Priest's Hut
+E 1 15715 100 12
+E 1 15723 100 17
+*
+M 1 15707 2 15775                     a servant to The Priest's Hut
+*
+M 1 15707 1 15777                     a servant to The Father's Hut
+*
+*
+M 1 15714 1 15755                     a citizen to Edge of the Central Opening
+*
+M 1 15713 1 15756                     a citizen to The Central Opening
+*
+M 1 15714 2 15757                     a citizen to Edge of the Central Opening
+*
+M 1 15714 1 15759                     a citizen to Avenue of Huts
+*
+M 1 15713 1 15761                     a citizen to Edge of the Central Opening
+*
+M 1 15714 1 15765                     a citizen to Avenue of Huts
+*
+M 1 15715 1 15756                     a monk to The Central Opening
+E 1 15717 100 12
+O 1 15718 100 15775                   the Altar to The Priest's Hut
+*
+M 1 15716 1 15706                     the prophet to The Lair
+*
+M 1 15717 1 15750                     an old wizard to Above the Sea
+E 1 15719 100 17
+E 1 15720 100 12
+*
+M 1 15718 1 15748                     a raven to Edge of the Forest
+*
+M 1 15719 1 15716                     an old hermit to A Tree House
+*
+*
+*
+M 1 15720 1 15701                     a cliff hanger to A Precarious Path
+E 1 15721 100 9
+*
+M 1 15720 2 15708                     a cliff hanger to A Steep Path
+E 1 15721 100 9
+*
+M 1 15721 1 15738                     a water lizard to An Underground Lake
+*
+M 1 15721 1 15742                     a water lizard to An Underground Lake
+*
+*
+M 1 15721 1 15744                     a water lizard to An Underground Lake
+D 1 15767 0 2                   ; The Mother's Hut Lock North
+D 1 15766 2 2                 ; Avenue of Huts Lock South
+D 1 15777 2 2                   ; The Father's Hut Lock South
+D 1 15774 0 2                 ; Avenue of Huts Lock North
+S
+
+
+#SHOPS
+15703 9 0 0 0 0 100 100 0 23                  (mobile is from another zone)
+15704 5 0 0 0 0 100 100 0 23                  (mobile is from another zone)
+15706 8 13 0 0 0 100 100 0 23                 (mobile is from another zone)
+15709 9 0 0 0 0 100 100 0 23                  (mobile is from another zone)
+15710 10 17 19 0 0 100 100 0 23               (mobile is from another zone)
+0
+
+
+#SPECIALS
+M  15700 spec_breath_frost                      the crystalline entity
+M  15702 spec_cast_mage                 the Queen Mother
+M  15705 spec_breath_lightning                  the High Priestess
+M  15711 spec_breath_any                        the King Father
+M  15712 spec_breath_lightning                  the High Priest
+M  15717 spec_cast_mage                 an old wizard
+S
+
+
+#$
+

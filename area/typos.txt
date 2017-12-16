@@ -1,0 +1,6 @@
+[ 1200] Jouster: in HELP INVIS, you need to add a keyword for WIZINVIS, fix the Syntax to wizinvis rather than winvis, and change the wizi 60 chars to wizi 100.
+[14901] Sonth: in the path leading to kinderhouse hear should be here
+[ 3054] Ward: in the long of a flask of vile fluid, it says "a flas"
+[ 9408] Deliverance: ROM has automatic saving?
+[ 3054] Cerebus: caster
+[ 3054] Cerebus: demandred

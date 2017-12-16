@@ -1,0 +1,4240 @@
+ 
+#AREA {25 50} Pedron  Scythia~
+
+
+#MOBILES
+#2620
+beast coda huge warrior~
+A coda warrior~
+A huge female is here looking for escaped males.
+~
+You see before you a huge female warrior. She is of a race you cannot identify. She seems very aggressive, and not in a good mood! Maybe you had better stay away from her.
+~
+unique~
+ACFT CDEFJ -1000 S
+20 0 10d20+800 10d10+500 15d3+5 3
+-5 -5 -5 -5
+CDEFPR B HILQ N
+8 8 2 1000
+0 0 H 0
+#2621
+nautica queen coda~
+Nautica~
+Nautica, Queen of the Coda.
+~
+You see before you a creature of extreme power. Nautica is nearly ten feet tall, and all of it muscle. She is the ruler of the Coda and one of the most powerful warriors you could ever imagine. You had best be going now, Nautica is not pleased with you.
+~
+unique~
+ABCFTV CDEFHJV -1000 S
+60 0 20d10+2500 10d10+1000 40d3+10 3
+-35 -35 -35 -30
+BCDEFJKR BC E 0
+8 8 2 10000
+0 0 H 0
+#2622
+guard coda warrior~
+A Coda guard~
+A guard of the coda stands here, seeking blood!
+~
+Before your eyes you see one of the guards of the coda. These guards are highly trained warriors, much more powerful than lesser coda, but not nearly so powerful as the greater coda. She seeks blood!
+~
+unique~
+ACFGT CDEFV -1000 S
+45 0 40d2+3000 10d10+1000 20d3+0 3
+-20 -20 -20 -10
+CDEJKR B CQ N
+8 8 2 5000
+0 0 H 0
+#2623
+slave male small~
+A small slave~
+A small male slave of the coda is here, tending to the needs of his master.
+~
+This is one of the men from the southern village. He among many others has been put into slavery by the coda. He is much smaller than he used to be and he looks very pathetic. He is nothing but skin and bones. He looks at you with astonished envy.
+~
+human~
+ACGHT DFJN 0 S
+20 0 10d10+400 10d10+200 15d2+5 2
+-5 -5 -5 -5
+CJR 0 0 0
+8 8 1 0
+0 0 H 0
+#2624
+savant coda warrior master~
+Savant~
+Savant the master Coda warrior is here sharpening her fighting skills.
+~
+Standing before you is Savant. She is one of the master coda, and she is a force to be reckoned with. As she stands here towering over you, you beging to feel very small. She is almost totaly muscle. Unfortunately for you her size has not made her slow.  
+
+
+
+
+
+~
+unique~
+ABCFGTV CDEFH -1000 S
+50 0 50d4+3000 10d10+1000 20d3+10 3
+-25 -25 -25 -25
+CDEJLR B 0 0
+8 8 2 10000
+0 0 H 0
+#2625
+atica coda warrior master~
+Atica~
+Atica is here drooling over a rotting corpse.
+~
+She is huge, very much so! She very obviously has no problem with eating humans, she is eating the remains of one now! As she sees you she snarls and prepares to fight. She hates men, plus, intruding into the house of a master is punishable by death!
+~
+unique~
+ABCFGTV CDEFH -1000 S
+50 0 50d4+3000 10d10+1000 20d3+10 3
+-25 -25 -25 -25
+CDEJLR B 0 0
+8 8 2 10000
+0 0 H 0
+#2626
+synergy coda warrior master~
+Synergy~
+Synergy is standing here, seething with anger at your arrival!
+~
+Synergy is nearly ten feet tall, an amazing height that makes you feel increadably small standing next to her. Of course you can't stand here for long. She has an increadable temper, and your arrival into her private quarters has not helped it at all!
+~
+unique~
+ABCFGTV CDEFH -1000 S
+50 0 50d4+3000 10d10+1000 20d3+10 3
+-25 -25 -25 -25
+CDEJLR B 0 0
+8 8 2 10000
+0 0 H 0
+#2627
+hestia coda warrior master~
+Hestia~
+Hestia is here, practicing her fightning skill on her slaves.
+~
+Hestia is a HUGE being! She towers over you at an amazing height of almost 11 feet! You suddenly wish you had not come in here, it may be your final mistake. Her size has not at all affected her agility, and if you think you can take her...RIP.
+~
+unique~
+ABCFGTV CDEFH -1000 S
+45 0 50d4+3000 10d10+1000 20d3+10 3
+-25 -25 -25 -25
+CDEJLR B 0 0
+8 8 2 10000
+0 0 H 0
+#2628
+destine coda warrior master~
+Destine~
+Destine stands in the middle of this room, surrounded by her male slaves.
+~
+Destine is a huge creature. Strong in every sense of the word, deadly as well. She is not one you want to mess with. She'll kill you first and decide she was right to do so later. You had better run for you life or you're screwed.
+~
+unique~
+ABCFGTV CDEFH -1000 S
+45 0 50d4+3000 10d10+1000 20d3+10 3
+-25 -25 -25 -25
+CDEJLR B 0 0
+8 8 2 10000
+0 0 H 0
+#2629
+priest old man~
+The Priest~
+An old priest is here looking around at you frightfully.
+~
+You see before you a very tired old man. He has been through alot in recent years, and his face shows it. He has scars in various places all over his body and his skin looks like tanned leather. He appears to be very pleased that you are not Coda.
+~
+human~
+ABCGQV CDEFHJNV 1000 S
+50 0 10d100+6000 10d10+5000 25d2+20 3
+-30 -30 -30 -30
+CEJKOQ B CLPQ 0
+8 8 1 1000
+0 0 H 0
+#2630
+lesser coda warrior~
+A coda~
+A HUGE coda stands here, while she is very powerful, she is not all that skilled.
+~
+This is one of the coda that no one respects. While she is as large and strong as even the master coda, she is not very skilled at all. Still she is quite a powerful fighter against someone as patheticly small as you. So you had better run while you can!
+~
+unique~
+ACFGHT CDEFJ -1000 S
+35 0 50d3+2000 10d10+1000 30d2+6 3
+-15 -15 -15 -15
+CEJLR 0 BK N
+8 8 2 1000
+0 0 H 0
+#2631
+coda warrior huge~
+A Huge Coda~
+A Huge Coda stands before you, looking at you in a VERY Menacing way.
+~
+Before your eyes you see one of the huge Coda. She is not a guard, nor one of the disgraced lesser coda. In fightning skill she is somewhere in between. Her growl at your presence is by no means inviting, you don't wanna fight her. She's a badass.
+~
+unique~
+ACFGT CDEFJ -1000 S
+40 0 50d4+3000 10d10+1000 30d2+0 3
+-20 -20 -20 -20
+CDEFJKR B CLQ N
+8 8 2 5000
+0 0 H 0
+#2632
+victor human chief man~
+Victor~
+Victor, the last chief of this village is sitting here.
+~
+Victor looks very tired. He has obviously been through a hell of a lot! He is bleeding in many places and has many more scars than that. He does not look now, anything at all like a chief. His clothes are in shreds. In fact he is lucky to be alive. 
+~
+human~
+ABCGHT CDEFJQX 0 S
+30 0 10d5+700 10d5+300 20d2+4 3
+-9 -9 -9 -2
+CEIKR 0 0 0
+6 8 1 500
+0 0 M 0
+#2633
+small man hurt~
+A small man~
+A small, hurt, diseased man is here attempting to avoid the Coda.
+~
+This is one of the men of the village. He looks very scared! He has been on the run from the Coda for more than six months now and he looks it too. You can smell the sent of diease wafting toward you from his small, scrawny, and weakly bleeding body.
+~
+human~
+ACGHT CDEFJX 0 S
+20 0 10d5+400 10d5+200 10d3+2 1
+-5 -5 -5 -2
+CEFIKR 0 B 0
+8 8 1 100
+0 0 M 0
+#2634
+diva wizard master~
+Diva~
+Diva, the Master Wizard of the Coda.
+~
+This is the master wizard diva. The one that originaly helped the women out of thier plight, and incedentaly created the coda! She is a most powerful wizard, and has stolen a shard of pure evil from nautica, so that she can make a spell to destroy her.
+~
+human~
+ABCGRV BCDEFHJNUV 0 S
+58 0 100d3+5500 100d10+5000 35d2+10 2
+-37 -37 -37 -20
+EFKQ B KN 0
+8 8 2 20000
+0 0 H 0
+#2635
+personal guard~
+Nautica's personal guard~
+One of Queen Nautica's Elite personal guard stands here.
+~
+This is one of the queens personal guards. She chooses only the bravest and most powerful coda she can find. This one is no different. She is increadably large, strong and agile, even for a coda. It would be very stupid to enter the room with her, stupid!
+
+
+
+
+
+~
+unique~
+ABCFGT CDEFJV -1000 S
+50 0 20d10+3000 10d10+1000 30d2+10 3
+-20 -20 -20 -20
+CDEFJKR B K O
+8 8 2 1000
+0 0 H 0
+#2636
+guard coda warrior~
+A Coda guard~
+A Guard of the coda stands here, seeking blood!
+~
+Before your eyes you see one of the guards of the coda. These guards are highly trained warriors, much more powerful than lesser coda, but not nearly so powerful as the greater coda. She seeks blood!         
+~
+unique~
+ACFGT CDEFV -1000 S
+45 0 40d2+3000 10d10+1000 20d3+0 3
+-20 -20 -20 -10
+CDEJKR B CQ N
+8 8 2 5000
+0 0 H 0
+#0
+
+#OBJECTS
+#2620
+flesh human meat food~
+human flesh.~
+A small pile of human flesh, edible if you're a cannibal.~
+unknown~
+19 0 AO
+30 0 0 0 0
+40 1 17600 P
+#2621
+crown coda nautica~
+the Black Crown of Nautica~
+You see a large black crown here, it is extremely wicked looking.
+~
+unknown~
+9 AEGHJ AE
+15 15 15 0 0
+60 50 38291 P
+A
+18 2
+A
+12 50
+A
+17 10
+#2622
+master mark coda~
+the Mark of the master coda~
+A small symbol of pure evil lies here, dropped, but not forgotten.
+~
+unknown~
+9 BEGHJL AO
+13 13 13 0 0
+50 20 25000 P
+A
+18 3
+A
+12 20
+A
+13 10
+#2623
+mace hammer war warhammer~
+the Priest's Warhammer~
+A HUGE warhammer is here, awaiting a powerful priest.
+~
+unknown~
+5 ABGKL AN
+0 5 11 27 0
+50 50 22500 P
+A
+1 2
+A
+18 8
+A
+19 8
+#2624
+sword blade hell forged~
+a Hell-Forged, Diablos Blade.~
+The blade of the coda, forged by the diablos himself.
+~
+unknown~
+5 ABEGHJL AN
+0 5 13 21 0
+60 5 36600 P
+A
+2 2
+A
+13 30
+A
+18 8
+A
+19 8
+#2625
+magma vial glowing~
+a Vial of glowing magma~
+A small vial full of hot, glowing magma from the depths of the Coda mountains.
+~
+unknown~
+1 ABGHJ AO
+0 0 999 0 0
+60 10 36600 P
+A
+17 -5
+A
+12 10
+A
+13 10
+A
+18 2
+A
+19 2
+#2626
+shield savant~
+the Dark shield of Savant.~
+A dark shield carried by one of the most powerful warriors alive.
+~
+unknown~
+9 BEGHL AJ
+15 15 15 0 0
+50 20 24500 P
+A
+17 -15
+#2627
+blazing boots atica~
+the Blazing Red boots of Atica~
+Blazing red boots, evil in every way, strait from the corpse of atica.
+~
+unknown~
+9 ABEGHJ AG
+10 10 10 0 0
+50 25 25000 P
+A
+18 1
+A
+17 -5
+A
+2 2
+A
+12 10
+A
+19 1
+#2628
+gloves synergy wicked~
+synergy's pitch-black gloves~
+A pair of extremely black gloves lies here.~
+unknown~
+9 BEGHJL AH
+15 15 15 0 0
+50 10 26411 P
+A
+18 1
+A
+12 10
+A
+19 2
+A
+1 4
+#2629
+diablo bag~
+diablo's black bag~
+A huge black sac strait from the hands of the coda.
+~
+unknown~
+15 ABEGHJL AK
+90 0 0 0 0
+60 1 35400 P
+#2630
+diva scroll~
+diva's scroll~
+A scroll created by the great wizard, Diva.
+~
+unknown~
+2 ABFG AO
+50 36 44 19 0
+30 1 33060 P
+#2631
+elixir diva~
+diva's half-brewed elixir~
+An elixir of increadable power is lying here, but is not quite finished.
+~
+unknown~
+10 ABFGH AO
+50 36 34 28 0
+25 1 36993 P
+#2632
+shard evil pure~
+a Shard of pure Evil~
+A dark shard, it almost looks like a piece of pure night, eternaly dark and sinister.
+~
+unknown~
+5 ABCEFGHJ AN
+0 5 13 2 0
+58 10 38291 P
+A
+12 50
+A
+13 50
+A
+18 5
+A
+19 5
+#2633
+ring molten firestone fire~
+a Molten Firestone ring~
+A small ring, fitted with a molten firestone lies here, burning its way intot he ground.
+~
+unknown~
+9 ABEHJL AB
+15 15 15 0 0
+60 1 35400 P
+A
+19 1
+A
+12 45
+A
+18 1
+A
+17 5
+#2634
+invis box~
+diva's invisible small tassled box~
+~
+unknown~
+15 FO 0
+1000 15 2643 0 0
+56 10000 35739 P
+#2635
+small scroll~
+a small semi-burnt scroll~
+A small scroll, burnt on the edges lies before your feet.
+~
+unknown~
+2 FGH AO
+50 38 17 72 0
+30 1 34485 P
+#2636
+sceptre gem red~
+a deep red, gem-encrusted sceptre~
+A two foot long sceptre, encrusted with more gems than you ever thought imaginable. 
+~
+unknown~
+3 ABGH AO
+0 0 0 83 0
+30 5 25344 P
+#2637
+sceptre gem black~
+a deep black, gem-encrusted sceptre~
+A two foot long sceptre, black as night, and encrusted with more gems than you ever thought possible.
+~
+unknown~
+3 ABCEGH AO
+0 0 0 40 0
+30 5 21168 P
+#2638
+stasis~
+a stasis box~
+A statis box lies here.
+~
+unknown~
+15 FO 0
+100 AC 0 0 0
+18 1000 3420 P
+#2639
+glowbulb~
+a small Glowbulb~
+A small ball giving off an increadably good light
+~
+unknown~
+1 AG AO
+0 0 999 0 0
+18 1 2907 P
+A
+3 2
+A
+4 2
+#2640
+canister small liquid~
+a small canister of strange liquid~
+A small metalic canister like nothing you have ever seen before, filled with a strange thick liquid
+~
+unknown~
+10 H AO
+50 29 38 0 0
+18 2 2601 P
+#2641
+box jewlery~
+nautica's jewlery box~
+~
+unknown~
+15 FGO 0
+100 AC 0 0 0
+48 100 23520 P
+#2642
+shocklance lance~
+a Shocklance~
+An intricate device, a remnant of an earlier time, you're not quite sure what it is or what it does.
+~
+unknown~
+3 ABH AO
+50 5 5 70 0
+18 5 3240 P
+#2643
+diva key~
+diva's little key~
+A key you can hardly see lies here.~
+unknown~
+18 FH A
+0 0 0 0 0
+56 5 1500 P
+#0
+
+#ROOMS
+#2620
+Entrance to Old Village~
+You stand among tall grass, dry and burnt brown by the sun. You notice
+just to the North there is a small village. It was once a thriving little town,
+but the men of this village did not treat thier women well, legend has it that
+a Wizard cast a powerful spell on the women. Although you dont remember what
+this spell was said to do, you see no women around...and not many men either.
+~
+0 0 2
+D0
+~
+~
+0 -1 2621
+D2
+~
+~
+0 -1 6023
+S
+#2621
+Remains of a small wooden gate.~
+This appears to have been at one time a quite sturdy wooden gate. Now it
+is rotting, fallen, half burnt, useless debris.
+~
+0 0 1
+D0
+~
+~
+0 -1 2622
+D2
+Entrance to Old Village is south from here.
+~
+~
+0 -1 2620
+S
+#2622
+Desolate Village Street.~
+Weeds now grow on this wonce will traveled road, you cant imagine what
+happened to all the people. The street continues north, east and west. The
+village gate is to the south.
+~
+0 0 1
+D0
+Desolate Village Street.
+~
+~
+0 -1 2637
+D1
+Desolate Village Street.
+~
+~
+0 -1 2644
+D2
+Remains of a small wooden gate. is south from here.
+~
+~
+0 -1 2621
+D3
+Desolate Village Street.
+~
+~
+0 -1 2623
+S
+#2623
+Decilate Village Street.~
+This part of the street is pretty much the same as the rest of this
+decilate little road...Almost no one to be seen, you find yourself wondering
+where everyone could possibly be...that Wizard must have cast one hell of a
+spell.
+     The street continues to the east and west.
+~
+0 0 1
+D1
+Decilate Village Street is east from here.
+~
+~
+0 -1 2622
+D3
+Desolate Village Street.
+~
+~
+0 -1 2624
+S
+#2624
+Desolate Village Street.~
+Another stretch of road that looks as if its been though a war...
+No one seems to be in this part of town...probably because theres nothing out
+here of any value.
+     The street continues to the east, west, and south.
+~
+0 0 1
+D1
+Decilate Village Street. is east from here.
+~
+~
+0 -1 2623
+D2
+Desolate Village Street.
+~
+~
+0 -1 2625
+D3
+Desolate Village Street.
+~
+~
+0 -1 2631
+S
+#2625
+Desolate Village Street.~
+This part of the street shows the scars of war even more than the others.
+You can see that it has been years since the fighting, but the ground is still
+stained with blood! You do not like it here at all.
+     The street leads back to the north.
+     To the south is a destroyed old wall.
+~
+0 0 1
+D0
+Decilate Village Street. is north from here.
+~
+~
+0 -1 2624
+D2
+Remains of an Old Village Wall.
+~
+~
+0 -1 2626
+S
+#2626
+Remains of an Old City Wall.~
+This was once a wall approximately 10 feet high and 4 feet thick made out
+of mud straw and wood. Now it is a rotting, crumbling, home for
+insects...approximately 10 feet wide and 4 feet thick.
+You can walk along this discusting mass of mud and bugs to the west, or take
+that nice blood stained road to the north.
+~
+0 0 1
+D0
+Desolate Village Street. is north from here.
+~
+~
+0 -1 2625
+D3
+Remains of an Old Village Wall.
+~
+~
+0 -1 2627
+S
+#2627
+Remains of an Old Village Wall.~
+This part of the wall is not so rotting, it appears that it was not torn
+down in a battle...but just fell down over years of neglect...
+It doesnt smell so bad here and theres no blood, you kinda like it...
+     The rest of the wall is the the east and west.
+~
+0 0 1
+D1
+Remains of an Old City Wall. is east from here.
+~
+~
+0 -1 2626
+D3
+Remains of an Old Village Wall.
+~
+~
+0 -1 2628
+S
+#2628
+Remains of an Old Village Wall.~
+This part of the wall as well appears to be in bad shape, but in better
+shape than that first section...it as well appears to have fallen down over
+time rather than havin been destroyed.
+     There is a village street that leads north.
+     The wall is to the east and west.
+~
+0 0 1
+D0
+Desolate Village Street.
+~
+~
+0 -1 2631
+D1
+Remains of an Old Village Wall. is east from here.
+~
+~
+0 -1 2627
+D3
+Remains of an Old Village Wall.
+~
+~
+0 -1 2629
+S
+#2629
+Remains of an Old Village Wall.~
+This section of the wall is partialy standing due to the fact that it is
+supported to the west by an old fallen tower...
+You realise as you look around that no one has been down here in ages...
+     There is an old tower to the west.
+     The rest of the wall is to the east.
+~
+0 0 1
+D1
+Remains of an Old Village Wall. is east from here.
+~
+~
+0 -1 2628
+D3
+Fallen Old Tower.
+~
+~
+0 -1 2630
+S
+#2630
+Fallen down Old Tower.~
+You are on what appears to be the top floor of an old tower that has
+collapsed upon itself.
+     You wonder if maybe, just maybe, the first floor wasnt crushed flat and
+you might be able to get down there...
+     The Village Wall is to the east.
+~
+0 0 1
+D1
+Remains of an Old Village Wall. is east from here.
+~
+~
+0 -1 2629
+D5
+A small crawlspace.
+~
+~
+0 -1 2646
+S
+#2631
+Desolate Village Street.~
+This section of road leads away from the destruction to the south.
+You see a small garden just to the north, you wonder, could someone be trying
+to make something out of all this destruction?
+     To the north is some kind of old church, you think.
+     The road leads east, and there is an old wall to the south.
+~
+0 0 1
+D0
+Torn Down Old Church.
+~
+~
+1 -1 2632
+D1
+Desolate Village Street. is east from here.
+~
+~
+0 -1 2624
+D2
+Remains of an Old Village Wall. is south from here.
+~
+~
+0 -1 2628
+S
+#2632
+A Torn down old church.~
+This was once a small place of worship for the people of this Village. Now
+it is a small refuge for its priest. He, unlike so many others, excaped certain
+death and now lives here. He realises you arent harmful and closes the door
+quickly behind you, he looks realy scared.
+     There are doors to the east and south.
+~
+0 8 0
+D1
+Desolate Village Street.
+~
+~
+0 -1 2633
+D2
+Desolate Village Street. is south from here.
+~
+~
+1 -1 2631
+S
+#2633
+Desolate Village Street.~
+This part of the street doesnt show quite as many signs of death and
+destruction as the rest. No blood on the ground, less weeds, and even a few
+flowers that look like they are well tended to. You feel much better in this
+part of town. The torn down building to the west shows some signs of life,
+thats odd.
+     The street continues to the east.
+~
+0 0 1
+D1
+Desolate Village Street.
+~
+~
+0 -1 2634
+D3
+A Torn down old church. is west from here.
+~
+~
+1 -1 2632
+S
+#2634
+Desolate Village Street.~
+A small trickle of water flows in from the eastto make this section of the
+street totaly infested with weeds. You dont understand how anything can grow
+with the stale air blowing in from the north. You wonder what that building to
+the north could possibly be.
+     The street comes to a dead end to the west, the village well is to the
+east, and something is making the air very stale is to the north.
+~
+0 0 1
+D0
+An Abandoned Old Bakery.
+~
+~
+0 -1 2635
+D1
+Destroyed Old Well.
+~
+~
+0 -1 2636
+D3
+Desolate Village Street. is west from here.
+~
+~
+0 -1 2633
+S
+#2635
+An Abandoned Bakery.~
+You choke and gag on the stale air of this place. It must just be from all
+this dust! Everything is covered with it, even the corpses of small rodents,
+choked to death by this dust, are covered with it. You feel the urge to GET
+OUT! Before you die from lack of oxygen.
+     The village street is to the south, it would be wise to go there.
+~
+0 8 0
+D2
+Desolate Village Street. is south from here.
+~
+~
+0 -1 2634
+S
+#2636
+A destroyed old Well in the center of town.~
+The ground here is damp and soft, you feel your feet slowly sinking into
+it with each step. The scourse of the water is a small well about 5 feet from
+you. One entire side of this stone well has been completely destroyed and water
+now flows freely from it.
+     The village street leaves this intersection to the north, south, east and
+west.
+~
+0 0 1
+D0
+Desolate Village Street.
+~
+~
+0 -1 2647
+D1
+Desolate Village Street.
+~
+~
+0 -1 2640
+D2
+Desolate Village Street.
+~
+~
+0 -1 2637
+D3
+Desolate Village Street. is west from here.
+~
+~
+0 -1 2634
+S
+#2637
+Desolate Village Street.~
+The northern ground here is slightly damp and many more weeds grow here
+than in other places. You dislike allt he weeds, but the absense of dust is
+something you could get used to.
+     There is an old well to the north.
+     The road continues south, and there is a structure to the east, still
+standing.
+~
+0 0 1
+D0
+A destroyed old Well in the center of town. is north from here.
+~
+~
+0 -1 2636
+D1
+A Barely Standing Structure.
+~
+~
+1 -1 2638
+D2
+Desolate Village Street. is south from here.
+~
+~
+0 -1 2622
+S
+#2638
+A Barely Standing Structure.~
+You try not to bump into any of the support beams in this house, because
+you can tell that it is on the verge of falling. There doesnt seem to be anyone
+living here, and you can see why. It would not be wise to spend very much time
+here.
+     There is a way to get out to the east, you think you can make it out that
+way anyhow.
+~
+0 8 0
+D1
+Desolate Village Street.
+~
+~
+0 -1 2639
+D3
+Desolate Village Street. is west from here.
+~
+~
+1 -1 2637
+S
+#2639
+Desolate Village Street.~
+Another section of weed infested, untraveled, dusty Village street. You
+are realy begining to feel sorry for the people of this town, if there are any
+that is.
+     The road continues north and south.
+~
+0 0 1
+D0
+Desolate Village Street.
+~
+~
+0 -1 2641
+D2
+Desolate Village Street.
+~
+~
+0 -1 2642
+D3
+A Barely Standing Structure. is west from here.
+~
+~
+0 -1 2638
+S
+#2640
+Desolate Village Street.~
+You can smell water to the west and you are tempted to go get a drink.
+But then you think, like everything else in this village, maybe it would give
+you a bad feeling as well.
+~
+0 0 1
+D1
+Desolate Village Street.
+~
+~
+0 -1 2641
+D3
+A destroyed old Well in the center of town. is west from here.
+~
+~
+0 -1 2636
+S
+#2641
+Desolate Village Street.~
+Dusty, no one here, totaly devastated by some sort of war, just like the
+rest of town.
+     There appears to be a fairly well kept house to the east.
+     The road leads south and west.
+~
+0 0 1
+D1
+The Chief's House.
+~
+~
+1 -1 2648
+D2
+Desolate Village Street. is south from here.
+~
+~
+0 -1 2639
+D3
+Desolate Village Street. is west from here.
+~
+~
+0 -1 2640
+S
+#2642
+Desolate Village Street.~
+This part of the street has been blackened by a fire, but not recently,
+these are very old pieces of burnt wood. The evidense of fire is more severe to
+the east, and not at all to the west.
+~
+0 0 1
+D0
+Desolate Village Street. is north from here.
+~
+~
+0 -1 2639
+D1
+Burnt Remains.
+~
+~
+0 -1 2643
+D3
+Desolate Village Street.
+~
+~
+0 -1 2644
+S
+#2643
+Burnt Remains~
+You are standing on the charred and burnt remains of someones house, or
+something of that sort, you cant realy tell.
+There isnt realy anything of interest and it kinda smells bad.
+     The village street is west.
+~
+0 1 1
+D3
+Desolate Village Street. is west from here.
+~
+~
+0 -1 2642
+S
+#2644
+Desolate Village Street.~
+More dust, more weeds, more and more a sense that there is no one else in
+the world but you. You still cant imagine where everyone went.
+     Maybe there is someone in that huy to the south, maybe not.
+~
+0 0 1
+D1
+Desolate Village Street. is east from here.
+~
+~
+0 -1 2642
+D2
+Abandoned Hut.
+~
+~
+0 -1 2645
+D3
+Desolate Village Street. is west from here.
+~
+~
+0 -1 2622
+S
+#2645
+Abandoned Hut.~
+This appears to have been a meeting place for this village at one time.
+There is a sign on the wall reading: NO PETS!
+At seeing a once lively place like this abandoned you give up all hope of
+finding anyone worth talking to.
+     The street is back to the north.
+~
+0 13 0
+D0
+Desolate Village Street. is north from here.
+~
+~
+0 -1 2644
+S
+#2646
+A small crawlway.~
+You crawl down into a small space, even though you probably shouldnt.
+You feel VERY cramped and you wonder if you can get out. You are feeling very
+agitated and dont think you can pray anymore, or even clam down enough to
+recall yourself or recite a scroll, you better leave...if ya can.
+~
+0 8201 0
+D4
+Fallen down Old Tower. is up from here.
+~
+~
+0 -1 2630
+S
+#2647
+Desolate Village Street.~
+This street shows more signs of life than anywhere else, or course, you
+cant tell what kind of life...the tracks on the ground seem pretty big.
+As you stroll north you notice more and more of a forest around you.
+You like it much better than in that village.
+     The street becomes a small path as it winds off north through the forest.
+~
+0 1 1
+D0
+A small, dirt trail through the forest.
+~
+~
+0 -1 2649
+D2
+A destroyed old Well in the center of town. is south from here.
+~
+~
+0 -1 2636
+S
+#2648
+The Chief's House.~
+This is the traditional House of the Chief of this Village. It shows many
+signs of battle. There used to be pictures of all the chiefs on the walls here,
+but they were all destroyed. Now the only picture here is that of Victor, the
+last chief before the Wizard came. Victor himself is here, sitting on a stool,
+and wondering where his wife learned to fight so well. He has scars all over
+his body. You are begining to see what happened to this village, and you dont
+like it at all!
+~
+0 9 0
+D3
+Desolate Village Street. is west from here.
+~
+~
+1 -1 2641
+S
+#2649
+A Mysterious path through the woods.~
+You cannot figure out who, or what made this path. The width of the path is
+about right, but brances are broken off about 5 feet above your head! You
+shudder as you think of what kind of creature could have made this path. Maybe
+you should turn back.
+~
+0 0 3
+D0
+Mysterious path throught he woods.
+~
+~
+0 -1 2650
+D2
+Desolate Village Street. is south from here.
+~
+~
+0 -1 2647
+S
+#2650
+Mysterious path through the woods.~
+The path continues to the north. Youre still wondering who's path it is
+and you realy wish you knew. But youre real curious and you wanna know who made
+this path, so you're gonna follow it or die trying. Which unfortunately is what
+might happen.
+~
+0 0 3
+D0
+A Mysterious path through the woods.
+~
+~
+0 -1 2651
+D2
+A Mysterious path through the woods. is south from here.
+~
+~
+0 -1 2649
+S
+#2651
+A Mysterioys path through the woods.~
+You think that if you go much further into the woods you wont be able to
+find your way back, you hope youre wrong, but then again you probably should
+trust yourself.
+~
+0 0 3
+D0
+End of the path.
+~
+~
+0 -1 2652
+D2
+Mysterious path through the woods. is south from here.
+~
+~
+0 -1 2650
+S
+#2652
+End of the path through the woods.~
+The path ends abruptly as a river blocks your path...there is evidense that
+someone has launched boats from here in the past, probably whoever made that
+trail. If you wanna go on youre gonna have to swim.
+~
+0 0 3
+D2
+A Mysterioys path through the woods. is south from here.
+~
+~
+0 -1 2651
+S
+#2653
+The Great River of the Coda.~
+You float out into the Great River of the Coda. This river is huge. The
+water here is a murky black. The entire river seem cloaked in a shadow of
+darkness.
+You attempt to stear your craft, but you cannot even see your hands, much less
+see to navagate through the water, you hope there are no unforseen dangers
+ahead. You shiver as you realize that the shadow of darkness over this river
+makes it completely god Forsaken.
+    The rivers current draws you to the west.
+~
+0 8193 8
+D1
+The Great River of the Coda.
+~
+~
+0 -1 2659
+D3
+The Great River of the Coda.
+~
+~
+0 -1 2654
+S
+#2654
+The Great River of the Coda.~
+As you float downriver you start to feel, total and complete fear. You dont
+feel as if you need to stear your boat anymore, somehow the river is guiding
+you, to what you do not know. The darkness surrounds you, and you suddenly feel
+very tired...you have the urge to just sit back and let the river carry you
+away.
+~
+0 8193 8
+D1
+The Great River of the Coda. is east from here.
+~
+~
+0 -1 2653
+D3
+The Great River of the Coda.
+~
+~
+0 -1 2655
+S
+#2655
+The Great River of the Coda.~
+The river here is starting to get a little faster. But strangely you feel
+even more tired. You wonder where you are going, but you dont realy care.
+Without your light you would be totaly helpless, youre sure glad you brought
+it.
+~
+0 8193 8
+D1
+The Great River of the Coda. is east from here.
+~
+~
+0 -1 2654
+D3
+The Great River of the Coda.
+~
+~
+0 -1 2656
+S
+#2656
+The Great River of the Coda.~
+You wake up here as you notice the river is going VERY fast! You are still
+and little sleepy and you dont realy know whats going on...you wonder where you
+are. But more importantly you wonder where you are going, if you could sit up
+maybe you could see what lies ahead, but you cant.
+~
+0 8193 8
+D1
+The Great River of the Coda. is east from here.
+~
+~
+0 -1 2655
+D3
+The Falls!
+~
+~
+0 -1 2657
+S
+#2657
+The Falls!~
+You finaly manage to sit up and realize that you are about to go over a
+waterfall! The loud, falling water finaly snaps you back into reality. You
+realize that if you dont do something quick you're probably gonna die.
+The falls are just to the west of you, you can see down for hundreds of feet,
+to the deadly rocks below!
+     Maybe if you paddle hard you can go back upriver to the east, maybe.
+~
+0 8193 8
+D1
+The Great River of the Coda. is east from here.
+~
+~
+0 -1 2656
+D3
+Over the Falls.
+~
+~
+0 -1 2658
+S
+#2658
+Over the Falls.~
+You've fallen over the falls...OUCH that hurt, and you're lucky to be
+alive. But unfortunately you didnt make it over without breaking both your
+legs. You cant move to get out of the water. Seems like you're probably going
+to be stuck here for a while, unless you know some nice, and powerful mages. Oh
+well.
+    You dont see anyway to get out of here.
+~
+0 8197 8
+S
+#2659
+The Great River of the Coda.~
+You use you're now aching muscles to power yourself up this massive river.
+It's still dark, and you cant see anything. You fight harder and harder against
+what seems to be an ever swiftening current. You dont know how much longer you
+can keep this up.
+     But no matter, you keep paddling yourself upriver, to the east.
+~
+0 8193 8
+D1
+The Great River of the Coda.
+~
+~
+0 -1 2660
+D3
+The Great River of the Coda. is west from here.
+~
+~
+0 -1 2653
+S
+#2660
+The Great River of the Coda.~
+The wind comes strong here, but unlike everything else about this river it
+seems to be helping you. The current is faster here than you have ever seen
+before, and yet you barely have to paddle to keep a fairly quick pace upriver.
+You are starting to get the idea that this entire river is not a river at all,
+but just another part of the spell.
+~
+0 8193 8
+D1
+The Great River of the Coda.
+~
+~
+0 -1 2661
+D3
+The Great River of the Coda. is west from here.
+~
+~
+0 -1 2659
+S
+#2661
+The Great River of the Coda.~
+The wind here is still strong and you are moving very quickly, The river
+is not so fast and much smaller here. Maybe you are nearing the end of this
+river. You dont see and end in sight, but then again you dont see much of
+anything. You could probably still turn around and go back, but the wind is
+very strong and the current is not.
+~
+0 8193 8
+D1
+The Coda Boat Landing.
+~
+~
+0 -1 2662
+D3
+The Great River of the Coda. is west from here.
+~
+~
+0 -1 2660
+S
+#2662
+The Coda Boat Landing.~
+You are not on the river any longer. You didnt even see it coming, but the
+river seems to have stopped and you never did see where all that water is
+comming from. You pull your boat up onto the shore. You are very careful to go
+undetected as there seem to be someone here. You cant see anyone yet, maybe
+they are still a bit to the north.
+~
+0 8193 2
+D0
+A Small Sandy shore.
+~
+~
+0 -1 2663
+D3
+The Great River of the Coda. is west from here.
+~
+~
+0 -1 2661
+S
+#2663
+A Small Sandy shore.~
+You left your boat back at the landing and you are very glad. If you ahd
+that boat with you these two would surely see you. They are big, VERY big. You
+cant realy tell what race they are. Most of thier features appear to be that of
+a giant, and yet they look extremely agile...hmmm.
+     They are also women, strange you think for women to be guards, maybe they
+are just doing the wash in the river, but then again they are armored to the
+teeth, and carrying swords.
+~
+0 8193 2
+D0
+A Strange Path through an unknown forest.
+~
+~
+0 -1 2664
+D2
+The Coda Boat Landing. is south from here.
+~
+~
+0 -1 2662
+S
+#2664
+A Strange Path through an unknown forest.~
+In the last few hours you have, crossed a river you didnt know about, seen
+a race you never heard of, and are now in a forest you didnt know existed. And
+you considered youself fairly well informed. You had been told that there was
+nothing up here but a bunch of unpassable mountains. This place is real, but it
+is very strange, almost unreal.
+     The path you are on continues north.
+~
+0 8193 3
+D0
+A Small Path through an unknown forest.
+~
+~
+0 -1 2665
+D2
+A Small Sandy shore. is south from here.
+~
+~
+0 -1 2663
+S
+#2665
+A Small Path through an unknown forest.~
+You continue on your way through this forest. There is an unknown expanse
+of it to the east, but to the west you see, through the trees, some sort of a
+wall. You cannot see it very well, but whatever it's made out of, it's HUGE.
+  You dont see any way to get to it, much less scale it.
+~
+0 8193 3
+D0
+A Small Path through an unknown forest.
+~
+~
+0 -1 2666
+D2
+A Strange Path through an unknown forest. is south from here.
+~
+~
+0 -1 2664
+S
+#2666
+A Small Path through an unknown forest.~
+The wall is just to the west now. It appears to be made out of wood and
+earth. Very compacted, and very well built. You can see now that it is well
+over 20 feet high! You are begining to think that maybe there are more of those
+creatures that you saw at the shore than you thought.
+     The path turns slightly and the wall gets closer as you go north, there is
+a gate of some sort.
+~
+0 8193 3
+D0
+A Large Hardwood Gate.
+~
+~
+0 -1 2667
+D2
+A Small Path through an unknown forest. is south from here.
+~
+~
+0 -1 2665
+S
+#2667
+A Large Hardwood Gate.~
+A Huge gate towers above you and you feel very small. It appears to be
+made out of Hardwood, something you have heard of, but never actualy seen.
+Hardwood is said to be blend of many of the hardest woods in the world, only
+the most adept of rangers are said to be able to blend the woods. It is light
+and stronger than steel, it cannot be burned.
+     Through the gates tot he west you see the great and fabled city of
+Scythia.
+~
+0 8193 1
+D2
+A Small Path through an unknown forest. is south from here.
+~
+~
+0 -1 2666
+D3
+A Well Compacted Dirt Road, Scythia.
+~
+~
+0 -1 2668
+S
+#2668
+A Well Compacted Dirt Road.~
+This is the begining of a dirt road that seems endless. The ground is hard
+and there are no weeds in sight. You can tell this road is very well traveled.
+This whole area seems to be a large valley. To the north, west and east there
+are huge mountains.
+     The road continues west.
+     You think you can probably climb up and get onto that wall to the south.
+~
+0 8192 1
+D1
+A Large Hardwood Gate. is east from here.
+~
+~
+0 -1 2667
+D2
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2669
+D3
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2685
+S
+#2669
+A Huge Wall of Wood and Earth.~
+This appears to be the wall you saw as you walked toward the city in the
+forest. Its HUGE, over 20 feet high and 10 feet thick. You wonder if even these
+huge women can climb this wall.
+     The wall continues to the south.
+     A dirt road leads away to the north.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road. is north from here.
+~
+~
+0 -1 2668
+D2
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2670
+S
+#2670
+A Huge Wall of Wood and Earth.~
+The top of this wall is very sturdy. Made to support alot of weight. The
+side facing the city is sloped and fairly easy to climb, but as you look down
+you can see that the other side is totaly immpasable.
+    The wall stretches on to the north and south.
+~
+0 8192 1
+D0
+A Huge Wall of Wood and Earth. is north from here.
+~
+~
+0 -1 2669
+D2
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2671
+S
+#2671
+A Huge Wall of Wood and Earth.~
+Yet another section of this huge wall. No one in thier right mind would
+attempt to attack this city. There is a small stone embeded into the wall. It
+is marked with the symbol of the Coda.
+~
+0 8192 1
+D0
+A Huge Wall of Wood and Earth. is north from here.
+~
+~
+0 -1 2670
+D2
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2672
+S
+#2672
+A Huge Wall of Wood and Earth.~
+You are on the corner of the wall. You can see all the way to the river
+from here. There are some dangeruos things here, but at least its not as dark
+as that river. You can't decide which is worse.
+     The wall turns and continues to the west.
+~
+0 8192 1
+D0
+A Huge Wall of Wood and Earth. is north from here.
+~
+~
+0 -1 2671
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2673
+S
+#2673
+A Huge Wall of Wood and Earth.~
+Yet another section of this seemingly endless wall. You can see the river
+about 200 feet below you. You think about jumping off...but you dont ahve a
+deathwish right now.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2672
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2674
+S
+#2674
+A Huge Wall of Wood and Earth.~
+The wall here si pretty much the same as the rest. Huge, very sturdy, and
+totaly immpassable. To the northwest you think you see a building of some kind,
+but you can't see the entrance from here.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2673
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2675
+S
+#2675
+A Huge Wall of Wood and Earth.~
+This section of the wall is highly traveled and appears to need a bit of
+matinance. There is a building to the north that you cannot identify. Maybe you
+should go check it out. There doesn't appear to be any lock on the door.
+~
+0 8192 1
+D0
+The Back Entrance to the Guard House.
+~
+~
+0 -1 2686
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2674
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2676
+S
+#2676
+A Huge Wall of Wood and Earth.~
+You don't think you're supposed to be here, and you hope you don't get
+caught. You can hear the guards yelling and laughing to the northeast.
+     The wall here is slightly smaller than the rest of the wall, you don't
+know why.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2675
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2677
+S
+#2677
+A Huge Wall of Wood and Earth.~
+Here the wall is even smaller, but you appear to be about the same height
+above everything. Maybe the ground is getting higher.
+     The wall stretches on to the east and west.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2676
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2678
+S
+#2678
+A Huge Wall of Wood and Earth.~
+The wall is still smaller here than to the east and you're sure that the
+ground is higher. You can see that the mountains are close to the west.
+     There is a way to get off this wall and onto the dirt road to the north,
+maybe you should take it.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2681
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2677
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2679
+S
+#2679
+A Huge Wall of Wood and Earth.~
+Here the wall is only about 10 feet high and you could probably jump off
+safely, but where would you go. There is nothing to the north or south but
+extremely steep and dense forests. To the west you can see the end of the wall.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2678
+D3
+A Huge Wall of Wood and Earth.
+~
+~
+0 -1 2680
+S
+#2680
+A Huge Wall of Wood and Earth.~
+This is the end of the wall. It's about 10 feet high. Just to your east it
+runs into the side of a cliff. There is no way you are gonna climb that cliff.
+Even if you could fly it would be very hard because of all the loose rocks, you
+don't think you should yell...they might fall.
+~
+0 8192 1
+D1
+A Huge Wall of Wood and Earth. is east from here.
+~
+~
+0 -1 2679
+S
+#2681
+A Well Compacted Dirt Road.~
+You are on a dirt road about 15 feet wide. The dirt is very hard from
+years of use. There is the back wall of a building to your west. To the east
+the terrain gets very steep and you don't think you could make it up there.
+ There is a huge wall to the south.
+     The Road leads away to the north.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2682
+D2
+A Huge Wall of Wood and Earth. is south from here.
+~
+~
+0 -1 2678
+S
+#2682
+A Well Compacted Dirt Road.~
+The road here does not appear to be used as much as the rest of the road.
+There is not much in this part of Scythia. Most of the city is further north.
+But maybe you should stay here. You wouldn't want to run into any of those
+nasty Coda.
+~
+0 8192 1
+D0
+A Well Compaced Dirt Road.
+~
+~
+0 -1 2683
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2681
+S
+#2683
+A Well Compacted Dirt Road.~
+You feel the warmth drain from your body and your heart leap in your chest
+ as you see the Cobblestone Road just to your north. How many men, you wonder,
+died while being forced to build that road. It gives you a horrific feeling
+just being close to it. If they find you, you must fight to the end, for death
+is much better than life...at least when the Coda are your masters.
+~
+0 8192 1
+D0
+The Cobblestone Road.
+~
+~
+0 -1 2684
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2682
+S
+#2684
+The Cobblestone Road.~
+You are on the Cobblestone Road. 50 feet across and made out of only
+flawless coblestones. The upkeep on this road is increadable, it would be
+perfect if not for the feeling of complete and totaly overwhelming fear it
+brings. On the edge of this road someone has made some markings: "we came here
+ta fight.. they fight better..        " There is a blood stain just to the
+right of this message...it appears to be quite new.
+~
+0 8192 1
+D1
+The Cobblestone Road.
+~
+~
+0 -1 2687
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2683
+D3
+The Cobblestone Road.
+~
+~
+0 -1 2688
+S
+#2685
+A Well Compacted Dirt Road.~
+You are standing on a large dirt road. There are not alot of people here.
+A few trusted male slaves are alowed to walk from place to place. You do not
+see any Coda, and you are very glad.
+    The dirt Road continues north and east. The Cobblestone road is to the
+west.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2691
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2668
+D3
+The Cobblestone Road.
+~
+~
+0 -1 2687
+S
+#2686
+Back Entrance to the Guard House.~
+You are standing in a small entranceway into the rear of the lower Scythian
+guard house. Guards walk back and forth, going to and from thier posts on the
+wall to the south. The walls are made of Hardwood, as is the floor. This
+entranceway opens into a larger room to the north.
+~
+0 8192 0
+D0
+The Main Guard House.
+~
+~
+0 -1 2706
+D2
+A Huge Wall of Wood and Earth. is south from here.
+~
+~
+0 -1 2675
+S
+#2687
+The Cobblestone Road.~
+You can hear the wind howl, and the stillness is all around you. You begin
+to get very nervous as you think something may leap out at you any second. This
+Road gives you an erie chill. Even the sound of your own feet on the
+cobblestone is chilling.
+~
+0 8192 1
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2685
+D2
+The Main Guard House.
+~
+~
+0 -1 2705
+D3
+The Cobblestone Road. is west from here.
+~
+~
+0 -1 2684
+S
+#2688
+The Cobblestone Road.~
+As you walk further down this road you feel the air getting very stale.
+There are more people here, if you can realy call them people. You should be
+very careful about going any further to the west.
+~
+0 8192 1
+D1
+The Cobblestone Road.
+~
+~
+0 -1 2684
+D3
+The Cobblestone Road.
+~
+~
+0 -1 2689
+S
+#2689
+The Cobblestone Road.~
+The road here is no so quiet or still as that to the east. You can hear a
+squeaking, a pulley or some other such strange devise. You want to check and
+see what it is...but you know there must be someone, or something, turning it.
+~
+0 8192 1
+D1
+The Cobblestone Road. is east from here.
+~
+~
+0 -1 2688
+D3
+A Huge Wicker Basket.
+~
+~
+0 -1 2690
+S
+#2690
+A Huge Wicker Basket.~
+You stand before a huge wicker basket. Apparently fitted to a pulley and
+suspended to carry Coda up the cliff face to upper Scythia. There are four
+small slaves sitting next to the basket waiting for the next Coda to arive.
+There is a guard here to assure that only Coda enter upper Scythia!
+~
+0 8192 1
+D1
+The Cobblestone Road. is east from here.
+~
+~
+0 -1 2689
+D4
+On Top of the Cliff.
+~
+~
+0 -1 2709
+S
+#2691
+A Well Compacted Dirt Road.~
+This part of the road still has some plants on the sides. It is much more
+pleasant than the rest of lower scythia. The road you are on continues north
+and south. You think you would like it more to the north.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2692
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2685
+S
+#2692
+A Well Compacted Dirt Road.~
+A pleasant breeze, a fragrant smell in the air, and flowers alongside the
+road. You like it here. The Road continues north and south.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2693
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2691
+S
+#2693
+A Well Compacted Dirt Road.~
+The area here is just as nice as to the south, maybe more so. But you do
+not like you. Now you can hear shrieks comming from the orchard to the west.
+You do not feel like going in there.
+~
+0 8192 1
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2692
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2694
+S
+#2694
+The Lower Scythian Orchards.~
+These orchards are increadably productive as well as beautiful, but they
+are kept that way through the use of hundreds of male slaves. In many places
+the ground is stained with blood. You feel the urge to run.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards.
+~
+~
+0 -1 2695
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2693
+D2
+The Lower Scythian Orchards.
+~
+~
+0 -1 2698
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2697
+S
+#2695
+The Lower Scythian Orchards.~
+This is the northeast section of the orchards. The trees are not so dense
+here and there are not as many slaves. However the slaves that you do see are
+totaly revolting, and on the verge of death from the Coda overworking them.
+~
+0 8192 1
+D2
+The Lower Scythian Orchards. is south from here.
+~
+~
+0 -1 2694
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2696
+S
+#2696
+The Lower Scythian Orchards.~
+The slaves here are totaly over worked. They have tended this orchard for
+far too long. If you were a good person you would try to help them. But
+something about this place has taken away your will to help anyone but
+yourself.
+~
+0 8192 1
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2695
+D2
+The Lower Scythian Orchards.
+~
+~
+0 -1 2697
+S
+#2697
+The Lower Scythian Orchards.~
+You are in the central portion of the orchards. Trees with plump hanging
+fruit surround you, and are making you very hungry. The slaves do not even seem
+to notivce you, but you hope you don't run into any of the Coda that they
+belong to.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards. is north from here.
+~
+~
+0 -1 2696
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2694
+D2
+The Lower Scythian Orchards.
+~
+~
+0 -1 2701
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2702
+S
+#2698
+The Lower Scythian Orchards.~
+The trees are smaller in this part of the orchard, and they appear to have
+a different type of fruit. Although you cannot identify it, it sure tastes
+good. You hope that don't mind that you took a few pieces.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards. is north from here.
+~
+~
+0 -1 2694
+D2
+The Lower Scythian Orchards.
+~
+~
+0 -1 2699
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2701
+S
+#2699
+The Lower Scythian Orchards.~
+This is the southest section of the orchard. This appears to be a sort of
+meeting place for the slaves. A place that the Coda don't usualy come, maybe
+the slaves are here planning an excape.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards. is north from here.
+~
+~
+0 -1 2698
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2700
+S
+#2700
+The Lower Scythian Orchards.~
+You are in an orchard, surrounded by fruit bearing trees. Slaves walk here
+and there tending to the trees and picking fruit.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards.
+~
+~
+0 -1 2701
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2699
+S
+#2701
+The Lower Scythian Orchards.~
+The orchard expands all around you and you start to loose all sense of
+direction. You had better find a landmark or something so you don't get lost.
+It would be a shame for you to walk into the sight of a Coda.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards. is north from here.
+~
+~
+0 -1 2697
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2698
+D2
+The Lower Scythian Orchards. is south from here.
+~
+~
+0 -1 2700
+D3
+The Lower Scythian Orchards.
+~
+~
+0 -1 2702
+S
+#2702
+The Lower Scythian Orchards.~
+This is about as for west as the orchard extends. You cringe in fear as
+you here sounds to the north that you know are not the slaves. The Coda! You
+had better run like hell.
+~
+0 8192 1
+D0
+The Lower Scythian Orchards.
+~
+~
+0 -1 2703
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2701
+S
+#2703
+The Lower Scythian Orchards.~
+You are standing in an open area of the orchard. There is a table here at
+which a few Coda are sitting and drinking. There is a building to the west. Or
+rather a small shack.
+~
+0 8192 1
+D2
+The Lower Scythian Orchards. is south from here.
+~
+~
+0 -1 2702
+D3
+The Slaves Sleeping Quarters.
+~
+~
+0 -1 2704
+S
+#2704
+The Slaves Sleeping Quarters.~
+You enter a small shack. It is hot, humid, and smells very bad. Slaves
+that are either resting, sleeping, or too sick to stand are strewn all over the
+floor. You feel your stomach acids churning as you look around. You think
+you're going to hurl.
+~
+0 8192 1
+D1
+The Lower Scythian Orchards. is east from here.
+~
+~
+0 -1 2703
+S
+#2705
+The Main Guard House.~
+You have entered the main guard house of Lower Scythia. Coda soldiers are
+all over the place. Did you ever have the feeling that you screwed up BAD?
+~
+0 8192 0
+D0
+The Cobblestone Road.
+~
+~
+0 -1 2687
+D2
+The Main Guard House.
+~
+~
+0 -1 2706
+S
+#2706
+The Main Guard House.~
+This part of the guard house has less Coda. There are a few walking by,
+but none sitting around. There is a door to the east. To the south there is a
+back entranceway to the guard house and beyond that a huge wall.
+~
+0 8192 0
+D0
+The Main Guard House. is north from here.
+~
+~
+0 -1 2705
+D1
+The Guard Sleeping Quarters.
+~
+~
+0 -1 2707
+D2
+Back Entrance to the Guard House. is south from here.
+~
+~
+0 -1 2686
+D5
+The Underground Guard House.
+~
+~
+0 -1 2708
+S
+#2707
+The Guard Sleeping Quarters.~
+This is the part of the guard house where the Coda go to rest. But there
+is hardly anyone here as the Coda need very little sleep. There are no beds,
+justan empty room with a few Coda sleeping on the floor.
+~
+0 8192 0
+D3
+The Main Guard House. is west from here.
+~
+~
+0 -1 2706
+S
+#2708
+The Underground Guard House.~
+You have found the passage and made it into the underground guard house.
+It is very hot down here, there must be a forge somewhere close by. You can
+hear the clanging of hammers on anvils. The master craftsman slaves of the Coda
+must be hard at work.
+You can hear the banging to the north and east.
+The ground here appears to be hollow underneath, strange.
+~
+0 8192 0
+D1
+The Weapons Forge.
+~
+~
+0 -1 2710
+D2
+The Armor Forge.
+~
+~
+0 -1 2712
+D4
+The Main Guard House. is up from here.
+~
+~
+0 -1 2706
+D5
+The Secret Room.
+~
+~
+0 -1 2711
+S
+#2709
+The Top of the Cliff.~
+You have finaly reached the top of this huge cliff. There is another dirt
+road to the west. Similar to the one in lower Scythia, but much more
+extravagant. You have made it to upper Scythia, beware.
+     The top of the cliff continues south a ways.
+~
+0 8192 1
+D2
+The Top of the Cliff.
+~
+~
+0 -1 2723
+D3
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2724
+D5
+A Huge Wicker Basket. is down from here.
+~
+~
+0 -1 2690
+S
+#2710
+The Weapons Forge.~
+You Have entered the weapons forge. There are slaves everywhere pounding
+on anvils with thier hammers. Making swords, daggers, spears, maces, and
+arrows. The finished weapons are stacked against the walls in very organized
+piles. There are also a few Coda here. They are supervising, and testing a few
+of the weapons, ON YOU!
+~
+0 8193 0
+D3
+The Underground Guard House. is west from here.
+~
+~
+0 -1 2708
+S
+#2711
+The Secret Room.~
+This room is a total secret, even to most of the Coda. It is dusty and it
+appears no one has been down here for years. The floor creaks just as the one
+above did, maybe there is a trap door here as well. If you didn't look there
+would be no way to tell. The dust is increadably thick.
+~
+0 8193 0
+D4
+The Underground Guard House. is up from here.
+~
+~
+0 -1 2708
+D5
+The Underground Excape Tunnel.
+~
+~
+0 -1 2713
+S
+#2712
+The Armor Forge.~
+This is the armor forge. Here the slaves make everything from helmets to
+boots, gauntlets to breast plates. The sound of thier hammering is driving you
+mad. But all that armor, very nice armor too. Then you notice the two Coda in
+the back of the room, just as they notice you.
+~
+0 8193 0
+D0
+The Underground Guard House. is north from here.
+~
+~
+0 -1 2708
+S
+#2713
+The Underground Escape Tunnel.~
+This is the entrance to the secret escape tunnel. The profits say that
+someday the city of Scythia will fall. So the leaders of the Coda built this
+tunnel, assuming that lower Scythia would fall first, through this tunnel they
+could escape to upper Scythia. The tunnel begins to the west.
+~
+0 8193 0
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2714
+D4
+The Secret Room. is up from here.
+~
+~
+0 -1 2711
+S
+#2714
+The Escape Tunnel.~
+This tunnel is a huge, carved out, rounded hold that seems to extend to
+the west forever. The walls are dirt, supported wiht huge hardwood beams. The
+exits lies just to the east, or somewhere to the west...you don't know how far.
+~
+0 8193 0
+D1
+The Underground Escape Tunnel. is east from here.
+~
+~
+0 -1 2713
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2715
+S
+#2715
+The Escape Tunnel.~
+You are walking through the great escape tunnel, built for the leaders of
+the Coda. Made to be used on the day that Scythia falls, assuming lower Scythia
+goes first.
+The tunnel continues east and west.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2714
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2716
+S
+#2716
+The Escape Tunnel.~
+You are walking through the great escape tunnel, built for the leaders of
+the Coda. Made to be used on the day that Scythia falls. Assuming that lower
+Scythia falls first.
+     The tunnel continues east and west.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2715
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2717
+S
+#2717
+The Escape Tunnel.~
+You are walking through the great escape tunnel, built to be used by the
+leaders of the Coda. made to be used on the day that Scythia falls. Assuming
+that lower Scythia falls first.
+     The tunnel continues east and west.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2716
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2718
+S
+#2718
+The Escape Tunnel.~
+You are walking through the great escape tunnel, built to be used by the
+leaders of the Coda. Made to be used on the day that Scythia falls. Assuming
+lower Scythia falls first.
+     The tunnel continues east and west.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2717
+D3
+The Escape Tunnel.
+~
+~
+0 -1 2719
+S
+#2719
+The Escape Tunnel.~
+You are walking though the great escape tunnel, built for the leaders of
+the Coda. Made to be used on the day Scythia falls. Assuming lower Scythia
+falls first.
+     The tunnel continues east and west.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2718
+D3
+The End of the Tunnel.
+~
+~
+0 -1 2720
+S
+#2720
+The End of the Tunnel.~
+You have reached the end of the escape tunnel. There is a ladder here
+leading up, apparently to upper Scythia. The tunnel leads back west. Upper
+Scythia is dangerous, maybe you should take the tunnel back to lower Scythia.
+~
+0 8193 0
+D1
+The Escape Tunnel. is east from here.
+~
+~
+0 -1 2719
+D4
+A Strong Ladder.
+~
+~
+0 -1 2721
+S
+#2721
+A Strong Ladder.~
+You are on the begining of a very tall and sturdy ladder. It has to be, it
+must reach all the way to upper Scythia, and it must support the Coda. You are
+about 15 feet off the ground now, and you are still a very long way from the
+top. Hope you're not afraid of heights.
+~
+0 8193 0
+D4
+A Strong Ladder.
+~
+~
+0 -1 2722
+D5
+The End of the Tunnel. is down from here.
+~
+~
+0 -1 2720
+S
+#2722
+A Strong Ladder.~
+As you climb higher and higher you can no longer see the ground. It is
+very dark here and very cold. You climb higher and still higher. Finaly you
+reach the top, and hit your head on a trapdoor, you almost blackout. You regain
+your senses just in time to grasp the ladder before falling down to your death.
+     You try to look and see what you hit, but you can't see a damn thing.
+~
+0 8193 0
+D4
+The Top of the Cliff.
+~
+~
+0 -1 2723
+D5
+A Strong Ladder. is down from here.
+~
+~
+0 -1 2721
+S
+#2723
+The Top of the Cliff.~
+You are standing on the top of a huge cliff. You can see down into lower
+Scythia for miles. You walk a little closer to the cliff, and then more back
+because there is alot of loose gravel. It would be a shame to go falling to
+your death after you've come so far.
+     The cliff extends north.
+~
+0 8192 1
+D0
+The Top of the Cliff. is north from here.
+~
+~
+0 -1 2709
+D5
+A Strong Ladder. is down from here.
+~
+~
+0 -1 2722
+S
+#2724
+A Well Compacted Dirt Road.~
+You have now entered upper Scythia. You can't see much of it yet, but what
+you can see is amazing. Along this dirt road are huge stone pillars, marking
+the entrance to upper Scythia.
+     The road continues north and west.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2725
+D1
+The Top of the Cliff. is east from here.
+~
+~
+0 -1 2709
+D3
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2762
+S
+#2725
+A Well Compacted Dirt Road.~
+You are walking along a dirt road that has obviously been used for many
+years. You can see a building far to the northeast.
+     The Road continues north and south.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2726
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2724
+S
+#2726
+A Well Compacted Dirt Road.~
+You are on a dirt road that has obviously been used for many years. Slaves
+walk by carrying various things to and from the guard house.
+     The Road continues north and south.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2727
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2725
+S
+#2727
+A Well Compacted Dirt Road.~
+The Road ends here in a small open area. There is a building to the west,
+but you don't know if its a good idea to go in there or not.
+     The road leads away to the south.
+~
+0 8192 1
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2726
+D3
+The Main Guard House.
+~
+~
+0 -1 2728
+S
+#2728
+The Main Guard House.~
+You have come in through the back door and are now in the main upper
+Scythian guard house. This is where all the experienced Coda are posted. Even
+though there is not realy anyone to protect upper Scythia from, they still do
+it.
+     The guard house expands to the west, there is a door to the east leading
+out to a dirt road.
+~
+0 8192 1
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2727
+D3
+The Main Guard House.
+~
+~
+0 -1 2729
+S
+#2729
+The Main Guard House.~
+This guard house is filled with the most powerful of the Coda guards. They
+are everywhere. Weilding thier huge swords and branded with the mark of  Coda.
+You hope they dont notice you.
+     There are two rooms to the west and south, you're not sure what they are
+for.
+~
+0 8200 1
+D0
+The Entrance to the Guard House.
+~
+~
+0 -1 2732
+D1
+The Main Guard House. is east from here.
+~
+~
+0 -1 2728
+D2
+The Weapons Storage Room.
+~
+~
+0 -1 2730
+D3
+The Armor Storage Room.
+~
+~
+0 -1 2731
+S
+#2730
+The Weapons Storage Room.~
+You are standing among thousands of weapons, in this huge room. Swords,
+maces, spears, daggers and axes hanging all over the walls. Boxes of arrows
+everywhere. There is no one else here, but you. maybe they wouldn't notice if
+you took a few things.
+~
+0 8200 0
+D0
+The Main Guard House. is north from here.
+~
+~
+0 -1 2729
+S
+#2731
+The Armor Storage Room.~
+This is where the Coda guards of upper Scythia store all thier armor. And
+there is ALOT of it. Everywhere you look you see breastplates, boots,
+gauntlets, girths, leggings and more! If it weren't for the fact that the Coda
+guards will fight to the death to keep this armor you would think you were in
+heaven...but maybe you are in hell.
+~
+0 8200 0
+D1
+The Main Guard House. is east from here.
+~
+~
+0 -1 2729
+S
+#2732
+The Entrance to the Guard House.~
+You are standing inside the entrance to the guard house of Upper Scythia.
+     The Guard House is just to the south, and there is a brick road to the
+north.
+~
+0 8200 0
+D0
+The Red Brick Road.
+~
+~
+0 -1 2733
+D2
+The Main Guard House. is south from here.
+~
+~
+0 -1 2729
+S
+#2733
+The Red Brick Road.~
+You are walking along the Red brick road, which leads to the houses of the
+Master Coda.
+     The road continues north, there is a building of some sort to the south.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2734
+D2
+The Entrance to the Guard House. is south from here.
+~
+~
+0 -1 2732
+S
+#2734
+The Red Brick Road.~
+You follow the Red brick road. You have reached the first two houses of
+the master Coda. To the east is the house of the master Coda, Hestia. And to
+the west is the house of the master Coda, Destine.
+     The Road continues north and south.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2737
+D1
+The House of Hestia, Master Coda.
+~
+~
+0 -1 2735
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2733
+D3
+The House of the Master Coda, Destine.
+~
+~
+0 -1 2736
+S
+#2735
+The House of Hestia, Master Coda.~
+You have entered the house of Hestia. It is only one room, but what a room
+it is. It is HUGE! Everywhere there are weapons, weapons of all types. Armor is
+strewn all over the floor, and far to the back you see about 15 male slaves.
+Two other slaves are walking by you, carrying the body of one of thier friends.
+Hestia likes to pracitce her fighting skills on them, some of the slaves are
+quite good...but Hestia is much better.
+~
+0 8201 0
+D3
+The Red Brick Road. is west from here.
+~
+~
+0 -1 2734
+S
+#2736
+The House of the Master Coda, Destine.~
+This is the house of Destine. This front room is not realy that big, and
+you don't see any furniture or anything. But there are no other rooms. Strange,
+for one so powerful among the Coda, Destine doesn't have much. All that is here
+is Destine, surrounded by five males.
+~
+0 8201 0
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2734
+S
+#2737
+The Red Brick Road.~
+Walking along this red brick road you notice a commons far to the west. To
+the north are the houses of the Master Coda. There are also Coda masters living
+to the south, but they are not nearly as powerful as the ones to the north...of
+course, none of the compare to the queen, Nautica.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2738
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2734
+D3
+The Red Brick Road.
+~
+~
+0 -1 2743
+S
+#2738
+The Red Brick Road.~
+You have reached the northern end of the Red brick road. There are tree
+huge houses to your north, east and west. These our the houses of the Master
+Coda. Beware.
+     The road leads away to the south.
+~
+0 8192 1
+D0
+The Home of Atica, Master Coda.
+~
+~
+0 -1 2740
+D1
+The House of the Master Coda, Savant.
+~
+~
+0 -1 2739
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2737
+D3
+The Home of the Master Coda, Synergy.
+~
+~
+0 -1 2741
+S
+#2739
+The House of the Master Coda, Savant.~
+You ahve entered the residence of an increadable warrior, Savant. She is
+huge, agile, and totaly leathal. And she has a very bad temper. There is only
+one room to this house, you have noticed that houses with many rooms are
+reserved for only the best.
+~
+0 8201 0
+D3
+The Red Brick Road. is west from here.
+~
+~
+0 -1 2738
+S
+#2740
+The House of Atica, Master Coda.~
+This is the home of Atica. As you look around you notice alot of
+furniture, or maybe you should call it trash, most of it has been damaged
+beyond any hope of restoring it. Atica sits in the center of this room, eating
+the arm of a dead slave, probably one she killed herself.
+~
+0 8201 0
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2738
+S
+#2741
+The Home of the Master Coda, Synergy.~
+You are in the house of synergy. Synery is not nearly the best warrior of
+the Coda, but you had better not tell her that. She has an increadable temper,
+and she will fight to the death over anything...no matter what the odds against
+her.
+~
+0 8201 0
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2738
+S
+#2742
+The Northeastern Commons.~
+You are in the northeasternmost section of the commons in upper Scythia.
+many slaves walk by carrying various things to thier masters.
+     The commons extends south and west.
+~
+0 8192 1
+D2
+The Eastern Commons.
+~
+~
+0 -1 2746
+D3
+The Northern Commons.
+~
+~
+0 -1 2763
+S
+#2743
+The Red Brick Road.~
+You are on the red brick road leading from the commons to the houses of
+the master coda.
+     The road leads east and west, the commons are to the west.
+~
+0 8192 1
+D1
+The Red Brick Road.
+~
+~
+0 -1 2737
+D3
+The Red Brick Road.
+~
+~
+0 -1 2744
+S
+#2744
+The Red Brick Road.~
+You are on the Red brick road leading from the commons to the houses of
+the master coda.
+     The road leads east and west, the commons are to the west.
+~
+0 8192 1
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2743
+D3
+The Red Brick Road.
+~
+~
+0 -1 2745
+S
+#2745
+The Red Brick Road.~
+Here the red brick road comes to an end. To the west is the commons of
+Upper Scythia. Where all the slaves and Coda go to talk, and where the Coda
+sometimes settle arguments...with a fight to the death.
+~
+0 8192 1
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2744
+D3
+The Eastern Commons.
+~
+~
+0 -1 2746
+S
+#2746
+The Eastern Commons.~
+This is the eastern section of the Scythian commons. The commons is a huge
+grassy area where the slaves come to tlak, and the Coda come to fight.
+     The commons extends to the west, the Red brick road begins to the east.
+~
+0 8192 1
+D0
+The Northeastern Commons. is north from here.
+~
+~
+0 -1 2742
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2745
+D2
+The Southeastern Commons.
+~
+~
+0 -1 2747
+D3
+The Central Commons.
+~
+~
+0 -1 2764
+S
+#2747
+The Southeastern Commons.~
+This section of the commons is not used as much as the rest, the people
+merely walk through the central commons. Unless there is a Coda battle there,
+in which case this area sees heavy traffic.
+~
+0 8192 1
+D0
+The Eastern Commons. is north from here.
+~
+~
+0 -1 2746
+D3
+The Southern Commons.
+~
+~
+0 -1 2748
+S
+#2748
+The Southern Commons.~
+You are walking through the southern commons. This place has many slaves
+walking by, probably they belong to one of the many Coda who live alongside the
+dirt road to the south.
+~
+0 8192 1
+D0
+The Central Commons.
+~
+~
+0 -1 2764
+D1
+The Southeastern Commons. is east from here.
+~
+~
+0 -1 2747
+D2
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2749
+D3
+The Southwest Commons.
+~
+~
+0 -1 2765
+S
+#2749
+A Well Compacted Dirt Road.~
+You are walking along a dirt road, which leads first to the houses of the
+lesser Coda, and finaly to the entrance to upper Scythia.
+    The road continues south, and the commons begin to the north.
+~
+0 8192 1
+D0
+The Southern Commons. is north from here.
+~
+~
+0 -1 2748
+D2
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2750
+S
+#2750
+A Well Compacted Dirt Road.~
+You are on a small dirt road walking about the houses of the lesser Coda.
+     There are houses east and west of you.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road. is north from here.
+~
+~
+0 -1 2749
+D1
+A Small Wooden Hut.
+~
+~
+0 -1 2751
+D2
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2754
+D3
+A Small Wooden Hut.
+~
+~
+0 -1 2753
+S
+#2751
+A Small Wood Hut.~
+This is one of the many huts where the lesser Coda live. Coda are
+respected only if they can fight, so the ones that cannot fight get to live
+with about twenty others in a small hut like this.
+~
+0 8201 0
+D3
+A Well Compacted Dirt Road. is west from here.
+~
+~
+0 -1 2750
+S
+#2752
+The Shack.~
+You are in a small, falling apart, and very old shack. But this is no
+ordinaly shack. This shack was built for Artemis, Master of the Coda. I guess
+whoever built this shack for him didn't like him very much. But if you're a
+mortal and you're in here, you had better have the permission of Artemis.
+Pedron Niall brought his Whitecloaks down upon scythia more than 2 years ago.
+All that he managed to hold onto was this room, which most of the Coda cannot
+enter. The Coda are VERY potent fighters.
+~
+0 33288 0
+D5
+The Queens Private Quarters.
+~
+~
+0 -1 2766
+S
+#2753
+A Small Wooden Hut.~
+This is another of the small huts built to house the lesser Coda. There
+are about twenty Coda living in this one room hut at the moment.
+~
+0 9 0
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2750
+S
+#2754
+A Well Compacted Dirt Road.~
+You are on a dirt road, which runs through the southern part of upper
+Scythia. There are huts wich house the lesser Coda to the south and west.
+    The road continues north and east.
+~
+0 8192 1
+D0
+A Well Compacted Dirt Road. is north from here.
+~
+~
+0 -1 2750
+D1
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2757
+D2
+A Small Hut.
+~
+~
+0 -1 2756
+D3
+A Small Hut.
+~
+~
+0 -1 2755
+S
+#2755
+A Small Hut.~
+This is another of the small huts built to house the lesser coda. There
+are about twenty coda living in this one room hut at the moment.
+~
+0 8201 0
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2754
+S
+#2756
+A Small Hut.~
+This is another of the small huts built to house the lesser Coda. There
+are about twenty Coda living in this one room hut at the moment.
+~
+0 8201 0
+D0
+A Well Compacted Dirt Road. is north from here.
+~
+~
+0 -1 2754
+S
+#2757
+A Well Compacted Dirt Road.~
+You are walking along a dirt road which runs through the southern part of
+upper Scythia. To your north and south are two huts built to house the lesser
+Coda.
+    The road you are on continues east and west.
+~
+0 8192 1
+D0
+A Small Hut.
+~
+~
+0 -1 2758
+D1
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2760
+D2
+A Small Hut.
+~
+~
+0 -1 2759
+D3
+A Well Compacted Dirt Road. is west from here.
+~
+~
+0 -1 2754
+S
+#2758
+A Small Hut.~
+This is another of the small huts built to house the lesser Coda. There are
+about twenty Coda living in this one room hut at the moment.
+~
+0 8201 0
+D2
+A Well Compacted Dirt Road. is south from here.
+~
+~
+0 -1 2757
+S
+#2759
+A Small Hut.~
+This is another of the small huts built to house the lesser Coda. There are
+about twenty Coda living in this one room hut at the moment.
+~
+0 8201 0
+D0
+A Well Compacted Dirt Road. is north from here.
+~
+~
+0 -1 2757
+S
+#2760
+A Well Compacted Dirt Road.~
+This is a small dirt road which runs east to the entrance of upper Scythia
+and west to the houses of the lesser Coda.
+~
+0 8192 1
+D1
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2761
+D3
+A Well Compacted Dirt Road. is west from here.
+~
+~
+0 -1 2757
+S
+#2761
+A Well Compacted Dirt Road.~
+You are on a small dirt road that leads east to the entrance to upper
+Scythia and west to the houses of the lesser Coda.
+~
+0 8192 1
+D1
+A Well Compacted Dirt Road.
+~
+~
+0 -1 2762
+D3
+A Well Compacted Dirt Road. is west from here.
+~
+~
+0 -1 2760
+S
+#2762
+A Well Compacted Dirt Road.~
+You are on a small dirt road which leads east and west. To the west are
+the houses of the lesser Coda.
+     Just to the east are the huge stone pillars marking the entrance to Upper
+Scythia.
+~
+0 8192 1
+D1
+A Well Compacted Dirt Road. is east from here.
+~
+~
+0 -1 2724
+D3
+A Well Compacted Dirt Road. is west from here.
+~
+~
+0 -1 2761
+S
+#2763
+The Northern Commons.~
+You are in the northern commons of upper scythia. here many, many slaves
+walk to and from the queens house to the north.
+     The commons extends east, west and south. The Red brick road begins ot the
+north.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2778
+D1
+The Northeastern Commons. is east from here.
+~
+~
+0 -1 2742
+D2
+The Central Commons.
+~
+~
+0 -1 2764
+D3
+The Northwest Commons.
+~
+~
+0 -1 2777
+S
+#2764
+The Central Commons.~
+You are in the central commons of upper Scythia. This is the bussiest part
+of the entire city. Hundreds of slaves, and a few Coda cross here every hour.
+And every few days or so there are huge battles here, fights to the death.
+~
+0 9 1
+D0
+The Northern Commons. is north from here.
+~
+~
+0 -1 2763
+D1
+The Eastern Commons. is east from here.
+~
+~
+0 -1 2746
+D2
+The Southern Commons.
+~
+~
+0 -1 2748
+D3
+The Western Commons.
+~
+~
+0 -1 2767
+S
+#2765
+The Southwest Commons.~
+You are in the southwest corner of the upper Scythian commons.
+     The commons extends north and east.
+~
+0 8192 1
+D0
+The Western Commons.
+~
+~
+0 -1 2767
+D1
+The Southern Commons. is east from here.
+~
+~
+0 -1 2748
+S
+#2766
+Queen Nautica's Private Chamber.~
+You ahve entered Queen Nautica's private quarters. NO one alive has ever
+seen these quarters except the queen herself. If you are found back this far,
+you're as good as dead.
+     To the south are more of the queen private quarters, that you aren't
+supposed to be in.
+~
+0 8201 0
+D2
+The Queens Private Quarters.
+~
+~
+0 -1 2789
+D4
+The Shack. is up from here.
+~
+~
+0 -1 2752
+S
+#2767
+The Western Commons.~
+You are in the western commons of upper Scythia. This huge grassy commons
+extends to the north. south and east.
+     To the west is the warriors guild.
+~
+0 8192 1
+D0
+The Northwest Commons.
+~
+~
+0 -1 2777
+D1
+The Central Commons. is east from here.
+~
+~
+0 -1 2764
+D2
+The Southwest Commons. is south from here.
+~
+~
+0 -1 2765
+D3
+The Entrance of the Warriors Guild.
+~
+~
+0 -1 2768
+S
+#2768
+The Entrance of the Warriors Guild.~
+You are in the entrance of the warriors guild. This guild is not just
+exclusive to warriors, but to only Coda warriors. Other warriors might get
+in...but if they're found in there, they're dead.
+~
+0 8200 0
+D1
+The Western Commons. is east from here.
+~
+~
+0 -1 2767
+D3
+The Warriors Guild.
+~
+~
+0 -1 2769
+S
+#2769
+The Warriors Guild.~
+You have entered the exclusive warriors guild of upper Scythia. Only coda
+warriors are allowed in here, how did you get in?
+     The warriors guild continues north and west, the entrance is east.
+~
+0 8200 0
+D0
+The Warriors Guild.
+~
+~
+0 -1 2772
+D1
+The Entrance of the Warriors Guild. is east from here.
+~
+~
+0 -1 2768
+D3
+The Warriors Guild.
+~
+~
+0 -1 2770
+S
+#2770
+The Warriors Guild.~
+You are in the exclusive warriors guild of upper Scythia. All around you
+are the lavish furnishings enjoyed by the master warriors of the Coda. Wait,
+only coda are allowed in here...how did you get in?
+~
+0 8200 0
+D0
+The Bar of the Coda Warriors.
+~
+~
+0 -1 2771
+D1
+The Warriors Guild. is east from here.
+~
+~
+0 -1 2769
+S
+#2771
+The Bar of the Coda Warriors.~
+You are in a huge bar, made to serve every coda if need be. There are
+about five or so Coda here right now. They all stare at you as you walk
+in...then they draw thier swords!
+~
+0 8200 0
+D0
+The Training Grounds.
+~
+~
+0 -1 2773
+D1
+The Warriors Guild.
+~
+~
+0 -1 2772
+D2
+The Warriors Guild. is south from here.
+~
+~
+0 -1 2770
+S
+#2772
+The Warriors Guild.~
+You are in the northeast corner of the warriors guild.
+     The warriors bar is to the west and the guild hall extends south. you can
+see the training grounds to the north, but you can't get there from here.
+~
+0 8200 0
+D2
+The Warriors Guild. is south from here.
+~
+~
+0 -1 2769
+D3
+The Bar of the Coda Warriors. is west from here.
+~
+~
+0 -1 2771
+S
+#2773
+The Training Grounds.~
+These are the Training grounds...where all the female halfbreed Coda/slave
+are trained to become warriors. If after thier years of trainin they are good
+enough, Nautica will force the wizard to transform them into true and pure
+Coda.
+~
+0 8192 1
+D0
+The Training Grounds.
+~
+~
+0 -1 2776
+D1
+The Training Grounds.
+~
+~
+0 -1 2774
+D2
+The Bar of the Coda Warriors. is south from here.
+~
+~
+0 -1 2771
+S
+#2774
+The Training Grounds.~
+You are in the training grounds of the warriors guild. Here the Coda come
+to train thier skills, so that no one will ever defeat them.
+     The training grounds extend to the north and west.
+~
+0 8192 1
+D0
+The Training Grounds.
+~
+~
+0 -1 2775
+D3
+The Training Grounds. is west from here.
+~
+~
+0 -1 2773
+S
+#2775
+The Training Grounds.~
+You are in the training grounds of the warriors guild. Where the Coda come
+to train thier skills, so that no one will ever defeat them.
+     The training grounds extend south and west.
+~
+0 8192 1
+D2
+The Training Grounds. is south from here.
+~
+~
+0 -1 2774
+D3
+The Training Grounds.
+~
+~
+0 -1 2776
+S
+#2776
+The Training Grounds.~
+You are in the training grounds of the warriors guild. Where the Coda come
+to train thier skills, so that no one will ever defeat them.
+     The training grounds extend to the south and east.
+~
+0 8192 1
+D1
+The Training Grounds. is east from here.
+~
+~
+0 -1 2775
+D2
+The Training Grounds. is south from here.
+~
+~
+0 -1 2773
+S
+#2777
+The Northwest Commons.~
+This is a huge expanse of grassy commons, where the slaves come to
+talk...and the Coda to fight, tot he death.
+     The commons extend to the south and east.
+~
+0 8192 1
+D1
+The Northern Commons. is east from here.
+~
+~
+0 -1 2763
+D2
+The Western Commons. is south from here.
+~
+~
+0 -1 2767
+S
+#2778
+The Red Brick Road.~
+You are on the red brick road which leads north to the Queens house and
+become the commons to the south.
+     There is a bakery to the east and a general store to the west.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2781
+D1
+The Bakery.
+~
+~
+0 -1 2779
+D2
+The Northern Commons. is south from here.
+~
+~
+0 -1 2763
+D3
+The General Store.
+~
+~
+0 -1 2780
+S
+#2779
+The Bakery.~
+This is a bakery...sort of. They don't sell anything here, rather they
+just make bread...and are force to give it to any Coda that comes by. The
+slaves here look very overworked.
+~
+0 8200 0
+D3
+The Red Brick Road. is west from here.
+~
+~
+0 -1 2778
+S
+#2780
+The General Store.~
+This is called a general store, but its not realy a store at all. The
+slaves here make all sorts of good...then have to give them to any Coda that
+wants them. They look very tired and overworked.
+~
+0 8200 0
+D1
+The Red Brick Road. is east from here.
+~
+~
+0 -1 2778
+S
+#2781
+The Red Brick Road.~
+You are walking along the Red brick road which leads north to the Queens
+house and south to the commons. To the east there is some sort fo strange
+building. You can hear someone talking from inside it, this person sounds very
+strange.
+~
+0 8192 1
+D0
+The Red Brick Road.
+~
+~
+0 -1 2784
+D1
+The House of Diva.
+~
+~
+0 -1 2782
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2778
+S
+#2782
+The House of Diva.~
+This place seems different than the rest of Scythia, almost as if the gods
+had not forsaken this house for some reason. This is the house of Diva...the
+master wizard. After Diva cast the spell to creat the Coda she was imprisoned
+here, by the very thing she created. Strange, but you don't see her here and
+you wonder where she could be...the Coda never let her leave.
+~
+0 8 0
+D1
+Diva's Secret Room.
+~
+~
+1 -1 2783
+D3
+The Red Brick Road. is west from here.
+~
+~
+0 -1 2781
+S
+#2783
+Diva's Secret Room.~
+You have entered the secret room of the master wizard, Diva. Here in the
+center of the room she is making an elixir...and elixir that will destroy that
+Coda. It will return them to there former selves, a bunch of docile women.
+     This room as well does not seem to be part of the spell of Scythia, it
+seems to not be forsaken by the gods.
+~
+0 8 0
+D3
+The House of Diva. is west from here.
+~
+~
+0 -1 2782
+S
+#2784
+0The Red Brick Road.~
+You are walking along the red brick road. Far to the south is the commons.
+     Just to the north is the entrance to the Queens house, you know for a fact
+they will not let you in...if you want in you gotta fight, and fight hard.
+Unfortunately it is most likely that the Coda will fight harder.
+~
+0 8192 1
+D0
+The Entranceway to the house of Nautica.
+~
+~
+0 -1 2785
+D2
+The Red Brick Road.
+~
+~
+0 -1 2781
+S
+#2785
+The Entranceway to the House of Nautica.~
+You are standing in the entrance to the house of the Queen of the Coda,
+Nautica. There are guards all around preparing to kill you. Even though the
+Queen is stronger than all of them, they will fight to the death to protect
+her.
+     The House begins to the north, but maybe you should take the red brick
+road to the south.
+~
+0 8201 0
+D0
+The Main Living Quarters.
+~
+~
+0 -1 2786
+D2
+The Red Brick Road. is south from here.
+~
+~
+0 -1 2784
+S
+#2786
+The Main Living Quarters.~
+You have made it inside the great house of the Coda Queen. You had better
+hope you're a kick ass warrior...cause if not you're screwed.
+    The Elite Coda Guards reside to the west, the kitchen is to the east.
+Directly above you is the entrance to Nautica's personal Quarters...no one ever
+goes in there.
+~
+0 8201 0
+D1
+The Kitchen.
+~
+~
+0 -1 2794
+D2
+The Entranceway to the House of Nautica. is south from here.
+~
+~
+0 -1 2785
+D3
+The Elite Coda Guards Quarters.
+~
+~
+0 -1 2791
+D4
+The Queens Private Quarters.
+~
+~
+0 -1 2787
+S
+#2787
+The Queens Private Quarters.~
+You ahve entered the Queens private quarters...no one is allowed in here.
+Even the guards will not follow you here, they are not as stupid as you
+apparently are.
+     The Queens private quarters continue to the north.
+~
+0 8201 0
+D0
+The Queens Private Quarters.
+~
+~
+0 -1 2788
+D5
+The Main Living Quarters. is down from here.
+~
+~
+0 -1 2786
+S
+#2788
+The Queens Private Quarters.~
+You realy ahve guts to come this far into the queens quarters. There is
+realy not much here...a few weapons, a chair or two here and there.
+     The queens quarters continue east.
+~
+0 8201 0
+D1
+The Queens Private Quarters.
+~
+~
+0 -1 2789
+D2
+The Queens Private Quarters. is south from here.
+~
+~
+0 -1 2787
+S
+#2789
+The Queens Private Quarters.~
+You are nearing the end of the queens quarters. This room is mostly empty.
+    The Queens quarters extend to the south. There is some other sort of room
+north.
+~
+0 8201 0
+D0
+Queen Nautica's Private Chamber.
+~
+~
+0 -1 2766
+D2
+The Queens Quarters.
+~
+~
+0 -1 2790
+D3
+The Queens Private Quarters. is west from here.
+~
+~
+0 -1 2788
+S
+#2790
+The Queens Private Quarters.~
+The queens quarters end here. You can go north...or you can sit here and
+wait for the queen to find you.
+~
+0 8201 0
+D0
+The Queens Private Quarters.
+~
+~
+0 -1 2789
+S
+#2791
+The Elite Coda Guards Quarters.~
+You are in the quarters of the elite coda guards. The queen keeps about
+ten of these guards at all times for protection...even though she doesn't need
+it. All Coda guards hope to be assigned to this post. The Queen gives her
+guards this entire west wing of the house.
+~
+0 8201 0
+D0
+The Elite Coda Guards Quarters.
+~
+~
+0 -1 2793
+D1
+The Main Living Quarters. is east from here.
+~
+~
+0 -1 2786
+D3
+The Elite Coda Guards Quarters.
+~
+~
+0 -1 2792
+S
+#2792
+The Elite Coda Guards Quarters.~
+These are the sleeping quarters for the guards. Slaves from the kitchen
+walk in bringing the Coda guards an increadable amount of mouth watering foods.
+You can see why they like this assignment.
+~
+0 8200 0
+D1
+The Elite Coda Guards Quarters. is east from here.
+~
+~
+0 -1 2791
+S
+#2793
+The Elite Coda Guards Quarters.~
+These are the sleeping quarters for the guards. They work in shifts and
+there are a few of them here sleeping.
+     The guards quarters continue to the south.
+~
+0 8201 0
+D2
+The Elite Coda Guards Quarters. is south from here.
+~
+~
+0 -1 2791
+S
+#2794
+The Kitchen.~
+You are in a huge kitchen. There are hundreds of slaves here making all
+sorts of foods. You are suddenly extremely hungry as you look at all the
+goodies.
+     The Main room is to the west and the slaves sleeping quarters are to the
+east.
+~
+0 8200 0
+D1
+The Slaves Quarters.
+~
+~
+0 -1 2795
+D3
+The Main Living Quarters. is west from here.
+~
+~
+0 -1 2786
+S
+#2795
+The Slaves Quarters.~
+You are in the slaves sleeping area. There are hundreds of slaves asleep
+here, and still more that are sick or dead. The whole room reaks of rotting
+flesh. None of the guards or the queen ever come in here, these slaves are in
+terrible health.
+~
+0 8201 0
+D3
+The Kitchen. is west from here.
+~
+~
+0 -1 2794
+S
+#0
+
+#SPECIALS
+M 2621 spec_breath_gas - Assigned to: Nautica
+M 2622 spec_cast_undead - Assigned to: A Coda guard
+M 2624 spec_cast_mage - Assigned to: Savant
+M 2625 spec_cast_mage - Assigned to: Atica
+M 2626 spec_cast_mage - Assigned to: Synergy
+M 2627 spec_cast_mage - Assigned to: Hestia
+M 2628 spec_cast_mage - Assigned to: Destine
+M 2629 spec_cast_cleric - Assigned to: The Priest
+M 2632 spec_cast_undead - Assigned to: Victor
+M 2634 spec_cast_undead - Assigned to: Diva
+M 2635 spec_cast_undead - Assigned to: Nautica's personal guard
+S
+
+#RESETS
+*Door state resets
+D 0 2631 0  1    - 2631: north door is closed, passable
+D 0 2632 2  1    - 2632: south door is closed, passable
+D 0 2633 3  1    - 2633: west door is closed, passable
+D 0 2641 1  1    - 2641: east door is closed, passable
+D 0 2648 3  1    - 2648: west door is closed, passable
+D 0 2782 1  2    - 2782: east door is locked, passable
+M 0 2633 5  2623 - Load A small man
+M 0 2620 10 2625 - Load A coda warrior
+M 0 2633 5  2628 - Load A small man
+M 0 2629 1  2632 - Load The Priest
+E 0 2623 10 16   - The priest's warhammer wielded on The Priest
+M 0 2633 5  2634 - Load A small man
+M 0 2620 10 2636 - Load A coda warrior
+M 0 2633 5  2638 - Load A small man
+M 0 2620 10 2641 - Load A coda warrior
+M 0 2633 5  2643 - Load A small man
+M 0 2620 10 2645 - Load A coda warrior
+M 0 2632 1  2648 - Load Victor
+M 0 2620 10 2652 - Load A coda warrior
+M 0 2620 10 2652 - Load A coda warrior
+M 0 2620 10 2652 - Load A coda warrior
+M 0 2622 21 2663 - Load A Coda guard
+M 0 2620 10 2663 - Load A coda warrior
+M 0 2620 10 2663 - Load A coda warrior
+M 0 2620 10 2665 - Load A coda warrior
+M 0 2636 7  2667 - Load A Coda guard
+M 0 2622 21 2671 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2622 21 2672 - Load A Coda guard
+M 0 2622 21 2674 - Load A Coda guard
+M 0 2636 7  2675 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2622 21 2677 - Load A Coda guard
+M 0 2622 21 2680 - Load A Coda guard
+M 0 2631 24 2682 - Load A Huge Coda
+M 0 2631 24 2684 - Load A Huge Coda
+M 0 2631 24 2685 - Load A Huge Coda
+M 0 2636 7  2686 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2631 24 2689 - Load A Huge Coda
+M 0 2622 21 2690 - Load A Coda guard
+M 0 2623 37 2690 - Load A small slave
+M 0 2623 37 2690 - Load A small slave
+M 0 2623 37 2690 - Load A small slave
+M 0 2623 37 2690 - Load A small slave
+M 0 2631 24 2693 - Load A Huge Coda
+M 0 2623 37 2694 - Load A small slave
+M 0 2623 37 2695 - Load A small slave
+M 0 2622 21 2697 - Load A Coda guard
+M 0 2623 37 2697 - Load A small slave
+M 0 2623 37 2697 - Load A small slave
+M 0 2623 37 2698 - Load A small slave
+M 0 2623 37 2699 - Load A small slave
+M 0 2623 37 2699 - Load A small slave
+M 0 2623 37 2699 - Load A small slave
+M 0 2623 37 2699 - Load A small slave
+M 0 2623 37 2699 - Load A small slave
+M 0 2623 37 2701 - Load A small slave
+M 0 2636 7  2703 - Load A Coda guard
+M 0 2623 37 2704 - Load A small slave
+M 0 2623 37 2704 - Load A small slave
+M 0 2623 37 2704 - Load A small slave
+M 0 2623 37 2704 - Load A small slave
+M 0 2623 37 2704 - Load A small slave
+M 0 2622 21 2705 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2622 21 2705 - Load A Coda guard
+M 0 2622 21 2706 - Load A Coda guard
+M 0 2622 21 2710 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2623 37 2710 - Load A small slave
+M 0 2623 37 2710 - Load A small slave
+M 0 2622 21 2712 - Load A Coda guard
+M 0 2623 37 2712 - Load A small slave
+M 0 2623 37 2712 - Load A small slave
+O 0 2638 1  2714 - A stasis box loaded to The Escape Tunnel.
+P 0 2639 5  2638 - A small glowbulb put in a small Glowbulb
+P 0 2640 5  2638 - A small canister of strange liquid put in a small canister of strange liquid
+P 0 2642 5  2638 - A shocklance put in a Shocklance
+M 0 2622 21 2724 - Load A Coda guard
+M 0 2631 24 2725 - Load A Huge Coda
+M 0 2622 21 2728 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2622 21 2729 - Load A Coda guard
+G 0 2620 30      - Human flesh. given to A Coda guard
+M 0 2622 21 2730 - Load A Coda guard
+M 0 2622 21 2731 - Load A Coda guard
+M 0 2631 24 2733 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2622 21 2733 - Load A Coda guard
+M 0 2631 24 2734 - Load A Huge Coda
+M 0 2627 1  2735 - Load Hestia
+G 0 2620 10      - Human flesh. given to Hestia
+G 0 2620 10      - Human flesh. given to Hestia
+M 0 2628 1  2736 - Load Destine
+G 0 2620 10      - Human flesh. given to Destine
+M 0 2631 24 2737 - Load A Huge Coda
+M 0 2631 24 2738 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2624 1  2739 - Load Savant
+E 0 2626 10 11   - The dark shield of savant. as a shield on Savant
+E 0 2622 10 17   - The mark of the master coda held in the hands on Savant
+M 0 2625 1  2740 - Load Atica
+E 0 2627 10 8    - The blazing red boots of atica on the feet on Atica
+E 0 2622 10 17   - The mark of the master coda held in the hands on Atica
+M 0 2626 1  2741 - Load Synergy
+E 0 2628 10 9    - Synergy's pitch-black gloves on the hands on Synergy
+E 0 2622 10 17   - The mark of the master coda held in the hands on Synergy
+M 0 2631 24 2742 - Load A Huge Coda
+M 0 2631 24 2745 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2631 24 2746 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2622 21 2746 - Load A Coda guard
+M 0 2623 37 2746 - Load A small slave
+M 0 2631 24 2748 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2623 37 2748 - Load A small slave
+M 0 2623 37 2748 - Load A small slave
+M 0 2630 14 2749 - Load A coda
+M 0 2630 14 2750 - Load A coda
+M 0 2630 14 2751 - Load A coda
+M 0 2630 14 2751 - Load A coda
+M 0 2630 14 2753 - Load A coda
+M 0 2630 14 2753 - Load A coda
+M 0 2630 14 2754 - Load A coda
+M 0 2630 14 2755 - Load A coda
+M 0 2630 14 2755 - Load A coda
+M 0 2630 14 2756 - Load A coda
+M 0 2630 14 2756 - Load A coda
+M 0 2630 14 2757 - Load A coda
+M 0 2630 14 2758 - Load A coda
+M 0 2630 14 2759 - Load A coda
+M 0 2631 24 2760 - Load A Huge Coda
+M 0 2631 24 2761 - Load A Huge Coda
+M 0 2631 24 2763 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2636 7  2763 - Load A Coda guard
+M 0 2623 37 2763 - Load A small slave
+M 0 2621 1  2766 - Load Nautica
+E 0 2622 10 17   - The mark of the master coda held in the hands on Nautica
+E 0 2624 10 16   - A hell-forged, diablos blade. wielded on Nautica
+E 0 2625 10 0    - A vial of glowing magma as a light on Nautica
+E 0 2621 10 6    - The black crown of nautica over the head on Nautica
+E 0 2633 10 1    - A molten firestone ring on the left finger on Nautica
+G 0 2629 10      - Diablo's black bag given to Nautica
+M 0 2631 24 2769 - Load A Huge Coda
+M 0 2631 24 2770 - Load A Huge Coda
+M 0 2631 24 2771 - Load A Huge Coda
+G 0 2620 30      - Human flesh. given to A Huge Coda
+M 0 2631 24 2771 - Load A Huge Coda
+M 0 2631 24 2771 - Load A Huge Coda
+M 0 2622 21 2771 - Load A Coda guard
+M 0 2631 24 2775 - Load A Huge Coda
+M 0 2631 24 2778 - Load A Huge Coda
+M 0 2623 37 2779 - Load A small slave
+M 0 2623 37 2779 - Load A small slave
+M 0 2634 1  2783 - Load Diva
+G 0 2631 10      - Diva's half-brewed elixir given to Diva
+E 0 2630 10 17   - Diva's scroll held in the hands on Diva
+O 0 2634 1  2783 - Diva's invisible small tassled box loaded to Diva's Secret Room.
+P 0 2635 10 2634 - A small semi-burnt scroll put in a small semi-burnt scroll
+E 0 2632 0  16   - A shard of pure evil wielded on Diva
+E 0 2643 0  -1   - Diva's little key in the inventory on Diva
+M 0 2635 9  2784 - Load Nautica's personal guard
+M 0 2635 9  2784 - Load Nautica's personal guard
+M 0 2636 7  2785 - Load A Coda guard
+M 0 2636 7  2785 - Load A Coda guard
+M 0 2635 9  2785 - Load Nautica's personal guard
+M 0 2635 9  2785 - Load Nautica's personal guard
+O 0 2641 1  2789 - Nautica's jewlery box loaded to The Queens Private Quarters.
+M 0 2635 9  2791 - Load Nautica's personal guard
+M 0 2635 9  2792 - Load Nautica's personal guard
+M 0 2635 9  2792 - Load Nautica's personal guard
+M 0 2635 9  2793 - Load Nautica's personal guard
+M 0 2635 9  2793 - Load Nautica's personal guard
+M 0 2623 37 2794 - Load A small slave
+M 0 2623 37 2794 - Load A small slave
+M 0 2623 37 2794 - Load A small slave
+M 0 2623 37 2794 - Load A small slave
+M 0 2623 37 2795 - Load A small slave
+M 0 2623 37 2795 - Load A small slave
+M 0 2623 37 2795 - Load A small slave
+S
+
+#SHOPS
+0
+
+#$
+
+

@@ -1,0 +1,373 @@
+#3301
+Market Road~
+  You are standing on the western end of Market Road.  The traffic here  
+is light.  This is a quieter section of Midgaard.  Dark alleys are to
+the north and the south of you.  The Market Road continues east.  You 
+can just barely hear the sounds of haggling coming from that direction.
+Wall Road is west of you.
+~
+33 0 1
+D0
+A dark alley is north of here.
+~
+~
+0 -1 3304
+D1
+Market Road continues east.
+~
+~
+0 -1 3302
+D2
+A dark alley is north of here.
+~
+~
+0 -1 3309
+D3
+Wall Road is to the west.
+~
+~
+0 -1 3258
+S
+#3302
+Market Road~
+  You are walking along Market Road.  There is a slightly unpleasant
+smell in the air.  It seems to be coming from a doorway to the north.
+Looking up, you realize that it is the butchers shop.  To the south of 
+you is the jewellers shop.  Market Road continues on to the east and 
+the west.  
+~
+33 0 1
+D0
+The butchers shop is to the north.
+~
+~
+0 -1 3335
+D1
+Market Road continues east.
+~
+~
+0 -1 3303
+D2
+The jewellers shop is to the south.
+~
+~
+0 -1 3334
+D3
+Market Road continues west.
+~
+~
+0 -1 3301
+S
+#3303
+Market Road~
+  Here Market Road is intersected by another, smaller road.  A street 
+sign identifies it as 'Clay Street'.  It runs both north and south.  
+Market Road continues to the east and the west.  There are not any shops
+here, so the traffic is minimal.
+~
+33 0 1
+D0
+Clay Street leads north.
+~
+~
+0 -1 3308
+D1
+Market Road continues to the east.
+~
+~
+0 -1 3314
+D2
+Clay Street leads south.
+~
+~
+0 -1 3313
+D3
+Market Road continues to the west.
+~
+~
+0 -1 3302
+S
+#3314
+Market Road~
+  Noise and light abound on this part of Market Road.  The sounds of 
+music and laughter pour out from a busy inn and pub to the south.  It's
+doors are open wide, and you can see happy people inside the building.
+To the north of you is a large trading post.  The scents of spices and
+incense mix pleasantly and pour through the door.  Market road continues
+off to the east and west.
+~
+33 0 1
+D0
+A large trading post is to the north.
+~
+~
+0 -1 3353
+D1
+Market Road continues to the east.
+~
+~
+0 -1 3315
+D2
+A busy pub is to the south.
+~
+~
+0 -1 3355
+D3
+Market Road continues to the west.
+~
+~
+0 -1 3303
+S
+#3315
+Market Road~
+  Market Road seems to widen here slightly, allowing more traffic to 
+travel through the area.  To the south is another entrance to the busy
+pub.  This door is also open wide and spilling forth the sounds of
+happy patrons.  North of you is a small florists shop.  If you close
+your eyes, you can smell the roses, petunias, tulips, and carnations.
+Market Road continues to the east and west.
+~
+33 0 1
+D0
+A small florists shop is to the north.
+~
+~
+0 -1 3354
+D1
+Market Road continues to the east.
+~
+~
+0 -1 3316
+D2
+A busy pub is to the south.
+~
+~
+0 -1 3356
+D3
+Market Road continues to the west.
+~
+~
+0 -1 3314
+S
+#3316
+Market Road~
+  You are at the eastern end of Market Road.  To the east of you, the  
+tall wall around the city looms up before you and casts its shadow on
+you.  Market Road continues to the west.  A north-south running road 
+labeled 'Staid Avenue' intersects Market Road here and picks up the 
+overflow of southern traffic from Wall Road to the east.
+~
+33 0 1
+D0
+Staid Avenue leads to the north.
+~
+~
+0 -1 3318
+D1
+Wall Road is east of here.
+~
+~
+0 -1 3266
+D2
+Staid Avenue runs south of here.
+~
+~
+0 -1 3326
+D3
+Market Road continues to the west.
+~
+~
+0 -1 3315
+S
+#3335
+A Butcher's Shop~
+  An somewhat unpleasant smell assaults your nose as you walk through 
+the open door of the shop.  The scent of raw meat, blood and sweat are 
+are among the more recognizable odors.  They seem to be the standard 
+aromas of a good butchers shop.  Various slabs and shoulders of beef, 
+deer, rabbit and other animals hang on large hooks along the walls and 
+in rest piles on butchering blocks.  A sign hangs nearby. Large wooden 
+numbers hang from a large nail on the sign.
+~
+33 0 0
+D2
+Market Road is through the door to the south.
+~
+~
+0 -1 3302
+E
+sign signs numbers~
+The sign says: Please take a number.  
+The top number is: 42
+~
+S
+#3334
+A Jeweller's Shop~
+  A few strategically placed lanterns keep this shop well-lit in the 
+absence of any windows.  The room is surprisingly well appointed with  
+tapestries hanging on the walls.  Large oak cases are situated in the 
+back of the room, obviously designed for displaying jewellery.  A simple 
+work bench is located to the front of the shop and a few tools are strewn
+about on it.  There is a heavy door in the back of the room.  You assume
+that it leads to the jewellers back room where he stores his valuables.
+~
+33 0 0
+D0
+Market Road is to the north.
+~
+~
+0 -1 3302
+S
+#3353
+The Trading Post~
+  Bolts of cloth are stacked in monstrous heaps around the room.  Barrells 
+of spices fill the corners.  Crates and boxes are stacked in a haphazard
+manner about the room.  Merchants wander in and out of a back door, moving
+strange boxes filled with mysterious goods and bound for exotic locations.
+A schedule for the various caravans is posted on the walls.  This is the
+local trading post.  It hums and buzzes with excitement.
+~
+33 0 0
+D2
+Market Road is to the south.
+~
+~
+0 -1 3314
+E
+schedule~
+The writing is small and close.  You don't want to strain your eyes looking
+at it.
+~
+S
+#3354
+A Florists Shop~
+  The fragrant scent of flowers in full bloom embraces you as you enter
+the shop.  Pots and bowls with roses, petunias, daisies, tulips, and 
+carnations line the shelves along the walls.  Smaller pots of herbs and
+spices rest on tables near the front of the room.  A counter stands in
+the back of the room.  A woman is there, trimming some sort of small,
+green plant.
+~
+33 0 0
+D2
+Market Road is to the south.
+~
+~
+0 -1 3315
+S
+#3355
+Andy's Pub~
+  The busy pub is filled with patrons.  People are laughing and singing.
+A minstrel plays his lute in another part of the pub, and a few people 
+are even dancing.  Andy, the pubs owner, wanders around and checks to see
+that the needs of his customers are met.  The bar is to your south.  East
+of you is another section of the pub.  You know that there are rooms to
+be had somewhere around here...
+~
+33 0 0
+D0
+Market Road is to the north.
+~
+~
+0 -1 3314
+D1
+You see another room in the pub.
+~
+~
+0 -1 3356
+D2
+The bar is to the south of you.
+~
+~
+0 -1 3357
+S
+#3356
+  This part of the pub is filled with dancing and singing.  A wandering
+minstrel is on a chair in a corner with his lute.  A busty red headed
+woman is standing near him and singing a tale of comedic heroism. Drunk
+men sit laughing at their tables and busy bar maids weave through the
+crowd with full mugs and horns of ale and mead.  Another part of the pub
+is located to your west. The bar is to the south.  A set of steps occupy
+in a corner of the room.  They lead up to the inn section of this 
+prosperous establishment.  
+~
+33 0 0
+D0
+Market Road is to the north.
+~
+~
+0 -1 3315
+D2
+The bar is to your south.
+~
+~
+0 -1 3358
+D3
+Another room in the pub is to your west.
+~
+~
+0 -1 3355
+D4
+A set of stairs leads up to the reception area.
+~
+~
+0 -1 3359
+S
+#3357
+The Bar~
+  A long mahogany bar is set in the back of the pub.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly-looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids stand in a corner and throw the most 
+inviting glances your way.
+A sign is on the wall.
+~
+33 0 0
+D0
+The pub proper is to the north.
+~
+~
+0 -1 3355
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+S
+#3358
+The Bar~
+  A long mahogany bar is set in the back of the pub.  Mugs line a shelf 
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids stand in a corner and throw the most
+inviting glances your way.
+~
+33 0 0
+D0
+The pub proper is to the north.
+~
+~
+0 -1 3356
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+S
+#3359
+The Inn~
+  You are standing upstairs from Andy's Pub at Andy's Inn.  A few chairs
+and a couple of end tables give the room a `homey' atmosphere.  A large
+stone fireplace burns brightly against one wall and warms the room.  A
+large oak desk is nestled in one corner of the room.  A small man with 
+wire-framed glasses sits behind the desk working dilligently on his books.
+He looks up as you enter the room.  He looks at you quizzically.  He is 
+probably waiting for you to ask him for a room.
+~
+33 0 0
+D5
+The stairs lead back down to the pub.
+~
+~
+0 -1 3356
+

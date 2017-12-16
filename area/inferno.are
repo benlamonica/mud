@@ -1,0 +1,7284 @@
+
+#AREA        {60 90} Zither  Dante's Inferno~
+
+#MOBILES
+
+#15001
+leopard spotted~
+The Leopard of Malice and Fraud~
+A spotted Leopard, all tremor and flow and gaudy pelt, drives you back.
+~
+It will not pass, but stands so blocking your every turn that time and again
+you are on the verge of falling back to the wood.
+~
+cat~
+CFG DFVZ -666 S
+55 30 12d4+2800 8d4+300 4d10+50 3 
+-31 -35 -32 -15
+DEFHN A BE N
+8 8 0 500
+0 0 M 0
+
+#15002
+lion great~
+The Lion of Violence and Ambition~
+A great Lion breaks upon you raging with hunger.
+~
+His enormous head is held high as if to strike a mortal terror into the very
+air.
+~
+cat~
+CFG DFVZ -666 S
+62 35 12d6+3000 8d6+300 6d10+50 15 
+-32 -32 -32 -16
+DEFHN A BE N
+8 8 1 500
+0 0 L 0
+
+#15003
+wolf she-wolf she~
+The She-Wolf of Incontinence~
+A She-Wolf attacks, a starved horror ravening and wasted beyond belief.
+~
+     She seemed a rack for avarice, gaunt and craving.
+     Oh many the souls she has brought to endless grief!
+   She brought such heaviness upon my spirit
+     at sight of her savagery and desperation,
+     I died from every hope of that high summit.
+                                                  (I: 50-54)
+~
+wolf~
+CFG DFVZ -666 S
+70 40 12d6+3400 10d6+300 6d10+60 10 
+-34 -34 -34 -17
+DEFHN A BE N
+8 8 2 500
+0 0 M 0
+
+#15004
+mob rout souls opportunists~
+the mob of Opportunists~
+A never-ending rout of souls in pain press along behind a banner.
+~
+   These wretches never born and never dead
+     ran naked in a swarm of wasps and hornets
+     that goaded them the more the more they fled,
+   and made their faces stream with bloody gouts
+     of pus and tears that dribbled to their feet
+     to be swallowed there by loathsome worms and maggots.
+                                                            (III: 61-66)
+~
+modron~
+CGH H -800 S
+45 20 12d10+5000 4d4+200 4d10+30 13 
+-21 -21 -21 -20
+ACDEO AB D N
+8 8 0 400
+0 0 G 0
+
+#15005
+charon ferryman old man~
+Charon~
+Steering toward you in an ancient ferry comes an old, old man.
+~
+     Bellowing: 'Woe to you depraved souls! Bury
+   here and forever all hope of Paradise:
+     I come to lead you to the other shore,
+     into eternal dark, into fire and ice.'
+                                             (III: 81-84)
+~
+human~
+B DFH -1000 S
+60 30 6d10+2000 6d10+200 5d5+40 7 
+-36 -36 -36 -18
+CEFKN AB 0 N
+8 8 1 1000
+0 0 M 0
+
+#15006
+homer~
+Homer~
+Homer, singing master of the earth, leads champions with sword in hand.
+~
+The great poet of the ancients, Homer, who sang the tales of the fall of Troy
+and the travels of Odysseus.
+~
+human~
+GO CDFHV 500 S
+65 30 11d11+3300 6d10+200 5d5+40 21 
+-56 -56 -56 -44
+ACEFHKN ABC CENO 0
+8 8 1 1000
+0 0 M 0
+
+#15007
+horace~
+Horace the Satirist~
+Horace, companion to Homer, comes toward you.
+~
+Horace looks neither happy nor sad, consigned to Limbo, the First Circle of
+Hell, for his sin of dying before the rise of Christianity.
+~
+human~
+G CDFH 500 S
+40 20 6d10+1400 6d10+130 5d5+20 3 
+-33 -33 -33 -11
+CEFHKN A C 0
+8 8 1 300
+0 0 M 0
+
+#15008
+ovid~
+Ovid~
+Ovid, author of the Metamorphoses, accompanies Homer.
+~
+Ovid reflects on the nature of existence.
+~
+human~
+G CDFH 500 S
+43 22 6d10+1500 6d10+140 5d5+25 3
+-30 -30 -30 -10
+CEFHKN A C 0
+8 8 1 300
+0 0 M 0
+
+#15009
+lucan~
+Lucan~
+Lucan comes toward you with neither joy nor sorrow in his bearing.
+~
+   So I saw gathered at the edge of light
+     the masters of that highest school whose song
+     outsoars all others like an eagle's flight.
+                                                  (IV: 94-96)
+~
+human~
+G CDFH 500 S
+46 25 6d10+1600 6d10+150 5d5+28 3
+-33 -33 -33 -11
+CEFHKN A C 0
+8 8 1 300
+0 0 M 0
+
+#15010
+electra shade~
+Electra~
+The shade of Electra lingers here.
+~
+The daughter of Agamemnon and Clytemnestra wanders Limbo aimlessly, pining.
+~
+human~
+G CDF 400 S
+38 19 4d10+1300 6d10+100 4d6+25 16 
+-22 -22 -22 0
+CEFHKN A 0 0
+8 8 2 100
+0 0 M 0
+
+#15011
+hector~
+Hector~
+Hector stands here ever watchful.
+~
+The eldest son of King Priam and Queen Hecuba of Troy, a champion fallen to
+the might of Achilles.
+~
+human~
+G CDF 400 S
+40 20 4d10+1500 6d10+110 5d6+25 3 
+-25 -25 -25 0
+CEFHKN 0 0 0
+8 8 1 100
+0 0 0 M
+
+#15012
+aeneas spirit~
+Aeneas~
+The spirit of Aeneas wanders the Citadel.
+~
+Aeneas, survivor of the Trojan War and founder of Rome, the love of Queen Dido
+of Carthage's life...and death.
+~
+human~
+G CDF 400 S
+44 22 4d10+1600 6d10+130 6d6+28 3 
+-28 -28 -28 3
+CEFHKN 0 0 0
+8 8 1 100
+0 0 M 0
+
+#15013
+caesar~
+Caesar~
+Mighty Caesar overlooks the meadow.
+~
+Julius Caesar, conqueror of the known world. He suffered death at the hands of
+conspirators he thought friends, for the crimes of ambition and success.
+~
+human~
+G CDF 400 S
+48 24 4d10+1800 6d10+150 6d6+30 3 
+-26 -26 -26 0
+CEFHKN 0 0 0
+8 8 1 100
+0 0 M 0
+
+#15014
+penthesilea~
+Penthesilea~
+Penthesilea, Queen of the Amazons, leans casually on her war spear.
+~
+Ally of Troy and companion in death to Hector, noble Penthesilea's eyes slip
+across you with a flat, calculating stare.
+~
+human~
+G CDF 400 S
+46 23 4d10+1500 6d10+140 5d6+28 3 
+-29 -29 -29 0
+CEFHKN 0 0 0
+8 8 2 100
+0 0 0 M
+
+#15015
+orpheus~
+Orpheus~
+Orpheus strums his lyre and sings heartbreakingly.
+~
+Orpheus cradles his instrument lovingly in his lap, his features at once as 
+coldly handsome as a marble statue and animated by a grief that is all too
+human. 
+~
+human~
+G CDF 400 S
+50 25 4d10+1800 6d10+150 6d6+30 8 
+-30 -30 -30 -6
+CEFHKN 0 0 0
+8 8 1 100
+0 0 M 0
+
+#15016
+euclid~
+Euclid~
+Euclid scratches geometric figures in the dirt and mutters to himself.
+~
+The inventor of geometry inscribed on a flat plane stares back at you blankly.
+~
+human~
+G CDF 400 S
+46 23 4d10+1500 6d10+140 5d6+20 11 
+-28 -28 -28 0
+CEFHKN 0 0 0
+8 8 1 100
+0 0 0 M
+
+#15017
+aristotle~
+Aristotle~
+Aristotle reclines on a couch discussing philosophy.
+~
+A man with a fine physique and curly blond hair looks upon you with kindly
+yet knowing eyes, giving you the impression that he knows you better than you
+know yourself.
+~
+human~
+G CDFH 400 S
+65 35 4d10+2000 6d10+200 6d6+35 3 
+-34 -34 -34 -21
+CEFHKN B 0 0
+8 8 1 500 
+0 0 M 0
+
+#15018
+socrates~
+Socrates~
+Socrates paces back and forth expounding.
+~
+A short, ugly man with knotted arms and bowlegs wearing a pristine white robe.
+~
+human~
+G CDFH 400 S
+65 35 4d10+2000 6d10+200 6d6+35 1
+-34 -34 -34 -21
+vCEFHKN B 0 L
+8 8 1 500
+0 0 M 0
+
+#15019
+plato~
+Plato~
+Plato makes allegories that go right over your head.
+~
+A man with a kindly but determined look in his eye.
+~
+human~
+G CDFH 400 S
+65 35 4d10+2000 6d10+200 6d6+35 6 
+-34 -34 -34 -21
+CEFHKN B 0 0
+8 8 1 500
+0 0 M 0
+
+#15020
+minos judge~
+Minos~
+Minos leers at you, snapping his massive tail.
+~
+   There Minos sits, grinning, grotesque, and hale.
+     He examines each lost soul as it arrives
+     and delivers his verdict with his coiling tail.
+   That is to say, when the ill-fated soul
+     appears before him it confesses all,
+     and that grim sorter of the dark and foul
+   decides which place in Hell shall be its end,
+     then wraps his twitching tail about himself
+     one coil for each degree it must descend.
+                                                (V: 4-12)
+~
+hobgoblin~
+BC DFH -1000 S
+58 35 10d10+3500 6d6+350 5d5+40 4 
+-45 -45 -45 -26
+ACDEFHKMNO A 0 N
+5 5 1 1500
+0 0 L 0
+ 
+#15021
+dido~
+Queen Dido~
+Dido flies helpless in the tempest.
+~
+   As the wings of wintering starlings bear them on
+     in their great wheeling flights, just so the blast
+     wherries these evil souls through time foregone.
+   Here, there, up, down, they whirl, and, whirling, strain
+     with never a hope of hope to comfort them,
+     not of release, but even of less pain.
+   As cranes go over sounding their harsh cry,
+     leaving the long streak of their flight in air,
+     so come these spirits, wailing as they fly.
+                                                  (V: 40-48)
+~
+human~
+CGH T -500 S
+55 28 6d6+2400 6d6+240 5d5+20 22 
+-28 -28 -28 -23
+FK 0 0 N
+8 8 2 460
+0 0 M 0
+
+#15022
+cerberus hound dog~
+Cerberus~
+A three-headed dog howls triply and leaps at you, slavering.
+~
+   Here monstrous Cerberus, the ravening beast,
+     howls through his triple throats like a mad dog
+     over the spirits sunk in that foul paste.
+   His eyes are red, his beard is greased with phlegm,
+     his belly is swollen, and his hands are claws
+     to rip the wretches and flay and mangle them.
+                                                    (VI: 13-18)
+~
+wolf~
+BCF DFH -1000 S
+50 28 5d5+2000 5d5+200 5d5+45 29 
+-46 -46 -46 -14
+DFHJN BI 0 N
+8 8 1 800
+0 0 L 0
+
+#15023
+shade spirit~
+the sullen shade~
+A slime-coated spirit reaches up from the murk for you.
+~
+   'Sullen were we in the air made sweet by the Sun;
+     in the glory of his shining our hearts poured
+     a bitter smoke. Sullen were we begun;
+   sullen we lie forever in this ditch.'
+     This litany they gargle in their throats
+     as if they sang, but lacked the words and pitch.
+                                                       (VII: 121-126)
+~
+human~
+CGH PQT -777 S
+25 15 5d5+800 5d5+100 5d5+15 17
+-10 -10 -10 4
+BEFIJKN 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15024
+phlegyas ferryman madman~
+Phlegyas~
+Phlegyas guides his ferry over the Styx.
+~
+   Phlegyas, the madman, blew his rage among
+     those muddy marshes like a cheat deceived,
+     or like a fool at some imagined wrong.
+                                             (VIII: 22-24)
+~
+human~
+BC DFHT -1000 S
+64 32 10d6+4100 10d6+410 6d6+40 6 
+-47 -47 -47 -24
+ACDEFK AB 0 N
+8 8 1 1234
+0 0 M 0
+
+#15025
+megaera fury~
+Megaera~
+Megaera is here, beating her brow with open palms.
+~
+A savage female with wild eyes and jagged teeth, rending her already torn robe
+and screaming. The sight of her strikes fear into your bone marrow, for this
+is one of the Erinyes.
+~
+human~
+CFG DFHTUVZ -1000 S
+60 30 10d10+1900 10d10+190 5d5+40 18
+-48 -48 -48 -35
+ADEFHKN AB D N
+8 8 2 999
+0 0 M 0
+
+#15026
+alecto fury~
+Alecto~
+Alecto claws at her bleeding breast.
+~
+The second sister, Alecto of the Erinyes, a female figure hideously maimed and
+scarred. She howls and her own blood drips in runnels down her forearms as she
+claws at herself, mourning for all the mothers ever dishonored, all the fathers
+ever slain, and slowly turns her burning eyes onto you.
+~
+human~
+CFG DFHTUVZ -1000 S
+56 28 10d10+1600 10d10+160 5d5+35 18
+-48 -48 -48 -35
+ADEFHKN AB D N
+8 8 2 999
+0 0 M 0
+
+#15027
+tisiphone fury~
+Tisiphone~
+Mad wails break from the raving Tisiphone.
+~
+Tisiphone of the Erinyes, or the Eumenides, as wise men speak of them. She
+wails long and ceaselessly, her ragged voice rising and falling in volume and
+pitch but always, always, crawling up your spine like a venomed spider.
+~
+human~
+CFG DFHTUVZ -1000 S
+52 26 10d10+1400 10d10+140 5d5+30 18
+-48 -48 -48 -35
+ADEFHKN AB D N
+8 8 2 999
+0 0 M 0
+
+#15028
+medusa gorgon~
+Medusa~
+Medusa hisses and lunges from the shadows.
+~
+Her skin gleams softly copper, scaled like that of a serpent, and indeed tiny
+vipers crown her, writhing like a nest new-hatched and striking with a thousand
+tiny fangs. She twines forward in a strangely graceful sidestep, revealing her
+lower body, huge jointed limbs encased in gleaming black exoskeleton and a
+reticulated tail arching forward over her, spike glossed with poison. But it
+is her eyes which immobilize you...deepset, glowing crimson like dying embers,
+they transfix you as the Gorgon moves in for the kill.
+~
+centipede~
+BCF BDFHTUVZ -1000 S
+95 50 10d25+7000 10d10+700 5d25+50 26
+-66 -66 -66 -50
+ADEFHKN AB D N
+8 8 2 1400
+0 0 L 0
+
+#15029
+semiramis~
+Semiramis~
+Semiramis, wife and successor of Ninus, is here.
+~
+   The first of these whose history you would know,'
+     he answered me, 'was Empress of many tongues.
+     Mad sensuality corrupted her so
+   that to hide the guilt of her debauchery
+     she licensed all depravity alike,
+     and lust and law were one in her decree.
+   She is Semiramis of whom the tale is told
+     how she married Ninus and succeeded him
+     to the throne of that wide land the Sultans hold.'
+                                                         (V: 52-60)
+~
+human~
+CG BDF -700 S
+42 20 5d5+1600 5d5+160 8d5+25 22 
+-24 -24 -24 0
+FK 0 0 N
+8 8 2 100
+0 0 M 0
+
+#15030
+cleopatra~
+Cleopatra of Egypt~
+Sense-drugged Cleopatra whirls past you.
+~
+The last of the Ptolemy dynasty which ruled Egypt, Queen Cleopatra of legendary
+beauty and desirability hides her face in shame beneath her long black hair.
+~
+human~
+CG DF -700 S
+42 20 5d5+1600 5d5+160 8d5+25 16 
+-24 -24 -24 0
+FK 0 0 N
+8 8 2 100
+0 0 M 0
+
+#15031
+helen~
+Helen of Troy~
+Helen, epic femme fatale, is carried away by the winds.
+~
+Her figure can only be described as perfect; her face, inhumanly gorgeous; her
+hair, rippling like the finest satin. After all, she is the mortal daughter of
+Zeus himself, deemed the most beautiful woman in the world by Aphrodite of the
+Sea Foam. And for her sake scores of Achaeans warred on Troy, destroying all
+that was there. She weeps bitterly.
+~
+human~
+CG DF -750 S
+46 23 5d5+1800 5d5+180 8d6+30 16 
+-26 -26 -26 0
+FK 0 0 N
+8 8 2 100
+0 0 M 0
+
+#15032
+achilles~
+Achilles~
+The great warrior Achilles is swept along.
+~
+Achilles, whose feats of courage and strength turned the Trojan War to the
+favor of the Achaeans, betrayed himself for a woman and suffers with the other
+carnal sinners here in the Second Circle.
+~
+human~
+CG DF -750 S
+52 26 5d5+2000 5d5+200 8d6+30 11 
+-32 -32 -32 -11
+CDEFK 0 0 N
+8 8 1 100
+0 0 M 0
+
+#15033
+lover troy~
+Paris of Troy~
+Paris of Troy, lover of Helen, is here in the storm.
+~
+An unimpressive young man with curly brown hair and an expression of despair
+and shame. His features contort with pain as the winds tear at him for all
+eternity in punishment for taking Helen from her rightful husband and ruining
+his people.
+~
+human~
+CG DF -750 S
+35 18 5d5+1300 5d5+175 5d5+20 3 
+-22 -22 -22 2
+CDEFK 0 0 N
+8 8 1 100
+0 0 M 0
+
+#15034
+spirit~
+a hopeless spirit~
+A dim shadow of a spirit suffers eternally here.
+~
+The spirit's outline is too vague for you to make anything out.
+~
+human~
+CG J -550 S
+25 15 5d5+800 5d5+100 5d5+18 17 
+-12 -12 -12 5
+EF 0 0 N
+8 8 0 40
+0 0 M 0
+
+#15035
+ciacco hog spirit~
+Ciacco the Hog~
+A spirit plastered with stinking dirt sits up and calls out to you.
+~
+   'Your citizens nicknamed me Ciacco, The Hog:
+     gluttony was my offense, and for it
+     I lie here rotting like a swollen log.
+   Nor am I lost in this alone; all these
+     you see about you in this painful death
+     have wallowed in the same indecencies.'
+                                              (VI: 49-54)
+~
+pig~
+CG J -750 S
+30 16 5d5+1000 5d5+100 5d5+20 14 
+-15 -15 -15 -1
+EF 0 0 N
+5 5 1 100
+0 0 M 0
+
+#15036
+plutus guardian~
+Plutus the Guardian~
+Plutus, bloated guardian of the Fourth Circle, lolls here.
+~
+   'Papa Satan, Papa Satan, aleppy,'
+     Plutus clucked and stuttered in his rage.
+                                                (VII: 1-2)
+~
+human~
+BCF DFHJ -1000 S
+53 26 5d10+2400 5d5+240 10d2+45 8 
+-36 -36 -36 -16
+CDEFKNO 0 0 N
+5 5 1 1010
+0 0 L 0
+
+#15037
+filippo argenti~
+Filippo Argenti~
+A wan spirit rises in the slime before you.
+~
+   Blessed be she that bore you. In world and time
+     this one was haughtier yet. Not one unbending
+     graces his memory. Here is his shadow in slime.
+   How many living now, chancellors of wrath,
+     shall come to lie here yet in this pigmire,
+     leaving a curse to be their aftermath!'
+                                              (VIII: 43-48)
+~
+human~
+CGH FJPQ -777 S
+38 20 5d10+1100 5d5+120 10d3+15 2 
+-28 -28 -28 -8
+EFHJKN 0 0 N
+8 8 1 30
+0 0 M 0
+
+#15038
+sinner carnal~
+a carnal sinner~
+A carnal sinner is whipped away by the winds.
+~
+A miserable spirit who has probably been suffering here for a long, long time.
+~
+human~
+CG JT -555 S
+25 15 5d10+800 5d5+100 10d3+15 7 
+-20 -20 -20 0
+FK 0 0 N
+8 8 0 10
+0 0 M 0
+
+#15039
+spirit~
+a spirit~
+A dim spirit hurries past you on its way to judgement.
+~
+The spirit's outline is too vague for you to make anything out.
+~
+human~
+CG J -555 S
+25 15 5d10+800 5d5+100 10d3+15 16 
+-20 -20 -20 0
+FK 0 0 N
+8 8 0 10
+0 0 M 0
+
+#15040
+spirit child~
+a child's spirit~
+The spirit of an unbaptized child is here.
+~
+A small, pale creature whose features are blurred in the afterlife.
+~
+human~
+CG J 0 S
+25 15 5d10+800 5d5+100 10d3+15 10
+-20 -20 -20 0
+FK 0 0 0
+8 8 0 120
+0 0 S 0
+
+#15041
+soul spirit limbo~
+a soul~
+A soul in Limbo is here.
+~
+You can't make anything out, this spirit's outlines are so dim.
+~
+human~
+CG J 0 S
+30 18 5d10+1000 5d5+100 10d3+20 17
+-20 -20 -20 0
+FK 0 0 0
+8 8 0 150
+0 0 M 0
+
+#15042
+glutton spirit~
+a gluttonous spirit~
+The spirit of a Glutton bloats beneath the unceasing spew of offal.
+~
+This creature has pasty skin, thin-plastered hair, and doughy limbs projecting
+from a torso so bloated and festering the stink overrules even the smell of
+the offal pouring down from the sky.
+~
+pig~
+CG J -300 S
+25 15 5d10+800 5d5+100 10d3+16 17
+-20 -20 -20 0
+FK 0 0 N
+5 5 0 40
+0 0 M 0
+
+#15043
+clergyman spirit~
+a corrupt clergyman~
+The spirit of a corrupt clergyman is tormented here.
+~
+A thin, pale figure with a tonsure. His hands are tightly clasped around a
+heavy weight he rolls to and fro with the other hoarders and wasters.
+~
+human~
+CG J -333 S
+30 18 5d10+1000 5d5+100 10d3+20 11
+-23 -23 -23 -3
+FK 0 0 N
+8 8 1 56
+0 0 M 0
+
+#15044
+hoarder~
+a Hoarder~
+A Hoarder shrieks angrily at the Wasters.
+~
+The dim spirit is clutching everything it can get its hands on.
+~
+human~
+CG J -333 S
+25 15 5d10+900 5d5+100 10d3+15 17
+-21 -21 -21 0
+FK 0 0 N
+8 8 0 200
+0 0 M 0
+
+#15045
+waster~
+a Waster~
+A Waster rolls its heavy stone at a Hoarder.
+~
+This soul appears to have been stripped of everything, even the hair on its
+head.
+~
+human~
+CG J -333 S
+25 15 5d10+900 5d5+100 10d3+15 8
+-21 -21 -21 0
+FK 0 0 N
+8 8 0 0
+0 0 M 0
+
+#15046
+spirit wrathful~
+a wrathful spirit~
+A spirit spitting with rage is here in the slime.
+~
+You can't make out the spirit's features as it fights like a beast with others
+in the stinking slime.
+~
+human~
+CG JPQ -444 S
+30 15 5d10+1000 5d5+120 10d3+20 13
+-28 -28 -28 0
+FK 0 0 N
+8 8 0 10
+0 0 M 0
+
+#15047
+wraith muddy~
+a muddy wraith~
+A small, muddy demon patrols the Fifth Circle.
+~
+All teeth, claws, and mud.
+~
+fido~
+CG JPQ -444 S
+35 20 5d10+1300 5d5+130 10d3+24 12
+-25 -25 -25 -8
+FJKN 0 0 N
+8 8 0 400
+0 0 S 0
+
+#15048
+francesca~
+Francesca da Polenta~
+Francesca, lover of Paolo Malatesta, suffers here in the storm.
+~
+A beautiful young woman with long, long hair and great sad eyes. She cries out
+as the winds carry her on and on.
+~
+human~
+CG JT -444 S
+36 18 5d10+1300 5d5+130 10d3+20 16
+-34 -34 -34 -10
+EFKN 0 0 N
+8 8 2 100
+0 0 M 0
+
+#15049
+paolo~
+Paolo Malatesta~
+Paolo follows Francesca da Polenta even in death and torment.
+~
+A handsome young man with eyes once clear and bright, now red from weeping. He
+fights the hellish tempest, trying to stay by his beloved Francesca's side, but
+all too often the winds tear them apart.
+~
+human~
+CG JT -444 S
+40 20 5d10+1500 5d5+150 10d3+25 17
+-38 -38 -38 -14
+DEFHK 0 0 N
+8 8 1 100
+0 0 M 0
+
+#15050
+angel rebellious~
+the Rebellious Angel~
+A figure with beautiful but cruel features bars your path.
+~
+Tall and white-robed, this outcast from Heaven has perfect lips twisted in a
+contemptuous sneer. His skin has a reddish tint, an unnatural blush of shame,
+that he ignores with a haughty toss of his golden curls.
+~
+human~
+BF DFHJTV -1000 S
+80 50 10d25+6400 5d10+640 8d12+50 19
+-58 -58 -58 -35
+EFHKN AB DH N
+8 8 1 1000
+0 0 L 0
+
+#15051
+farinata~
+Farinata Degli Umberti~
+The great war-chief Farinata rises up from one of the tombs.
+~
+   My eyes were fixed on him already. Erect,
+     he rose above the flame, great chest, great brow;
+     he seemed to hold all Hell in disrespect.
+   My Guide's prompt hands urged me among the dim
+     and smoking sepulchres to that great figure,
+     and he said to me: 'Mind how you speak to him.'
+   And when I stood alone at the foot of the tomb,
+     the great soul stared almost contemptuously,
+     before he asked: 'Of what line do you come?'
+                                                   (X: 34-41)
+~
+human~
+B DFHJ -555 S
+66 35 6d10+4200 5d5+420 8d6+28 3
+-44 -44 -44 -20
+CEFHK B 0 N
+6 6 1 543
+0 0 M 0
+
+#15052
+cavalcante cavalcanti~
+Cavalcante dei Cavalcanti~
+Cavalcanti rises chin-high from a tomb.
+~
+The father of the famed poet Guido Cavalcanti peers at you anxiously, asking
+for news of his son.
+~
+human~
+B DFHJ -555 S
+33 16 6d10+2100 5d5+210 8d6+10 17
+-32 -32 -32 -8
+CEFHK 0 0 N
+6 6 1 300
+0 0 M 0
+
+#15053
+minotaur~
+the Minotaur~
+The Minotaur snorts and charges.
+~
+     At the very top, at the edge of the broken cleft,
+     lay spread the Infamy of Crete, the heir
+   of bestiality and the lecherous queen
+     who hid in a wooden cow. And when he saw us,
+     he gnawed his own flesh in a fit of spleen.
+                                                  (XII: 11-15)
+~
+human~
+BF DEFHJ -1000 S
+66 40 10d25+5400 5d5+340 6d12+40 8
+-47 -47 -47 -20
+CDEFJKN B 0 N
+8 8 1 1000
+0 0 L 0
+
+#15054
+centaur~
+a centaur~
+A centaur paces along the riverbank, overseeing the damned.
+~
+The torso of a man projects from the muscled body of a horse. Heavily bearded,
+with a look of competent savagery, he hefts his longbow.
+~
+human~
+CG DFJT 0 S
+30 15 10d10+1000 5d10+100 5d5+20 11
+-30 -30 -30 -9
+CFHIJK 0 0 0
+8 8 1 200
+0 0 L 0
+
+#15055
+chiron centaur~
+Chiron~
+Chiron the Centaur paces here, smoothing his beard.
+~
+Chiron, centaur of legend, who nursed Achilles and prophesied for heroes.
+His horsehide glistens a rich chestnut that matches the thick hair of his
+head and beard. Muscles knot across his chest, back, and shoulders. He carries
+a mighty longbow so thickly hewn that you doubt you could even bend it.
+~
+human~
+CG DFHJT 400 S
+60 30 10d10+3600 5d10+360 5d10+30 11
+-45 -45 -45 -20
+CFHIJK 0 0 0
+8 8 1 1000
+0 0 L 0
+
+#15056
+nessus centaur~
+Nessus~
+Nessus the Centaur watches the damned below him like a hawk.
+~
+   And to me he said: 'That is Nessus, who died in the wood
+     for insulting Dejanira. At his death
+     he plotted his revenge in his own blood.'
+                                                (XII: 67-69)
+~
+human~
+CG DFHJT 400 S
+50 25 10d10+2600 5d10+260 5d10+20 11
+-40 -40 -40 -15
+CFHIJK 0 0 0
+8 8 1 800
+0 0 L 0
+
+#15057
+pholus centaur~
+Pholus~
+Pholus the Centaur eyes you fiercely, fingering his bow.
+~
+The equine portion of Pholus' body is jet black, his powerfully built legs
+feathered at the fetlocks. His long hair is drawn back and bound with a
+leather thong, his beard close-trimmed in a goatee. Quick dark eyes burn with
+a misplaced animosity and he seems overeager to nock a barbed arrow to his
+bowstring.
+~
+human~
+CG DFHJT 400 S
+55 28 10d10+3100 5d10+310 5d10+25 11
+-43 -43 -43 -20
+CFHIJK 0 0 0
+8 8 1 800
+0 0 L 0
+
+#15058
+alexander great~
+Alexander the Great~
+Alexander the Great wallows lashes-deep in the boiling blood.
+~
+Alexander of Macedon, who won an empire by might of arms, suffers for all
+eternity with the taste of the blood he shed in his mouth.
+~
+human~
+CG DFJT -400 S
+50 25 10d10+2500 5d10+250 5d10+18 17
+-30 -30 -30 -6
+CDEFKN 0 0 N
+8 8 1 20
+0 0 M 0
+
+#15059
+attila hun~
+Attila the Hun~
+Attila the Hun is here fully submerged in the river of blood.
+~
+Attila the Hun, called the Scourge of God, pays for his earthly crimes in
+eternal suffering, sunk to the very bottom of the boiling river of blood.
+~
+human~
+CG DFJT -800 S
+50 25 10d10+2500 5d10+250 5d10+18 17
+-30 -30 -30 -6
+CDEFKN 0 0 N
+8 8 1 20
+0 0 M 0
+
+#15060
+jim guy~
+Jim~
+A tall, skinny guy with black hair pretends not to notice you.
+~
+Jim smiles at you sarcastically, then rolls his eyes exaggeratedly when he
+thinks you aren't looking at him any more. Then he slips away on silent
+Chuckied feet, his badass leather duster whirling around his calves, talking 
+to himself. 
+~
+human~
+ABFGccC DFHJNPTVZCC -1000 S
+100 30 10d25+4500 5d10+800 8d10+34 17
+-80 -80 -80 -80
+AB C 0 0
+8 8 1 0
+0 0 M 0
+
+#15061
+holly chick~
+Holly~
+A chick in a black leather jacket moshes with the damned.
+~
+As you watch her throw herself at the hapless denizens of Hell in wild
+abandonment, cries of pain and indignation echo along with the music that
+supplies itself in soundtrack form everywhere she goes. Holly spots you and
+waves happily.
+~
+human~
+ABCFGcc DEFHJNTVcc -1000 S
+100 30 10d25+4500 5d10+800 8d10+24 17
+-80 -80 -80 -80
+AB HIJ 0 0
+8 8 2 0
+0 0 M 0
+
+#15062
+harpy bird~
+an odious harpy~
+A harpy is here, feeding upon the soul of a suicide made tree.
+~
+   Their wings are wide, their feet clawed, their huge bellies
+     covered with feathers, their necks and faces human.
+     They croak eternally in the unnatural trees.
+                                                   (XIII: 13-15)
+~
+wyvern~
+CFG DFJT -1000 S
+55 26 10d10+3800 5d10+380 8d6+26 5
+-42 -42 -42 -20
+CDEFHOU 0 0 N
+8 8 2 300
+0 0 M 0
+ 
+#15063
+bush shrub~
+a mangled shrub~
+A small shrub grows twisted here, loudly complaining.
+~
+   And he to us: 'You who have come to see
+     how the outrageous mangling of these hounds
+     has torn my boughs and stripped my leaves from me,
+   O heap them round my ruin!'
+                                                (XIII: 139-142)
+~
+doll~
+B J -500 S
+30 10 10d10+1200 5d10+120 6d6+10 22
+-12 -12 -12 6
+EN 0 F G
+8 8 0 0
+0 0 S 0
+
+#15064
+hound hell~
+the Hound of Hell~
+A slavering hound leaps toward you through the trees.
+~
+A hound it was, an enormous coal-black hound, but not such a hound as mortal
+eyes had ever seen. Fire burst from its open mouth, its eyes glowed with a
+smouldering glare, its muzzle and hackles and dewlap were outlined in
+flickering flame. Never in the delirious dream of a disordered brain could
+anything more savage, more appalling, more hellish be conceived than that
+dark form and savage face which broke upon us out of the wall of fog.
+                                --A. Conan Doyle, "Hound of the Baskervilles" 
+~
+wolf~
+CFG DFHJPV -1000 S
+75 30 10d20+5300 5d10+430 10d10+30 29
+-48 -48 -48 -30
+DFHNO 0 0 N
+8 8 1 200
+0 0 M 0
+
+#15065
+blasphemer~
+a Blasphemer~
+A Blasphemer is stretched naked upon the burning sands.
+~
+Damn, that looks painful.
+~
+human~
+B J -666 S
+40 20 10d25+1600 5d10+160 10d6+15 17
+-30 -30 -30 0
+EIJKN 0 0 N
+5 5 1 10
+0 0 M 0
+
+#15066
+sodomite~
+a Sodomite~
+A Sodomite runs in endless circles upon the burning sands.
+~
+Ooh! Ah, ouch, ooh, ah, ouch, ow. He's picking his feet up pretty quick.
+~
+human~
+CG J -666 S
+40 20 10d25+1600 5d10+160 10d6+15 17
+-30 -30 -30 0
+DEFHIJKN 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15067
+usurer~
+a Usurer~
+A Usurer huddles pitifully on the burning sands.
+~
+What a fantastic tan he has! Hmm...he reminds you somehow of that newbie who
+was bugging you for equipment earlier...
+~
+human~
+B J -666 S
+40 20 10d25+1600 5d10+160 10d6+15 17
+-30 -30 -30 0
+IJKN 0 0 N
+6 6 1 10
+0 0 M 0
+
+#15068
+capaneus~
+Capaneus~
+Capaneus lies here swearing at you and God.
+~
+This guy must have been pretty special to get a mob all of his own.
+~
+human~
+B J -888 S
+50 25 10d25+2000 5d10+200 10d6+25 17
+-40 -40 -40 -12
+IJKN 0 0 N
+5 5 1 10
+0 0 M 0
+
+#15069
+ser brunetto~
+Ser Brunetto~
+Ser Brunetto roves with a mob of Sodomites.
+~
+An old pal of Dante's. Nice of Dante to put him in Hell, eh?
+~
+human~
+CG J -888 S
+50 25 10d15+2000 5d10+200 10d6+25 17
+-40 -40 -40 -12
+EFHIJKN 0 0 N
+8 8 1 100
+0 0 M 0
+
+#15070
+geryon creature~
+Geryon~
+A creature of strange and twisted beauty hovers here.
+~
+   The filthy prototype of Fraud drew near
+     and settled his head and breast upon the edge
+     of the dark cliff, but let his tail hang clear.
+   His face was innocent of every guile,
+     benign and just in feature and expression;
+     and under it his body was half reptile.
+   His two great paws were hairy to the armpits;
+     all his back and breast and both his flanks
+     were figured with bright knots and subtle circlets:
+   never was such a tapestry of bloom
+     woven on earth by Tartar or by Turk,
+     nor by Arachne at her flowering loom.
+                                            (XVII: 7-18)
+~
+wyvern~
+CG BDFHJPTV -900 S
+85 45 10d25+8000 5d15+800 15d8+40 31
+-56 -56 -56 -40
+EFHMO B D N
+8 8 0 2400
+0 0 H 0
+
+#15071
+jason~
+Jason~
+Jason suffers eternally with the Seducers and Panderers here.
+~
+   What kingliness moves with him even in Hell!
+     It is Jason, who by courage and good advice
+     made off with the Colchian Ram. Later it fell
+   that he passed Lemnos, where the women of wrath,
+     enraged by Venus' curse that drove their lovers
+     out of their arms, put all their males to death.
+   There with his honeyed tongue and his dishonest
+     lover's wiles, he gulled Hypsipyle,
+     who, in the slaughter, had gulled all the rest.
+   And there he left her, pregnant and forsaken.
+     Such guilt condemns him to such punishment;
+     and also for Medea is vengeance taken.
+                                             (XVIII: 85-96)
+~
+human~
+BC HJ -444 S
+55 25 25d10+3750 5d10+375 15d5+20 7
+-40 -40 -40 -12
+EFHK 0 0 N
+8 8 1 15
+0 0 M 0
+
+#15072
+demon horned~
+the horned demon~
+A horned demon swaggers above the sinners, lashing them mercilessly.
+~
+Wrinkled black skin like cured leather houses two eyes that peer at you, flat
+and shining with a cruelty that knows no bounds. The demon's horns are like
+black agate, sweeping down and around to either side of its bestial face.
+~
+hobgoblin~
+BCF DFJ -1000 S
+45 25 25d10+3000 5d10+300 10d5+15 4
+-37 -37 -37 -13
+EFHJKMN 0 0 N
+8 8 1 220
+0 0 M 0
+
+#15073
+alessio priest~
+Alessio Interminelli da Lucca~
+A tonsured priest writhes in the excrement.
+~
+   I saw among the felons of that pit
+     one wraith who might or might not have been tonsured -
+     one could not tell, he was so smeared with shit.
+   He bellowed: 'You there, why do you stare at me
+     more than at all the others in this stew?'
+     And I to him: 'Because if memory
+   serves me, I knew you when your hair was dry.
+     You are Alessio Interminelli da Lucca.
+     That's why I pick you from this filthy fry.'
+   And he then, beating himself on his clown's head:
+     'Down to this have the flatteries I sold
+     the living sunk me here among the dead.'
+                                               (XVIII: 115-126)
+~
+human~
+BC J -888 S
+40 20 10d25+2700 5d10+270 5d10+20 17
+-30 -30 -30 -5
+FIJN 0 0 N
+6 6 1 10
+0 0 M 0
+
+#15074
+nicholas pope feet~
+Pope Nicholas III~
+A pair of feet with burning soles stick out of a hole in the ground.
+~
+   The sinner's feet jerked madly; then again
+     his voice rose, this time choked with sighs and tears,
+     and said at last: 'What do you want of me then?
+   If to know who I am drives you so fearfully
+     that you descend the bank to ask it, know
+     that the Great Mantle was once hung upon me.
+   Beneath my head are dragged all who have gone
+     before me in buying and selling holy office;
+     there they cower in fissures of the stone.
+                                                  (XIX: 61-66, 70-72)
+~
+human~
+B J -888 S
+40 20 10d25+2700 5d10+270 5d10+20 17
+-30 -30 -30 -5
+HIN 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15075
+tiresias~
+Tiresias~
+An old man with his head fixed backwards shuffles past you.
+~
+   Observe how he has made a breast of his back.
+     In life he wished to see to far before him,
+     and now he must crab backwards round this track.
+   And see Tiresias, who by his arts
+     succeeded in changing himself from man to woman,
+     transforming all his limbs and all his parts;
+   later he had to strike the two twined serpents
+     once again with his conjurer's wand before
+     he could resume his manly lineaments.
+                                            (XX: 37-45)
+~
+human~
+BC J -888 S
+40 20 10d25+2700 5d10+270 5d10+20 17
+-30 -30 -30 -5
+EFIJK 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15076
+malacoda demon~
+Malacoda~
+A huge, black demon bounds toward you with wings spread.
+~
+     I saw a figure that came running toward us
+     across the ridge, a Demon huge and black.
+   Ah what a face he had, all hate and wildness!
+     Galloping so, with his great wings outspread
+     he seemed the embodiment of all bitterness.
+   Across each high-hunched shoulder he had thrown
+     one haunch of a sinner, whom he held in place
+     with a great talon round each ankle bone.
+                                                (XXI: 29-36)
+~
+hobgoblin~
+BCF DFJTV -1000 S
+70 40 25d10+5500 5d10+550 4d25+20 5
+-58 -58 -58 -42
+CDEFHKMN B 0 N
+8 8 1 666
+0 0 L 0
+
+#15077
+demon black~
+the black demon~
+A black-clawed, black-winged demon hooks sinners into the boiling pitch.
+~
+   But the Demons under the bridge, who guard that place
+     and the sinners who are thrown to them, bawled out:
+     'You're out of bounds here for the Sacred Face:
+   this is no dip in the Serchio: take your look
+     and then get down in the pitch. And stay below
+     unless you want a taste of a grappling hook.'
+   Then they raked him with more than a hundred hooks
+     bellowing: 'Here you can dance below the covers.
+     Graft all you can there: no one checks your books.'
+   They dipped him down into that pitch exactly
+     as a chef makes scullery boys dip meat in a boiler,
+     holding it with their hooks from floating free.
+                                                      (XXI: 49-60)
+~
+hobgoblin~
+BCF DFJQT -1000 S
+48 25 25d10+3300 5d10+330 10d5+16 5
+-40 -40 -40 -24
+CDEFHKMN B 0 N
+8 8 1 200
+0 0 M 0
+
+#15078
+hypocrite~
+the Hypocrite~
+A Hypocrite paces endlessly, wearing a glittering cassock.
+~
+The face of this wretch is hidden beneath the deep cowl of his enormous,
+glittering golden robes. He groans as he walks beneath the weight of the
+concealed lead of the punishing garment.
+~
+human~
+B J -777 S
+30 15 25d10+1800 5d10+180 8d6+12 8
+-30 -30 -30 -6
+CEK 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15079
+caiaphas figure~
+Caiaphas~
+A figure is crucified to the ground by three stakes here.
+~
+   When he saw me there, he began to puff great sighs
+     into his beard, convulsing all his body;
+     and Friar Catalano, following my eyes,
+   said to me: 'That one nailed across the road
+     counselled the Pharisees that it was fitting
+     one man be tortured for the public good.
+   Naked he lies fixed there, as you see,
+     in the path of all who pass; there he must feel
+     the weight of all through all eternity.
+                                               (XXIII: 109-117)
+~
+human~
+B HJ -777 S
+40 20 25d10+2600 5d10+260 8d6+20 25
+-20 -20 -20 0
+EIJN 0 0 N
+5 5 1 50
+0 0 M 0
+
+#15080
+vanni fucci sinner~
+Vanni Fucci~
+A sinner is struck down by an airborne serpent here.
+~
+   One of the damned came racing round a boulder,
+     and as he passed us, a great snake shot up
+     and bit him where the neck joins with the shoulder.
+   No mortal pen - however fast it flash
+     over the page - could write down O or I
+     as quickly as he flamed and fell in ash;
+   and when he was dissolved into a heap
+     upon the ground, the dust rose of itself
+     and immediately resumed its former shape.
+                                                (XXIV: 97-105)
+~
+human~
+BC J -888 S
+40 20 15d10+2500 5d10+250 10d4+20 7
+-30 -30 -30 -12
+CDFHIN 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15081
+cacus centaur~
+Cacus~
+A huge centaur carrying serpents and a small dragon punishes sinners here.
+~
+     I saw a furious centaur raise up, roaring:
+     'Where is the insolent blasphemer? Where?'
+   I do not think as many serpents swarm
+     in all the Maremma as he bore on his back
+     from the haunch to the first sign of our human form.
+   Upon his shoulders, just behind his head,
+     a snorting dragon whose hot breath set fire
+     to all it touched, lay with its wings outspread.
+                                                       (XXV: 17-24)
+~
+human~
+BCF DFHJV 500 S
+52 26 25d10+4000 5d10+400 8d8+25 27
+-46 -46 -46 -30
+CEFHIK 0 0 0
+8 8 1 500
+0 0 L 0
+
+#15082
+figure headless bertrand born~
+Bertrand de Born~
+A headless figure lurches along with the other Sowers of Discord.
+~
+   I saw it there; I seem to see it still -
+     a body without a head, that moved along
+     like all the others in that spew and spill.
+   It held the severed head by its own hair,
+     swinging it like a lantern in its hand;
+     and the head looked at us and wept in its despair.
+   It made itself a lamp of its own head,
+     and they were two in one and one in two;
+     how this can be, He knows who so commanded.
+                                                  (XXVIII: 118-126)
+~
+human~
+BC J -888 S
+40 20 15d10+2500 5d10+250 10d6+15 17
+-40 -40 -40 -3
+EFKN 0 0 N
+8 8 1 10
+0 0 M 0
+
+#15083
+falsifier master adam~
+Master Adam~
+A misbegotten Falsifier lies here in wretched pain.
+~
+   And there I saw another husk of sin,
+     who, had his legs been trimmed away at the groin,
+     would have looked for all the world like a mandolin.
+   The dropsy's heavy humors, which so bunch
+     and spread the limbs, had disproportioned him
+     till his face seemed much too small for his swollen paunch.
+   He strained his lips apart and thrust them forward
+     the way a sick man, feverish with thirst,
+     curls one lip toward the chin and the other upward.
+                                                          (XXX: 49-57)
+~
+human~
+BC J -888 S
+40 20 15d10+2500 5d10+250 12d6+20 17
+-30 -30 -30 0
+0 0 0 0
+5 5 1 10
+0 0 M 0
+
+#15084
+titan~
+Nimrod~
+The head and shoulders of a Titan, rolling his eyes and babbling.
+~
+   His face, it seemed to me, was quite as high
+     and wide as the bronze pine cone in St. Peter's
+     with the rest of him proportioned accordingly:
+   so that the bank, which made an apron for him
+     from the waist down, still left so much exposed
+     that three Frieslanders standing on the rim,
+   one on another, could not have reached his hair;
+     for to that point at which men's capes are buckled
+     thirty good handspans of brute bulk rose clear.
+   'Rafel mahee amek rabi almit,'
+     began a bellowed chant from the brute mouth
+     for which no sweeter psalmody was fit.
+                                              (XXXI: 58-69)
+~
+human~
+B HJN -1000 S
+100 60 25d10+9000 5d10+900 10d10+50 7
+-60 -60 -60 -42
+DEKO B 0 N
+8 8 1 2000
+0 0 H 0
+
+#15085
+ephialtes titan~
+Ephialtes~
+The head and shoulders of a great chained Titan are here.
+~
+   What master could have bound so gross a beast
+     I cannot say, but he had his right arm pinned
+     behind his back, and the left across his breast
+   by an enormous chain that wound about him
+     from the neck down, completing five great turns
+     before it spiraled down below the rim.
+                                             (XXXI: 85-90)
+~
+human~
+B HJN -1000 S
+100 60 25d10+9000 5d10+900 10d10+50 7
+-60 -60 -60 -42
+DEKO B 0 N
+8 8 1 2000
+0 0 H 0
+
+#15086
+antaeus titan~
+Antaeus~
+The head and shoulders of a massively muscled Titan are here.
+~
+The mighty wrestler Antaeus, son of Gaia, who gained awesome strength when
+he touched the earth. He was killed by Hercules when the hero lifted him
+into the air, thus severing his connection with the earth, and strangled him.
+~
+human~
+B HJN -1000 S
+100 60 25d10+9000 5d10+900 10d10+50 7
+-60 -60 -60 -42
+DEKO B 0 N
+8 8 1 2000
+0 0 H 0
+
+#15087
+flame diomede ulysses double~
+the double-forked flame~
+A flame that splits in two encases the souls of Ulysses and Diomede.
+~
+Ulysses and Diomede suffer together eternally, trapped within a great
+double-pronged flame in Bolgia Eight.
+~
+human~
+BC HJV -500 S
+50 25 25d10+4000 5d10+400 10d5+20 29
+-40 -40 -40 -20
+EFKN H 0 N
+8 8 0 100
+0 0 L 0
+
+#15088
+camicion pazzi~
+Camicion de' Pazzi~
+Camicion de' Pazzi is here, frozen to his collarbones in ice.
+~
+Camicion de' Pazzi suffers with the other sinners found Treacherous to Kin.
+~
+human~
+B HJ -900 S
+30 15 25d10+2400 5d10+240 10d5+10 30
+-20 -20 -20 0
+H I 0 HN
+8 8 1 10
+0 0 M 0
+
+#15089
+bocca head~
+Bocca degli Abbati~
+A head sticks out of the ice, mouthing off at you.
+~
+   'And who are *you* who go through the dead larder
+     of Antenora kicking the cheeks of others
+     so hard, that were you alive you could not kick harder?
+   Say anything you please, but go away.
+     And if you *do* get back, don't overlook
+     that pretty one who had so much to say
+   just now. Here he laments the Frenchman's price.
+     "I saw Buoso da Duera," you can report,
+     "Where the bad salad is kept crisp on ice."
+                                                  (XXXII: 88-90, 112-117)
+~
+human~
+B HJ -900 S
+30 15 25d10+2400 5d10+240 10d5+10 30
+-20 -20 -20 0
+H I 0 HN
+8 8 1 10
+0 0 M 0
+
+#15090
+buoso head~
+Buoso da Duera~
+Another head sticks out of the ice, smirking at the other.
+~
+   When another said: 'Bocca, what is it ails you?
+     What the Hell's wrong? Isn't it bad enough
+     to hear you bang your jaws? Must you bark too?'
+                                                     (XXXII: 106-108)
+~
+human~
+B HJ -900 S
+30 15 25d10+2400 5d10+240 10d5+10 30
+-20 -20 -20 0
+H I 0 HN
+8 8 1 10
+0 0 M 0
+
+#15091
+friar alberigo head~
+Friar Alberigo~
+A head sticks out of the ice here from the nose up.
+~
+   'I am Friar Alberigo,' he answered therefore,
+     'the same who called for the fruits from the bad garden.
+     Here I am given dates for figs full store.'
+                                                  (XXXIII: 118-120)
+~
+human~
+B HJ -900 S
+30 15 25d10+2400 5d10+240 10d5+10 30
+-20 -20 -20 0
+H I 0 HN
+8 8 1 10
+0 0 M 0
+
+#15092
+satan~
+Satan~
+Satan, huge and monstrous, towers out of the ice.
+~
+   With what a sense of awe I saw his head
+     towering above me! For it had three faces:
+     one was in front, and it was fiery red;
+   the other two, as weirdly wonderful,
+     merged with it from the middle of each shoulder
+     to the point where all cverged at the top of the skull;
+   the right was something between white and bile;
+     the left was about the color that one finds
+     on those who live along the banks of the Nile.
+   Under each head two wings rose terribly,
+     their span proportioned to so gross a bird: 
+     I never saw such sails upon the sea.
+   They were not feathers - their texture and their form
+     were like a bat's wings - and he beat them so
+     that three winds blew from him in one great storm:
+   it is these winds that freeze all Cocytus.
+     He wept from his six eyes, and down three chins
+     the tears ran mixed with bloody froth and pus.
+                                                     (XXXIV: 37-54)
+~
+hobgoblin~
+ABCFGOR BDECFHJNPQTVZcc -1000 S
+135 68 25d25+5400 5d25+140 50d50+59 18
+-300 -300 -300 -300
+AB ABCHIJKL X 0
+8 8 1 10000
+0 0 G 0
+
+#0
+
+#OBJECTS
+
+#15001
+sign~
+a small tasteful plaque~
+A small, tasteful plaque is pinned to one of the trees.~  
+wood~
+12 AO 0
+0 0 0 0 0
+100 1000 400 P
+E
+plaque~
+  +-------------------------------------------------------------------------+  
+  |  _/_/_/_/   _/ _/_/_/_/ _/    _/ _/_/_/_/ _/_/_/     "Dante's Inferno"  | 
+  |     _/     _/    _/    _/    _/ _/       _/    _/       inferno.are     | 
+  |   _/      _/    _/    _/_/_/_/ _/_/_/   _/_/_/_/         (c) 1995       | 
+  | _/       _/    _/    _/    _/ _/       _/   _/                          | 
+  |_/_/_/_/ _/    _/    _/    _/ _/_/_/_/ _/      _/      _/ Thanks Tetsuo! |  
+  |                                                 _/_/_/                  |  
+  |       Texts based on the John Ciardi translation, (c) 1954, 1982.       |  
+  +-------------------------------------------------------------------------+  
+~
+
+#15002
+banner denial pennant~
+the Banner of the Great Denial~
+A huge, tattered pennant drips slime to the earth here.~  
+cloth~
+1 AHM A 
+0 0 0 0 0
+38 1000 80 P
+E
+banner denial pennant~
+A huge tattered banner, like those once carried to the battlefield. It is grey
+with rot and neglect, the weave worn thin where it is not outright torn, and
+smells thickly rank.
+~
+A
+2 -5
+A
+4 -2
+
+#15003
+shroud black night~
+a hooded shroud black as night~
+An expanse of night-black cloth lies here puddled on the floor.~
+antimatter~
+9 GHJL AK
+16 16 16 0 10
+50 1 12 P
+E
+shroud~
+A great cloak or robe with many voluminous folds, all velvety black without
+even the sheen of highlights along the drapery. It seems to have been made
+for a large man, and smells faintly of...decay. A heavy cowl looks like it
+would all but completely conceal the face of a wearer.
+~
+A
+2 2
+A
+19 4
+ 
+#15004
+pole steersman's steersman~
+a steersman's pole~
+A long, gnarled wooden pole lies here.~
+wood~
+4 AGJL AO
+48 10 10 200 0
+48 1 20 P
+E
+pole steer steersman steersman's~
+A pole some nine feet in length, carved from the wood at an ancient oak tree's
+heart, gnarled and twisted with the grain and knot. Burnished to a high shine,
+the wood of the long pole seems almost to have been stained. It is a glossy,
+rich, deep black.
+~
+A
+18 1
+A
+23 -10
+
+#15005
+tunic white~
+an immaculate white tunic~
+A silvery-white tunic is folded neatly on the ground.~
+cloth~
+9 AGK AD
+13 13 13 13 13
+45 3 15 P
+E
+tunic white~
+This tunic looks as though it would reach to just above the knee. It is a
+shade of white so vivid and snowy it nearly hurts your eyes to look at it.
+Somehow dust seems to spring away from it, leaving the soft cloth spotless.
+~
+A
+12 20
+
+#15006
+sandals simple~
+a simple pair of sandals~
+A pair of plain, unornamented sandals sit here.~
+leather~
+9 GK AG
+13 13 13 13 13 
+45 3 10 P
+E
+sandals~
+These sandals are made from unremarkable leather, uncolored and apparently
+untreated save for the original cure. Their soles are hardened leather layered
+and comfortably broken in by long days of wear. The straps of the sandals
+lace up almost to the knee.
+~
+A
+2 3
+A
+19 2
+
+#15007
+crown laurels laurel~
+a crown of laurels~
+A crown of laurels sits here.~
+leaves~
+9 ABMGK AE
+11 11 11 0 0 
+50 1 5 P
+E
+crown laurels~
+A slender wreath of bay leaves, woven in times gone by as a mark of honor
+and esteem for heroes of the Classical period. This particular crown of 
+laurels is the tiniest bit mussed, implying that it has been worn before.
+~
+A
+30 -1
+
+#15008
+sword heroes hero~
+the Sword of Heroes~
+A mighty blade inscribed in ancient Greek is stuck point-down here.~
+iron~
+5 ABGKM AN
+1 8 10 20 0
+60 10 18 P
+E
+heroes hero greek~
+Hmm. The inscription on this blade is probably one of the great secrets of
+eternity, written by Homer. Too bad you can't read ancient Greek!
+~
+A
+18 2
+
+#15009
+pebble stone philosopher's philosopher~
+the philosopher's stone~
+A small rounded river pebble lies here.~
+stone~
+4 BFGK AO
+48 6 6 53 0
+60 1 200 P
+E
+pebble stone~
+A pebble worn smooth by the passage of centuries of water. It looks as though
+it would fit perfectly in the palm of your hand.
+~
+A
+3 1
+A
+4 1
+
+#15010
+leggings goatskin~
+P.A.G.A.N. goatskin leggings~
+A pair of hairy goatskin leggings lie here.~
+leather~
+9 GJL AF
+15 8 15 0 8
+50 6 20 P
+E
+leggings~
+A pair of standard-issue People Against Goodness And Normalcy goatskin
+leggings. They belt around the waist and cover your legs to the ankles with
+a layer of sturdy, hairy leather protection.
+~
+A
+19 1
+
+#15011
+cuff black leather studded~
+a black studded cuff~
+A thick black leather wrist cuff studded with metal lies here.~
+leather~
+9 GJL AM
+10 5 15 10 10
+50 4 10 P
+E
+cuff leather black~
+This wrist cuff is large enough almost to fit around your ankle...or your
+neck. Metal studs with sharp edges are riveted to the black leather.
+~
+A
+2 -5
+A
+13 10
+
+#15012
+whip barbed chain bones~
+a barbed chain whip of human bones~
+A jumble of bones spiked with rusty barbs is here.~
+bone~
+5 GHJLM AN
+7 8 8 13 0
+50 15 30 P
+E
+whip chain bones~
+The skeletons of several humans have been disassembled and picked over to
+make this barbaric weapon. The bones, ranging from femurs at the butt end of
+the whip to delicate metatarsals at the lash end, have been strung together
+with heavy barbed wire. The barbs are either rusting or caked with dried
+blood, staining the bleached bones a reddish brown.
+~
+A
+1 1
+A
+18 -7
+A
+19 -7
+
+#15013
+mantle flame living~
+a mantle of living flame~
+White and yellow flames burn cold in the shape of a mantle here.~
+fire~
+9 AG AK
+8 12 8 12 8
+48 45 10 P
+E
+mantle flames~
+White and yellow flames lick up around some kind of otherworldly frame,
+giving them the shape of a cloak or mantle. They burn cold, so cold that the
+pain of touching them is like a bite of frost rather than fire. But if you
+were to reach down and swing the mantle over your shoulders, the flames would
+not harm you.
+~
+A
+3 2
+
+#15014
+sleeves flame living flames~
+sleeves of living flame~
+White and golden flames burn cold in the form of two sleeves here.~
+fire~
+9 AG AI
+8 12 8 12 8
+48 7 8 P
+E
+sleeves flame~
+Cold white and golden flames burn in the shape of two sleeves, delicately
+beautiful and at the same time disconcerting.
+~
+A
+18 1
+A
+23 10
+
+#15015
+wreath flame living flames~
+a wreath of living flame~
+Golden flames lick upward in the form of a wreath here.~
+fire~
+9 AG AE
+8 12 8 12 8
+48 3 5 P
+E
+wreath flames~
+Cold white and golden flames form a slender circlet, the tongues of fire
+flaring upward occasionally in a halo mocking Queen Dido's agonizing suicide
+on the pyre.
+~
+A
+12 50
+
+#15016
+shackle queen~
+the Shackle of the Lovelorn Queen~
+A heavy shackle with a fragment of attached chain lies here.~
+iron~
+9 GHM AM
+8 12 8 12 8
+48 20 20 P
+E
+shackle~
+A band of rough iron, black with despair. A few links of dark chain are still
+attached.
+~
+A
+1 1
+A
+4 -2
+
+#15017
+collar spikes spiked spike~
+a collar deadly with rusted spikes~
+A collar made from interlocking rusty metal spikes is here.~
+iron~
+9 HJLM AC
+8 13 13 6 13
+45 3 30 P
+E
+collar spiked~
+Bits of rusty iron have been folded into loops that end in wicked-looking
+spikes, all linked together to make a heavy collar.
+~
+A
+12 15
+
+#15018
+claws cerberus~
+the Claws of Cerberus~
+A set of claws sewn onto leather gloves rest here.~
+steel~
+9 HJLM AH
+10 10 10 0 10
+45 100 25 P
+E
+claws~
+A pair of fingerless leather gloves have had a set of eight-inch claws sewn
+to them. The claws seem to be made of blued steel, for they glint wickedly
+with a slight oily sheen.
+~
+A
+18 1
+A
+19 1
+
+#15019
+ring signet dis~
+a signet ring of Dis~
+An oily-looking ring of some black metal rests here.~
+antimatter~
+9 GJLM AB
+15 15 15 15 15
+55 10 4 P
+E
+ring signet~
+A ring worked of some black metal displays a symbol that somehow turns your
+stomach even though you can make neither head nor tail of it. A miasma of
+evil seems to emanate from it.
+~
+A
+5 -2
+A
+19 -4
+
+#15020
+talisman knot~
+a talisman worked in a loathesome knot~
+Some black metal has been twisted impossibly into a knotted talisman.~
+antimatter~
+9 BCEGJL AC
+8 8 8 8 8
+55 4 12 P
+E
+talisman knot~
+Hanging from a nubbly chain of some black metal, a knot whose strands twist
+impossibly in and out and among each other seems to be some kind of talisman.
+It hums faintly, a tone that sets your teeth on edge and brushes tattered
+fingers against the base of your skull.
+~
+A
+2 1
+A
+12 5
+
+#15021
+key ebon~
+an ebon key~
+A key made of some abyssally black substance hovers here.~
+antimatter~
+18 ACEFG A
+0 0 0 0 0
+70 0 15 P
+E
+key ebon~
+The haft of the key is long and slender, the teeth strangely jagged. The
+handle has been carved into intricate scrollwork. Upon close inspection, you
+realize that the carvings seem to twist and shift, thousands and millions of
+tiny faces consumed by hateful expressions, their sharp chins moving as they
+mouth silent obscenities at you, glaring out from their darkling prison.
+~
+
+#15022
+serpents writhing nest~
+writhing serpents~
+A nest of tiny, hissing serpents writhes in and amongst itself here.~
+reptiles~
+12 GHJL AE
+0 0 0 0 0
+50 10 20 P
+E
+nest serpents~
+Threads of blood trickle from among dozens of tiny serpents. They are in
+constant motion, sliding around and through knots formed of themselves and
+their brethren, fixing beady emotionless eyes upon you, forked tongues
+flickering, red mouths opening in tiny fanged yawns. They seem to miss nothing
+that goes on around them. Sudden motions draw their attention in a ripple of
+slender bent necks. They nip irritably at one another and anything else that
+comes within reach.
+~
+A
+13 -20
+A
+18 1
+
+#15023
+belt hydras hydra~
+a belt of greenest hydras~
+A brilliant green legged serpent raises its head to peer at you.~
+reptiles~
+9 GHJLM AL
+8 8 8 12 10
+50 8 14 P
+E
+belt serpent~
+Three glossy-green legged serpents are wrapped in a circle, each biting firmly
+onto the tail of the next. They seem to be able to focus each eye independently
+of the other, swiveling them periodically to stare at you unblinkingly. Now
+and then they shift their jaws on each others' tails, but never release their
+grip.
+~
+A
+18 2
+
+#15024
+tail scorpion~
+a giant scorpion tail~
+The dried husk of a mammoth scorpion tail lies here.~
+chitin~
+9 GJLM AF
+19 22 16 20 20
+93 1 19 P
+E
+tail scorpion~
+This is part of the exoskeleton of a giant scorpion. Made of black ridged
+plates, it curves sharply and ends in a sharp stinger.
+~
+A
+17 5
+A
+18 -1
+
+#15025
+disc shield bronze~
+a disc of polished bronze~
+You can see your reflection in a circular bronze shield here.~
+bronze~
+9 G AJ
+20 20 20 0 0
+93 35 25 P
+E
+disc shield bronze~
+This concave circle of bronze has been polished to a brilliant shine, so
+much so that you can use it as a mirror. Its slightly irregular beaten
+surface catches the light and scatters it prismatically.
+~
+A
+13 25
+
+#15026
+trident bronze~
+a wicked-looking bronze trident~
+A long-hafted weapon with three gleaming bronze prongs is here.~
+bronze~
+5 FGJLM AN
+0 20 4 2 0
+93 25 20 P
+E
+trident bronze~
+The haft of this trident is about seven feet long, wrapped in leather and
+wire in the span where you would grip it. The ends of the two outside prongs
+are barbed, designed to catch and tear flesh when striking, while the middle
+prong is longer than the other two and sharpened to a razor point.
+~
+A
+1 -5
+A
+3 -10
+A
+18 2
+
+#15027
+wings black~
+some huge black-feathered wings~
+A pair of giant black-feathered wings are here.~
+feathers~
+9 CEGHJLM AI
+12 20 12 16 16
+78 45 35 P
+E
+wings black~
+These wings have a span of fifteen or sixteen feet. The black feathers are
+in perfect condition, rich and glossy, beautifully rippled. When they catch
+the light at certain angles they attain a dark rainbow sheen, iridescent
+purples and indigos and crimsons.
+~
+A
+34 -1
+
+#15028
+robe white~
+a white robe~
+A large white robe lies in a heap on the ground.~ 
+cloth~
+9 EGJL AK
+17 17 17 0 0
+78 15 15 P
+E
+robe white~
+This robe is made of a rich cream-colored cloth without a frayed thread or
+worn patch anywhere. The sleeves are full and billowing, the cuffs falling
+nearly to the ground when worn. In the back, against your shoulderblades, are
+two curious slashes in the fabric, neatly hemmed.
+~
+
+#15029
+bracer bloodstained leather~
+a bloodstained leather bracer~
+A heavy leather bracer stained with dried blood lies here.~
+leather~
+9 G AM
+10 8 14 0 0
+53 2 14 P
+E
+leather bracer~
+This bracer, made from several layers of boiled leather stitched together
+with sinew, was obviously made for someone with heavily muscled forearms.
+A very large someone with very large muscles. The leather is stained almost
+black with dried blood.
+~
+A
+12 15
+
+#15030
+longbow bow centaur~
+a centaur longbow~
+A powerful longbow is propped up here.~
+wood~
+5 G AN
+0 7 6 11 32
+28 45 20 P
+E
+longbow bow~
+This longbow is made from strong yew wood, unornamented. It is about eight 
+feet long, strung with sinew, and it takes a strong individual to bend it.
+~
+A
+18 -2
+
+#15031
+longbow bow carved chiron~
+Chiron's carven longbow~
+A tall carved longbow is here.~
+wood~
+5 ABG AN
+0 10 5 11 32
+58 150 20 P
+E
+longbow bow chiron~
+This longbow is some eight feet in length, strung with glossy sinew. The
+rich yew wood has been lovingly carved with scenes of hunt and battle. Upon
+closer inspection, you see that the hunters and the warriors who appear to
+be winning the depicted battles are all centaurs. Bending this mighty bow
+is a feat of strength, let alone firing it quickly and accurately.
+~
+A
+12 10
+A
+13 10
+A
+19 -6
+A
+31 -1
+
+#15032
+longbow bow bloody nessus~
+Nessus' bloody longbow~
+A tall longbow stained with the blood of many foes is here.~
+wood~
+5 ABG AN
+0 7 6 11 32
+48 75 24 P
+E
+longbow bow nessus~
+This longbow is unornamented, made from strong yew wood and strung with sinew.
+The grain of the wood is marred, or perhaps enhanced, depending on your
+viewpoint, by bloodstains. Its eight foot length seems to have been used as
+a club as well as the ranged attack it was designed for. It is difficult to
+bend it.
+~
+A
+2 -6
+A
+5 -5
+A
+18 1
+A
+19 2
+
+#15033
+longbow bow black pholus~
+Pholus' black longbow~
+A longbow crafted from jet-black wood is here.~
+wood~
+5 ABG AN
+0 8 6 11 32
+53 10 30 P
+E
+longbow bow black pholus~
+This powerful bow is perhaps eight feet in length, made from wood black as jet
+and harder than you would think wood to be. It is strung with sinew, and the
+top is decorated with black feathers and round beads on leather thongs.
+~
+A
+1 1
+A
+17 -4
+A
+19 2
+
+#15034
+shirt bloody~
+a loose-fitting bloody shirt~
+A shirt made for a large person, spattered with blood, is here.~
+leather~
+9 GHM AD
+20 20 20 20 20
+48 14 13 P
+E
+shirt bloody~
+This is a large shirt made of soft doeskin. The suede is marred by copious
+bloodstains, however, and torn in several places.
+~
+A
+1 -2
+A
+2 -2
+A
+4 1
+A
+17 5
+
+#15035
+armor plate torso blued-steel steel~
+blued-steel plate armor~
+A torso of blued-steel plate armor lies here.~
+steel~
+9 CG AD
+15 15 15 0 5
+65 55 40 P
+E
+torso plate armor~
+This is only part of a full set of High Medieval plate armor, made from 
+beautiful blued steel. It is field plate rather than parade armor, the only
+markings being ridges in the chest plate that curve away from the heart
+toward the shoulders, designed to catch the points of swords and deflect
+them away from vital organs.
+~
+A
+2 -1
+
+#15036
+guards shoulder spiked blued-steel steel~
+some spiked blued-steel shoulder guards~
+A pair of blued-steel shoulder guards with 8-inch spikes lie here.~
+steel~
+9 C AI
+15 15 15 0 5
+65 25 40 P
+E
+guards steel~
+These shoulder guards are components of a wickedly-designed suit of High
+Medieval plate armor. They have straps and buckles designed to secure them
+around the arms and chest and attach them to a chest plate and forearm
+bracers. Rimming each shoulder guard is a set of eight inch spikes, angled
+away from the wearer to protect the neck and head as well as intimidate foes.
+~
+A
+5 1
+#15037
+quiver arrows~
+a quiver of arrows~
+A quiver of long black-fletched arrows is here.~
+leather~
+15 BGH AD
+50 4 0 0 0
+53 15 6 P
+E
+quiver~
+This quiver is made from hardened leather dyed black. The cap is a circle of
+silver etched with abstract designs, hinged with leather thongs so it can be
+left open during hunts and battles for quick access to the arrows within.
+~
+A
+17 5
+#15038
+arrow black black-feathered~
+a black-feathered arrow~
+An arrow fletched with black feathers is lying here.~
+wood~
+3 ABG AO
+55 7 7 70 0
+53 1 2 P
+E
+arrow black~
+The shaft of this arrow is made from some sturdy, flexible black wood. It is
+fletched with black feathers. The arrowhead is evilly glinting steel.
+~
+
+#15039
+spear war amazon~
+an Amazon war spear~
+A war spear of shorter than average length is stuck in the ground.~
+wood~
+5 GK AN
+3 10 5 2 0
+45 25 12 P
+E
+spear amazon~
+Designed for the smaller frame of a woman, this war spear is made from strong
+ash wood and tipped with a broad bronze blade.
+~
+A
+19 1
+
+#15040
+lyre golden orpheus~
+the Golden Lyre of Orpheus~
+A beautifully crafted golden lyre rests on the ground.~
+gold~
+3 ABGK AO
+50 8 8 7 0
+50 35 10 P
+E
+lyre golden orpheus~
+This beautifully crafted instrument has obviously been well-kept. The strings
+hum slightly beneath your fingers as though straining to make music, the
+lightest tough making them thrum eagerly. Its golden frame is delicately
+smithed, making it a pleasure to the eye and ear.
+~
+A
+3 1
+
+#15041
+cup socrates~
+the Cup of Socrates~
+An intricately-wrought golden cup rests here.~
+gold~
+17 0 AO
+3 2 2 1 0
+53 1 4 P
+E
+cup~
+This is a fancy drinking goblet, of the type which immortals and great
+philosophers favor. Hmm. Looks like someone might already have taken a drink.
+~
+
+#15042
+crown serpent egypt~
+the Serpent Crown of Egypt~
+A delicate crown with a rearing serpent on it is here.~
+gold~
+9 AG AE
+10 10 10 0 0
+40 15 6 P
+E
+crown serpent~
+A thin circlet of gold widens just over the brow to support the slender
+wrought figure of a cobra rearing, hood spread. This is the crown of Queen
+Cleopatra.
+~
+A
+4 1
+
+#15043
+vial tears~
+a vial of tears~
+A small glass-corked vial has been left here.~
+glass~
+10 ABG AO
+34 72 4 2 0
+34 1 1 P
+E
+vial~
+A tiny bottle corked with glass. It is made of cut crystal, and shimmers.
+~
+
+#15044
+helm crested~
+a crested helm~
+A helm with a tall crimson crest lies here.~
+bronze~
+9 G AE
+12 12 12 0 0
+48 55 20 P
+E
+helm crested~
+A helm in the classic Greek style, sporting a tall crest of red horsehair
+that stands up straight in front and falls like a mane behind. It is made
+of bronze.
+~
+A
+5 1
+
+#15045
+shades lennon~
+a pair of Lennon shades~
+A pair of small round sunglasses rest here.~
+glass~
+9 G AE
+20 20 20 20 20
+100 10 1 P
+E
+shades lennon~
+Small round sunglasses. Like John Lennon wore. You know.
+~
+A
+3 1
+A
+12 25
+A
+13 25
+A
+17 -10
+
+#15046
+duster brown leather~
+one awesome leather duster~
+The most beautiful leather coat you have ever seen is hung here.~
+leather~
+15 G AK
+5000 0 0 0 0
+100 10 10 P
+E
+duster~
+A long coat for someone really, really tall. It is made of rich, soft, buttery
+brown suede with a high gloss. There is a short cape about the shoulders,
+like a Young Gun duster, and shotgun flaps. It has deep pockets which can
+hold all sorts of interesting things.
+~
+A
+2 1
+
+#15047
+chuckies shoes~
+a pair of Chuckies~
+A pair of Galaxy Blue Chuckies rest here.~
+canvas~
+9 ABG AG
+20 20 20 20 20
+50 10 6 P
+E
+chuckies~
+Size 11 dark blue-green Chuckies, well-broken in but not really scuffed up
+yet. They're sorta new. They look like you could run really fast and jump
+really high in them!
+~
+A
+17 -10
+A
+18 1
+A
+19 1
+A
+34 -1
+
+#15048
+ankh silver~
+a silver ankh~
+A small silver ankh on a black cord hangs from a hook.~
+silver~
+9 ABG AC
+20 20 20 20 20
+50 1 1 P
+E
+ankh silver~
+A small silver ankh, on a black silk cord. Just like the one Death wears!
+~
+A
+4 1
+A
+5 1
+A
+12 25
+A
+17 -10
+
+#15049
+jacket black leather~
+a leather jacket painted with "MINISTRY"~
+A gorgeous black leather biker jacket has been left here.~
+leather~
+15 G AK
+5 0 0 0 0
+50 5 10 P
+E
+jacket black leather~
+This badass biker jacket is made from buffalo leather, rougher and more porous
+than regular cow leather. It has some buttons on it, a pink triangle, a silver
+tiger leaping, and some others with mottoes. On the bottom of the back, the
+word MINISTRY is painted in silver, green and purple. The pockets bulge with
+many interesting trinkets.
+~
+A
+1 1
+A
+2 1
+
+#15050
+doc martens boots~
+a small but sturdy pair of Doc Martens~
+A pair of creased, scuffed Doc Martens sit here.~
+leather~
+9 G AG
+20 20 20 20 20
+50 10 6 P
+E
+doc martens boots~
+These are a men's size 6. Yep, they're small. They have bright red laces with
+no symbolic significance whatsoever, seven eyes, and well-worn creases in the
+toes and ankles. These babies have seen a lot of mosh pits and all kinds of
+exposure to the elements.
+~
+
+#15051
+pentagram silver~
+a silver pentagram~
+A silver pentagram has been dropped here.~
+silver~
+9 ABG AC
+20 20 20 20 20
+50 3 1 P
+E
+pentagram silver~
+This symbol of witchcraft is about an inch in diameter, hand-smithed in bright
+silver. The outer circle is wide and decorated with triangles pointing out
+like sun rays. The five-pointed star itself is designed to look interwoven,
+and at each point is a tiny symbol of one of the elements, Spirit, Earth, Air,
+Fire, and Water.
+~
+A
+3 1
+A
+12 25
+A
+19 1
+
+#15052
+cat-o'-nine-tails cat nine tails whip~
+a cat-o'-nine-tails~
+A short-handled whip with nine bloodied lashes rests here.~
+leather~
+5 CEJL AN
+7 10 4 13 0
+45 15 8 P
+E
+cat whip~
+This whip of ancient design has a short, flexible stock and nine broad lashes,
+wide so that they bruise and hurt a great deal but leave fewer marks.
+~
+
+#15053
+soles flame~
+soles of livid flame~
+Two oblongs of white-hot flame lie on the ground here.~
+fire~
+9 AGHJLM AG
+8 8 8 0 8
+38 25 2 P
+E
+soles flame~
+These are two flat oblongs shaped like Dr. Scholl's pads, obviously intended
+to connect in some way with the bottoms of one's feet. However, such contact
+does not look like it would be particularly enjoyable, since the soles burn
+hot and orangey-red.
+~
+A
+5 -2
+A
+18 -3
+A
+19 2
+
+#15054
+wand conjurer's conjurer~
+the Conjurer's Wand~
+A slender wand of some pale, satiny wood lies here.~
+wood~
+3 ABG AO
+38 8 8 82 0
+38 2 1 P
+E
+wand conjurer~
+This is a wand of grey wood polished to a satiny finish, about sixteen inches
+long.
+~
+
+#15055
+talons black~
+a pair of curving black talons~
+Two talons like crescents of obsidian lie here.~
+bone~
+9 GHJLM AH
+13 13 14 4 10
+64 5 16 P
+E
+talons black~
+These talons seem to be made of bone, smoothed into a deadly black gloss. They
+are seven inches long around the outside of their crescent-shaped curves.
+~
+A
+18 1
+A
+19 1
+
+#15056
+hook grappling~
+a grappling hook~
+A grappling hook caked with hardened pitch is here.~
+iron~
+5 HJL AN
+6 8 6 18 0
+44 4 8 P
+E
+hook grappling~
+The triple prongs of this grappling hook are all caked with pitch in various
+stages of hardening, from rock-solid to gooey-sticky.
+~
+A
+2 1
+
+#15057
+cassock golden~
+a glittering golden cassock~
+A monk's cassock fashioned of pure burnished gold is here.~
+lead~
+12 ABGHM AK
+6 10 8 0 0
+33 300 100 P
+E
+cassock golden~
+This enormously heavy cassock is beautiful gold on the outside, but when you
+look more closely, you see that it is lined with solid lead.
+~
+A
+1 -1
+A
+2 -1
+A
+3 -1
+A
+4 -1
+A
+5 -1
+
+#15058
+knot binding serpents~
+a knot of binding serpents~
+A little clump of jewel-scaled serpents writhe in a knot here.~
+reptiles~
+9 BGHM AM
+4 4 4 0 0
+38 25 15 P
+A
+2 -1
+A
+17 10
+A
+18 -1
+A
+19 -3
+
+#15059
+eye hellhound~
+a Hellhound's Eye~
+A glowing eyeball lies on the ground here.~
+tissue~
+9 ABGJL AE
+14 14 14 14 14
+63 2 3 P
+E
+eye eyeball~
+This is a large bloodshot eyeball, staring blankly. A fragment of the optic
+nerve is still attached to the back, raggedly severed.
+~
+A
+5 1
+A
+19 1
+
+#15060
+head bertrand~
+a severed head~
+The severed head of Bertrand de Born rests here.~
+tissue~
+1 AGJL AO
+0 0 99 0 0
+38 10 8 P
+E
+head bertrand~
+The head grins back at you and winks. 'Hi,' it says. 'I'm Bertrand de Born.
+How's it going?' It starts to say more, then chokes on clots of blood and
+spits up some rotting esophagal tissue.
+~
+A
+18 1
+
+#15061
+horn hunting nimrod~
+the Hunting Horn of Nimrod~
+A huge curling hunting horn lies here.~
+brass~
+12 ABGJL AC
+0 0 0 0 0
+98 3 40 P
+E
+horn hunting nimrod~
+This is the hunting horn of Nimrod, sounded to warn Satan of intruders
+approaching Cocytus. It is made of tarnished brass, with an inscription
+around the bell. This says FO RIMBLE JUKKY GLOO BARIALMUS. Nope, makes no
+sense to me either.
+~
+A
+30 -1
+
+#15062
+chains ephialtes~
+the Mighty Chains of Ephialtes~
+Coils of chains as thick as your thigh lie here.~
+iron~
+9 ABGJLM AD
+20 20 20 20 20
+98 250 80 P
+E
+chains ephialtes~
+Each link of these chains is as thick as your wrist, and the whole as much
+around as your thigh. And there are yards and yards of chain. After all, they
+had to restrain a Titan.
+~
+A
+13 50
+A
+17 -10
+
+#15063
+wings bat~
+a pair of gigantic bat wings~
+Huge, leathery wings lay one upon the other here.~
+leather~
+9 BCEGHJLM AK
+30 30 30 30 30
+100 45 50 P
+E
+wings bat~
+These wings are so huge they would make nice sails for a forty-foot racing
+yacht. They give off a stench, a compound of ancient rot, burnt flesh, and
+sulphur. Their leathery surfaces are stretched between struts of blackened
+bone. They seem to vibrate slightly, and waves of dark emotion roll toward
+you from them, waves of jealousy, sadism, and hatred.
+~
+A
+18 3
+A
+34 -1
+
+#15064
+mask gore frothing~
+a triple mask of frothing gore~
+A huge mask of pain and cruelty with three faces rests here.~
+leather~
+9 ACEGHJLM AE
+30 30 30 30 30
+100 35 40 P
+E
+mask~
+This gigantic mask shows three separate faces, the middle one red as wrath,
+the one on the right the color of long-spoiled milk, the one on the left a
+crevassed deep brown. The mouths have rows of teeth like those of a shark,
+caked with blood-flecked foam, and gobbets of human flesh rotting in strands
+of thick saliva drool down the three chins.
+~
+A
+17 20
+A
+18 -10
+A
+19 -20
+#15065
+hooves cloven~
+cloven hooves~
+A pair of huge, stinking cloven hooves lie here.~
+bone~
+9 ACEGHJLM AG
+30 30 30 30 30
+100 250 50 P
+E
+hooves cloven~
+These hooves are each the size of an African elephant, cloven like those of a
+goat. Caught between the two semicircles are bits of flesh and chunks of ice,
+clots of stinking dirt and feces.
+~
+A
+2 1
+A
+17 -100
+#0
+
+
+
+#ROOMS
+
+#15001
+A Dark Tunnel~
+   A tunnel hewn from rough living rock seems to lead down forever, with no end
+in sight. When you turn to look behind you, a blank rock wall greets your eyes.
+In fact, with every step you take, the wall seems to advance with you so that
+it is always at your back. You can only go forward.
+~
+0 AD 0
+D5
+The tunnel continues downward, ominously dark and silent.
+~
+~
+0 -1 15002
+D2
+You see a light at the end of the trail
+~
+~
+0 -1 6143
+S
+
+#15002
+A Dark Tunnel~
+   The tunnel continues on and on, ever downward, the stone floor rough beneath
+your feet. Still the tunnel seems to stop short just behind you with every step
+you take, no matter how quickly or slowly you advance.
+~
+0 AD 0
+D5
+The tunnel goes still further downward.
+~
+~
+0 -1 15003
+S
+
+#15003
+A Dark Tunnel~
+   Nothing much seems to have changed about the tunnel...except...what's that?
+In the inky blackness below there seems to be the faintest spot of light...
+~
+0 AD 0
+D5
+The tunnel descends still further.
+~
+~
+0 -1 15004
+S
+
+#15004
+A Dark Tunnel~
+   The darkness has lightened somewhat, but you still stumble across the rough-
+hewn floor of the tunnel. There is most definitely a light coming from 
+somewhere below you. But there is still no way back upward to life and the
+open sky.
+~
+0 AD 0
+D5
+The tunnel seems to open out a bit farther down.
+~
+~
+0 -1 15005
+S
+
+#15005
+A Small Cave~
+   The tunnel opens out into a shallow cavern here. As you enter the room, the
+walls behind you slide into place yet again, blocking your exit in any 
+direction save north. The faint light comes from that way, though.
+~
+0 AD 0
+D0
+The ceiling of the cavern seems to rise up higher than you can see to the
+north, and, glowing with a faint, sickly phosphorescence...are those trees?
+~
+~
+0 -1 15006
+S
+
+#15006
+The Dark Wood of Error~
+   Midway in our life's journey, I went astray
+     from the straight road and woke to find myself
+     alone in a dark wood. How shall I say
+   what wood that was! I never saw so drear,
+     so rank, so arduous a wilderness!
+     Its very memory gives a shape to fear.
+                                             (I: 1-6)
+~
+0 AD 3
+D0
+The trees continue as far as you can make out in the blackness to the north.
+~
+~
+0 -1 15007
+D2
+Stone walls narrow into a small, low-ceilinged cave to the south.
+~
+~
+0 -1 15005
+S
+
+#15007
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 AD 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15177 
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15175
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15006
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15176
+D5
+A tunnel leading down is blocked by fallen branches and debris.
+~
+tunnel~
+1 -1 15009
+S
+
+#15008
+The Far End of the Valley~
+   But at the far end of that valley of evil
+     whose maze had sapped my very heart with fear!
+     I found myself before a little hill
+   and lifted up my eyes. Its shoulders glowed
+     already with the sweet rays of that planet
+     whose virtue leads men straight on every road,
+   and the shining strengthened me against the fright
+     whose agony had wracked the lake of my heart
+     through all the terrors of that piteous night.
+                                                     (I: 13-21)
+~
+0 AD 3
+D2
+The dark wood spreads its inky canopy to the south.
+~
+~
+0 -1 15007
+S
+
+#15009
+The Tunnel Down~
+   You slip and slide downward through loose rocks and debris from the dark
+wood above. When you try to climb back up, the shifting surface betrays your
+foot and handholds and you tumble further down.
+~
+0 AD 5
+D5
+Blackness greets your gaze further down.
+~
+~
+0 -1 15010
+S
+
+#15010
+The Tunnel Down~
+   Still sliding downward, you can now hear a faint sound from the abyssal
+depths below...a sound almost like the wind sighing, or the soft moans of a
+fevered child. You can still find no purchase on the loose scree of the slope.
+~
+0 AD 5
+D5
+You can make out nothing below.
+~
+~
+0 -1 15011
+S
+
+#15011
+The Gate of Hell~
+     I AM THE WAY INTO THE CITY OF WOE.
+     I AM THE WAY TO A FORSAKEN PEOPLE.
+     I AM THE WAY INTO ETERNAL SORROW.
+
+     SACRED JUSTICE MOVED MY ARCHITECT.
+     I WAS RAISED HERE BY DIVINE OMNIPOTENCE,
+     PRIMORDIAL LOVE AND ULTIMATE INTELLECT.
+
+     ONLY THOSE ELEMENTS TIME CANNOT WEAR
+     WERE MADE BEFORE ME, AND BEYOND TIME I STAND.
+     ABANDON ALL HOPE YE WHO ENTER HERE.
+                                          (III: 1-9)
+~
+0 AD 1
+D5
+The mighty Gate of Hell towers over you, a single giant ring of iron provided
+to drag its weight open.
+~
+gate~
+1 -1 15012
+S
+
+#15012
+The Vestibule of Hell~
+   Here sighs and cries and wails coiled and recoiled
+     on the starless air, spilling my soul to tears.
+     A confusion of tongues and monstrous accents toiled
+   in pain and anger. Voices hoarse and shrill
+     and sounds of blows, all intermingled, raised
+     tumult and pandemonium that still
+   whirls on the air forever dirty with it
+     as if a whirlwind sucked at sand.
+                                        (III: 22-29)
+~
+0 AD 3 
+D2
+The muck and slime continues to the south.
+~
+~
+0 -1 15013
+D4
+A massive gate towers over you above.
+~
+gate~
+1 -1 15011
+S
+
+#15013
+The Swamp~
+   The ground here grows increasingly mucky, and a stench rises from it to
+rival any mortal swampland, for natural marshes stink of life's cycle, where
+here the odors of death permeate. Sobs and wails echo all around you, both
+close at hand and out of sight in the dark distance.
+~
+0 AD 3
+D0
+The ground becomes stonier and more solid to the north.
+~
+~
+0 -1 15012
+D1
+The stinking swamp stretches away to the dark east.
+~
+~
+0 -1 15014
+D2
+The River Acheron allows for a sandy beach to the south.
+~
+~
+0 -1 15018
+D3
+The stinking swamp stretches away to the dark west.
+~
+~
+0 -1 15016
+S
+
+#15014
+The Swamp~
+   You are surrounded by a stinking swamp. Unscalable rocky slopes rise to a
+distant ceiling to the north, and the inky waters of the River Acheron roll
+by sluggishly to the south. The swamp continues to east and west.
+~
+0 AD 3
+D1
+The swamp extends for a short way to the east.
+~
+~
+0 -1 15015
+D2
+The River Acheron slides by to the south.
+~
+~
+0 -1 15020
+D3
+The swamp extends into darkness to the west.
+~
+~
+0 -1 15013
+S
+
+#15015
+The Swamp~
+   You are ankles deep in a swamp so vile you almost faint from the stench.
+Rocky walls tower over you, impassable, to the north and east, and the swamp
+extends to the west. South, the River Acheron pours by like poisoned molasses.
+~
+0 AD 3
+D2
+The River Acheron slides by to the south.
+~
+~
+0 -1 15021
+D3
+The swamp extends into darkness to the west.
+~
+~
+0 -1 15014
+S
+
+#15016
+The Swamp~
+   The swamp surrounds you, stinking of death, decay and corruption. The muck
+gradually clears into open water, however loosely the term 'open' may apply,
+to the south, where the River Acheron flows sluggish and black. To the north
+a rock wall inclines almost straight up to a distant and unseen ceiling, and
+the swamp continues to east and west.
+~
+0 AD 3
+D1
+The swamp extends east.
+~
+~
+0 -1 15013
+D2
+The River Acheron slides by to the south.
+~
+~
+0 -1 15024
+D3
+The swamp extends west.
+~
+~
+0 -1 15017
+S
+
+#15017
+The Swamp~
+   Stinking darkness surrounds you, filled by the moans and laments of the
+damned. To north and west towering rock walls fling themselves impassably
+upward to an unseen ceiling, and the River Acheron flows sullenly past to the
+south. The swamp continues to the east.
+~
+0 AD 3
+D1
+The swamp stretches on to the east.
+~
+~
+0 -1 15016
+D2
+The River Acheron flows by to the south.
+~
+~
+0 -1 15025
+S
+
+#15018
+The Joyless Beach of Acheron~
+   But all together they drew to that grim shore
+     where all must come who lose the fear of God.
+     Weeping and cursing they come for evermore,
+   and demon Charon with eyes like burning coals
+     herds them in, and with a whistling oar
+     flails on the stragglers to his wake of souls.
+   As leaves in autumn loosen and stream down
+     until the branch stands bare above its tatters
+     spread on the rustling ground, so one by one
+   the evil seed of Adam in its Fall
+     cast themselves, at his signal, from the shore
+     and streamed away like birds who hear their call.
+                                                        (III: 103-114)
+~
+0 AD 2
+D0
+The ground rises slightly upward to the north.
+~
+~
+0 -1 15013
+D2
+The inky waters of the River Acheron lie to the south.
+~
+~
+0 -1 15019 
+S
+ 
+#15019
+The River Acheron~
+   And all pass over eagerly, for here
+     Divine Justice transforms and spurs them so
+     their dread turns wish: they yearn for what they fear.
+                                                             (III: 121-123)
+~
+0 AD 7
+D0
+A beach touches the water to the north.
+~
+~
+0 -1 15018
+D1
+The Acheron flows away to the east.
+~
+~
+0 -1 15020
+D2
+The inner bank of the River Acheron lies to the south.
+~
+~
+0 -1 15028
+D3
+The Acheron flows in from the west.
+~
+~
+0 -1 15024
+S
+
+#15020
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D0
+A swamp spreads its murk on the north bank.
+~
+~
+0 -1 15014
+D1
+The water flows eastward.
+~
+~
+0 -1 15021
+D2
+Stony ground makes up the south bank.
+~
+~
+0 -1 15029
+D3
+The water flows from the west.
+~
+~
+0 -1 15019
+S
+
+#15021
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D0
+A swamp spreads its murk on the north bank.
+~
+~
+0 -1 15015
+D1
+The river flows eastward.
+~
+~
+0 -1 15022
+D3
+The river flows along from the west.
+~
+~
+0 -1 15020
+S
+
+#15022
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D1
+The river flows toward a towering rock wall to the east.
+~
+~
+0 -1 15023
+D3
+The river flows along from the west.
+~
+~
+0 -1 15021
+S
+
+#15023
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently. Here, the Acheron
+disappears east under a ledge hung with spikes to make it impassable.
+~
+0 AD 7
+D3
+The river flows along from the west.
+~
+~
+0 -1 15022
+S
+
+
+#15024
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D0
+A swamp spreads its murk along the north bank.
+~
+~
+0 -1 15016
+D1
+The river flows eastward.
+~
+~
+0 -1 15019
+D2
+Stony ground makes up the south bank.
+~
+~
+0 -1 15030
+D3
+The water flows along from the west.
+~
+~
+0 -1 15025
+S
+
+#15025
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D0
+A swamp spreads its murk along the north bank.
+~
+~
+0 -1 15017
+D1
+The water flows away eastward.
+~
+~
+0 -1 15024
+D3
+The water flows along from the west.
+~
+~
+0 -1 15026
+S
+
+#15026
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently.
+~
+0 AD 7
+D1
+The water flows away eastward.
+~
+~
+0 -1 15025
+D3
+The water flows along from the west.
+~
+~
+0 -1 15027
+S
+
+#15027
+The River Acheron~
+   The inky water beneath you flows sluggishly and silently. Here, the Acheron
+pours into the open from under a western ledge hung with spikes to make it
+impassable. Towering over the flat black surface of the river is a rock wall
+that stretches upward, presumably to some unseen cavern ceiling.
+~
+0 AD 7
+D1
+The river flows away to the east.
+~
+~
+0 -1 15026
+S
+
+#15028
+The Southern Bank~
+   River water black as India ink laps at the pilings of a rickety ferry dock.
+When Charon brings a load of damned souls in, the spirits stream past you with
+blank eyes and hollow faces, heading south.
+~
+0 AD 2
+D0
+The River Acheron lies to the north.
+~
+~
+0 -1 15019
+D1
+The stony riverbank extends east.
+~
+~
+0 -1 15029
+D2
+The rocky ground rises slightly to the south.
+~
+~
+0 -1 15031
+D3
+The stony riverbank extends west.
+~
+~
+0 -1 15030
+S
+
+#15029
+The South Bank~
+   Rocks are strewn across the flat bank of the River Acheron. They increase
+in size and frequency to the east and south, making travel in those directions
+impossible in the near-total darkness.
+~
+0 AD 2
+D0
+The River Acheron pours sullenly past to the north.
+~
+~
+0 -1 15020
+D3
+You can see a ferry dock to the west.
+~
+~
+0 -1 15028
+S
+
+#15030
+The South Bank~
+   Rocks are strewn across the flat bank of the River Acheron. They increase
+in size and frequency to the west and south, making travel in those directions
+impossible in the near-total darkness.
+~
+0 AD 2
+D0
+The River Acheron pours sullenly past to the north.
+~
+~
+0 -1 15024
+D1
+You can see a ferry dock to the east.
+~
+~
+0 -1 15028
+S
+
+#15031
+The Brink of the Abyss~
+   And I found I stood on the very brink of the valley
+     called the Dolorous Abyss, the desolate chasm
+     where rolls the thunder of Hell's eternal cry,
+   So depthless-deep and nebulous and dim
+     that stare as I might into its frightful pit
+     it gave me back no feature and no bottom.
+                                                (IV: 7-12)
+~
+0 AD 4
+D0
+You can see the River Acheron to the north.
+~
+~
+0 -1 15028
+D5
+A rocky path leads downward.
+~
+~
+0 -1 15032
+S
+
+#15032
+A Rocky Path~
+   Your attention is taken up by watching your footing on this treacherous
+path, strewn with sharp rocks and potholes. The damned passing downward to
+their punishments take no heed of you, eyes set blankly ahead.
+~
+0 AD 5
+D1
+The path takes a switchback to the east.
+~
+~
+0 -1 15033
+D4
+The path leads upward.
+~
+~
+0 -1 15031
+S
+
+#15033
+A Rocky Path~
+   The path cuts along the cliff face. Spirits pass you on their way down.
+~
+0 AD 5
+D3
+The path takes a switchback to the west.
+~
+~
+0 -1 15032
+D5
+The path continues down, down, down.
+~
+~
+0 -1 15034
+S
+
+#15034
+A Rocky Path~
+   The path traces downward through a gully. Spirits pass you, hurrying down
+to their judgements.
+~
+0 AD 5
+D4
+The path cuts sharply upward.
+~
+~
+0 -1 15033
+D5
+The ground levels out just below you.
+~
+~
+0 -1 15035
+S
+
+#15035
+Limbo, the First Circle~
+   No tortured wailing rose to greet us here
+     but sounds of sighing rose from every side,
+     sending a tremor through the timeless air,
+   a grief breathed out of untormented sadness,
+     the passive state of those who dwelled apart,
+     men, women, children - a dim and endless congress.
+   And the Master said to me: 'You do not question
+     what souls these are that suffer here before you?
+     I wish you to know before you travel on
+   that these were sinless. And still their merits fail,
+     for they lacked Baptism's grace, which is the door
+     of the true faith you were born to.'
+                                           (IV: 25-36)
+~
+0 8|8192 2
+D1
+A citadel tops a rise to the east.
+~
+~
+0 -1 15036
+D2
+The fields of Limbo continue to the south.
+~
+~
+0 -1 15053 
+D3
+The fields of Limbo spread out to the west.
+~
+~
+0 -1 15055
+D4
+A rocky path leads up the cliff face.
+~
+~
+0 -1 15034
+S
+
+#15036
+Before the Citadel~
+   We reached the base of a great Citadel
+     circled by seven towering battlements
+     and by a sweet brook flowing round them all.
+   This we passed over as if it were firm ground.
+                                                   (IV: 106-109)
+~
+0 8|8192 2
+D1
+The first gate of the Citadel lies to the east.
+~
+~
+0 -1 15037
+D3
+The fields of Limbo lie to the west.
+~
+~
+0 -1 15035
+S
+
+#15037
+The First Gate~
+   A high stone archway with gates standing open allows passage in and out
+of the Citadel wherein dwell heroes from the past.
+~
+0 4|8|8192 1
+D1
+The second gate is to the east.
+~
+~
+0 -1 15038 
+D3
+The fields of Limbo lie to the west.
+~
+~
+0 -1 15036
+S
+
+#15038
+The Second Gate~
+   A second archway, taller and wider than the first, with gates standing open.
+~
+0 8|8192 1
+D1
+The third gate is east of you.
+~
+~
+0 -1 15039
+D3
+The first gate is to the west.
+~
+~
+0 -1 15037
+S
+
+#15039
+The Third Gate~
+   The third archway allowing entrance to the Citadel of heroes.
+~
+0 8|8192 1
+D1
+The fourth gate lies to the east.
+~
+~
+0 -1 15040
+D2
+The third gate lies to the west.
+~
+~
+0 -1 15038
+S
+
+#15040
+The Fourth Gate~
+   The fourth archway allowing entrance to the Citadel of heroes.
+~
+0 8|8192 1
+D1
+The fifth gate lies to the east.
+~
+~
+0 -1 15041
+D3
+The third gate lies to the west.
+~
+~
+0 -1 15039
+S
+
+#15041
+The Fifth Gate~
+   The fifth archway allowing entrance to the Citadel of heroes.
+~
+0 8|8192 1
+D1
+The sixth gate lies to the east.
+~
+~
+0 -1 15042
+D3
+The fourth gate lies to the west.
+~
+~
+0 -1 15040
+S
+
+#15042
+The Sixth Gate~
+   The sixth archway allowing entrance to the Citadel of heroes.
+~
+0 8|8192 1
+D1
+The seventh gate lies to the east.
+~
+~
+0 -1 15043
+D3
+The fifth gate lies to the west.
+~
+~
+0 -1 15041
+S
+
+#15043
+The Seventh Gate~
+   The seventh and greatest archway allowing entrance to the Citadel of
+heroes. A silvery-grey light shines from all around you.
+~
+0 8|8192 1
+D1
+A blooming meadow opens out to the east.
+~
+~
+0 -1 15044
+D3
+The sixth gate lies to the west.
+~
+~
+0 -1 15042
+S
+
+#15044
+West Meadow of the Citadel~
+   There with a solemn and majestic poise
+     stood many people gathered in the light,
+     speaking infrequently and with muted voice.
+                                                  (IV: 112-114)
+~
+0 8|8192 1
+D0
+The meadow extends north.
+~
+~
+0 -1 15045
+D1
+The meadow stretches east toward a small hill.
+~
+~
+0 -1 15052
+D2
+The meadow extends south.
+~
+~
+0 -1 15051
+D3
+The seven gates lie to the west.
+~
+~
+0 -1 15043
+S
+
+#15045
+Northwest Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D1
+The meadow extends east.
+~
+~
+0 -1 15046
+D2
+The meadow extends south.
+~
+~
+0 -1 15044
+S
+
+#15046
+Northern Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D1
+The meadow extends east.
+~
+~
+0 -1 15047
+D2
+The meadow extends south.
+~
+~
+0 -1 15052
+D3
+The meadow extends west.
+~
+~
+0 -1 15045
+S
+
+#15047
+Northeast Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D2
+A small hill rises to the south.
+~
+~
+0 -1 15048
+D3
+The meadow extends to the west.
+~
+~
+0 -1 15046
+S
+
+#15048
+A Small Hill~
+   Past that enameled green we six withdrew
+     into a luminous and open height
+     from which each soul among them stood in view.
+   And there directly before me on the green
+     the master souls of time were shown to me.
+     I glory in the glory I have seen!
+                                        (IV: 115-120)
+~
+0 8|8192 1
+D0
+The meadow stretches north.
+~
+~
+0 -1 15047
+D2
+The meadow stretches south.
+~
+~
+0 -1 15049
+D3
+The meadow stretches west.
+~
+~
+0 -1 15052
+S
+
+#15049
+Southeast Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D0
+A small hill rises to the north.
+~
+~
+0 -1 15048
+D3
+The meadow extends west.
+~
+~
+0 -1 15050
+S
+
+#15050
+Southern Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D0
+The meadow extends to the north.
+~
+~
+0 -1 15052
+D1
+The meadow extends to the east.
+~
+~
+0 -1 15049
+D3
+The meadow extends to the west.
+~
+~
+0 -1 15051
+S
+
+#15051
+Southwest Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D0
+The meadow extends north.
+~
+~
+0 -1 15044
+D1
+The meadow extends east.
+~
+~
+0 -1 15050
+S
+
+#15052
+Center Meadow of the Citadel~
+   Soft grass that is green but somehow muted covers the ground, dotted with
+flowers of all colors that are also somehow dimmer than blossoms that flourish
+under the sun. Level stone walls surround the meadow on all sides, pierced by
+a high archway in the western battlement.
+~
+0 8|8192 1
+D0
+The meadow extends north.
+~
+~
+0 -1 15046
+D1
+A small hill rises to the east.
+~
+~
+0 -1 15048
+D2
+The meadow extends south.
+~
+~
+0 -1 15050
+D3
+The meadow extends west.
+~
+~
+0 -1 15044
+S
+ 
+#15053
+Limbo, the First Circle~
+   A silvery-grey light shines all about you, with no particular source.
+~
+0 8|8192 2
+D0
+The fields of Limbo spread out to the north.
+~
+~
+0 -1 15035
+D2
+The silvery light seems to fade to the south.
+~
+~
+0 -1 15056
+D3
+The fields of Limbo spread out to the west.
+~
+~
+0 -1 15054
+S
+
+#15054
+Limbo, the First Circle~
+   A silvery-grey light shines all about you, with no particular source.
+~
+0 8|8192 2
+D0
+The fields of Limbo spread out to the north.
+~
+~
+0 -1 15055
+D1
+The fields of Limbo spread out to the east.
+~
+~
+0 -1 15053
+S
+
+#15055
+Limbo, the First Circle~
+   A silvery-grey light shines all about you, with no particular source.
+~
+0 8|8192 2
+D1
+The fields of Limbo spread out to the east.
+~
+~
+0 -1 15035
+D2
+The fields of Limbo spread out to the south.
+~
+~
+0 -1 15054
+S
+
+#15056
+Lower Rim of the First Circle~
+   The silvery-grey light which shines all around is somewhat dimmer here,
+straining your eyes. It fades altogether in a gully that pierces downward,
+deeper into Hell. Damned spirits unlucky enough to seek further for their
+degree of punishment stream past you and into that dark cleft.
+~
+0 8|8192 2
+D0
+The fields of Limbo open out to the north.
+~
+~
+0 -1 15053
+D5
+A rocky path leads downward.
+~
+~
+0 -1 15057
+S
+
+#15057
+A Steep Path~
+   Darkness surrounds you as you pick your way over sharp rocks, spirits
+jostling you as they plunge downward.
+~
+0 AD 5
+D4
+A dim silvery light shines up above.
+~
+~
+0 -1 15056
+D5
+The path opens out somewhere below.
+~
+~
+0 -1 15058
+S
+
+#15058
+The Second Ledge~
+   So we went down to the second ledge alone;
+     a smaller circle of so much greater pain
+     the voice of the damned rose in a bestial moan.
+                                                      (V: 1-3)
+~
+0 AD 4
+D4
+A steep path leads upward.
+~
+~
+0 -1 15057
+D5
+The ledge of Minos overlooks the Second Circle.
+~
+~
+0 -1 15059
+S
+
+#15059
+The Second Circle~
+   I came to a place stripped bare of every light
+     and roaring on the naked dark like seas
+     wracked by a war of winds. Their hellish flight
+   of storm and counterstorm through time foregone,
+     sweeps the souls of the damned before its charge.
+     Whirling and battering it drives them on,
+   and when they pass the ruined gap of Hell
+     through which we had come, their shrieks begin anew.
+     There they blaspheme the power of God eternal.
+   And this, I learned, was the never-ending flight
+     of those who sinned in the flesh, the carnal and lusty
+     who betrayed reason to their appetite.
+                                             (V: 28-39)
+~
+0 AD 9
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15060
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15062
+D4
+The ledge of Minos overlooks the Second Circle.
+~
+~
+0 -1 15058
+D5
+Another gully leads still deeper into Hell.
+~
+~
+0 -1 15064
+S
+
+#15060
+The Second Circle~
+   Roaring winds like conflicting hurricanes blast and batter wailing spirits
+caught in them like bits of helpless thistledown.
+~
+0 AD 9
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15061
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15059
+S
+
+#15061
+The Second Circle~
+   Roaring winds like conflicting hurricanes blast and batter wailing spirits
+caught in them like bits of helpless thistledown.
+~
+0 AD 9
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15060
+S
+
+#15062
+The Second Circle~
+   Roaring winds like conflicting hurricanes blast and batter wailing spirits
+caught in them like bits of helpless thistledown.
+~
+0 AD 9
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15059
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15063
+S
+
+#15063
+The Second Circle~
+   Roaring winds like conflicting hurricanes blast and batter wailing spirits
+caught in them like bits of helpless thistledown.
+~
+0 AD 9
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15062
+S
+
+#15064
+A Treacherous Path~
+   Darkness closes in suffocatingly and the cries and blasphemies of the damned
+seem to echo all around you in battering waves of harsh noise, the shrieks of
+those above rivaled by the wails of those below.
+~
+0 AD 5
+D4
+The path opens to the tempest of the Second Circle above.
+~
+~
+0 -1 15059
+D5
+The path opens to the Third Circle below.
+~
+~
+0 -1 15065
+S
+
+#15065
+The Third Circle~
+   I am in the Third Circle of the torments.
+     Here to all time with neither pause nor change
+     the frozen rain of Hell descends in torrents.
+   Huge hailstones, dirty water, and black snow
+     pour from the dismal air to putrefy
+     the putrid slush that waits for them below.
+                                                  (VI: 7-12)
+~
+0 AD 5
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15066
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15068
+D4
+A treacherous gully leads upward.
+~
+~
+0 -1 15064
+D5
+Another gully leads down.
+~
+~
+0 -1 15070
+S
+
+#15066
+The Third Circle~
+   The mother of all storms hurls disgusting slush, ice, rain and snow down
+on the swollen bodies of the Gluttons putrefying in offal.
+~
+0 AD 5
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15067
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15065
+S
+
+#15067
+The Third Circle~
+   The mother of all storms hurls disgusting slush, ice, rain and snow down
+on the swollen bodies of the Gluttons putrefying in offal.
+~
+0 AD  5
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15066
+S
+
+#15068
+The Third Circle~
+   The mother of all storms hurls disgusting slush, ice, rain and snow down
+on the swollen bodies of the gluttons putrefying in offal.
+~
+0 AD 5
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15065
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15069
+S
+
+#15069
+The Third Circle~
+   The mother of all storms hurls disgusting slush, ice, rain and snow down
+on the swollen bodies of the gluttons putrefying in offal.
+~
+0 AD 5
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15068
+S
+
+#15070
+A Narrow Gully~
+   The rancid darkness of Hell closes in around you here between the Third and
+Fourth Circles.
+~
+0 AD 5
+D4
+The gully opens to the Third Circle above.
+~
+~
+0 -1 15065
+D5
+A ledge below overlooks the Fourth Circle.
+~
+~
+0 -1 15071
+S
+
+#15071
+The Dark Scarp~
+   The cliff upon which the Third Circle rests, above, rises sharply to the
+north, pierced by a narrow gully. The rumblings and scrapings of stone against
+stone rise along with furious shouts and cries from the Fourth Circle below.
+~
+0 AD 5
+D4
+A narrow gully leads upward.
+~
+~
+0 -1 15070
+D5
+A rocky slope inclines steeply downward.
+~
+~
+0 -1 15072
+S
+
+#15072
+The Fourth Circle~
+   Just as the surge Charybdis hurls to sea
+     crashes and breaks upon its countersurge.
+     so these shades dance and crash eternally.
+   Here, too, I saw a nation of lost souls,
+     far more than were above: they strained their chests
+     against enormous weights, and with mad howls
+   rolled them at one another. Then in haste
+     they rolled them back, one party shouting out:
+     'Why do you hoard?' and the other: 'Why do you waste?'
+                                                             (VII: 22-30)
+~
+0 AD 4
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15073
+D2
+The rocky ground continues to the south.
+~
+~
+0 -1 15077
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15075
+S
+
+#15073
+The Fourth Circle~
+   Misers and spendthrifts scream and struggle against one another for all
+eternity, rolling huge weights back and forth.
+~
+0 AD 2
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15074
+D3
+The circle curves away to the west
+~
+~
+0 -1 15072
+S
+
+#15074
+The Fourth Circle~
+   Misers and spendthrifts scream and struggle against one another for all
+eternity, rolling huge weights back and forth.
+~
+0 AD 2
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15073
+S
+
+#15075
+The Fourth Circle~
+   Misers and spendthrifts scream and struggle against one another for all
+eternity, rolling huge weights back and forth.
+~
+0 AD 2
+D1
+The circle curves around to the east.
+~
+~
+0 -1 15072
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15076
+S
+
+#15076
+The Fourth Circle~
+   Misers and spendthrifts scream and struggle against one another for all
+eternity, rolling huge weights back and forth.
+~
+0 AD 2
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15075
+S
+
+#15077
+The Spring of the River Styx~
+   And crossing over to the chasm's edge
+     we came to a spring that boiled and overflowed
+     through a great crevice worn into the ledge.
+   By that foul water, black from its very source,
+     we found a nightmare path among the rocks
+     and followed the dark stream along its course.
+                                                     (VII: 100-105)
+~
+0 AD 5
+D0
+The Fourth Circle lies to the north.
+~
+~
+0 -1 15072
+D5
+A path follows the River Styx down the side of the chasm.
+~
+~
+0 -1 15078
+S
+
+#15078
+Path Along the River Styx~
+   The black water of the Styx falls in hissing cataracts alongside your path.
+~
+0 AD 5
+D4
+The headwaters of the Styx lie above.
+~
+~
+0 -1 15077
+D5
+The Fifth Circle opens out below.
+~
+~
+0 -1 15079
+S
+
+#15079
+The Fifth Circle~
+   Beyond its rocky race and wild descent
+     the river floods and forms a marsh called Styx,
+     a dreary swampland, vaporous and malignant.
+   And I, intent on all our passage touched,
+     made out a swarm of spirits in that bog
+     savage with anger, naked, slime-besmutched.
+   They thumped at one another in that slime
+     with hands and feet, and they butted, and they bit
+     as if each would tear the other limb from limb.
+                                                      (VII: 106-114)
+~
+0 AD 2
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15080
+D2
+A great beacon tower stabs upward to the south.
+~
+~
+0 -1 15084
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15082
+D4
+A rocky path follows the Styx up the cliff face.
+~
+~
+0 -1 15078
+S
+ 
+#15080
+The Fifth Circle~
+   The Wrathful fight each other eternally, punching and clawing and biting and
+gouging with a hopeless viciousness, while the Sullen burble tonelessly, buried
+in the slime.
+~
+0 AD 7
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15081
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15079
+S
+
+#15081
+The Fifth Circle~
+   The Wrathful fight each other eternally, punching and clawing and biting and
+gouging with a hopeless viciousness, while the Sullen burble tonelessly, buried
+in the slime.
+~
+0 AD 7
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15080
+S
+
+#15082
+The Fifth Circle~
+   The Wrathful fight each other eternally, punching and clawing and biting and
+gouging with a hopeless viciousness, while the Sullen burble tonelessly, buried
+in the slime.
+~
+0 AD 7
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15079
+D3
+The circle curves away to the west.
+~
+~
+0 -1 15083
+S
+
+#15083
+The Fifth Circle~
+   The Wrathful fight each other eternally, punching and clawing and biting and
+gouging with a hopeless viciousness, while the Sullen burble tonelessly, buried
+in the slime.
+~
+0 AD 7
+D1
+The circle curves away to the east.
+~
+~
+0 -1 15082
+S
+
+#15084
+Before a Great Tower~
+   No twanging bowstring ever shot an arrow
+     that bored the air it rode dead to the mark
+     more swiftly than the flying skiff whose prow
+   shot toward us over the polluted channel
+     with a single steersman at the helm who called:
+     'So, do I have you at last, you whelp of Hell?'
+                                                      (VIII:13-18)
+~
+0 AD 6
+D0
+The Fifth Circle lies to the north.
+~
+~
+0 -1 15079
+D2
+The Styx flows around Dis in a moat to the south.
+~
+~
+0 -1 15085
+S
+
+#15085
+The Moat of Dis~
+   'My son,' the Master said, 'the City called Dis
+     lies just ahead, the heavy citizens,
+     the swarming crowds of Hell's metropolis.'
+   And I then: 'Master, I already see
+     the glow of its red masques, as if they came
+     hot from the forge to smolder in this valley.'
+   And my all-knowing Guide: 'They are eternal
+     flues to eternal fire that rages in them
+     and makes them glow across this lower Hell.'
+   And as he spoke we entered the vast moat
+     of the sepulchre. Its walls seemed made of iron
+     and towered above us in our little boat.
+                                                (VIII: 64-75)
+~
+0 AD 7
+D0
+The swamp stretches out to the north.
+~
+~
+0 -1 15084
+D1
+The encircling moat extends east.
+~
+~
+0 -1 15086
+D2
+The ferry landing is to the south.
+~
+~
+0 -1 15090
+D3
+The encircling moat extends west.
+~
+~
+0 -1 15088
+S
+
+#15086
+The Moat of Dis~
+   Black water from the Styx encircles the walls.
+~
+0 AD 7
+D1
+The encircling moat extends east.
+~
+~
+0 -1 15087
+D3
+The encircling moat extends west.
+~
+~
+0 -1 15085
+S
+
+#15087
+The Moat of Dis~
+   Black water from the Styx encircles the walls.
+~
+0 AD 7
+D3
+The encircling moat extends west.
+~
+~
+0 -1 15086
+S
+
+#15088
+The Moat of Dis~
+   Black water from the Styx encircles the walls.
+~
+0 AD 7
+D1
+The encircling moat extends east.
+~
+~
+0 -1 15085
+D3
+The encircling moat extends west.
+~
+~
+0 -1 15089
+S
+
+#15089
+The Moat of Dis~
+   Black water from the Styx encircles the walls.
+~
+0 AD 7
+D1
+The encircling moat extends east.
+~
+~
+0 -1 15088
+S
+
+#15090
+Outside the Upper Gate of Dis~
+   Above the gates more than a thousand shades
+     of spirits purged from Heaven for its glory
+     cried angrily: 'Who is it that invades
+   Death's Kingdom in his life?'
+                                  (VIII:79-82)
+~
+0 AD 1
+D0
+The moat lies to the north.
+~
+~
+0 -1 15085
+D2
+The huge iron gates of Dis are to the south.
+~
+gates gate~
+2 15021 15091
+S
+
+#15091
+Inside the Upper Gate of Dis~
+   Constructed all of black iron, the walls of Dis curve away into the
+darkness with no end in sight. The mighty gates face north.
+~
+0 AD 1
+D0
+The huge iron gates of Dis are to the north.
+~
+gates gate~
+2 15021 15090
+D1
+The door of the East Gatehouse.
+~
+door~
+1 -1 15092
+D2
+A road leads south to the Sixth Circle.
+~
+~
+0 -1 15096
+D3
+The door of the West Gatehouse.
+~
+door~
+1 -1 15094
+S
+
+#15092
+The East Gatehouse~
+   This room is hot and cramped, the iron walls sweating blood. A staircase
+leads up, presumably to the lookout vantage point of the tower.
+~
+0 AD 1
+D3
+The door out.
+~
+door~
+1 -1 15091
+D4
+The stairs up.
+~
+~
+0 -1 15093
+S
+
+#15093
+Atop the East Gatehouse~
+   This battlemented tower provides a marvelous view of the Stygian marshes
+teeming with tormented spirits north of the city. You inhale the fresh air
+deeply, relieved to be in the open after the stuffy gatehouse below, and choke
+and retch on the smog of Hell.
+~
+0 AD 1
+D5
+The stairs down.
+~
+~
+0 -1 15092
+S
+
+#15094
+The West Gatehouse~
+   This room is hot and stuffy, the iron walls sweating blood. A staircase
+leads up to the lookout tower.
+~
+0 AD 1
+D1
+The door out.
+~
+door~
+1 -1 15091
+D4
+The stairs up.
+~
+~
+0 -1 15095
+S
+
+#15095
+Atop the West Gatehouse~
+   From this lookout tower, you can survey the darkly glistening expanse of
+the Stygian marshes north of the city. A hot wind stirs your hair and manages
+at the same time to give you goosebumps.
+~
+0 AD 1
+D5
+The stairs down.
+~
+~
+0 -1 15094
+S
+
+#15096
+An Iron-Paved Road~
+   A dark road paved all in cold black iron leads away to a reddish glow in
+the south, deeper into Hell.
+~
+0 AD 1
+D0
+Toward the gates of Dis.
+~
+~
+0 -1 15091
+D2
+The Sixth Circle lies to the south.
+~
+~
+0 -1 15097
+S
+
+#15097
+The Sixth Circle~
+   The uneven tombs cover the even plain -
+     such fields I saw here, spread in all directions,
+     except that here the tombs were chests of pain:
+   for, in a ring around each tomb, great fires
+     raised every wall to a red heat. No smith
+     works hotter iron on his forge. The biers
+   stood with their lids upraised, and from their pits
+     an anguished moaning rose on the dead air
+     from the desolation of tormented spirits.
+                                                (IX: 112-120)
+~
+0 AD 2
+D0
+An iron-paved road leads to the gates of Dis to the north.
+~
+~
+0 -1 15096
+D1
+The tombs of the Sixth Circle continue east.
+~
+~
+0 -1 15098
+D2
+The tombs of the Sixth Circle continue south.
+~
+~
+0 -1 15100
+D3
+The tombs of the Sixth Circle continue west.
+~
+~
+0 -1 15099
+S
+
+#15098
+The Sixth Circle~
+   Sarcophagi surrounded by rings of sullen fire are scattered about the
+field, the flames heating the tombs to a red glow. Moans of unending pain
+emanate from each stone casket.
+~
+0 AD 2
+D2
+The tombs of the Sixth Circle continue south.
+~
+~
+0 -1 15101
+D3
+The tombs of the Sixth Circle continue west.
+~
+~
+0 -1 15097
+S
+
+#15099
+The Sixth Circle~
+   Sarcophagi surrounded by rings of sullen fire are scattered about the
+field, the flames heating the tombs to a red glow. Moans of unending pain
+emanate from each stone casket.
+~
+0 AD 2
+D1
+The tombs of the Sixth Circle continue east.
+~
+~
+0 -1 15097
+D2
+The tombs of the Sixth Circle continue south.
+~
+~
+0 -1 15102
+S
+
+#15100
+The Sixth Circle~
+   Sarcophagi surrounded by rings of sullen fire are scattered about the
+field, the flames heating the tombs to a red glow. Moans of unending pain
+emanate from each stone casket.
+~
+0 AD 2
+D0
+The tombs of the Sixth Circle continue north.
+~
+~
+0 -1 15097
+D1
+The tombs of the Sixth Circle continue east.
+~
+~
+0 -1 15101
+D3
+The tombs of the Sixth Circle continue west.
+~
+~
+0 -1 15102
+S
+
+#15101
+The Sixth Circle~
+   Sarcophagi surrounded by rings of sullen fire are scattered about the
+field, the flames heating the tombs to a red glow. Moans of unending pain
+emanate from each stone casket.
+~
+0 AD 2
+D0
+The tombs of the Sixth Circle continue north.
+~
+~
+0 -1 15098
+D2
+A rockfall lies to the south.
+~
+~
+0 -1 15103
+D3
+The tombs of the Sixth Circle continue west.
+~
+~
+0 -1 15100
+S
+
+#15102
+The Sixth Circle~
+   Sarcophagi surrounded by rings of sullen fire are scattered about the
+field, the flames heating the tombs to a red glow. Moans of unending pain
+emanate from each stone casket.
+~
+0 AD 2
+D0
+The tombs of the Sixth Circle continue north.
+~
+~
+0 -1 15099
+D1
+The tombs of the Sixth Circle continue east.
+~
+~
+0 -1 15100
+S
+
+#15103
+Inner Edge of the Sixth Circle~
+   We came to the edge of an enormous sink
+     rimmed by a circle of great broken boulders.
+     Here we found ghastlier gangs. And here the stink
+   thrown up by the abyss so overpowered us
+     that we drew back, cowering behind the wall
+     of one of the great tombs.
+                                 (XI: 1-6)
+~
+0 AD 2
+D0
+The tombs of the Sixth Circle stretch away to the north.
+~
+~
+0 -1 15101
+D5
+A path leads down along the cliff face.
+~
+~
+0 -1 15104
+S
+
+#15104
+Path Along the Cliff Face~
+   Waves of stench waft up from below on this narrow path that descends the
+cliff face. The air above puffs hot breath against your cheek from the Sixth
+Circle.
+~
+0 AD 5
+D4
+The path leads up to the Sixth Circle.
+~
+~
+0 -1 15103
+D5
+The path leads down the cliff to the Seventh Circle.
+~
+~
+0 -1 15105
+S
+
+#15105
+Path Along the Cliff Face~
+   The scene that opened from the edge of the pit
+     was mountainous, and such a desolation
+     that every eye would shun the sight of it:
+   a ruin like the Slides of Mark near Trent
+     on the bank of the Adige, the result of an earthquake
+     or of some massive fault in the escarpment -
+   for, from the point on the peak where the mountain split
+     to the plain below, the rock is so badly shattered
+     a man at the top might make a rough stair of it.
+                                                       (XII: 1-9)
+~
+0 AD 5
+D4
+The path leads up.
+~
+~
+0 -1 15104
+D5
+The path opens onto a slope of shale below.
+~
+~
+0 -1 15106
+S
+
+#15106
+A Slope of Shale~
+   Your feet skid out from under you and you slip helplessly downhill. Looking
+back up, you see that the loose footing prevents you from ascending again.
+~
+0 1|8|8192 5
+D5
+A river of blood runs below.
+~
+~
+0 -1 15107
+S
+
+#15107
+Beside Phlegethon, River of Blood~
+   I saw an arching fosse that was the bed 
+     of a winding river circling through the plain
+     exactly as my Guide and Lord had said.
+   A file of Centaurs galloped in the space
+     between the bank and the cliff, well armed with arrows,
+     riding as once on earth they rode to the chase.
+                                                      (XII: 52-57)
+~
+0 1|8|8192 4
+D1
+The bank of the bloody river extends eastward.
+~
+~
+0 -1 15108
+D2
+The river of blood runs to the south.
+~
+~
+0 -1 15110
+D3
+The bank of the bloody river extends westward.
+~
+~
+0 -1 15109
+S
+
+#15108
+Beside Phlegethon, River of Blood~
+   A jagged cliff climbs to the north and a river of blood flows alongside you
+to the south. The ground is strewn with rocks fallen from above.
+~
+0 1|8|8192 4
+D2
+The river of blood runs to the south.
+~
+~
+0 -1 15111
+D3
+The riverbank extends westward.
+~
+~
+0 -1 15107
+S
+
+#15109
+Beside Phlegethon, River of Blood~
+   A jagged cliff climbs to the north and a river of blood flows alongside you
+to the south. The ground is strewn with rocks fallen from above.
+~
+0 1|8|8192 4
+D1
+The riverbank extends eastward.
+~
+~
+0 -1 15107
+D2
+The river of blood runs to the south.
+~
+~
+0 -1 15113
+S
+
+#15110
+The River Phlegethon, the Seventh Circle~
+   Boiling blood so dark its color is more purple than red runs swift and
+scalding. Those who sinned in violence against their fellow men are sunk into
+the river according to the degree of their crimes, lashed and beaten by
+watchful centaurs when they dare to rise farther than their allowance.
+~
+0 1|8|8192 6
+D0
+The riverbank abuts a cliff to the north.
+~
+~
+0 -1 15107
+D1
+The river runs east.
+~
+~
+0 -1 15111
+D2
+A dark wood lies to the south.
+~
+~
+0 -1 15115
+D3
+The river runs from the west.
+~
+~
+0 -1 15113
+S
+
+#15111
+The River Phlegethon, the Seventh Circle~
+   Boiling blood so dark its color is more purple than red runs swift and
+scalding. Those who sinned in violence against their fellow men are sunk into
+the river according to the degree of their crimes, lashed and beaten by
+watchful centaurs when they dare to rise farther than their allowance.
+~
+0 1|8|8192 7
+D0
+The upper riverbank is to the north.
+~
+~
+0 -1 15108
+D1
+The river runs east.
+~
+~
+0 -1 15112
+D2
+A dark wood lies to the south.
+~
+~
+0 -1 15116
+D3
+The river runs from the west.
+~
+~
+0 -1 15110
+S
+
+#15112
+The River Phlegethon, the Seventh Circle~
+   Boiling blood so dark its color is more purple than red runs swift and
+scalding. Those who sinned in violence against their fellow men are sunk into
+the river according to the degree of their crimes, lashed and beaten by
+watchful centaurs when they dare to rise farther than their allowance.
+~
+0 1|8|8192 7
+D3
+The river runs from the west.
+~
+~
+0 -1 15111
+S
+
+#15113
+The River Phlegethon, the Seventh Circle~
+   Boiling blood so dark its color is more purple than red runs swift and
+scalding. Those who sinned in violence against their fellow men are sunk into
+the river according to the degree of their crimes, lashed and beaten by
+watchful centaurs when they dare to rise farther than their allowance.
+~
+0 1|8|8192 7
+D0
+The upper riverbank is north.
+~
+~
+0 -1 15109
+D1
+The river runs east.
+~
+~
+0 -1 15110
+D2
+A dark wood lies to the south.
+~
+~
+0 -1 15117
+D3
+The river runs from the west.
+~
+~
+0 -1 15114
+S
+
+#15114
+The River Phlegethon, the Seventh Circle~
+   Boiling blood so dark its color is more purple than red runs swift and
+scalding. Those who sinned in violence against their fellow men are sunk into
+the river according to the degree of their crimes, lashed and beaten by
+watchful centaurs when they dare to rise farther than their allowance.
+~
+0 1|8|8192 7
+D1
+The river runs east.
+~
+~
+0 -1 15113
+S
+
+#15115
+Wood of the Suicides, the Seventh Circle~
+     We moved on into a pathless wood
+     that twisted upward from Hell's broken floor.
+   Its foliage was not verdant, but nearly black.
+     The unhealthy branches, gnarled and warped and tangled,
+     bore poison thorns instead of fruit. The track
+   of those wild beasts that shun the open spaces
+     men till between Cecina and Corneto
+     runs through no rougher nor more tangled places.
+                                                       (XIII: 2-9)
+~
+0 1|8|8192 3
+D0
+A river of blood runs to the north.
+~
+~
+0 -1 15110
+D1
+The wood continues eastward.
+~
+~
+0 -1 15116
+D2
+The wood continues to the south.
+~
+~
+0 -1 15118
+D3
+The wood continues westward.
+~
+~
+0 -1 15117
+S
+
+#15116
+Wood of the Suicides, the Seventh Circle~
+   Huge, gnarled trees shift their branches beneath the weight of hideous
+harpies. Here and there one bleeds and laments aloud, revealing that the
+trees are the souls of the suicides. In the distant shadows a running figure
+will flash past, pursued by lowslung hounds of Hell.
+~
+0 1|8|8192 3
+D0
+A river of blood flows along the northern rim of the wood.
+~
+~
+0 -1 15111
+D2
+The wood continues to the south.
+~
+~
+0 -1 15119
+D3
+The wood continues to the west.
+~
+~
+0 -1 15115
+S
+
+#15117
+Wood of the Suicides, the Seventh Circle~
+   Huge, gnarled trees shift their branches beneath the weight of hideous
+harpies. Here and there one bleeds and laments aloud, revealing that the
+trees are the souls of the suicides. In the distant shadows a running figure
+will flash past, pursued by lowslung hounds of Hell.
+~
+0 1|8|8192 3
+D0
+A river of blood flows along the northern rim of the wood.
+~
+~
+0 -1 15113
+D1
+The wood continues to the east.
+~
+~
+0 -1 15115
+D2
+The wood continues to the south.
+~
+~
+0 -1 15120
+S
+
+#15118
+Wood of the Suicides, the Seventh Circle~
+   Huge, gnarled trees shift their branches beneath the weight of hideous
+harpies. Here and there one bleeds and laments aloud, revealing that the
+trees are the souls of the suicides. In the distant shadows a running figure
+will flash past, pursued by lowslung hounds of Hell.
+~
+0 1|8|8192 3
+D0
+The wood continues to the north.
+~
+~
+0 -1 15115
+D1
+The wood continues to the east.
+~
+~
+0 -1 15119
+D2
+A burning plain lies to the south.
+~
+~
+0 -1 15121
+D3
+The wood continues to the west.
+~
+~
+0 -1 15120
+S
+
+#15119
+Wood of the Suicides, the Seventh Circle~
+   Huge, gnarled trees shift their branches beneath the weight of hideous
+harpies. Here and there one bleeds and laments aloud, revealing that the
+trees are the souls of the suicides. In the distant shadows a running figure
+will flash past, pursued by lowslung hounds of Hell.
+~
+0 1|8|8192 3
+D0
+The wood continues to the north.
+~
+~
+0 -1 15116
+D2
+A burning plain lies to the south.
+~
+~
+0 -1 15122
+D3
+The wood continues to the west.
+~
+~
+0 -1 15118
+S
+
+#15120
+Wood of the Suicides, the Seventh Circle~
+   Huge, gnarled trees shift their branches beneath the weight of hideous
+harpies. Here and there one bleeds and laments aloud, revealing that the
+trees are the souls of the suicides. In the distant shadows a running figure
+will flash past, pursued by lowslung hounds of Hell.
+~
+0 1|8|8192 3
+D0
+The wood continues to the north.
+~
+~
+0 -1 15117
+D1
+The wood contiues to the east.
+~
+~
+0 -1 15118
+D2
+A burning plain lies to the south.
+~
+~
+0 -1 15123
+S
+
+#15121
+Plain of Burning Sand, the Seventh Circle~
+     We paused at its edge: the ground was burning sand,
+     just such a waste as Cato marched across.
+   O endless wrath of God: how utterly
+     thou shouldst become a terror to all men
+     who read the frightful truths revealed to me!
+                                                    (XIV: 11-15)
+~
+0 8|8192 10
+D0
+A dark wood lies to the north.
+~
+~
+0 -1 15118
+D1
+The burning sands continue to the east.
+~
+~
+0 -1 15122
+D2
+The burning sands continue to the south.
+~
+~
+0 -1 15124
+D3
+The burning sands continue to the west.
+~
+~
+0 -1 15123
+S
+
+#15122
+Plain of Burning Sand, the Seventh Circle~
+   The heat of the sand beneath your feet scorches your cheeks. Flames rain
+down from above, blackening the skin of sinners all around you, be they prone,
+eternally running, or huddled miserably as though their upraised arms could
+stave off the infernal wrath of God.
+~
+0 8|8192 10
+D0
+A dark wood lies to the north.
+~
+~
+0 -1 15119
+D2
+The burning sands continue to the south.
+~
+~
+0 -1 15125
+D3
+The burning sands continue to the east.
+~
+~
+0 -1 15121
+S
+
+#15123
+Plain of Burning Sand, the Seventh Circle~
+   The heat of the sand beneath your feet scorches your cheeks. Flames rain
+down from above, blackening the skin of sinners all around you, be they prone,
+eternally running, or huddled miserably as though their upraised arms could
+stave off the infernal wrath of God.
+~
+0 8|8192 10
+D0
+A dark wood lies to the north.
+~
+~
+0 -1 15120
+D1
+The burning sands continue to the east.
+~
+~
+0 -1 15121
+D2
+The burning sands continue to the south.
+~
+~
+0 -1 15126
+S
+
+#15124
+Plain of Burning Sand, the Seventh Circle~
+   The heat of the sand beneath your feet scorches your cheeks. Flames rain
+down from above, blackening the skin of sinners all around you, be they prone,
+eternally running, or huddled miserably as though their upraised arms could
+stave off the infernal wrath of God.
+~
+0 8|8192 10
+D0
+The burning sands continue to the north.
+~
+~
+0 -1 15121
+D1
+The burning sands continue to the east.
+~
+~
+0 -1 15125
+D2
+The rumbling of a great waterfall sounds from the south.
+~
+~
+0 -1 15127
+D3
+The burning sands continue to the west.
+~
+~
+0 -1 15126
+S
+
+#15125
+Plain of Burning Sand, the Seventh Circle~
+   The heat of the sand beneath your feet scorches your cheeks. Flames rain
+down from above, blackening the skin of sinners all around you, be they prone,
+eternally running, or huddled miserably as though their upraised arms could
+stave off the infernal wrath of God.
+~
+0 8|8192 10
+D0
+The burning sands continue to the north.
+~
+~
+0 -1 15122
+D3
+The burning sands continue to the west.
+~
+~
+0 -1 15124
+S
+
+#15126
+Plain of Burning Sand, the Seventh Circle~
+   The heat of the sand beneath your feet scorches your cheeks. Flames rain
+down from above, blackening the skin of sinners all around you, be they prone,
+eternally running, or huddled miserably as though their upraised arms could
+stave off the infernal wrath of God.
+~
+0 8|8192 10
+D0
+The burning sands continue to the north.
+~
+~
+0 -1 15123
+D1
+The burning sands continue to the east.
+~
+~
+0 -1 15124
+S
+
+#15127
+Lower Rim of the Seventh Circle~
+   We could already hear the rumbling drive
+     of the waterfall on its plunge to the next circle,
+     a murmur like the throbbing of a hive.
+                                             (XVI: 1-3)
+~
+0 8|8192 10
+D0
+A burning plain spreads out to the north.
+~
+~
+0 -1 15124
+D2
+A waterfall of boiling blood lies to the south.
+~
+~
+0 -1 15128
+S
+
+#15128
+Top of the Waterfall~
+   A little way beyond we felt the quiver
+     and roar of the cascade, so close that speech
+     would have been drowned in thunder. As that river -
+   the first one on the left of the Appennines
+     to have a path of its own from Monte Veso
+     to the Adriatic Sea - which, as it twines
+   is called the Acquacheta from its source
+     until it nears Forli, and then is known
+     as the Montone in its further course -
+   resounds from the mountain in a single leap
+     there above San Benedetto dell'Alpe
+     where a thousand falls might fit into the steep;
+   so down from a sheer bank, one enormous
+     plunge, the tainted water roared so loud
+     a little longer there would have deafened us.
+                                                     (XVI: 91-105)
+~
+0 8|8192 10
+D0
+A burning plain stretches out to the north.
+~
+~
+0 -1 15127
+D5
+The waterfall spews through the air below.
+~
+~
+0 -1 15129
+S
+
+#15129
+By the Waterfall of the Phlegethon~
+   The air is filled with a roseate mist from the frothing, boiling waters
+of the river of blood as it cascades downward in a sheer drop. No path
+follows the cliff.
+~
+0 8|8192 9
+D4
+The top of the cliff is above you.
+~
+~
+0 -1 15128
+D5
+The waterfall spews down, down, down to a sweltering darkness below.
+~
+~
+0 -1 15130
+S
+
+#15130
+By the Waterfall of the Phlegethon~
+   The air is filled with a roseate mist from the frothing, boiling waters
+of the river of blood as it cascades downward in a sheer drop. No path
+follows the cliff.
+~
+0 1|8|8192 9
+D4
+The waterfall falls from above.
+~
+~
+0 -1 15129
+D5
+The river of blood falls down to the Eighth Circle.
+~
+~
+0 -1 15131
+S
+
+#15131
+By the Waterfall of the Phlegethon~
+   The air is filled with a roseate mist from the frothing, boiling waters
+of the river of blood as it cascades downward in a sheer drop. No path
+follows the cliff.
+~
+0 1|8|8192 9
+D4
+The river of blood falls from above.
+~
+~
+0 -1 15130
+D5
+Pitch darkness greets your gaze below.
+~
+~
+0 -1 15132
+S
+
+#15132
+Overlooking the Malebolge~
+   There is in Hell a vast and sloping ground
+     called Malebolge, a lost place of stone
+     as black as the great cliff that seals it round.
+   Precisely in the center of that space
+     there yawns a well extremely wide and deep.
+                                                  (XVIII: 1-5)
+~
+0 1|8|8192 5
+D2
+A narrow causeway leads away through the darkness to the south.
+~
+~
+0 -1 15133
+D4
+The cliff, bedecked with a waterfall of blood, rises up from here.
+~
+~
+0 -1 15131
+S
+
+#15133
+Causeway over the Malebolge~
+   The border that remains between the well-pit
+     and the great cliff forms an enormous circle,
+     and ten descending troughs are cut in it,
+   offering a general prospect like the ground
+     that lies around one of those ancient castles
+     whose walls are girded many times around
+   by concentric moats. And just as, from the portal,
+     the castle's bridges run from moat to moat
+     to the last bank; so from the great rock wall
+   across the embankments and the ditches, high
+     and narrow cliffs run to the central well,
+     which cuts and gathers them like radii.
+                                              (XVIII: 7-18)
+~
+0 1|8|8192 5
+D0
+The base of the huge cliff lies to the north.
+~
+~
+0 -1 15132
+D2
+The causeway leads off to the south.
+~
+~
+0 -1 15134
+S
+
+#15134
+Causeway over the Malebolge~
+   Below, on my right, and filling the first ditch
+     along both banks, new souls in pain appeared,
+     new torments, and new devils black as pitch.
+   All of these sinners were naked; on our side
+     of the middle they walked toward us; on the other,
+     in our direction, but with swifter stride.
+                                                 (XVIII: 22-27)
+~
+0 1|8|8192 5
+D0
+The causeway leads north toward the cliff.
+~
+~
+0 -1 15133
+D2
+The causeway leads south toward the pit.
+~
+~
+0 -1 15136
+D5
+Below, the first of the Bolgia.
+~
+~
+0 -1 15135
+S
+
+#15135
+Bolgia One, the Eighth Circle~
+   And everywhere along that hideous track
+     I saw horned demons with enormous lashes
+     move through those souls, scourging them on the back.
+   Ah, how the stragglers of that long rout stirred
+     their legs quick-march at the first crack of the lash!
+     Certainly no one waited a second, or third!
+                                                   (XVIII: 34-39)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15134
+S
+
+#15136
+Causeway over the Malebolge~
+   We had already come to where the walk
+     crosses the second bank, from which it lifts
+     another arch, spanning from rock to rock.
+   Here we heard people whine in the next chasm,
+     and knock and thump themselves with open palms,
+     and blubber through their snouts as if in a spasm.
+                                                         (XVIII: 100-105)
+~
+0 1|8|8192 5
+D0
+The causeway leads north toward the cliff.
+~
+~
+0 -1 15134
+D2
+The causeway leads south toward the pit.
+~
+~
+0 -1 15137
+S
+
+#15137
+Causeway over the Malebolge~
+   Steaming from that pit, a vapour rose
+     over the banks, crusting them with a slime
+     that sickened my eyes and hammered at my nose.
+   That chasm sinks so deep we could not sight
+     its bottom anywhere until we climbed
+     along the rock arch to its greatest height.
+                                                  (XVIII: 106-111)
+~
+0 1|8|8192 5
+D0
+The causeway leads north toward the cliff.
+~
+~
+0 -1 15136
+D2
+The causeway leads south toward the pit.
+~
+~
+0 -1 15139
+D5
+Below, Bolgia Two.
+~
+~
+0 -1 15138
+S
+
+#15138
+Bolgia Two, the Eighth Circle~
+   Once there, I peered down; and I saw long lines
+     of people in a river of excrement
+     that seemed the overflow of the world's latrines.
+                                                        (XVIII: 112-114)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15137
+S
+
+#15139
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+The causeway leads north to the cliff.
+~
+~
+0 -1 15137
+D2
+The causeway leads south toward the pit.
+~
+~
+0 -1 15140
+S
+
+#15140
+Causeway over the Malebolge~
+   O Simon Magus! O you wretched crew
+     who follow him, pandering for silver and gold
+     the things of God which should be wedded to
+   love and righteousness! O thieves for hire,
+     now must the trump of judgment sound your doom
+     here in the third fosse of the rim of fire!
+   We had already made our way across
+     to the next grave, and to that part of the bridge
+     which hangs above the mid-point of the fosse.
+                                                    (XIX: 1-9)
+~
+0 1|8|8192 5
+D0
+The causeway leads north to the cliff.
+~
+~
+0 -1 15139
+D2
+The causeway leads south to the pit.
+~
+~
+0 -1 15142
+D5
+Below, Bolgia Three.
+~
+~
+0 -1 15141
+S
+
+#15141
+Bolgia Three, the Eighth Circle~
+   I saw along the walls and on the ground
+     long rows of holes cut in the livid stone;
+     all were cut to a size, and all were round.
+   From every mouth a sinner's legs stuck out
+     as far as the calf. The soles were all ablaze
+     and the joints of the legs quivered and writhed about.
+   Withes and tethers would have snapped in their throes.
+     As oiled things blaze upon the surface only,
+     so did they burn from the heels to the points of their toes.
+                                                         (XIX: 13-15, 22-27)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15140
+S
+
+#15142
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+North, the great cliff.
+~
+~
+0 -1 15140
+D2
+South, the pit.
+~
+~
+0 -1 15143
+S
+
+#15143
+Causeway over the Malebolge~
+   My vantage point permitted a clear view
+     of the depths of the pit below: a desolation
+     bathed with the tears of its tormented crew,
+   who moved about the circle of the pit
+     at about the pace of a litany procession.
+     Silent and weeping, they wound round and round it.
+                                                         (XX: 4-9)
+~
+0 1|8|8192 5
+D0
+North, the great cliff.
+~
+~
+0 -1 15142
+D2
+South, the pit.
+~
+~
+0 -1 15145
+D5
+Below, Bolgia Four.
+~
+~
+0 -1 15144
+S
+
+#15144
+Bolgia Four, the Eighth Circle~
+   And when I looked down from their faces, I saw
+     that each of them was hideously distorted
+     between the top of the chest and the lines of the jaw;
+   for the face was reversed on the neck, and they came on
+     backwards, staring backwards at their loins,
+     for to look before them was forbidden. Someone,
+   sometime, in the grip of a palsy may have been
+     distorted so, but never to my knowledge;
+     nor do I believe the like was ever seen.
+                                               (XX: 10-18)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15143
+S
+
+#15145
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+North, the great cliff.
+~
+~
+0 -1 15143
+D2
+South, the central pit.
+~
+~
+0 -1 15146
+S
+ 
+#15146
+Causeway over the Malebolge~
+   We checked our steps to study the next fosse
+     and the next vain lamentations of Malebolge;
+     awesomely dark and desolate it was.
+                                          (XXI: 4-6)
+~
+0 1|8|8192 5
+D0
+The causeway leads away through the darkness.
+~
+~
+0 -1 15145
+D2
+The causeway leads away, tending downward.
+~
+~
+0 -1 15148 
+D5
+Below, Bolgia Five.
+~
+~
+0 -1 15147
+S
+
+#15147
+Bolgia Five, the Eighth Circle~
+     A viscid pitch boiled in the fosse below
+     and coated all the bank with gooey mire.
+   I saw the pitch; but I saw nothing in it 
+     except the enormous bubbles of its boiling,
+     which swelled and sank, like breathing, through all the pit.
+                                                               (XXI: 16-20)
+~
+0 1|8|8192 7
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15146
+S
+
+#15148
+Causeway over the Malebolge~
+   The narrow thread of the causeway, spinning through the fetid darkness of
+the Eighth Circle, comes to an abrupt end just south of you. It looks like an
+earthquake or something made the span over the next bolgia collapse. The only
+way to continue deeper into Hell is to climb the rockfall downward and
+traverse Bolgia Six.
+~
+0 1|8|8192 5
+D0
+The causeway leads away into darkness.
+~
+~
+0 -1 15146
+D5
+A rockfall gives you handholds downward.
+~
+~
+0 -1 15149
+S
+
+#15149
+Bolgia Six, the Eighth Circle~
+   About us now in the depth of the pit we found 
+     a painted people, weary and defeated.
+     Slowly, in pain, they paced it round and round.
+   All wore great cloaks cut to as ample a size
+     as those worn by the Benedictines of Cluny.
+     The enormous hoods were drawn over their eyes.
+   The outside is all dazzle, golden and fair;
+     the inside, lead, so heavy that Frederick's capes,
+     compared to these, would seem light as air.
+                                                  (XXIII: 54-63)
+~
+0 1|8|8192 5
+D2
+The rock-strewn Bolgia continues south.
+~
+~
+0 -1 15150
+D4
+The broken edge of the causeway is above.
+~
+~
+0 -1 15148
+S
+
+#15150
+Bolgia Six, the Eighth Circle~
+   The Hypocrites stagger around and around the circumference of Bolgia Six,
+wearing enormously heavy cloaks that are brilliant gold on the outside and
+lead inside. Above you on the southern rim of the Bolgia, the end of the
+shattered causeway protrudes.
+~
+0 1|8|8192 5
+D0
+The rock-strewn Bolgia continues north.
+~
+~
+0 -1 15149
+D4
+The broken edge of the causeway is above.
+~
+~
+0 -1 15151
+S
+
+#15151
+Causeway over the Malebolge~
+   The causeway has collapsed where it leads over Bolgia Six, and travel north
+and upward out of the Eighth Circle is barred unless you traverse the ditch
+below.
+~
+0 1|8|8192 5
+D2
+The causeway leads off into the darkness.
+~
+~
+0 -1 15152
+D5
+Bolgia Six lies below.
+~
+~
+0 -1 15150
+S
+
+#15152
+Causeway over the Malebolge~
+   So we moved down the bridge to the stone pier
+     that shores the end of the arch on the eighth bank,
+     and there I saw the chasm's depths made clear;
+   and there great coils of serpents met my sight,
+     so hideous a mass that even now
+     the memory makes my blood run cold with fright.
+                                                      (XIV: 79-84)
+~
+0 1|8|8192 5
+D0
+The causeway leads north to a jagged end.
+~
+~
+0 -1 15151
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15154
+D5
+Below, Bolgia Seven.
+~
+~
+0 -1 15153
+S
+
+#15153
+Bolgia Seven, the Eighth Circle~
+   Amid that swarm, naked and without hope,
+     people ran terrified, not even dreaming
+     of a hole to hide in, or of heliotrope.
+   Their hands were bound behind by coils of serpents
+     which thrust their heads and tails between the loins
+     and bunched in front, a mass of knotted torments.
+                                                        (XIV: 91-96)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15152
+S
+
+#15154
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+The causeway leads north into darkness.
+~
+~
+0 -1 15153
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15155
+S
+
+#15155
+Causeway over the Malebolge~
+   As many fireflies as the peasant sees
+     when he rests on a hill and looks into the valley
+     (where he tills or gathers grapes or prunes his trees)
+   in that sweet season when the face of him
+     who lights the world rides north, and at the hour
+     when the fly yields to the gnat and the air grows dim -
+   such myriads of flames I saw shine through
+     the gloom of the eighth abyss when I arrived
+     at the rim from which its bed comes into view.
+                                                     (XXVI: 25-33)
+~
+0 1|8|8192 5
+D0
+The causeway leads north into darkness.
+~
+~
+0 -1 15154
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15157
+D5
+Below, Bolgia Eight.
+~
+~
+0 -1 15156
+S
+
+#15156
+Bolgia Eight, the Eighth Circle~
+   Tall spouts of flame move around the Bolgia, completely concealing the
+souls of the Evil Counselors within.
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15155
+S
+
+#15157
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+The causeway leads north into darkness.
+~
+~
+0 -1 15155
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15158
+S
+
+#15158
+Causeway over the Malebolge~
+   Who could describe, even in words set free
+     of metric and rhyme and a thousand times retold,
+     the blood and wounds that now were shown to me!
+   At grief so deep the tongue must wag in vain;
+     the language of our sense and memory
+     lacks the vocabulary of such pain.
+                                         (XXVIII: 1-6)
+~
+0 1|8|8192 5
+D0
+The causeway leads north into darkness.
+~
+~
+0 -1 15157
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15160
+D5
+Below, Bolgia Nine.
+~
+~
+0 -1 15159
+S
+
+#15159
+Bolgia Nine, the Eighth Circle~
+   A wine tun when a stave or cant-bar starts
+     does not split open as wide as one I saw
+     split from his chin to the mouth with which man farts.
+   Between his legs all of his red guts hung
+     with the heart, the lungs, the liver, the gall bladder,
+     and the shriveled sac that passes shit to the bung.
+   And all the other souls that bleed and mourn
+     along this ditch were sowers of scandal and schism:
+     as they tore others apart, so are they torn.
+                                                   (XXVIII: 22-27, 34-36)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15158
+S
+
+#15160
+Causeway over the Malebolge~
+   A narrow stone bridge spins its way across the gaping chasms of the Eighth
+Circle, leading between a great cliff and a gaping pit.
+~
+0 1|8|8192 5
+D0
+The causeway leads north into darkness.
+~
+~
+0 -1 15158
+D2
+The causeway leads south into darkness.
+~
+~
+0 -1 15161
+S
+
+#15161
+Causeway over the Malebolge~
+   Malebolge's final cloister lay outspread,
+     and all of its lay brethren might have been
+     in sight but for the murk; and from those dead
+   such shrieks and strangled agonies shrilled through me
+     like shafts, but barbed with pity, that my hands
+     flew to my ears. If all the misery
+   that crams the hospitals of pestilence
+     in Maremma, Valdichiano, and Sardinia
+     in the summer months when death sits like a presence
+   on the marsh air, were dumped into one trench -
+     that might suggest their pain. And through the screams,
+     putrid flesh spread up its sickening stench.
+                                                   (XXIX: 40-51)
+~
+0 1|8|8192 5
+D0
+The causeway spins north into darkness.
+~
+~
+0 -1 15160
+D2
+The causeway spins south to its end.
+~
+~
+0 -1 15163
+D5
+Below, Bolgia Ten.
+~
+~
+0 -1 15162
+S
+
+#15162
+Bolgia Ten, the Eighth Circle~
+   There, High Justice, sacred ministress
+     of the First Father, reigns eternally
+     over the falsifiers in their distress.
+   One lay gasping on another's shoulder,
+     one on another's belly; and some were crawling
+     on hands and knees among the broken boulders.
+   Silent, slow step by step, we moved ahead
+     looking at and listening to those souls
+     too weak to raise themselves from their stone bed.
+   I saw two there like two pans that are put
+     one against the other to hold their warmth.
+     They were covered with great scabs from head to foot.
+                                                       (XXIX: 55-57, 67-75)
+~
+0 1|8|8192 5
+D4
+The causeway is a short climb upward.
+~
+~
+0 -1 15161
+S
+
+#15163
+Lower End of the Causeway~
+   Here it was less than night and less than day;
+     my eyes could make out little through the gloom,
+     but I heard the shrill note of a trumpet bray
+   louder than any thunder. As if by force,
+     it drew my eyes; I stared into the gloom
+     along the path of the sound back to its source.
+                                                      (XXXI: 10-15)
+~
+0 1|8|8192 5
+D0
+The causeway spins away and up through the darkness.
+~
+~
+0 -1 15161
+D2
+The flat rim overlooking the Ninth Circle lies to the south.
+~
+~
+0 -1 15164
+S
+
+#15164
+Rim of the Ninth Circle~
+   Just as a man in a fog that starts to clear
+     begins little by little to piece together
+     the shapes the vapor crowded from the air -
+   so, when those shapes grew clearer as I drew
+     across the darkness to the central brink,
+     error fled from me; and my terror grew.
+   For just as at Montereggione the great towers
+     crown the encircling wall; so the grim giants
+     whom Jove still threatens when the thunder roars
+   raised from the rim of stone about that well
+     the upper halves of their bodies, which loomed up
+     like turrets through the murky air of Hell.
+                                                  (XXXI: 34-45)
+~
+0 1|8|8192 2
+D0
+A long causeway begins to the north.
+~
+~
+0 -1 15163
+D1
+The rim circles eastward.
+~
+~
+0 -1 15165
+S
+
+#15165
+Rim of the Ninth Circle~
+   You stand at the top of a vast cliff that makes the final descent of Hell,
+down into the depths of the Ninth Circle. All along the rim, spaced evenly
+like watchtowers along city walls, the Titans are trapped from the waist
+down. They are so huge that from the shoulders up they still tower
+twenty feet over the rim, even though they are rooted at the base of the
+cliff.
+~
+0 1|8|8192 2
+D1
+The rim circles eastward.
+~
+~
+0 -1 15166
+D3
+The rim circles westward.
+~
+~
+0 -1 15164
+S
+
+#15166
+Rim of the Ninth Circle~
+   You stand at the top of a vast cliff that makes the final descent of Hell,
+down into the depths of the Ninth Circle. All along the rim, spaced evenly
+like watchtowers along city walls, the Titans are trapped from the waist
+down. They are so huge that from the shoulders up they still tower
+twenty feet over the rim, even though they are rooted at the base of the
+cliff.
+~
+0 1|8|8192 2
+D1
+The rim circles eastward.
+~
+~
+0 -1 15167
+D3
+The rim circles westward.
+~
+~
+0 -1 15165
+S
+
+#15167
+Rim of the Ninth Circle~
+   You stand at the top of a vast cliff that makes the final descent of Hell,
+down into the depths of the Ninth Circle. All along the rim, spaced evenly
+like watchtowers along city walls, the Titans are trapped from the waist
+down. They are so huge that from the shoulders up they still tower
+twenty feet over the rim, even though they are rooted at the base of the
+cliff.
+~
+0 1|8|8192 2
+D3
+The rim circles westward.
+~
+~
+0 -1 15166
+D5
+The Ninth Circle lies below.
+~
+~
+0 -1 15168
+S
+
+#15168
+Caina, the Ninth Circle~
+   We stood now in the dark pit of the well,
+     far down the slope below the giant's feet,
+     and while I still stared up at the great wall,
+   I heard a voice cry: 'Watch which way you turn:
+     take care you do not trample on the heads
+     of the forworn and miserable brethren.'
+   Whereat I turned and saw beneath my feet,
+     and stretching out ahead, a lake so frozen
+     it seemed to be made of glass.
+                                      (XXXII: 16-24)
+~
+0 1|8|8192 2
+D2
+The sheet of ice continues to the south.
+~
+~
+0 -1 15169
+D4
+The final cliff of Hell rises above you.
+~
+~
+0 -1 15167
+S
+
+#15169
+Antenora, the Ninth Circle~
+   In Caina, the outermost realm of the Ninth Circle, the sinners are frozen
+in the lake of ice to their collarbones, able to bend their necks and weep
+thus protected from the icy winds that sweep Cocytus, the final Circle of
+Hell. Here in Antenora, however, the sinners are frozen to the jaw: unable
+to shelter their faces in any way.
+~
+0 1|8 2
+D0
+The sheet of ice continues to the north.
+~
+~
+0 -1 15168
+D2
+The sheet of ice continues to the south.
+~
+~
+0 -1 15170
+S
+
+#15170
+Ptolomea, the Ninth Circle~
+   The Treacherous to Guests and Hosts are here frozen to their cheekbones,
+their tears icing their eyes with crystalline lenses.
+~
+0 1|8|8192 2
+D0
+The sheet of ice continues to the north.
+~
+~
+0 -1 15169
+D2
+The sheet of ice continues to the south.
+~
+~
+0 -1 15171
+S
+
+#15171
+Judecca, the Ninth Circle~
+   I stood now where the souls of the last class
+     (with fear my verses tell it) were covered wholly;
+     they shone below the ice like straws in glass.
+   Some lie stretched out; others are fixed in place
+     upright, some on their heads, some on their soles;
+     another, like a bow, bends foot to face.
+                                                (XXXIV: 10-15)
+~
+0 1|8 2
+D0
+The sheet of ice continues to the north.
+~
+~
+0 -1 15170
+D2
+A gigantic figure appears on the southern horizon.
+~
+~
+0 -1 15172
+D3
+A gigantic figure appears on the southern horizon.
+~
+~
+0 -1 6741
+S
+
+#15172
+The Center~
+   I did not die, and yet I lost life's breath:
+     imagine for yourself what I became,
+     deprived at once of both my life and death.
+   The Emperor of the Universe of Pain
+     jutted his upper chest above the ice;
+     and I am closer in size to the great mountain
+   the Titans make around the central pit,
+     than they to his arms. Now, starting from this point,
+     imagine the whole that corresponds to it!
+   If he was once as beautiful as now
+     he is hideous, and still turned on his Maker,
+     well may he be the source of every woe!
+                                              (XXXIV: 25-36)
+~
+0 1|8|8192 2
+D0
+The sheet of ice stretches north away from Satan.
+~
+~
+0 -1 15171
+D5
+There is a small gap between Satan's hairy thigh and the sheet of ice.
+~
+~
+0 -1 15173
+S
+
+#15173
+Crawling past Satan~
+   Then, as he bade, I clasped his neck, and he,
+     watching for a moment when the wings
+     were opened wide, reached over dexterously
+   and seized the shaggy coat of the king demon;
+     then grappling matted hair and frozen crusts
+     from one tuft to another, clambered down.
+   When we had reached the joint where the great thigh
+     merges into the swelling of the haunch,
+     my Guide and Master, straining terribly,
+   turned his head to where his feet had been
+     and began to grip the hair as if he were climbing;
+     so that I thought we moved toward Hell again.
+                                                    (XXXIV: 70-81)
+~
+0 1|4|8|512|8192 5
+D1
+A small tunnel opens up.
+~
+~
+0 -1 15174
+S
+
+#15174
+A Hollowed Earthen Room~
+   This is a small hollow space, like an animal's den. Through an opening
+above, you can see the clear skies.
+~
+0 8|512 0
+D4
+A small opening leads upward.
+~
+~
+0 -1 3001
+S
+
+#15175
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15178
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15007
+S
+
+#15176
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15179
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15007
+S
+
+#15177
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15180
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15178
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15007
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15179
+S
+
+#15178
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15181
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15175
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15177
+S
+
+#15179
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15182
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15177
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15176
+S
+
+#15180
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D0
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15008
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15181
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15177
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15182
+S
+
+#15181
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15178
+D3
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15180
+S
+
+#15182
+The Dark Wood~
+   Huge, gnarled trees bedecked with tangles of pale, phosphorescent moss
+tower all around you. Fear creeps into your heart as you cast about in all
+directions and see no difference in the terrain.
+~
+0 1|8|8192 3
+D1
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15180
+D2
+Ahead you can see only trees and more trees.
+~
+~
+0 -1 15179
+S
+
+#0
+
+
+
+#RESETS
+M 0 15060 1 15171              Jim
+E 1 15045 1 6
+E 1 15046 1 5
+E 1 15047 1 8
+E 1 15048 1 3
+*
+M 0 15061 1 15170              Holly
+E 1 15049 1 5
+E 1 15050 1 8
+E 1 15051 1 3
+*
+M 0 15001 1 15008               The Leopard
+*
+M 0 15002 1 15008               The Lion
+*
+M 0 15003 1 15008               The She-Wolf
+*
+O 1 15001 0 15006               Post credit plaque
+*
+R 0 15007 4                     Randomize Dark Wood exits
+R 0 15175 4
+R 0 15176 4
+R 0 15177 4
+R 0 15178 4
+R 0 15179 4
+R 0 15180 4
+R 0 15181 4
+R 0 15182 4
+*
+D 0 15007 5 1                   close tunnel down to Hell  
+*
+M 0 15004 1 15012               The mob of Opportunists
+E 1 15002 1 0                   hold banner
+*
+M 0 15005 1 15018               Charon
+E 1 15003 1 12                  wear shroud
+E 1 15004 1 17                  hold steersman's pole
+*
+M 0 15006 1 15038               Homer
+E 1 15005 8 5                   wear tunic
+E 1 15006 5 8                   wear sandals
+E 1 15007 2 6                   wear crown of laurels
+E 1 15008 1 16                  wield Sword of Heroes
+*
+M 0 15007 1 15038               Horace
+E 1 15005 8 5                   wear tunic
+*
+M 0 15008 1 15038               Ovid
+E 1 15005 8 5                   wear tunic
+*
+M 0 15009 1 15038               Lucan
+E 1 15005 8 5                   wear tunic
+*
+M 0 15010 1 15052               Electra
+*
+M 0 15011 1 15045               Hector
+*
+M 0 15012 1 15046               Aeneas
+*
+M 0 15013 1 15047               Caesar
+E 1 15007 2 6                   wear crown of laurels
+*
+M 0 15014 1 15049               Penthesilea
+E 1 15039 1 16                  wield Amazon spear
+*
+M 0 15015 1 15050               Orpheus
+E 1 15005 8 5                   wear tunic
+E 1 15040 1 17                  hold lyre
+*
+M 0 15016 1 15051               Euclid
+*
+M 0 15017 1 15048               Aristotle
+E 1 15009 2 17                  hold philosopher's stone
+*
+M 0 15018 1 15048               Socrates
+G 1 15041 -1                    give cup
+*
+M 0 15019 1 15048               Plato
+*
+M 0 15020 1 15058               Minos
+E 1 15010 2 7                   wear P.A.G.A.N. leggings
+E 1 15011 4 14                  wear studded cuff
+E 1 15012 2 16                  wield chain whip
+*
+M 0 15021 1 15059               Dido
+E 1 15013 1 12                  wear mantle
+E 1 15014 1 10                  wear sleeves
+E 1 15015 1 6                   wear wreath
+E 1 15016 1 14                  wear shackle
+*
+M 0 15022 1 15065               Cerberus
+E 1 15017 1 3                   wear collar
+E 1 15018 1 9                   wear claws
+*
+M 0 15023 4 15080               the sullen shade
+*
+M 0 15023 4 15082               the sullen shade
+*
+M 0 15024 1 15084               Phlegyas
+E 1 15019 5 1                   wear signet ring
+E 1 15020 2 3                   wear talisman
+*
+M 0 15025 1 15093               Megaera
+E 1 15022 3 6                   wear serpents
+E 1 15023 3 13                  wear belt
+*
+M 0 15026 1 15093               Alecto
+E 1 15022 3 6                   wear serpents
+E 1 15023 3 13                  wear belt
+*
+M 0 15027 1 15093               Tisiphone
+E 1 15022 3 6                   wear serpents
+E 1 15023 3 13                  wear belt
+*
+M 0 15028 1 15094               Medusa
+E 1 15024 1 7                   wear scorpion tail
+E 1 15025 2 11                  wear disc
+E 1 15026 2 16                  wield trident
+*
+M 0 15029 1 15060               Semiramis
+*
+M 0 15030 1 15061               Cleopatra
+E 1 15042 1 6                   wear serpent crown
+*
+M 0 15031 1 15062               Helen
+G 1 15043 -1                    give vial of tears
+*
+M 0 15032 1 15060               Achilles
+E 1 15044 4 6                   wear crested helm
+*
+M 0 15033 1 15062               Paris
+*
+M 0 15034 16 15013              GeneriSpirit
+M 0 15034 16 15028
+M 0 15034 16 15060
+M 0 15034 16 15065
+M 0 15034 16 15081
+M 0 15034 16 15098
+*
+M 0 15035 1 15066               Ciacco the Hog
+*
+M 0 15036 1 15071               Plutus
+*
+M 0 15037 1 15081               Filippo Argenti
+*
+M 0 15038 4 15062               carnal sinner
+M 0 15038 4 15059
+*
+M 0 15039 6 15032               hurrying GeneriSpirit
+M 0 15039 6 15058
+*
+M 0 15040 3 15035               child's spirit
+M 0 15040 3 15036
+*
+M 0 15041 6 15055               Limbo spirit
+M 0 15041 6 15038
+M 0 15041 6 15054
+*
+M 0 15042 6 15067               glutton
+M 0 15042 6 15069
+*
+M 0 15043 4 15073               clergyman
+M 0 15043 4 15075
+*
+M 0 15044 4 15072               Hoarder
+M 0 15044 4 15074
+*
+M 0 15045 4 15072               Waster
+M 0 15045 4 15072
+*
+M 0 15046 4 15079               wrathful spirit
+M 0 15046 4 15083
+*
+M 0 15047 2 15080               muddy wraith
+*
+M 0 15048 1 15063               Francesca
+*
+M 0 15049 1 15063               Paolo
+*
+M 0 15050 2 15090               Rebellious Angel
+E 1 15027 2 10                  wear wings
+E 1 15028 2 5                   wear robe
+G 1 15021 -1                    give key to Dis gates
+*
+M 0 15050 2 15090               Rebellious Angel
+E 1 15027 2 10                  wear wings
+E 1 15028 2 5                   wear robe
+*
+D 0 15090 2 2                   close/lock gates of Dis
+D 0 15091 0 2
+*
+D 0 15091 1 1                   close door of East Gatehouse
+D 0 15092 3 1
+*
+D 0 15091 3 1                   close door of Weset Gatehouse
+D 0 15094 1 1
+*
+M 0 15051 1 15097               Farinata
+E 1 15035 1 5                   wear plate armor
+E 1 15036 1 10                  wear shoulder guards
+*
+M 0 15052 1 15097               Cavalcanti
+*
+M 0 15053 1 15105               Minotaur
+E 1 15029 4 14                  wear leather bracer
+*
+M 0 15054 2 15108               GeneriCentaur
+E 1 15030 2 16                  wield longbow
+M 0 15054 2 15109
+E 1 15030 2 16
+*
+M 0 15055 1 15107               Chiron
+E 1 15031 1 16                  wield longbow
+*
+M 0 15056 1 15107               Nessus
+E 1 15032 1 16                  wield longbow
+E 1 15034 1 5                   wear bloody shirt
+*
+M 0 15057 1 15107               Pholus
+E 1 15033 1 16                  wield longbow
+E 1 15037 3 17                  hold quiver
+P 1 15038 9 15037               put arrows in quiver
+P 1 15038 9 15037
+P 1 15038 9 15037
+*
+M 0 15058 1 15111               Alexander the Great
+*
+M 0 15059 1 15113               Attila the Hun
+*
+M 0 15062 2 15116               Harpies
+M 0 15062 2 15120
+*
+M 0 15063 1 15118               suicidal shrub
+*
+M 0 15064 2 15117               Hellhounds
+M 0 15064 2 15119
+G 1 15059 -1                    give eye
+*
+M 0 15065 1 15123               Blasphemer
+*
+M 0 15066 1 15121               Sodomite
+*
+M 0 15067 1 15122               Usurer
+*
+M 0 15068 1 15124               Capaneus
+*
+M 0 15069 1 15127               Ser Brunetto
+*
+M 0 15070 1 15129               Geryon
+*
+M 0 15071 1 15135               Jason
+*
+M 0 15072 1 15135               horned demon
+E 1 15052 6 16                  wield cat-o'-nine-tails
+*
+M 0 15073 1 15138               Alessio
+*
+M 0 15074 1 15141               Pope Nicholas III
+E 1 15053 1 8                   wear soles of flame
+*
+M 0 15075 1 15144               Tiresias
+E 1 15054 1 17                  hold Conjurer's Wand
+*
+M 0 15076 1 15146               Malacoda
+E 1 15055 1 9                   wear talons
+*
+M 0 15077 1 15147               black demon
+E 1 15056 5 16                  wield grappling hook
+*
+M 0 15078 1 15149               Hypocrite
+E 1 15057 4 12                  wear cassock
+*
+M 0 15079 1 15150               Caiaphas
+*
+M 0 15080 1 15153               Vanni Fucci
+E 1 15058 4 15                  wear knot of serpents
+*
+M 0 15081 1 15153               Cacus
+*
+M 0 15082 1 15159               Bertrand de Born
+E 1 15060 1 0                   hold severed head
+*
+M 0 15083 1 15162               Master Adam
+*
+M 0 15084 1 15165               Nimrod
+E 1 15061 1 3                   wear Hunting Horn
+*
+M 0 15085 1 15166               Ephialtes
+E 1 15062 1 5                   wear Chains
+*
+M 0 15086 1 15167               Antaeus
+*
+M 0 15087 1 15156               Ulysses & Diomede
+*
+M 0 15088 1 15168               Camicion
+*
+M 0 15089 1 15169               Bocca
+*
+M 0 15090 1 15169               Buoso
+*
+M 0 15091 1 15170               Friar Alberigo
+*
+M 0 15092 1 15172               SATAN (muahahahahhahaha)
+E 1 15063 1 12                  wear wings
+E 1 15064 1 6                   wear mask
+E 1 15065 1 8                   wear hooves
+* 
+S
+
+#SHOPS
+0
+
+#SPECIALS
+*
+M 15002 spec_breath_fire        The Lion
+M 15003 spec_fido               The She-Wolf
+M 15004 spec_thief              Mob of Opportunists
+M 15005 spec_cast_adept         Charon
+M 15006 spec_cast_undead        Homer
+M 15006 spec_breath_gas
+M 15007 spec_cast_judge         Horace
+M 15008 spec_cast_judge         Ovid
+M 15009 spec_cast_judge         Lucan
+M 15015 spec_cast_cleric        Orpheus
+M 15017 spec_cast_cleric        Aristotle
+M 15018 spec_cast_cleric        Socrates
+M 15019 spec_cast_cleric        Plato
+M 15020 spec_cast_mage          Minos
+M 15022 spec_breath_fire        Cerberus
+M 15022 spec_breath_acid
+M 15022 spec_breath_frost
+M 15023 spec_thief              sullen shade
+M 15024 spec_cast_mage          Phlegyas
+M 15025 spec_cast_adept         The Furies
+M 15026 spec_cast_adept
+M 15027 spec_cast_adept
+M 15028 spec_cast_adept         Medusa
+M 15035 spec_thief              Ciacco the Hog
+M 15036 spec_cast_cleric        Plutus
+M 15036 spec_fido
+M 15040 spec_janitor            child's spirit
+M 15042 spec_thief              glutton	
+M 15043 spec_thief              corrupt clergyman
+M 15046 spec_fido               wrathful spirit
+M 15047 spec_fido               muddy wraith
+M 15050 spec_cast_adept         Rebellious Angel
+M 15051 spec_breath_fire        Farinata
+M 15053 spec_breath_gas         Minotaur
+M 15055 spec_cast_cleric        Chiron
+M 15056 spec_cast_cleric        Nessus
+M 15057 spec_cast_cleric        Pholus
+M 15062 spec_fido               Harpies
+M 15062 spec_breath_acid
+M 15064 spec_fido               Hellhounds
+M 15064 spec_breath_fire
+M 15070 spec_breath_any         Geryon
+M 15075 spec_cast_mage          Tiresias
+M 15076 spec_cast_judge         Malacoda
+M 15081 spec_breath_fire        Cacus
+M 15084 spec_breath_lightning   Nimrod
+M 15085 spec_breath_lightning   Ephialtes
+M 15086 spec_breath_lightning   Antaeus
+M 15088 spec_breath_frost       Camicion
+M 15089 spec_breath_frost       Bocca
+M 15090 spec_breath_frost       Buoso
+M 15091 spec_breath_frost       Friar Alberigo
+M 15092 spec_cast_mage         SATAN
+M 15092 spec_breath_any
+M 15092 spec_poison
+*
+S
+
+#$
+
