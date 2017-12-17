@@ -3,11 +3,11 @@
 # With additions from Tony.
 
 # Set the port number.
-set port = 5555
+set port = 4000
 if ( "$1" != "" ) set port="$1"
 
 # Change to area directory.
-cd ../area
+cd area
 
 # Set limits.
 if ( -e shutdown.txt ) rm -f shutdown.txt
@@ -23,7 +23,7 @@ while ( 1 )
     end
 
     # Run merc.
-    ../src/blood $port >&! $logfile
+    ../blood $port >&! $logfile
 
 
     # Restart, giving old connections a chance to die.

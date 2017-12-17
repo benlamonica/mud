@@ -8,12 +8,12 @@ Cla  8
 Levl 100
 Tru  200
 Wizn 1477437
-Plyd 632207
+Plyd 635900
 Note 0
 Colr 1
 PKs  1 0 0
 VLvl 0 0
-Room 3054
+Room 3700
 SAM 1710 303 737
 HMV  1710 1710 283 283 737 737
 Gold 5157490
@@ -31,7 +31,7 @@ Trai 292
 Alig  -240
 Hit   33
 Dam   33
-ACs -156 -156 -150 -155
+ACs -196 -196 -190 -195
 Attr 25 13 13 16 13
 AMod 13 10 10 10 10
 Pass TywPypsulyMOA~
@@ -215,6 +215,7 @@ Gr 'detection'
 Gr 'illusion'
 Gr 'protective'
 Gr 'transportation'
+AffD 'stone skin'  90  39 -40  17          0
 End
 
 #O
@@ -312,8 +313,8 @@ Wear -1
 Lev  10
 Cost 440000
 Val  4 20 30 7 0
-AffD 'enchant weapon' 100 -1 2 19 0
 AffD 'enchant weapon' 100 -1 3 18 0
+AffD 'enchant weapon' 100 -1 2 19 0
 End
 
 #O

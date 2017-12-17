@@ -157,16 +157,16 @@ int	socket		args( ( int domain, int type, int protocol ) );
 #if	defined(linux)
 //int	accept		args( ( int s, struct sockaddr *addr, int *addrlen ) );
 //int	bind		args( ( int s, struct sockaddr *name, int namelen ) );
-int	close		args( ( int fd ) );
-int	getpeername	args( ( int s, struct sockaddr *name, int *namelen ) );
-int	getsockname	args( ( int s, struct sockaddr *name, int *namelen ) );
-int	gettimeofday	args( ( struct timeval *tp, struct timezone *tzp ) );
-int	listen		args( ( int s, int backlog ) );
-int	read		args( ( int fd, char *buf, int nbyte ) );
-int	select		args( ( int width, fd_set *readfds, fd_set *writefds,
-			    fd_set *exceptfds, struct timeval *timeout ) );
-int	socket		args( ( int domain, int type, int protocol ) );
-int	write		args( ( int fd, char *buf, int nbyte ) );
+//int	close		args( ( int fd ) );
+//int	getpeername	args( ( int s, struct sockaddr *name, int *namelen ) );
+//int	getsockname	args( ( int s, struct sockaddr *name, int *namelen ) );
+//int	gettimeofday	args( ( struct timeval *tp, struct timezone *tzp ) );
+//int	listen		args( ( int s, int backlog ) );
+//int	read		args( ( int fd, char *buf, int nbyte ) );
+//int	select		args( ( int width, fd_set *readfds, fd_set *writefds,
+//			    fd_set *exceptfds, struct timeval *timeout ) );
+//int	socket		args( ( int domain, int type, int protocol ) );
+//int	write		args( ( int fd, char *buf, int nbyte ) );
 #endif
 
 #if	defined(macintosh)
@@ -1734,7 +1734,7 @@ if (d->connected != CON_NOTE_TEXT)
 	write_to_buffer( d, "\n\r", 2 );
 #endif
 
-	char *crypted = crypt(argument, "Ty"); //ch->pcdata->pwd);
+	char *crypted = crypt(argument, ch->pcdata->pwd);
 	if ( strcmp( crypted, ch->pcdata->pwd )) 
 	{
 	    write_to_buffer( d, "Wrong password.\n\r", 0 );
